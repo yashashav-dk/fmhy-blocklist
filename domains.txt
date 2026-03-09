@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 2120 domains | updated 2026-03-09T04:38:32Z
+# 2120 domains | updated 2026-03-09T04:39:11Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
