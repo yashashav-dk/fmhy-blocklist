@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1783 domains)
-! Last updated: 2026-03-09T08:44:46Z
+! Last updated: 2026-03-09T08:45:15Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
