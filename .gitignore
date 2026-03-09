@@ -1,0 +1,6 @@
+fmhy-blocklist
+*.exe
+.etags.json
+.DS_Store
+*.swp
+*~
