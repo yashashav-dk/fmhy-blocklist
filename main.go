@@ -61,28 +61,109 @@ var sources = []Source{
 // ── Allowlist (never blocked) ───────────────────────────────────────────────
 
 var allowlist = map[string]bool{
+	// Code hosting / package registries
 	"github.com": true, "gitlab.com": true, "codeberg.org": true,
 	"bitbucket.org": true, "sr.ht": true, "npmjs.com": true,
 	"pypi.org": true, "crates.io": true, "pkg.go.dev": true,
+
+	// Hosting platforms (github.io, vercel, netlify, cloudflare pages, etc.)
+	"github.io": true, "vercel.app": true, "netlify.app": true,
+	"pages.dev": true, "web.app": true, "firebaseapp.com": true,
+	"fly.dev": true, "render.com": true, "herokuapp.com": true,
+	"supabase.co": true, "railway.app": true, "deno.dev": true,
+
+	// Google services
+	"google.com": true, "youtube.com": true, "googleapis.com": true,
+	"gstatic.com": true, "googlevideo.com": true,
+
+	// Apple services
+	"apple.com": true, "icloud.com": true, "mzstatic.com": true,
+
+	// Microsoft services
+	"microsoft.com": true, "live.com": true, "outlook.com": true,
+	"office.com": true, "onedrive.com": true,
+
+	// Amazon / AWS / CDN infrastructure
+	"amazon.com": true, "amazonaws.com": true, "cloudfront.net": true,
+	"akamaized.net": true, "akamai.net": true, "fastly.net": true,
+	"cloudflare.com": true, "cdn77.org": true,
+
+	// Social / messaging
+	"reddit.com": true, "www.reddit.com": true,
+	"discord.com": true, "discord.gg": true, "discordapp.com": true,
+	"twitter.com": true, "x.com": true,
+	"facebook.com": true, "instagram.com": true,
+	"telegram.org": true, "telegram.me": true, "telegram.dog": true, "telegram.im": true, "t.me": true,
+	"whatsapp.com": true, "signal.org": true, "slack.com": true,
+	"matrix.org": true, "element.io": true,
+
+	// Streaming (legal)
+	"www.youtube.com": true, "music.youtube.com": true,
+	"twitch.tv": true, "www.twitch.tv": true,
+	"vimeo.com": true, "dailymotion.com": true, "www.dailymotion.com": true,
+	"netflix.com": true, "disneyplus.com": true, "hulu.com": true,
+	"hbomax.com": true, "max.com": true, "peacocktv.com": true,
+	"paramountplus.com": true, "primevideo.com": true,
+	"crunchyroll.com": true, "www.crunchyroll.com": true, "funimation.com": true,
+	"puffer.stanford.edu": true, "globalshakespeares.mit.edu": true,
+
+	// Music (legal)
+	"spotify.com": true, "support.spotify.com": true,
+	"deezer.com": true, "www.deezer.com": true,
+	"tidal.com": true, "soundcloud.com": true,
+	"bandcamp.com": true, "get.bandcamp.help": true,
+	"music.amazon.com": true, "music.apple.com": true,
+	"www.last.fm": true, "rateyourmusic.com": true,
+	"musicbrainz.org": true,
+
+	// Gaming platforms
+	"store.steampowered.com": true, "steampowered.com": true, "steam.com": true,
+	"gog.com": true, "epicgames.com": true,
+	"playstation.com": true, "xbox.com": true, "nintendo.com": true,
+
+	// Media databases / trackers
 	"imdb.com": true, "www.imdb.com": true,
 	"anilist.co": true, "myanimelist.net": true,
 	"letterboxd.com": true, "trakt.tv": true,
 	"themoviedb.org": true, "www.themoviedb.org": true,
 	"thetvdb.com": true, "www.thetvdb.com": true,
+
+	// Legal manga / light novel
 	"mangaplus.shueisha.co.jp": true, "j-novel.club": true,
-	"global.bookwalker.jp": true, "crunchyroll.com": true,
-	"www.crunchyroll.com": true, "funimation.com": true,
+	"global.bookwalker.jp": true,
+
+	// Reading tools
 	"calibre-ebook.com": true, "www.audiobookshelf.org": true,
 	"koreader.rocks": true, "www.sumatrapdfreader.org": true,
 	"prologue.audio": true,
-	"www.last.fm": true, "rateyourmusic.com": true,
-	"musicbrainz.org": true,
-	"puffer.stanford.edu": true, "globalshakespeares.mit.edu": true,
+
+	// Cloud storage
+	"dropbox.com": true, "mega.nz": true, "mediafire.com": true,
+	"drive.google.com": true,
+
+	// Reference / wiki
 	"archive.org": true, "www.archive.org": true,
+	"en.wikipedia.org": true, "wikipedia.org": true,
+	"fandom.com": true,
+
+	// Subtitles
 	"opensubtitles.org": true, "www.opensubtitles.org": true,
 	"subscene.com": true,
-	"en.wikipedia.org": true, "wikipedia.org": true,
-	"fandom.com": true, "www.reddit.com": true, "reddit.com": true,
+
+	// Mozilla / browsers
+	"mozilla.org": true, "addons.mozilla.org": true,
+	"brave.com": true, "opera.com": true,
+	"chromewebstore.google.com": true, "chrome.google.com": true,
+
+	// DNS / networking
+	"nextdns.io": true, "adguard.com": true, "quad9.net": true,
+	"opendns.com": true,
+
+	// Samsung / misc hardware
+	"samsung.com": true, "www.samsungtvplus.com": true,
+
+	// Zoom / video calls
+	"zoom.us": true, "skype.com": true,
 }
 
 const etagFile = ".etags.json"

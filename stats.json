@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-09T04:26:37Z",
-  "total_domains": 2259,
+  "last_updated": "2026-03-09T04:38:32Z",
+  "total_domains": 2120,
   "sources": {
-    "FMHY Downloading": 166,
-    "FMHY Streaming": 1024,
+    "FMHY Downloading": 160,
+    "FMHY Streaming": 965,
     "Wotaku FAQ": 14,
-    "Wotaku Misc": 163,
-    "Wotaku Music": 269,
-    "Wotaku Non-English": 377,
-    "Wotaku Software": 82,
-    "Wotaku Websites": 164
+    "Wotaku Misc": 149,
+    "Wotaku Music": 244,
+    "Wotaku Non-English": 368,
+    "Wotaku Software": 63,
+    "Wotaku Websites": 157
   }
 }
