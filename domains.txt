@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1783 domains | updated 2026-03-10T04:44:43Z
+# 1783 domains | updated 2026-03-11T04:46:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -211,6 +211,7 @@ asiaflix.net
 asiamediablog.com
 asiansubs.com
 ask4movie.app
+at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
 audiobookbay.lu
@@ -304,7 +305,6 @@ com.delphicoder.flud
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
 com.maxmpz.audioplayer.unlock
-com.overdevs.at
 com.piyush.music
 com.progdigy.cdisplay.free
 com.rookiestudio.perfectviewer
@@ -835,6 +835,8 @@ newstream.html
 newtoki468.com
 nextflick.tv
 nextnovels.com
+nexvid.online
+nexvid.pl
 nfl-replays.com
 nfl-video.com
 nflhunter.com
@@ -1321,7 +1323,6 @@ vocaloid.radioca.st
 vocasphere.net
 vocaverse.network
 vole.wtf
-vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
@@ -1690,7 +1691,6 @@ www.tokyoinsider.com
 www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
-www.toonshub.xyz
 www.toontales.net
 www.toptruyentv11.com
 www.totsrucs.cat

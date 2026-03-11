@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1783 domains)
-! Last updated: 2026-03-10T04:44:43Z
+! Last updated: 2026-03-11T04:46:24Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -215,6 +215,7 @@
 ||asiamediablog.com^
 ||asiansubs.com^
 ||ask4movie.app^
+||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
 ||audiobookbay.lu^
@@ -308,7 +309,6 @@
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
 ||com.maxmpz.audioplayer.unlock^
-||com.overdevs.at^
 ||com.piyush.music^
 ||com.progdigy.cdisplay.free^
 ||com.rookiestudio.perfectviewer^
@@ -839,6 +839,8 @@
 ||newtoki468.com^
 ||nextflick.tv^
 ||nextnovels.com^
+||nexvid.online^
+||nexvid.pl^
 ||nfl-replays.com^
 ||nfl-video.com^
 ||nflhunter.com^
@@ -1325,7 +1327,6 @@
 ||vocasphere.net^
 ||vocaverse.network^
 ||vole.wtf^
-||vostfree.ws^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuen.link^
@@ -1694,7 +1695,6 @@
 ||www.tokyotosho.info^
 ||www.toonamiaftermath.com^
 ||www.toonamiremastered.com^
-||www.toonshub.xyz^
 ||www.toontales.net^
 ||www.toptruyentv11.com^
 ||www.totsrucs.cat^
@@ -2001,6 +2001,7 @@
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
 ! 0.0.0.0 ask4movie.app
+! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiobookbay.lu
@@ -2094,7 +2095,6 @@
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
 ! 0.0.0.0 com.maxmpz.audioplayer.unlock
-! 0.0.0.0 com.overdevs.at
 ! 0.0.0.0 com.piyush.music
 ! 0.0.0.0 com.progdigy.cdisplay.free
 ! 0.0.0.0 com.rookiestudio.perfectviewer
@@ -2625,6 +2625,8 @@
 ! 0.0.0.0 newtoki468.com
 ! 0.0.0.0 nextflick.tv
 ! 0.0.0.0 nextnovels.com
+! 0.0.0.0 nexvid.online
+! 0.0.0.0 nexvid.pl
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nflhunter.com
@@ -3111,7 +3113,6 @@
 ! 0.0.0.0 vocasphere.net
 ! 0.0.0.0 vocaverse.network
 ! 0.0.0.0 vole.wtf
-! 0.0.0.0 vostfree.ws
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuen.link
@@ -3480,7 +3481,6 @@
 ! 0.0.0.0 www.tokyotosho.info
 ! 0.0.0.0 www.toonamiaftermath.com
 ! 0.0.0.0 www.toonamiremastered.com
-! 0.0.0.0 www.toonshub.xyz
 ! 0.0.0.0 www.toontales.net
 ! 0.0.0.0 www.toptruyentv11.com
 ! 0.0.0.0 www.totsrucs.cat
