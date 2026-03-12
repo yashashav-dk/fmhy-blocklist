@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1783 domains)
-! Last updated: 2026-03-11T04:46:24Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1787 domains)
+! Last updated: 2026-03-12T04:50:20Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -133,12 +133,12 @@
 ||animehub.ac^
 ||animejoker.com^
 ||animejoy.ru^
-||animekai.im^
+||animekai.fi^
+||animekai.fo^
+||animekai.gs^
 ||animekai.la^
-||animekai.nl^
 ||animekai.pw^
 ||animekai.to^
-||animekai.vc^
 ||animekarmalist.com^
 ||animekhor.org^
 ||animeko.ws^
@@ -153,7 +153,6 @@
 ||animeonsen.xyz^
 ||animepahe.si^
 ||animeradio.de^
-||animeradio.mp^
 ||animerank.top^
 ||animerss.com^
 ||animesalt.top^
@@ -195,6 +194,8 @@
 ||anitrendz.net^
 ||anitube.in.ua^
 ||aniworld.to^
+||anixtv.in^
+||anixtv.pro^
 ||anizm.net^
 ||anizone.to^
 ||annas-archive.gl^
@@ -278,8 +279,8 @@
 ||cd.textfiles^
 ||chauthanh.info^
 ||chiaki.site^
-||chikianimation.org^
-||chikianimations.xyz^
+||chikianimation.com^
+||chikianimation.online^
 ||cinebolt.net^
 ||cinego.co^
 ||cinegram.net^
@@ -784,6 +785,7 @@
 ||moriyashrine.org^
 ||morphinlegacy.com^
 ||moum.top^
+||movie-web-sources.md^
 ||moviebite.cc^
 ||moviebox.ph^
 ||moviebox.pk^
@@ -947,6 +949,7 @@
 ||proxer.me^
 ||proxy.cubari.moe^
 ||psa.wf^
+||pstream.net^
 ||psychodownloads.com^
 ||pulsedmedia.com^
 ||puretoons.in^
@@ -1147,7 +1150,7 @@
 ||streaming-integrale.com^
 ||streamm4u.com.co^
 ||streamr.mindreaders7557.workers.dev^
-||streamsports99.su^
+||streamsports99.ru^
 ||streamsports99.website^
 ||streamtim.com^
 ||streamwatch.online^
@@ -1695,6 +1698,7 @@
 ||www.tokyotosho.info^
 ||www.toonamiaftermath.com^
 ||www.toonamiremastered.com^
+||www.toonshub.my.id^
 ||www.toontales.net^
 ||www.toptruyentv11.com^
 ||www.totsrucs.cat^
@@ -1777,7 +1781,7 @@
 ||ytsproxies.com^
 ||yukisubs.wordpress.com^
 ||yumicoradio.net^
-||yuri.live^
+||yurionair.top^
 ||yuumanga.blogspot.com^
 ||z-lib.sk^
 ||zeepubs.wordpress.com^
@@ -1919,12 +1923,12 @@
 ! 0.0.0.0 animehub.ac
 ! 0.0.0.0 animejoker.com
 ! 0.0.0.0 animejoy.ru
-! 0.0.0.0 animekai.im
+! 0.0.0.0 animekai.fi
+! 0.0.0.0 animekai.fo
+! 0.0.0.0 animekai.gs
 ! 0.0.0.0 animekai.la
-! 0.0.0.0 animekai.nl
 ! 0.0.0.0 animekai.pw
 ! 0.0.0.0 animekai.to
-! 0.0.0.0 animekai.vc
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
 ! 0.0.0.0 animeko.ws
@@ -1939,7 +1943,6 @@
 ! 0.0.0.0 animeonsen.xyz
 ! 0.0.0.0 animepahe.si
 ! 0.0.0.0 animeradio.de
-! 0.0.0.0 animeradio.mp
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animesalt.top
@@ -1981,6 +1984,8 @@
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
 ! 0.0.0.0 aniworld.to
+! 0.0.0.0 anixtv.in
+! 0.0.0.0 anixtv.pro
 ! 0.0.0.0 anizm.net
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
@@ -2064,8 +2069,8 @@
 ! 0.0.0.0 cd.textfiles
 ! 0.0.0.0 chauthanh.info
 ! 0.0.0.0 chiaki.site
-! 0.0.0.0 chikianimation.org
-! 0.0.0.0 chikianimations.xyz
+! 0.0.0.0 chikianimation.com
+! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 cinebolt.net
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.net
@@ -2570,6 +2575,7 @@
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
 ! 0.0.0.0 moum.top
+! 0.0.0.0 movie-web-sources.md
 ! 0.0.0.0 moviebite.cc
 ! 0.0.0.0 moviebox.ph
 ! 0.0.0.0 moviebox.pk
@@ -2733,6 +2739,7 @@
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 proxy.cubari.moe
 ! 0.0.0.0 psa.wf
+! 0.0.0.0 pstream.net
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
@@ -2933,7 +2940,7 @@
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamm4u.com.co
 ! 0.0.0.0 streamr.mindreaders7557.workers.dev
-! 0.0.0.0 streamsports99.su
+! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
 ! 0.0.0.0 streamwatch.online
@@ -3481,6 +3488,7 @@
 ! 0.0.0.0 www.tokyotosho.info
 ! 0.0.0.0 www.toonamiaftermath.com
 ! 0.0.0.0 www.toonamiremastered.com
+! 0.0.0.0 www.toonshub.my.id
 ! 0.0.0.0 www.toontales.net
 ! 0.0.0.0 www.toptruyentv11.com
 ! 0.0.0.0 www.totsrucs.cat
@@ -3563,7 +3571,7 @@
 ! 0.0.0.0 ytsproxies.com
 ! 0.0.0.0 yukisubs.wordpress.com
 ! 0.0.0.0 yumicoradio.net
-! 0.0.0.0 yuri.live
+! 0.0.0.0 yurionair.top
 ! 0.0.0.0 yuumanga.blogspot.com
 ! 0.0.0.0 z-lib.sk
 ! 0.0.0.0 zeepubs.wordpress.com

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1783 domains | updated 2026-03-11T04:46:24Z
+# 1787 domains | updated 2026-03-12T04:50:20Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -129,12 +129,12 @@ animehay.in
 animehub.ac
 animejoker.com
 animejoy.ru
-animekai.im
+animekai.fi
+animekai.fo
+animekai.gs
 animekai.la
-animekai.nl
 animekai.pw
 animekai.to
-animekai.vc
 animekarmalist.com
 animekhor.org
 animeko.ws
@@ -149,7 +149,6 @@ animenosub.to
 animeonsen.xyz
 animepahe.si
 animeradio.de
-animeradio.mp
 animerank.top
 animerss.com
 animesalt.top
@@ -191,6 +190,8 @@ anitrendz.com
 anitrendz.net
 anitube.in.ua
 aniworld.to
+anixtv.in
+anixtv.pro
 anizm.net
 anizone.to
 annas-archive.gl
@@ -274,8 +275,8 @@ ccdm.cc
 cd.textfiles
 chauthanh.info
 chiaki.site
-chikianimation.org
-chikianimations.xyz
+chikianimation.com
+chikianimation.online
 cinebolt.net
 cinego.co
 cinegram.net
@@ -780,6 +781,7 @@ moonflix.com
 moriyashrine.org
 morphinlegacy.com
 moum.top
+movie-web-sources.md
 moviebite.cc
 moviebox.ph
 moviebox.pk
@@ -943,6 +945,7 @@ projectfreetv.sx
 proxer.me
 proxy.cubari.moe
 psa.wf
+pstream.net
 psychodownloads.com
 pulsedmedia.com
 puretoons.in
@@ -1143,7 +1146,7 @@ streami.su
 streaming-integrale.com
 streamm4u.com.co
 streamr.mindreaders7557.workers.dev
-streamsports99.su
+streamsports99.ru
 streamsports99.website
 streamtim.com
 streamwatch.online
@@ -1691,6 +1694,7 @@ www.tokyoinsider.com
 www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
+www.toonshub.my.id
 www.toontales.net
 www.toptruyentv11.com
 www.totsrucs.cat
@@ -1773,7 +1777,7 @@ yts.bz
 ytsproxies.com
 yukisubs.wordpress.com
 yumicoradio.net
-yuri.live
+yurionair.top
 yuumanga.blogspot.com
 z-lib.sk
 zeepubs.wordpress.com
