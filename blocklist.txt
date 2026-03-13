@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1787 domains)
-! Last updated: 2026-03-12T04:50:20Z
+! Last updated: 2026-03-13T04:47:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -595,7 +595,6 @@
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
-||jhdanime.live^
 ||jkanime.net^
 ||jmanga.us^
 ||jp-films.com^
@@ -793,6 +792,7 @@
 ||movieboxonline.net^
 ||moviedrive.org^
 ||moviehd.us^
+||movieland.ghetto.ng^
 ||movielens.org^
 ||movieo.me^
 ||movieparadise-code.md^
@@ -824,7 +824,7 @@
 ||n1.olamovies.info^
 ||naikamu.com^
 ||nanaone.net^
-||nanasubs.com^
+||nanasubs.com.pl^
 ||nanoskript.dev^
 ||narjomusic.com^
 ||nbamonster.com^
@@ -919,6 +919,7 @@
 ||phi-phenomenon.org^
 ||pikahd.com^
 ||piratexplay.cc^
+||piratexplay.com^
 ||pitsport.xyz^
 ||pixeldrain-bypass.cybar.to^
 ||planete-bd.org^
@@ -1122,7 +1123,6 @@
 ||sport7.pro^
 ||sporting77.ru^
 ||sportontv.biz^
-||sports4free.ru^
 ||sportsbite.cv^
 ||sportsbite.online^
 ||sportsbite.sbs^
@@ -1330,6 +1330,7 @@
 ||vocasphere.net^
 ||vocaverse.network^
 ||vole.wtf^
+||vostfree.ws^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuen.link^
@@ -1348,7 +1349,6 @@
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.spencerdevs.xyz^
-||watch.vidora.su^
 ||watchanimeworld.in^
 ||watchf1full.com^
 ||watchflix.to^
@@ -2385,7 +2385,6 @@
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
-! 0.0.0.0 jhdanime.live
 ! 0.0.0.0 jkanime.net
 ! 0.0.0.0 jmanga.us
 ! 0.0.0.0 jp-films.com
@@ -2583,6 +2582,7 @@
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 moviedrive.org
 ! 0.0.0.0 moviehd.us
+! 0.0.0.0 movieland.ghetto.ng
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise-code.md
@@ -2614,7 +2614,7 @@
 ! 0.0.0.0 n1.olamovies.info
 ! 0.0.0.0 naikamu.com
 ! 0.0.0.0 nanaone.net
-! 0.0.0.0 nanasubs.com
+! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 nanoskript.dev
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 nbamonster.com
@@ -2709,6 +2709,7 @@
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 pikahd.com
 ! 0.0.0.0 piratexplay.cc
+! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.xyz
 ! 0.0.0.0 pixeldrain-bypass.cybar.to
 ! 0.0.0.0 planete-bd.org
@@ -2912,7 +2913,6 @@
 ! 0.0.0.0 sport7.pro
 ! 0.0.0.0 sporting77.ru
 ! 0.0.0.0 sportontv.biz
-! 0.0.0.0 sports4free.ru
 ! 0.0.0.0 sportsbite.cv
 ! 0.0.0.0 sportsbite.online
 ! 0.0.0.0 sportsbite.sbs
@@ -3120,6 +3120,7 @@
 ! 0.0.0.0 vocasphere.net
 ! 0.0.0.0 vocaverse.network
 ! 0.0.0.0 vole.wtf
+! 0.0.0.0 vostfree.ws
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuen.link
@@ -3138,7 +3139,6 @@
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.spencerdevs.xyz
-! 0.0.0.0 watch.vidora.su
 ! 0.0.0.0 watchanimeworld.in
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to

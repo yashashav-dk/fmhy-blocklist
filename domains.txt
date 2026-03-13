@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1787 domains | updated 2026-03-12T04:50:20Z
+# 1787 domains | updated 2026-03-13T04:47:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -591,7 +591,6 @@ isub.app
 japanesetorrents.wordpress.com
 japanpaw.com
 japanradio.de
-jhdanime.live
 jkanime.net
 jmanga.us
 jp-films.com
@@ -789,6 +788,7 @@ movieboxapp.in
 movieboxonline.net
 moviedrive.org
 moviehd.us
+movieland.ghetto.ng
 movielens.org
 movieo.me
 movieparadise-code.md
@@ -820,7 +820,7 @@ myrunningman.com
 n1.olamovies.info
 naikamu.com
 nanaone.net
-nanasubs.com
+nanasubs.com.pl
 nanoskript.dev
 narjomusic.com
 nbamonster.com
@@ -915,6 +915,7 @@ phate.io
 phi-phenomenon.org
 pikahd.com
 piratexplay.cc
+piratexplay.com
 pitsport.xyz
 pixeldrain-bypass.cybar.to
 planete-bd.org
@@ -1118,7 +1119,6 @@ sport7.md
 sport7.pro
 sporting77.ru
 sportontv.biz
-sports4free.ru
 sportsbite.cv
 sportsbite.online
 sportsbite.sbs
@@ -1326,6 +1326,7 @@ vocaloid.radioca.st
 vocasphere.net
 vocaverse.network
 vole.wtf
+vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
@@ -1344,7 +1345,6 @@ watch.corsflix.net
 watch.foundtv.com
 watch.mometu.com
 watch.spencerdevs.xyz
-watch.vidora.su
 watchanimeworld.in
 watchf1full.com
 watchflix.to
