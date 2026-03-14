@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1787 domains)
-! Last updated: 2026-03-13T04:47:43Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
+! Last updated: 2026-03-14T04:45:41Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -1761,6 +1761,7 @@
 ||xoxocomic.com^
 ||xprime.stream^
 ||xprime.today^
+||yadg.cc^
 ||yampi.live^
 ||yams.tf^
 ||yattatachi.com^
@@ -3551,6 +3552,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xprime.stream
 ! 0.0.0.0 xprime.today
+! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
 ! 0.0.0.0 yams.tf
 ! 0.0.0.0 yattatachi.com

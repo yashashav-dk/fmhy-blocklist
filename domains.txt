@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1787 domains | updated 2026-03-13T04:47:43Z
+# 1788 domains | updated 2026-03-14T04:45:41Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -1757,6 +1757,7 @@ xmanhua.com
 xoxocomic.com
 xprime.stream
 xprime.today
+yadg.cc
 yampi.live
 yams.tf
 yattatachi.com
