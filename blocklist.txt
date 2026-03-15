@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
-! Last updated: 2026-03-14T04:45:41Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1791 domains)
+! Last updated: 2026-03-15T05:09:16Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -13,6 +13,7 @@
 ||128kbps.pls^
 ||1337x.to^
 ||143190.xyz^
+||1ball.pk^
 ||1ddl.org^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
@@ -341,7 +342,6 @@
 ||covers.roler.dev^
 ||crackstreams.blog^
 ||crackstreams.ms^
-||crackstreams24.cfd^
 ||cracksurl.com^
 ||crafty.moe^
 ||crichd.at^
@@ -869,6 +869,7 @@
 ||ntv.direct^
 ||ntvstream.cx^
 ||nunflix.li^
+||nuvioapp.space^
 ||nxxhentai.net^
 ||nyaa.iss.ink^
 ||nyaa.iss.one^
@@ -1126,6 +1127,7 @@
 ||sportsbite.cv^
 ||sportsbite.online^
 ||sportsbite.sbs^
+||sportsurge.bz^
 ||sportyhunter.com^
 ||squid.wtf^
 ||srstop.link^
@@ -1138,8 +1140,8 @@
 ||streamcorner.cfd^
 ||streamcorner.info^
 ||streamcorner.sbs^
-||streameast.cz^
 ||streameast.ga^
+||streameast.games^
 ||streameast.ph^
 ||streamed.pk^
 ||streamed.st^
@@ -1244,7 +1246,7 @@
 ||torbox.app^
 ||torrents.youplex.site^
 ||tortuga-ceviri.com^
-||totalsportek.es^
+||totalsportek.events^
 ||touhou-memories.com^
 ||touhou.ai^
 ||touhou.kuukunen.net^
@@ -1359,6 +1361,7 @@
 ||watchprowrestlings.live^
 ||watchreplay.net^
 ||watchsports.to^
+||watchtvs.live^
 ||watchwrestling.ae^
 ||watchwrestling.st^
 ||way2movies.live^
@@ -1804,6 +1807,7 @@
 ! 0.0.0.0 128kbps.pls
 ! 0.0.0.0 1337x.to
 ! 0.0.0.0 143190.xyz
+! 0.0.0.0 1ball.pk
 ! 0.0.0.0 1ddl.org
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
@@ -2132,7 +2136,6 @@
 ! 0.0.0.0 covers.roler.dev
 ! 0.0.0.0 crackstreams.blog
 ! 0.0.0.0 crackstreams.ms
-! 0.0.0.0 crackstreams24.cfd
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
 ! 0.0.0.0 crichd.at
@@ -2660,6 +2663,7 @@
 ! 0.0.0.0 ntv.direct
 ! 0.0.0.0 ntvstream.cx
 ! 0.0.0.0 nunflix.li
+! 0.0.0.0 nuvioapp.space
 ! 0.0.0.0 nxxhentai.net
 ! 0.0.0.0 nyaa.iss.ink
 ! 0.0.0.0 nyaa.iss.one
@@ -2917,6 +2921,7 @@
 ! 0.0.0.0 sportsbite.cv
 ! 0.0.0.0 sportsbite.online
 ! 0.0.0.0 sportsbite.sbs
+! 0.0.0.0 sportsurge.bz
 ! 0.0.0.0 sportyhunter.com
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
@@ -2929,8 +2934,8 @@
 ! 0.0.0.0 streamcorner.cfd
 ! 0.0.0.0 streamcorner.info
 ! 0.0.0.0 streamcorner.sbs
-! 0.0.0.0 streameast.cz
 ! 0.0.0.0 streameast.ga
+! 0.0.0.0 streameast.games
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamed.pk
 ! 0.0.0.0 streamed.st
@@ -3035,7 +3040,7 @@
 ! 0.0.0.0 torbox.app
 ! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 tortuga-ceviri.com
-! 0.0.0.0 totalsportek.es
+! 0.0.0.0 totalsportek.events
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.ai
 ! 0.0.0.0 touhou.kuukunen.net
@@ -3150,6 +3155,7 @@
 ! 0.0.0.0 watchprowrestlings.live
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchsports.to
+! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
 ! 0.0.0.0 watchwrestling.st
 ! 0.0.0.0 way2movies.live

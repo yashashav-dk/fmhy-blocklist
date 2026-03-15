@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1788 domains | updated 2026-03-14T04:45:41Z
+# 1791 domains | updated 2026-03-15T05:09:16Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -9,6 +9,7 @@
 128kbps.pls
 1337x.to
 143190.xyz
+1ball.pk
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
@@ -337,7 +338,6 @@ covers.musichoarders.xyz
 covers.roler.dev
 crackstreams.blog
 crackstreams.ms
-crackstreams24.cfd
 cracksurl.com
 crafty.moe
 crichd.at
@@ -865,6 +865,7 @@ ntv.cx
 ntv.direct
 ntvstream.cx
 nunflix.li
+nuvioapp.space
 nxxhentai.net
 nyaa.iss.ink
 nyaa.iss.one
@@ -1122,6 +1123,7 @@ sportontv.biz
 sportsbite.cv
 sportsbite.online
 sportsbite.sbs
+sportsurge.bz
 sportyhunter.com
 squid.wtf
 srstop.link
@@ -1134,8 +1136,8 @@ stream192.mp
 streamcorner.cfd
 streamcorner.info
 streamcorner.sbs
-streameast.cz
 streameast.ga
+streameast.games
 streameast.ph
 streamed.pk
 streamed.st
@@ -1240,7 +1242,7 @@ topsters.org
 torbox.app
 torrents.youplex.site
 tortuga-ceviri.com
-totalsportek.es
+totalsportek.events
 touhou-memories.com
 touhou.ai
 touhou.kuukunen.net
@@ -1355,6 +1357,7 @@ watchmmafull.com
 watchprowrestlings.live
 watchreplay.net
 watchsports.to
+watchtvs.live
 watchwrestling.ae
 watchwrestling.st
 way2movies.live
