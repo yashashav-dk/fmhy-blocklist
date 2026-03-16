@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1791 domains)
-! Last updated: 2026-03-15T05:09:16Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
+! Last updated: 2026-03-16T05:20:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -195,8 +195,7 @@
 ||anitrendz.net^
 ||anitube.in.ua^
 ||aniworld.to^
-||anixtv.in^
-||anixtv.pro^
+||anixtv.us.cc^
 ||anizm.net^
 ||anizone.to^
 ||annas-archive.gl^
@@ -278,6 +277,7 @@
 ||cc.edatribe.com^
 ||ccdm.cc^
 ||cd.textfiles^
+||channelsurfer.tv^
 ||chauthanh.info^
 ||chiaki.site^
 ||chikianimation.com^
@@ -394,6 +394,7 @@
 ||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
+||downloader2.com^
 ||dpan.tv^
 ||dramacool.sr^
 ||dramacools9.cam^
@@ -542,12 +543,6 @@
 ||hexawatch.cc^
 ||hhtq1.xyz^
 ||hi10anime.com^
-||hianime.me^
-||hianime.nz^
-||hianime.ps^
-||hianime.to^
-||hianime.vc^
-||hianimez.is^
 ||hicartoon.to^
 ||hikka.io^
 ||hindmoviez.cafe^
@@ -678,7 +673,6 @@
 ||lmao.love^
 ||lnbmange.com^
 ||lnori.com^
-||local.mihon.tools^
 ||log.rlsbb.ru^
 ||logs.musichoarders.xyz^
 ||lookmovie2.la^
@@ -760,6 +754,7 @@
 ||merlinwz.com^
 ||meshmanga.com^
 ||metallicsubs.wordpress.com^
+||metrolist.meowery.eu^
 ||metruyenhot.vn^
 ||michaelsapps.dk^
 ||midloop.net^
@@ -813,6 +808,7 @@
 ||musicalyst.com^
 ||musichoarders.xyz^
 ||musicorumapp.com^
+||my9games.com^
 ||myani.org^
 ||myanime.live^
 ||mydublist.com^
@@ -1201,6 +1197,7 @@
 ||the-tv.app^
 ||thecinefy.site^
 ||theindex.moe^
+||theintrodb.org^
 ||thelongbox.net^
 ||themes.moe^
 ||themoviebox.org^
@@ -1989,8 +1986,7 @@
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
 ! 0.0.0.0 aniworld.to
-! 0.0.0.0 anixtv.in
-! 0.0.0.0 anixtv.pro
+! 0.0.0.0 anixtv.us.cc
 ! 0.0.0.0 anizm.net
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
@@ -2072,6 +2068,7 @@
 ! 0.0.0.0 cc.edatribe.com
 ! 0.0.0.0 ccdm.cc
 ! 0.0.0.0 cd.textfiles
+! 0.0.0.0 channelsurfer.tv
 ! 0.0.0.0 chauthanh.info
 ! 0.0.0.0 chiaki.site
 ! 0.0.0.0 chikianimation.com
@@ -2188,6 +2185,7 @@
 ! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
+! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacool.sr
 ! 0.0.0.0 dramacools9.cam
@@ -2336,12 +2334,6 @@
 ! 0.0.0.0 hexawatch.cc
 ! 0.0.0.0 hhtq1.xyz
 ! 0.0.0.0 hi10anime.com
-! 0.0.0.0 hianime.me
-! 0.0.0.0 hianime.nz
-! 0.0.0.0 hianime.ps
-! 0.0.0.0 hianime.to
-! 0.0.0.0 hianime.vc
-! 0.0.0.0 hianimez.is
 ! 0.0.0.0 hicartoon.to
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
@@ -2472,7 +2464,6 @@
 ! 0.0.0.0 lmao.love
 ! 0.0.0.0 lnbmange.com
 ! 0.0.0.0 lnori.com
-! 0.0.0.0 local.mihon.tools
 ! 0.0.0.0 log.rlsbb.ru
 ! 0.0.0.0 logs.musichoarders.xyz
 ! 0.0.0.0 lookmovie2.la
@@ -2554,6 +2545,7 @@
 ! 0.0.0.0 merlinwz.com
 ! 0.0.0.0 meshmanga.com
 ! 0.0.0.0 metallicsubs.wordpress.com
+! 0.0.0.0 metrolist.meowery.eu
 ! 0.0.0.0 metruyenhot.vn
 ! 0.0.0.0 michaelsapps.dk
 ! 0.0.0.0 midloop.net
@@ -2607,6 +2599,7 @@
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
 ! 0.0.0.0 musicorumapp.com
+! 0.0.0.0 my9games.com
 ! 0.0.0.0 myani.org
 ! 0.0.0.0 myanime.live
 ! 0.0.0.0 mydublist.com
@@ -2995,6 +2988,7 @@
 ! 0.0.0.0 the-tv.app
 ! 0.0.0.0 thecinefy.site
 ! 0.0.0.0 theindex.moe
+! 0.0.0.0 theintrodb.org
 ! 0.0.0.0 thelongbox.net
 ! 0.0.0.0 themes.moe
 ! 0.0.0.0 themoviebox.org
