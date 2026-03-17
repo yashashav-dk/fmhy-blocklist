@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
-! Last updated: 2026-03-16T05:20:03Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1790 domains)
+! Last updated: 2026-03-17T04:55:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -13,6 +13,7 @@
 ||128kbps.pls^
 ||1337x.to^
 ||143190.xyz^
+||1ani.me^
 ||1ball.pk^
 ||1ddl.org^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
@@ -244,7 +245,6 @@
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
-||beta.mjland.xyz^
 ||beta.otaku-streamers.com^
 ||bflix.sh^
 ||bgmd.bytex.space^
@@ -407,7 +407,6 @@
 ||dubolt.com^
 ||due.moe^
 ||dw-anime.net^
-||dynasty-scans.com^
 ||e.html^
 ||easterneuropeanmovies.com^
 ||ee3.me^
@@ -604,6 +603,7 @@
 ||kaa.lt^
 ||kaa.to^
 ||kagane.org^
+||kaido.to^
 ||kakuseiproject.com^
 ||kara.moe^
 ||katworld.net^
@@ -983,6 +983,7 @@
 ||rawotaku.com^
 ||rawuwu.net^
 ||react.tv^
+||readallcomics.com^
 ||readcomiconline.li^
 ||readcomicsonline.ru^
 ||readnovel.eu^
@@ -1532,6 +1533,7 @@
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
 ||www.funniermoments.net^
+||www.futez.com.br^
 ||www.gamescentral.top^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
@@ -1804,6 +1806,7 @@
 ! 0.0.0.0 128kbps.pls
 ! 0.0.0.0 1337x.to
 ! 0.0.0.0 143190.xyz
+! 0.0.0.0 1ani.me
 ! 0.0.0.0 1ball.pk
 ! 0.0.0.0 1ddl.org
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
@@ -2035,7 +2038,6 @@
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
-! 0.0.0.0 beta.mjland.xyz
 ! 0.0.0.0 beta.otaku-streamers.com
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
@@ -2198,7 +2200,6 @@
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dw-anime.net
-! 0.0.0.0 dynasty-scans.com
 ! 0.0.0.0 e.html
 ! 0.0.0.0 easterneuropeanmovies.com
 ! 0.0.0.0 ee3.me
@@ -2395,6 +2396,7 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
+! 0.0.0.0 kaido.to
 ! 0.0.0.0 kakuseiproject.com
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 katworld.net
@@ -2774,6 +2776,7 @@
 ! 0.0.0.0 rawotaku.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
+! 0.0.0.0 readallcomics.com
 ! 0.0.0.0 readcomiconline.li
 ! 0.0.0.0 readcomicsonline.ru
 ! 0.0.0.0 readnovel.eu
@@ -3323,6 +3326,7 @@
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
+! 0.0.0.0 www.futez.com.br
 ! 0.0.0.0 www.gamescentral.top
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com

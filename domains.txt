@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1788 domains | updated 2026-03-16T05:20:03Z
+# 1790 domains | updated 2026-03-17T04:55:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -9,6 +9,7 @@
 128kbps.pls
 1337x.to
 143190.xyz
+1ani.me
 1ball.pk
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
@@ -240,7 +241,6 @@ bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
-beta.mjland.xyz
 beta.otaku-streamers.com
 bflix.sh
 bgmd.bytex.space
@@ -403,7 +403,6 @@ dualeotruyenvh.com
 dubolt.com
 due.moe
 dw-anime.net
-dynasty-scans.com
 e.html
 easterneuropeanmovies.com
 ee3.me
@@ -600,6 +599,7 @@ justsubtitles.com
 kaa.lt
 kaa.to
 kagane.org
+kaido.to
 kakuseiproject.com
 kara.moe
 katworld.net
@@ -979,6 +979,7 @@ rawlazy.io
 rawotaku.com
 rawuwu.net
 react.tv
+readallcomics.com
 readcomiconline.li
 readcomicsonline.ru
 readnovel.eu
@@ -1528,6 +1529,7 @@ www.footstreams.co
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
+www.futez.com.br
 www.gamescentral.top
 www.gestdown.info
 www.getmusicbee.com
