@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1790 domains)
-! Last updated: 2026-03-17T04:55:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1789 domains)
+! Last updated: 2026-03-18T05:00:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -589,6 +589,7 @@
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
+||jefusion.blogspot.com^
 ||jkanime.net^
 ||jmanga.us^
 ||jp-films.com^
@@ -1349,7 +1350,7 @@
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.spencerdevs.xyz^
-||watchanimeworld.in^
+||watchanimeworld.net^
 ||watchf1full.com^
 ||watchflix.to^
 ||watchfooty.st^
@@ -1450,7 +1451,6 @@
 ||www.animotvslash.org^
 ||www.animu.com.br^
 ||www.animu.moe^
-||www.anirena.com^
 ||www.anisaturn.com^
 ||www.anisil.com^
 ||www.anmosugoi.com^
@@ -1567,7 +1567,6 @@
 ||www.jajanken.net^
 ||www.jame-world.com^
 ||www.japscan.lol^
-||www.jefusion.com^
 ||www.kaitovault.com^
 ||www.kanjitomo.net^
 ||www.kansou.me^
@@ -2382,6 +2381,7 @@
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
+! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
 ! 0.0.0.0 jmanga.us
 ! 0.0.0.0 jp-films.com
@@ -3142,7 +3142,7 @@
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.spencerdevs.xyz
-! 0.0.0.0 watchanimeworld.in
+! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
 ! 0.0.0.0 watchfooty.st
@@ -3243,7 +3243,6 @@
 ! 0.0.0.0 www.animotvslash.org
 ! 0.0.0.0 www.animu.com.br
 ! 0.0.0.0 www.animu.moe
-! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisaturn.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anmosugoi.com
@@ -3360,7 +3359,6 @@
 ! 0.0.0.0 www.jajanken.net
 ! 0.0.0.0 www.jame-world.com
 ! 0.0.0.0 www.japscan.lol
-! 0.0.0.0 www.jefusion.com
 ! 0.0.0.0 www.kaitovault.com
 ! 0.0.0.0 www.kanjitomo.net
 ! 0.0.0.0 www.kansou.me
