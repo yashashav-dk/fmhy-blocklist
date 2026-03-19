@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1789 domains | updated 2026-03-18T05:00:03Z
+# 1787 domains | updated 2026-03-19T04:57:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -146,6 +146,7 @@ animelib.org
 animelistesi.com
 animelok.site
 animelok.to
+animelok.xyz
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
@@ -383,6 +384,7 @@ doblatgeanimecatala.blogspot.com
 docchi.pl
 docln.net
 docs.cal.syoboi.jp
+docs.squidify.org
 docs.wyzie.ru
 doctruyen3qui15.com
 donghuastream.org
@@ -824,7 +826,6 @@ nbamonster.com
 nekobt.to
 nekomitai.net
 nepu.to
-netflex.uk
 netnaija.film
 netplayz.live
 news.animenomics.com
@@ -1072,7 +1073,6 @@ sflix.ps
 sflix2.to
 sflixto.tube
 share.acgnx.se
-share.squidify.org
 sharebb.me
 sharemania.us
 sharkstreams.net
@@ -1185,7 +1185,6 @@ tachiyomiaz.apk
 tagger.site
 taiga.moe
 tana.moe
-taosect.com
 tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
@@ -1788,6 +1787,5 @@ zenko.online
 zero1cine.com
 zeta.animerco.org
 zokaj.com
-zonatmo.com
 zxcprime.icu
 zxpinstaller.com
