@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1787 domains)
-! Last updated: 2026-03-19T04:57:54Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1780 domains)
+! Last updated: 2026-03-20T04:50:24Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -55,7 +55,6 @@
 ||akarimanga.dpdns.org^
 ||alienflix.net^
 ||alist.thdisc.tk^
-||all-wish.me^
 ||allcomic.noor.jp^
 ||alldebrid.com^
 ||allmanga.to^
@@ -148,7 +147,6 @@
 ||animelek.vip^
 ||animelib.org^
 ||animelistesi.com^
-||animelok.site^
 ||animelok.to^
 ||animelok.xyz^
 ||animemusicquiz.com^
@@ -223,6 +221,7 @@
 ||atsu.moe^
 ||audiobookbay.lu^
 ||audiovault.net^
+||autoembed.app^
 ||avac.moe^
 ||azmovies.to^
 ||azoramoon.com^
@@ -593,7 +592,6 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.us^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -789,7 +787,6 @@
 ||movieboxapp.in^
 ||movieboxonline.net^
 ||moviedrive.org^
-||moviehd.us^
 ||movieland.ghetto.ng^
 ||movielens.org^
 ||movieo.me^
@@ -982,7 +979,6 @@
 ||rawdevart.art^
 ||rawkuma.net^
 ||rawlazy.io^
-||rawotaku.com^
 ||rawuwu.net^
 ||react.tv^
 ||readallcomics.com^
@@ -1151,6 +1147,7 @@
 ||streamm4u.com.co^
 ||streamr.mindreaders7557.workers.dev^
 ||streamsports99.ru^
+||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
 ||streamwatch.online^
@@ -1214,10 +1211,7 @@
 ||times.abema.tv^
 ||timesoccertv.com^
 ||timstreams.fit^
-||timstreams.lol^
-||timstreams.online^
-||timstreams.space^
-||timstreams.top^
+||timstreams.net^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tiz-cycling.tv^
@@ -1342,7 +1336,7 @@
 ||warflix.im^
 ||warflix.nl^
 ||watch-tvseries.net^
-||watch-v2.autoembed.cc^
+||watch-v2.autoembed.app^
 ||watch-wrestling.eu^
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
@@ -1352,7 +1346,6 @@
 ||watchanimeworld.net^
 ||watchf1full.com^
 ||watchflix.to^
-||watchfooty.st^
 ||watchfooty.su^
 ||watchfty.link^
 ||watchmmafull.com^
@@ -1760,7 +1753,7 @@
 ||xmanhua.com^
 ||xoxocomic.com^
 ||xprime.stream^
-||xprime.today^
+||xprime.su^
 ||yadg.cc^
 ||yampi.live^
 ||yams.tf^
@@ -1845,7 +1838,6 @@
 ! 0.0.0.0 akarimanga.dpdns.org
 ! 0.0.0.0 alienflix.net
 ! 0.0.0.0 alist.thdisc.tk
-! 0.0.0.0 all-wish.me
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
 ! 0.0.0.0 allmanga.to
@@ -1938,7 +1930,6 @@
 ! 0.0.0.0 animelek.vip
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistesi.com
-! 0.0.0.0 animelok.site
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
 ! 0.0.0.0 animemusicquiz.com
@@ -2013,6 +2004,7 @@
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiobookbay.lu
 ! 0.0.0.0 audiovault.net
+! 0.0.0.0 autoembed.app
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 azmovies.to
 ! 0.0.0.0 azoramoon.com
@@ -2383,7 +2375,6 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.us
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2579,7 +2570,6 @@
 ! 0.0.0.0 movieboxapp.in
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 moviedrive.org
-! 0.0.0.0 moviehd.us
 ! 0.0.0.0 movieland.ghetto.ng
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movieo.me
@@ -2772,7 +2762,6 @@
 ! 0.0.0.0 rawdevart.art
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
-! 0.0.0.0 rawotaku.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
 ! 0.0.0.0 readallcomics.com
@@ -2941,6 +2930,7 @@
 ! 0.0.0.0 streamm4u.com.co
 ! 0.0.0.0 streamr.mindreaders7557.workers.dev
 ! 0.0.0.0 streamsports99.ru
+! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
 ! 0.0.0.0 streamwatch.online
@@ -3004,10 +2994,7 @@
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
 ! 0.0.0.0 timstreams.fit
-! 0.0.0.0 timstreams.lol
-! 0.0.0.0 timstreams.online
-! 0.0.0.0 timstreams.space
-! 0.0.0.0 timstreams.top
+! 0.0.0.0 timstreams.net
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tiz-cycling.tv
@@ -3132,7 +3119,7 @@
 ! 0.0.0.0 warflix.im
 ! 0.0.0.0 warflix.nl
 ! 0.0.0.0 watch-tvseries.net
-! 0.0.0.0 watch-v2.autoembed.cc
+! 0.0.0.0 watch-v2.autoembed.app
 ! 0.0.0.0 watch-wrestling.eu
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
@@ -3142,7 +3129,6 @@
 ! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
-! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchfooty.su
 ! 0.0.0.0 watchfty.link
 ! 0.0.0.0 watchmmafull.com
@@ -3550,7 +3536,7 @@
 ! 0.0.0.0 xmanhua.com
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xprime.stream
-! 0.0.0.0 xprime.today
+! 0.0.0.0 xprime.su
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
 ! 0.0.0.0 yams.tf

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1787 domains | updated 2026-03-19T04:57:54Z
+# 1780 domains | updated 2026-03-20T04:50:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -51,7 +51,6 @@ ak.alizandro.smartaudiobookplayer
 akarimanga.dpdns.org
 alienflix.net
 alist.thdisc.tk
-all-wish.me
 allcomic.noor.jp
 alldebrid.com
 allmanga.to
@@ -144,7 +143,6 @@ animelayer.ru
 animelek.vip
 animelib.org
 animelistesi.com
-animelok.site
 animelok.to
 animelok.xyz
 animemusicquiz.com
@@ -219,6 +217,7 @@ atisket.pulsewidth.org.uk
 atsu.moe
 audiobookbay.lu
 audiovault.net
+autoembed.app
 avac.moe
 azmovies.to
 azoramoon.com
@@ -589,7 +588,6 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.us
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -785,7 +783,6 @@ moviebox.pk
 movieboxapp.in
 movieboxonline.net
 moviedrive.org
-moviehd.us
 movieland.ghetto.ng
 movielens.org
 movieo.me
@@ -978,7 +975,6 @@ rawbaka.com
 rawdevart.art
 rawkuma.net
 rawlazy.io
-rawotaku.com
 rawuwu.net
 react.tv
 readallcomics.com
@@ -1147,6 +1143,7 @@ streaming-integrale.com
 streamm4u.com.co
 streamr.mindreaders7557.workers.dev
 streamsports99.ru
+streamsports99.su
 streamsports99.website
 streamtim.com
 streamwatch.online
@@ -1210,10 +1207,7 @@ tiii.me
 times.abema.tv
 timesoccertv.com
 timstreams.fit
-timstreams.lol
-timstreams.online
-timstreams.space
-timstreams.top
+timstreams.net
 tioanime.com
 tiodonghua.com
 tiz-cycling.tv
@@ -1338,7 +1332,7 @@ warflix.cv
 warflix.im
 warflix.nl
 watch-tvseries.net
-watch-v2.autoembed.cc
+watch-v2.autoembed.app
 watch-wrestling.eu
 watch.corsflix.dpdns.org
 watch.corsflix.net
@@ -1348,7 +1342,6 @@ watch.spencerdevs.xyz
 watchanimeworld.net
 watchf1full.com
 watchflix.to
-watchfooty.st
 watchfooty.su
 watchfty.link
 watchmmafull.com
@@ -1756,7 +1749,7 @@ xdmovies.site
 xmanhua.com
 xoxocomic.com
 xprime.stream
-xprime.today
+xprime.su
 yadg.cc
 yampi.live
 yams.tf
