@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1780 domains | updated 2026-03-20T04:50:24Z
+# 1782 domains | updated 2026-03-21T04:40:16Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -58,7 +58,6 @@ allnovel.org
 allwrestling24.com
 althub.co.za
 amalgam-fansubs.moe
-amri.gg
 amvnews.ru
 an1me.to
 anacreondjt.gitlab.io
@@ -588,6 +587,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
+jmanga.codes
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -636,7 +636,7 @@ komiku.id
 kontrast.top
 kool.to
 korsite.net
-krakenflix.cx
+koryo.tv
 krdl.moe
 kudos.wiki
 kuramanime.red
@@ -819,6 +819,7 @@ nanaone.net
 nanasubs.com.pl
 nanoskript.dev
 narjomusic.com
+navic.app
 nbamonster.com
 nekobt.to
 nekomitai.net
@@ -975,6 +976,7 @@ rawbaka.com
 rawdevart.art
 rawkuma.net
 rawlazy.io
+rawotaku.com
 rawuwu.net
 react.tv
 readallcomics.com
@@ -1342,6 +1344,7 @@ watch.spencerdevs.xyz
 watchanimeworld.net
 watchf1full.com
 watchflix.to
+watchfooty.st
 watchfooty.su
 watchfty.link
 watchmmafull.com
@@ -1754,7 +1757,6 @@ yadg.cc
 yampi.live
 yams.tf
 yattatachi.com
-yenime.net
 yeshd.net
 yflix.to
 yggdrasilradio.com

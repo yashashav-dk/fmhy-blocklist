@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1780 domains)
-! Last updated: 2026-03-20T04:50:24Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1782 domains)
+! Last updated: 2026-03-21T04:40:16Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -62,7 +62,6 @@
 ||allwrestling24.com^
 ||althub.co.za^
 ||amalgam-fansubs.moe^
-||amri.gg^
 ||amvnews.ru^
 ||an1me.to^
 ||anacreondjt.gitlab.io^
@@ -592,6 +591,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
+||jmanga.codes^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -640,7 +640,7 @@
 ||kontrast.top^
 ||kool.to^
 ||korsite.net^
-||krakenflix.cx^
+||koryo.tv^
 ||krdl.moe^
 ||kudos.wiki^
 ||kuramanime.red^
@@ -823,6 +823,7 @@
 ||nanasubs.com.pl^
 ||nanoskript.dev^
 ||narjomusic.com^
+||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
 ||nekomitai.net^
@@ -979,6 +980,7 @@
 ||rawdevart.art^
 ||rawkuma.net^
 ||rawlazy.io^
+||rawotaku.com^
 ||rawuwu.net^
 ||react.tv^
 ||readallcomics.com^
@@ -1346,6 +1348,7 @@
 ||watchanimeworld.net^
 ||watchf1full.com^
 ||watchflix.to^
+||watchfooty.st^
 ||watchfooty.su^
 ||watchfty.link^
 ||watchmmafull.com^
@@ -1758,7 +1761,6 @@
 ||yampi.live^
 ||yams.tf^
 ||yattatachi.com^
-||yenime.net^
 ||yeshd.net^
 ||yflix.to^
 ||yggdrasilradio.com^
@@ -1845,7 +1847,6 @@
 ! 0.0.0.0 allwrestling24.com
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amalgam-fansubs.moe
-! 0.0.0.0 amri.gg
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
 ! 0.0.0.0 anacreondjt.gitlab.io
@@ -2375,6 +2376,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
+! 0.0.0.0 jmanga.codes
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2423,7 +2425,7 @@
 ! 0.0.0.0 kontrast.top
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 korsite.net
-! 0.0.0.0 krakenflix.cx
+! 0.0.0.0 koryo.tv
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
@@ -2606,6 +2608,7 @@
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 nanoskript.dev
 ! 0.0.0.0 narjomusic.com
+! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
@@ -2762,6 +2765,7 @@
 ! 0.0.0.0 rawdevart.art
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
+! 0.0.0.0 rawotaku.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
 ! 0.0.0.0 readallcomics.com
@@ -3129,6 +3133,7 @@
 ! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
+! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchfooty.su
 ! 0.0.0.0 watchfty.link
 ! 0.0.0.0 watchmmafull.com
@@ -3541,7 +3546,6 @@
 ! 0.0.0.0 yampi.live
 ! 0.0.0.0 yams.tf
 ! 0.0.0.0 yattatachi.com
-! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
 ! 0.0.0.0 yflix.to
 ! 0.0.0.0 yggdrasilradio.com
