@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1782 domains)
-! Last updated: 2026-03-21T04:40:16Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1785 domains)
+! Last updated: 2026-03-22T04:55:48Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -12,6 +12,7 @@
 ||123wrestling.com^
 ||128kbps.pls^
 ||1337x.to^
+||13thdimension.com^
 ||143190.xyz^
 ||1ani.me^
 ||1ball.pk^
@@ -274,7 +275,6 @@
 ||canibinge.com^
 ||caps-a-holic.com^
 ||cc.edatribe.com^
-||ccdm.cc^
 ||cd.textfiles^
 ||channelsurfer.tv^
 ||chauthanh.info^
@@ -406,6 +406,7 @@
 ||dualeotruyenvh.com^
 ||dubolt.com^
 ||due.moe^
+||dulo.tv^
 ||dw-anime.net^
 ||e.html^
 ||easterneuropeanmovies.com^
@@ -586,6 +587,7 @@
 ||iqdb.org^
 ||ishowmovies.org^
 ||isub.app^
+||ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion^
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
@@ -604,6 +606,7 @@
 ||kaa.lt^
 ||kaa.to^
 ||kagane.org^
+||kaguya.io^
 ||kaido.to^
 ||kakuseiproject.com^
 ||kara.moe^
@@ -827,6 +830,7 @@
 ||nbamonster.com^
 ||nekobt.to^
 ||nekomitai.net^
+||nepchan.org^
 ||nepu.to^
 ||netnaija.film^
 ||netplayz.live^
@@ -989,7 +993,7 @@
 ||readnovel.eu^
 ||readnovelfull.com^
 ||real-debrid.com^
-||realfight.org^
+||realfight.top^
 ||realityripple.com^
 ||redflix.club^
 ||redflix.co^
@@ -1638,7 +1642,6 @@
 ||www.primeshows.uk^
 ||www.primewire.mov^
 ||www.publicdomaintorrents.info^
-||www.quickwatch.co^
 ||www.quodb.com^
 ||www.radioanime24.pl^
 ||www.radiotokuheroclub.com^
@@ -1797,6 +1800,7 @@
 ! 0.0.0.0 123wrestling.com
 ! 0.0.0.0 128kbps.pls
 ! 0.0.0.0 1337x.to
+! 0.0.0.0 13thdimension.com
 ! 0.0.0.0 143190.xyz
 ! 0.0.0.0 1ani.me
 ! 0.0.0.0 1ball.pk
@@ -2059,7 +2063,6 @@
 ! 0.0.0.0 canibinge.com
 ! 0.0.0.0 caps-a-holic.com
 ! 0.0.0.0 cc.edatribe.com
-! 0.0.0.0 ccdm.cc
 ! 0.0.0.0 cd.textfiles
 ! 0.0.0.0 channelsurfer.tv
 ! 0.0.0.0 chauthanh.info
@@ -2191,6 +2194,7 @@
 ! 0.0.0.0 dualeotruyenvh.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
+! 0.0.0.0 dulo.tv
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
 ! 0.0.0.0 easterneuropeanmovies.com
@@ -2371,6 +2375,7 @@
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
 ! 0.0.0.0 isub.app
+! 0.0.0.0 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
@@ -2389,6 +2394,7 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
+! 0.0.0.0 kaguya.io
 ! 0.0.0.0 kaido.to
 ! 0.0.0.0 kakuseiproject.com
 ! 0.0.0.0 kara.moe
@@ -2612,6 +2618,7 @@
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
+! 0.0.0.0 nepchan.org
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.live
@@ -2774,7 +2781,7 @@
 ! 0.0.0.0 readnovel.eu
 ! 0.0.0.0 readnovelfull.com
 ! 0.0.0.0 real-debrid.com
-! 0.0.0.0 realfight.org
+! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.co
@@ -3423,7 +3430,6 @@
 ! 0.0.0.0 www.primeshows.uk
 ! 0.0.0.0 www.primewire.mov
 ! 0.0.0.0 www.publicdomaintorrents.info
-! 0.0.0.0 www.quickwatch.co
 ! 0.0.0.0 www.quodb.com
 ! 0.0.0.0 www.radioanime24.pl
 ! 0.0.0.0 www.radiotokuheroclub.com

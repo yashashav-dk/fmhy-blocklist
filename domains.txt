@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1782 domains | updated 2026-03-21T04:40:16Z
+# 1785 domains | updated 2026-03-22T04:55:48Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -8,6 +8,7 @@
 123wrestling.com
 128kbps.pls
 1337x.to
+13thdimension.com
 143190.xyz
 1ani.me
 1ball.pk
@@ -270,7 +271,6 @@ calendar.html
 canibinge.com
 caps-a-holic.com
 cc.edatribe.com
-ccdm.cc
 cd.textfiles
 channelsurfer.tv
 chauthanh.info
@@ -402,6 +402,7 @@ dramahood.mom
 dualeotruyenvh.com
 dubolt.com
 due.moe
+dulo.tv
 dw-anime.net
 e.html
 easterneuropeanmovies.com
@@ -582,6 +583,7 @@ iptvplayer.stream
 iqdb.org
 ishowmovies.org
 isub.app
+ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 japanesetorrents.wordpress.com
 japanpaw.com
 japanradio.de
@@ -600,6 +602,7 @@ justsubtitles.com
 kaa.lt
 kaa.to
 kagane.org
+kaguya.io
 kaido.to
 kakuseiproject.com
 kara.moe
@@ -823,6 +826,7 @@ navic.app
 nbamonster.com
 nekobt.to
 nekomitai.net
+nepchan.org
 nepu.to
 netnaija.film
 netplayz.live
@@ -985,7 +989,7 @@ readcomicsonline.ru
 readnovel.eu
 readnovelfull.com
 real-debrid.com
-realfight.org
+realfight.top
 realityripple.com
 redflix.club
 redflix.co
@@ -1634,7 +1638,6 @@ www.pracdev.org
 www.primeshows.uk
 www.primewire.mov
 www.publicdomaintorrents.info
-www.quickwatch.co
 www.quodb.com
 www.radioanime24.pl
 www.radiotokuheroclub.com
