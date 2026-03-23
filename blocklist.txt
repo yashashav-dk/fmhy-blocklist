@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1785 domains)
-! Last updated: 2026-03-22T04:55:48Z
+! Last updated: 2026-03-23T05:06:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -182,6 +182,7 @@
 ||animex.one^
 ||animexin.dev^
 ||animeyy.com^
+||animoye.com^
 ||animusic.moe^
 ||anipiece.net^
 ||aniplaylist.com^
@@ -396,9 +397,9 @@
 ||doujinstyle.com^
 ||downloader2.com^
 ||dpan.tv^
+||dramacool-l.fun^
 ||dramacool.sr^
 ||dramacools9.cam^
-||dramacoolt.com.in^
 ||dramacountdown.com^
 ||dramaday.me^
 ||dramafire.com.pl^
@@ -606,7 +607,6 @@
 ||kaa.lt^
 ||kaa.to^
 ||kagane.org^
-||kaguya.io^
 ||kaido.to^
 ||kakuseiproject.com^
 ||kara.moe^
@@ -1096,7 +1096,6 @@
 ||siptv.eu^
 ||site.yummyani.me^
 ||skiley.net^
-||skullxdcc.com^
 ||skuy.co.id^
 ||slow.pics^
 ||smashystream.com^
@@ -1564,8 +1563,9 @@
 ||www.izicomics.com^
 ||www.j1fm.tokyo^
 ||www.jajanken.net^
+||www.jam-cons.net^
 ||www.jame-world.com^
-||www.japscan.lol^
+||www.japscan.foo^
 ||www.kaitovault.com^
 ||www.kanjitomo.net^
 ||www.kansou.me^
@@ -1970,6 +1970,7 @@
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
 ! 0.0.0.0 animeyy.com
+! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 anipiece.net
 ! 0.0.0.0 aniplaylist.com
@@ -2184,9 +2185,9 @@
 ! 0.0.0.0 doujinstyle.com
 ! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
+! 0.0.0.0 dramacool-l.fun
 ! 0.0.0.0 dramacool.sr
 ! 0.0.0.0 dramacools9.cam
-! 0.0.0.0 dramacoolt.com.in
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramafire.com.pl
@@ -2394,7 +2395,6 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
-! 0.0.0.0 kaguya.io
 ! 0.0.0.0 kaido.to
 ! 0.0.0.0 kakuseiproject.com
 ! 0.0.0.0 kara.moe
@@ -2884,7 +2884,6 @@
 ! 0.0.0.0 siptv.eu
 ! 0.0.0.0 site.yummyani.me
 ! 0.0.0.0 skiley.net
-! 0.0.0.0 skullxdcc.com
 ! 0.0.0.0 skuy.co.id
 ! 0.0.0.0 slow.pics
 ! 0.0.0.0 smashystream.com
@@ -3352,8 +3351,9 @@
 ! 0.0.0.0 www.izicomics.com
 ! 0.0.0.0 www.j1fm.tokyo
 ! 0.0.0.0 www.jajanken.net
+! 0.0.0.0 www.jam-cons.net
 ! 0.0.0.0 www.jame-world.com
-! 0.0.0.0 www.japscan.lol
+! 0.0.0.0 www.japscan.foo
 ! 0.0.0.0 www.kaitovault.com
 ! 0.0.0.0 www.kanjitomo.net
 ! 0.0.0.0 www.kansou.me

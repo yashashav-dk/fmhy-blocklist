@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1785 domains | updated 2026-03-22T04:55:48Z
+# 1785 domains | updated 2026-03-23T05:06:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -178,6 +178,7 @@ animewat.ch
 animex.one
 animexin.dev
 animeyy.com
+animoye.com
 animusic.moe
 anipiece.net
 aniplaylist.com
@@ -392,9 +393,9 @@ doujindownloader.com
 doujinstyle.com
 downloader2.com
 dpan.tv
+dramacool-l.fun
 dramacool.sr
 dramacools9.cam
-dramacoolt.com.in
 dramacountdown.com
 dramaday.me
 dramafire.com.pl
@@ -602,7 +603,6 @@ justsubtitles.com
 kaa.lt
 kaa.to
 kagane.org
-kaguya.io
 kaido.to
 kakuseiproject.com
 kara.moe
@@ -1092,7 +1092,6 @@ silentaperture.gitlab.io
 siptv.eu
 site.yummyani.me
 skiley.net
-skullxdcc.com
 skuy.co.id
 slow.pics
 smashystream.com
@@ -1560,8 +1559,9 @@ www.ivanime.com
 www.izicomics.com
 www.j1fm.tokyo
 www.jajanken.net
+www.jam-cons.net
 www.jame-world.com
-www.japscan.lol
+www.japscan.foo
 www.kaitovault.com
 www.kanjitomo.net
 www.kansou.me
