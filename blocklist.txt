@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1785 domains)
-! Last updated: 2026-03-23T05:06:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1784 domains)
+! Last updated: 2026-03-24T04:57:06Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -415,6 +415,7 @@
 ||einthusan.tv^
 ||emmau680.driveraudiencej2zeu49.sbs^
 ||en.anison.fm^
+||en.kinorium.com^
 ||en.whakoom.com^
 ||en12.sportplus.live^
 ||en84.sportplus.live^
@@ -587,7 +588,6 @@
 ||iptvplayer.stream^
 ||iqdb.org^
 ||ishowmovies.org^
-||isub.app^
 ||ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion^
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
@@ -704,6 +704,7 @@
 ||malscraper.azurewebsites.net^
 ||malsync.moe^
 ||malupdaterosx.moe^
+||manatan.com^
 ||manatoki468.net^
 ||manba.co.jp^
 ||manga-oni.com^
@@ -807,6 +808,7 @@
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
+||mtool.app^
 ||mugen.karaokes.moe^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -1169,7 +1171,6 @@
 ||subshifter.bitsnbites.eu^
 ||subslikescript.com^
 ||substital.com^
-||substreamerapp.com^
 ||subtitld.org^
 ||subtitleone.cc^
 ||subtitlist.com^
@@ -1184,7 +1185,6 @@
 ||synthv.info^
 ||t.html^
 ||t1.xtoon2.com^
-||t2tunes.site^
 ||t4tsa.cc^
 ||t4tv.click^
 ||tachiyomiaz.apk^
@@ -1465,7 +1465,6 @@
 ||www.baka-tsuki.org^
 ||www.balkanflix.com^
 ||www.baozimh.com^
-||www.basiccat.org^
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
@@ -2203,6 +2202,7 @@
 ! 0.0.0.0 einthusan.tv
 ! 0.0.0.0 emmau680.driveraudiencej2zeu49.sbs
 ! 0.0.0.0 en.anison.fm
+! 0.0.0.0 en.kinorium.com
 ! 0.0.0.0 en.whakoom.com
 ! 0.0.0.0 en12.sportplus.live
 ! 0.0.0.0 en84.sportplus.live
@@ -2375,7 +2375,6 @@
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
-! 0.0.0.0 isub.app
 ! 0.0.0.0 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
@@ -2492,6 +2491,7 @@
 ! 0.0.0.0 malscraper.azurewebsites.net
 ! 0.0.0.0 malsync.moe
 ! 0.0.0.0 malupdaterosx.moe
+! 0.0.0.0 manatan.com
 ! 0.0.0.0 manatoki468.net
 ! 0.0.0.0 manba.co.jp
 ! 0.0.0.0 manga-oni.com
@@ -2595,6 +2595,7 @@
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
+! 0.0.0.0 mtool.app
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -2957,7 +2958,6 @@
 ! 0.0.0.0 subshifter.bitsnbites.eu
 ! 0.0.0.0 subslikescript.com
 ! 0.0.0.0 substital.com
-! 0.0.0.0 substreamerapp.com
 ! 0.0.0.0 subtitld.org
 ! 0.0.0.0 subtitleone.cc
 ! 0.0.0.0 subtitlist.com
@@ -2972,7 +2972,6 @@
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t.html
 ! 0.0.0.0 t1.xtoon2.com
-! 0.0.0.0 t2tunes.site
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 t4tv.click
 ! 0.0.0.0 tachiyomiaz.apk
@@ -3253,7 +3252,6 @@
 ! 0.0.0.0 www.baka-tsuki.org
 ! 0.0.0.0 www.balkanflix.com
 ! 0.0.0.0 www.baozimh.com
-! 0.0.0.0 www.basiccat.org
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws

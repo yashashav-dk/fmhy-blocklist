@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1785 domains | updated 2026-03-23T05:06:47Z
+# 1784 domains | updated 2026-03-24T04:57:06Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -411,6 +411,7 @@ ee3.me
 einthusan.tv
 emmau680.driveraudiencej2zeu49.sbs
 en.anison.fm
+en.kinorium.com
 en.whakoom.com
 en12.sportplus.live
 en84.sportplus.live
@@ -583,7 +584,6 @@ iptv.surf
 iptvplayer.stream
 iqdb.org
 ishowmovies.org
-isub.app
 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 japanesetorrents.wordpress.com
 japanpaw.com
@@ -700,6 +700,7 @@ mainportal66.com
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
+manatan.com
 manatoki468.net
 manba.co.jp
 manga-oni.com
@@ -803,6 +804,7 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
+mtool.app
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -1165,7 +1167,6 @@ submarinerapp.com
 subshifter.bitsnbites.eu
 subslikescript.com
 substital.com
-substreamerapp.com
 subtitld.org
 subtitleone.cc
 subtitlist.com
@@ -1180,7 +1181,6 @@ sync.coconono.org
 synthv.info
 t.html
 t1.xtoon2.com
-t2tunes.site
 t4tsa.cc
 t4tv.click
 tachiyomiaz.apk
@@ -1461,7 +1461,6 @@ www.b98.tv
 www.baka-tsuki.org
 www.balkanflix.com
 www.baozimh.com
-www.basiccat.org
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
