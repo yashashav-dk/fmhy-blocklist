@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1784 domains)
-! Last updated: 2026-03-24T04:57:06Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1783 domains)
+! Last updated: 2026-03-25T04:57:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -251,10 +251,10 @@
 ||bgmd.bytex.space^
 ||bgmlist.com^
 ||bgmx.mysxl.cn^
+||bilibili.tv^
 ||bingeflix.tv^
 ||binsearch.info^
 ||bintv.net^
-||bittorrented.com^
 ||bleh.katelyn.moe^
 ||blkom.com^
 ||blog.decryption.net.au^
@@ -540,7 +540,6 @@
 ||hentaila.com^
 ||hentailib.me^
 ||hentaiukr.com^
-||hentaivn.show^
 ||hexa.su^
 ||hexawatch.cc^
 ||hhtq1.xyz^
@@ -865,7 +864,6 @@
 ||novelbin.com^
 ||novelfire.net^
 ||novelfull.net^
-||novelsonline.org^
 ||noxx.to^
 ||ntv.cx^
 ||ntv.direct^
@@ -958,6 +956,7 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
+||qmanga.art^
 ||qqdl.site^
 ||quiz.animesongs.org^
 ||r-a-d.io^
@@ -1191,6 +1190,7 @@
 ||tagger.site^
 ||taiga.moe^
 ||tana.moe^
+||taosect.com^
 ||tape.xyz^
 ||tauonmusicbox.rocks^
 ||tennojim.xyz^
@@ -1761,7 +1761,6 @@
 ||xprime.su^
 ||yadg.cc^
 ||yampi.live^
-||yams.tf^
 ||yattatachi.com^
 ||yeshd.net^
 ||yflix.to^
@@ -2038,10 +2037,10 @@
 ! 0.0.0.0 bgmd.bytex.space
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bgmx.mysxl.cn
+! 0.0.0.0 bilibili.tv
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 binsearch.info
 ! 0.0.0.0 bintv.net
-! 0.0.0.0 bittorrented.com
 ! 0.0.0.0 bleh.katelyn.moe
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
@@ -2327,7 +2326,6 @@
 ! 0.0.0.0 hentaila.com
 ! 0.0.0.0 hentailib.me
 ! 0.0.0.0 hentaiukr.com
-! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hexawatch.cc
 ! 0.0.0.0 hhtq1.xyz
@@ -2652,7 +2650,6 @@
 ! 0.0.0.0 novelbin.com
 ! 0.0.0.0 novelfire.net
 ! 0.0.0.0 novelfull.net
-! 0.0.0.0 novelsonline.org
 ! 0.0.0.0 noxx.to
 ! 0.0.0.0 ntv.cx
 ! 0.0.0.0 ntv.direct
@@ -2745,6 +2742,7 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
+! 0.0.0.0 qmanga.art
 ! 0.0.0.0 qqdl.site
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
@@ -2978,6 +2976,7 @@
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
 ! 0.0.0.0 tana.moe
+! 0.0.0.0 taosect.com
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 tennojim.xyz
@@ -3548,7 +3547,6 @@
 ! 0.0.0.0 xprime.su
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
-! 0.0.0.0 yams.tf
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yeshd.net
 ! 0.0.0.0 yflix.to
