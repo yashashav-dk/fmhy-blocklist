@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1783 domains | updated 2026-03-25T04:57:43Z
+# 1781 domains | updated 2026-03-26T05:10:17Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -11,6 +11,7 @@
 13thdimension.com
 143190.xyz
 1ani.me
+1anime.app
 1ball.pk
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
@@ -534,7 +535,6 @@ hentai.cat
 hentaicube.xyz
 hentaijl.com
 hentaila.com
-hentailib.me
 hentaiukr.com
 hexa.su
 hexawatch.cc
@@ -614,7 +614,6 @@ kesifasya.com
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
-kickass-anime.ru
 kickassanime.cx
 kids-in-mind.com
 kilatlive.net
@@ -715,7 +714,7 @@ mangaball.net
 mangabookshelf.com
 mangabuddy.com
 mangacodex.com
-mangacrab.yopres.com
+mangacrab.org
 mangafire.to
 mangafox.la
 mangaguide.de
@@ -1297,7 +1296,6 @@ utaten.com
 v0n.notion.site
 v2.gostreameast.link
 v2.sportsurge.net
-v6.voiranime.com
 vaughn.live
 vavoo.to
 vegamovies.gratis
@@ -1324,6 +1322,7 @@ vocadb.net
 vocaloid.radioca.st
 vocasphere.net
 vocaverse.network
+voiranime.tv
 vole.wtf
 vostfree.ws
 vrx.piro.moe
@@ -1535,7 +1534,6 @@ www.gledajcrtace.org
 www.gledajcrtace.rs
 www.glisco.link
 www.globalfreetv.com
-www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
 www.grindhousedatabase.com
