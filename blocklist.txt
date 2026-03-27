@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1781 domains)
-! Last updated: 2026-03-26T05:10:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
+! Last updated: 2026-03-27T05:10:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -295,7 +295,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
-||cinetaro.buzz^
+||cinetaro.tv^
 ||cinetimes.org^
 ||cinetrii.com^
 ||cinevibe.asia^
@@ -495,7 +495,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe603.com^
+||funbe622.com^
 ||furaba-animeseichi.blog.jp^
 ||g4u.to^
 ||gadgeteer.co.za^
@@ -834,6 +834,7 @@
 ||nepu.to^
 ||netnaija.film^
 ||netplayz.live^
+||new.anidl.org^
 ||news.animenomics.com^
 ||news.tokunation.com^
 ||news.xml^
@@ -1132,6 +1133,7 @@
 ||srstop.link^
 ||ssrmovies.com^
 ||status.dinsden.top^
+||stigstream.ru^
 ||store.rg^
 ||stream.gensokyoradio.net^
 ||stream.telev.tv^
@@ -1153,6 +1155,7 @@
 ||streamr.mindreaders7557.workers.dev^
 ||streamsports99.ru^
 ||streamsports99.su^
+||streamsports99.tv^
 ||streamsports99.website^
 ||streamtim.com^
 ||streamwatch.online^
@@ -1183,6 +1186,7 @@
 ||synthv.info^
 ||t.html^
 ||t1.xtoon2.com^
+||t2tunes.site^
 ||t4tsa.cc^
 ||t4tv.click^
 ||tachiyomiaz.apk^
@@ -1220,6 +1224,7 @@
 ||tiodonghua.com^
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
+||tkor104.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1480,6 +1485,7 @@
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineby.gd^
+||www.cineby.sc^
 ||www.cineflow.watch^
 ||www.cinezo.net^
 ||www.classreal.com^
@@ -1538,6 +1544,7 @@
 ||www.gledajcrtace.rs^
 ||www.glisco.link^
 ||www.globalfreetv.com^
+||www.gokuhd.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
 ||www.grindhousedatabase.com^
@@ -2079,7 +2086,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
-! 0.0.0.0 cinetaro.buzz
+! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.asia
@@ -2279,7 +2286,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe603.com
+! 0.0.0.0 funbe622.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 g4u.to
 ! 0.0.0.0 gadgeteer.co.za
@@ -2618,6 +2625,7 @@
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.live
+! 0.0.0.0 new.anidl.org
 ! 0.0.0.0 news.animenomics.com
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
@@ -2916,6 +2924,7 @@
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
 ! 0.0.0.0 status.dinsden.top
+! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream.telev.tv
@@ -2937,6 +2946,7 @@
 ! 0.0.0.0 streamr.mindreaders7557.workers.dev
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
+! 0.0.0.0 streamsports99.tv
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
 ! 0.0.0.0 streamwatch.online
@@ -2967,6 +2977,7 @@
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t.html
 ! 0.0.0.0 t1.xtoon2.com
+! 0.0.0.0 t2tunes.site
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 t4tv.click
 ! 0.0.0.0 tachiyomiaz.apk
@@ -3004,6 +3015,7 @@
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
+! 0.0.0.0 tkor104.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3264,6 +3276,7 @@
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineby.gd
+! 0.0.0.0 www.cineby.sc
 ! 0.0.0.0 www.cineflow.watch
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
@@ -3322,6 +3335,7 @@
 ! 0.0.0.0 www.gledajcrtace.rs
 ! 0.0.0.0 www.glisco.link
 ! 0.0.0.0 www.globalfreetv.com
+! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
 ! 0.0.0.0 www.grindhousedatabase.com

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1781 domains | updated 2026-03-26T05:10:17Z
+# 1788 domains | updated 2026-03-27T05:10:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -291,7 +291,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
-cinetaro.buzz
+cinetaro.tv
 cinetimes.org
 cinetrii.com
 cinevibe.asia
@@ -491,7 +491,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe603.com
+funbe622.com
 furaba-animeseichi.blog.jp
 g4u.to
 gadgeteer.co.za
@@ -830,6 +830,7 @@ nepchan.org
 nepu.to
 netnaija.film
 netplayz.live
+new.anidl.org
 news.animenomics.com
 news.tokunation.com
 news.xml
@@ -1128,6 +1129,7 @@ squid.wtf
 srstop.link
 ssrmovies.com
 status.dinsden.top
+stigstream.ru
 store.rg
 stream.gensokyoradio.net
 stream.telev.tv
@@ -1149,6 +1151,7 @@ streamm4u.com.co
 streamr.mindreaders7557.workers.dev
 streamsports99.ru
 streamsports99.su
+streamsports99.tv
 streamsports99.website
 streamtim.com
 streamwatch.online
@@ -1179,6 +1182,7 @@ sync.coconono.org
 synthv.info
 t.html
 t1.xtoon2.com
+t2tunes.site
 t4tsa.cc
 t4tv.click
 tachiyomiaz.apk
@@ -1216,6 +1220,7 @@ tioanime.com
 tiodonghua.com
 tiz-cycling.tv
 tizentube.6513006.xyz
+tkor104.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1476,6 +1481,7 @@ www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
 www.cineby.gd
+www.cineby.sc
 www.cineflow.watch
 www.cinezo.net
 www.classreal.com
@@ -1534,6 +1540,7 @@ www.gledajcrtace.org
 www.gledajcrtace.rs
 www.glisco.link
 www.globalfreetv.com
+www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
 www.grindhousedatabase.com
