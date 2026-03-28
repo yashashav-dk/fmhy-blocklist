@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1788 domains | updated 2026-03-27T05:10:28Z
+# 1789 domains | updated 2026-03-28T04:56:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -101,7 +101,7 @@ anime-fansubs.de
 anime-kami.com
 anime-odcinki.pl
 anime-sama.pw
-anime-sama.si
+anime-sama.to
 anime-skip.com
 anime-stats.net
 anime.ameo.dev
@@ -715,6 +715,7 @@ mangabookshelf.com
 mangabuddy.com
 mangacodex.com
 mangacrab.org
+mangadot.net
 mangafire.to
 mangafox.la
 mangaguide.de

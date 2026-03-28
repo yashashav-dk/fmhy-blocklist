@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
-! Last updated: 2026-03-27T05:10:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1789 domains)
+! Last updated: 2026-03-28T04:56:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -105,7 +105,7 @@
 ||anime-kami.com^
 ||anime-odcinki.pl^
 ||anime-sama.pw^
-||anime-sama.si^
+||anime-sama.to^
 ||anime-skip.com^
 ||anime-stats.net^
 ||anime.ameo.dev^
@@ -719,6 +719,7 @@
 ||mangabuddy.com^
 ||mangacodex.com^
 ||mangacrab.org^
+||mangadot.net^
 ||mangafire.to^
 ||mangafox.la^
 ||mangaguide.de^
@@ -1896,7 +1897,7 @@
 ! 0.0.0.0 anime-kami.com
 ! 0.0.0.0 anime-odcinki.pl
 ! 0.0.0.0 anime-sama.pw
-! 0.0.0.0 anime-sama.si
+! 0.0.0.0 anime-sama.to
 ! 0.0.0.0 anime-skip.com
 ! 0.0.0.0 anime-stats.net
 ! 0.0.0.0 anime.ameo.dev
@@ -2510,6 +2511,7 @@
 ! 0.0.0.0 mangabuddy.com
 ! 0.0.0.0 mangacodex.com
 ! 0.0.0.0 mangacrab.org
+! 0.0.0.0 mangadot.net
 ! 0.0.0.0 mangafire.to
 ! 0.0.0.0 mangafox.la
 ! 0.0.0.0 mangaguide.de
