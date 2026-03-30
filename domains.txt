@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1791 domains | updated 2026-03-29T05:14:23Z
+# 1792 domains | updated 2026-03-30T05:29:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -74,6 +74,7 @@ anichart.net
 anicheck.moe
 anichin.bio
 anidap.se
+anidoor.me
 anidream.cc
 anidub.pro
 anifilm.pro
@@ -242,7 +243,6 @@ bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
-beta.otaku-streamers.com
 bflix.sh
 bgmd.bytex.space
 bgmlist.com
@@ -279,6 +279,7 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 cinebolt.net
+cinebytv.com
 cinego.co
 cinegram.net
 cinehd.cc
@@ -352,6 +353,7 @@ cuutruyen.net
 dabmusic.xyz
 daddylive.cv
 daddylive.im
+daddylive.pw
 daddylive.top
 daddylives.nl
 daddyny.com
@@ -496,6 +498,7 @@ funbe622.com
 furaba-animeseichi.blog.jp
 g4u.to
 gadgeteer.co.za
+gaiaflix.live
 garden.breadio.wiki
 geekdot.live
 gensokyoradio.net
@@ -677,7 +680,7 @@ log.rlsbb.ru
 logs.musichoarders.xyz
 lookmovie2.la
 lookmovie2.to
-lordflix.club
+lordflix.org
 lrclib.net
 lrepacks.net
 lsbc.cx
@@ -907,7 +910,6 @@ oss.gallery
 osssoftware.org
 osvault.weebly.com
 ota-ku.am
-otaku-streamers.com
 otakucalendar.com
 otakudesu.cloud
 otcs.minuspoint.com
@@ -1737,7 +1739,6 @@ www.whentostream.com
 www.wheredidtheyfilmthat.co.uk
 www.wintools.info
 www.wnacg.com
-www.wooflixtv.co
 www.worldsrc.net
 www.xdcc.eu
 www.xdlab.ru

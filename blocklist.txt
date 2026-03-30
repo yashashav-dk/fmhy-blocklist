@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1791 domains)
-! Last updated: 2026-03-29T05:14:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1792 domains)
+! Last updated: 2026-03-30T05:29:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -78,6 +78,7 @@
 ||anicheck.moe^
 ||anichin.bio^
 ||anidap.se^
+||anidoor.me^
 ||anidream.cc^
 ||anidub.pro^
 ||anifilm.pro^
@@ -246,7 +247,6 @@
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
-||beta.otaku-streamers.com^
 ||bflix.sh^
 ||bgmd.bytex.space^
 ||bgmlist.com^
@@ -283,6 +283,7 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||cinebolt.net^
+||cinebytv.com^
 ||cinego.co^
 ||cinegram.net^
 ||cinehd.cc^
@@ -356,6 +357,7 @@
 ||dabmusic.xyz^
 ||daddylive.cv^
 ||daddylive.im^
+||daddylive.pw^
 ||daddylive.top^
 ||daddylives.nl^
 ||daddyny.com^
@@ -500,6 +502,7 @@
 ||furaba-animeseichi.blog.jp^
 ||g4u.to^
 ||gadgeteer.co.za^
+||gaiaflix.live^
 ||garden.breadio.wiki^
 ||geekdot.live^
 ||gensokyoradio.net^
@@ -681,7 +684,7 @@
 ||logs.musichoarders.xyz^
 ||lookmovie2.la^
 ||lookmovie2.to^
-||lordflix.club^
+||lordflix.org^
 ||lrclib.net^
 ||lrepacks.net^
 ||lsbc.cx^
@@ -911,7 +914,6 @@
 ||osssoftware.org^
 ||osvault.weebly.com^
 ||ota-ku.am^
-||otaku-streamers.com^
 ||otakucalendar.com^
 ||otakudesu.cloud^
 ||otcs.minuspoint.com^
@@ -1741,7 +1743,6 @@
 ||www.wheredidtheyfilmthat.co.uk^
 ||www.wintools.info^
 ||www.wnacg.com^
-||www.wooflixtv.co^
 ||www.worldsrc.net^
 ||www.xdcc.eu^
 ||www.xdlab.ru^
@@ -1872,6 +1873,7 @@
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anidap.se
+! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anidream.cc
 ! 0.0.0.0 anidub.pro
 ! 0.0.0.0 anifilm.pro
@@ -2040,7 +2042,6 @@
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
-! 0.0.0.0 beta.otaku-streamers.com
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
 ! 0.0.0.0 bgmlist.com
@@ -2077,6 +2078,7 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 cinebolt.net
+! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.net
 ! 0.0.0.0 cinehd.cc
@@ -2150,6 +2152,7 @@
 ! 0.0.0.0 dabmusic.xyz
 ! 0.0.0.0 daddylive.cv
 ! 0.0.0.0 daddylive.im
+! 0.0.0.0 daddylive.pw
 ! 0.0.0.0 daddylive.top
 ! 0.0.0.0 daddylives.nl
 ! 0.0.0.0 daddyny.com
@@ -2294,6 +2297,7 @@
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 g4u.to
 ! 0.0.0.0 gadgeteer.co.za
+! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 garden.breadio.wiki
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
@@ -2475,7 +2479,7 @@
 ! 0.0.0.0 logs.musichoarders.xyz
 ! 0.0.0.0 lookmovie2.la
 ! 0.0.0.0 lookmovie2.to
-! 0.0.0.0 lordflix.club
+! 0.0.0.0 lordflix.org
 ! 0.0.0.0 lrclib.net
 ! 0.0.0.0 lrepacks.net
 ! 0.0.0.0 lsbc.cx
@@ -2705,7 +2709,6 @@
 ! 0.0.0.0 osssoftware.org
 ! 0.0.0.0 osvault.weebly.com
 ! 0.0.0.0 ota-ku.am
-! 0.0.0.0 otaku-streamers.com
 ! 0.0.0.0 otakucalendar.com
 ! 0.0.0.0 otakudesu.cloud
 ! 0.0.0.0 otcs.minuspoint.com
@@ -3535,7 +3538,6 @@
 ! 0.0.0.0 www.wheredidtheyfilmthat.co.uk
 ! 0.0.0.0 www.wintools.info
 ! 0.0.0.0 www.wnacg.com
-! 0.0.0.0 www.wooflixtv.co
 ! 0.0.0.0 www.worldsrc.net
 ! 0.0.0.0 www.xdcc.eu
 ! 0.0.0.0 www.xdlab.ru
