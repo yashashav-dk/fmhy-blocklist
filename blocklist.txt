@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1792 domains)
-! Last updated: 2026-03-30T05:29:00Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
+! Last updated: 2026-03-31T05:12:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -335,6 +335,7 @@
 ||comix.to^
 ||commons.wikimedia^
 ||condensedaudiocatalog.com^
+||coolmic.me^
 ||corsflix.net^
 ||cosectv.com^
 ||couchmoney.tv^
@@ -445,7 +446,6 @@
 ||fancons.com^
 ||fanedit.org^
 ||fankai.fr^
-||fansubdb.com^
 ||fansubdb.it^
 ||fansubs.cat^
 ||fansubs.ru^
@@ -890,7 +890,6 @@
 ||ogladajanime.pl^
 ||oha.to^
 ||ohli24.net^
-||okami.icu^
 ||okanime.tv^
 ||old.klz9.com^
 ||oldcomicsworld.blogspot.com^
@@ -913,7 +912,6 @@
 ||oss.gallery^
 ||osssoftware.org^
 ||osvault.weebly.com^
-||ota-ku.am^
 ||otakucalendar.com^
 ||otakudesu.cloud^
 ||otcs.minuspoint.com^
@@ -1079,7 +1077,6 @@
 ||seriesvault.org^
 ||seriesvault.win^
 ||server.elscione.com^
-||settei-geometry.mahdeensky.top^
 ||sflix.ps^
 ||sflix2.to^
 ||sflixto.tube^
@@ -1754,7 +1751,6 @@
 ||www.yomiwa.net^
 ||www.yomu-reader.com^
 ||www.yosintv.link^
-||www.yurihub.com^
 ||www.zimmerit.moe^
 ||www.zophar.net^
 ||www12.dramacool.sr^
@@ -2130,6 +2126,7 @@
 ! 0.0.0.0 comix.to
 ! 0.0.0.0 commons.wikimedia
 ! 0.0.0.0 condensedaudiocatalog.com
+! 0.0.0.0 coolmic.me
 ! 0.0.0.0 corsflix.net
 ! 0.0.0.0 cosectv.com
 ! 0.0.0.0 couchmoney.tv
@@ -2240,7 +2237,6 @@
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
 ! 0.0.0.0 fankai.fr
-! 0.0.0.0 fansubdb.com
 ! 0.0.0.0 fansubdb.it
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru
@@ -2685,7 +2681,6 @@
 ! 0.0.0.0 ogladajanime.pl
 ! 0.0.0.0 oha.to
 ! 0.0.0.0 ohli24.net
-! 0.0.0.0 okami.icu
 ! 0.0.0.0 okanime.tv
 ! 0.0.0.0 old.klz9.com
 ! 0.0.0.0 oldcomicsworld.blogspot.com
@@ -2708,7 +2703,6 @@
 ! 0.0.0.0 oss.gallery
 ! 0.0.0.0 osssoftware.org
 ! 0.0.0.0 osvault.weebly.com
-! 0.0.0.0 ota-ku.am
 ! 0.0.0.0 otakucalendar.com
 ! 0.0.0.0 otakudesu.cloud
 ! 0.0.0.0 otcs.minuspoint.com
@@ -2874,7 +2868,6 @@
 ! 0.0.0.0 seriesvault.org
 ! 0.0.0.0 seriesvault.win
 ! 0.0.0.0 server.elscione.com
-! 0.0.0.0 settei-geometry.mahdeensky.top
 ! 0.0.0.0 sflix.ps
 ! 0.0.0.0 sflix2.to
 ! 0.0.0.0 sflixto.tube
@@ -3549,7 +3542,6 @@
 ! 0.0.0.0 www.yomiwa.net
 ! 0.0.0.0 www.yomu-reader.com
 ! 0.0.0.0 www.yosintv.link
-! 0.0.0.0 www.yurihub.com
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zophar.net
 ! 0.0.0.0 www12.dramacool.sr

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1792 domains | updated 2026-03-30T05:29:00Z
+# 1788 domains | updated 2026-03-31T05:12:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -331,6 +331,7 @@ comicskingdom.com
 comix.to
 commons.wikimedia
 condensedaudiocatalog.com
+coolmic.me
 corsflix.net
 cosectv.com
 couchmoney.tv
@@ -441,7 +442,6 @@ famelack.com
 fancons.com
 fanedit.org
 fankai.fr
-fansubdb.com
 fansubdb.it
 fansubs.cat
 fansubs.ru
@@ -886,7 +886,6 @@ odesli.co
 ogladajanime.pl
 oha.to
 ohli24.net
-okami.icu
 okanime.tv
 old.klz9.com
 oldcomicsworld.blogspot.com
@@ -909,7 +908,6 @@ osanime.com
 oss.gallery
 osssoftware.org
 osvault.weebly.com
-ota-ku.am
 otakucalendar.com
 otakudesu.cloud
 otcs.minuspoint.com
@@ -1075,7 +1073,6 @@ seriesgraph.com
 seriesvault.org
 seriesvault.win
 server.elscione.com
-settei-geometry.mahdeensky.top
 sflix.ps
 sflix2.to
 sflixto.tube
@@ -1750,7 +1747,6 @@ www.yinhuadm.cc
 www.yomiwa.net
 www.yomu-reader.com
 www.yosintv.link
-www.yurihub.com
 www.zimmerit.moe
 www.zophar.net
 www12.dramacool.sr
