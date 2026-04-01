@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1788 domains)
-! Last updated: 2026-03-31T05:12:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1792 domains)
+! Last updated: 2026-04-01T05:28:34Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -50,6 +50,7 @@
 ||adding-repos.html^
 ||addon-manager.viren070.me^
 ||addonsfortheweebs.midnightignite.me^
+||aether.bar^
 ||aether.mom^
 ||aha-music.com^
 ||aidn.jp^
@@ -247,6 +248,7 @@
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
+||better-lyrics.boidu.dev^
 ||bflix.sh^
 ||bgmd.bytex.space^
 ||bgmlist.com^
@@ -510,6 +512,7 @@
 ||getlibation.com^
 ||getwacup.com^
 ||git.rebelonion.dev^
+||global.toptoon.com^
 ||globeradio.app^
 ||globetv.app^
 ||goctruyentranh.net^
@@ -661,7 +664,6 @@
 ||lastfmstats.com^
 ||latanime.org^
 ||leemiau.com^
-||legacy.aether.mom^
 ||lermangas.me^
 ||letsanime.blogspot.com^
 ||libgen.li^
@@ -737,7 +739,7 @@
 ||mangapoisk.live^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.tech^
+||mangarawad.love^
 ||mangarawjp.me^
 ||mangashelf.co.il^
 ||mangasora.net^
@@ -784,6 +786,7 @@
 ||moelist.net^
 ||momovod.app^
 ||monochrome.tf^
+||monoschinos2.com^
 ||moonflix.com^
 ||moriyashrine.org^
 ||morphinlegacy.com^
@@ -985,6 +988,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
+||rawfree.fo^
 ||rawkuma.net^
 ||rawlazy.io^
 ||rawotaku.com^
@@ -1156,7 +1160,6 @@
 ||streamr.mindreaders7557.workers.dev^
 ||streamsports99.ru^
 ||streamsports99.su^
-||streamsports99.tv^
 ||streamsports99.website^
 ||streamtim.com^
 ||streamwatch.online^
@@ -1238,6 +1241,7 @@
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
+||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.co^
 ||toonstream.love^
@@ -1747,7 +1751,6 @@
 ||www.xmanagerapp.com^
 ||www.xn--h10bx0wsvp.net^
 ||www.yfanefa.com^
-||www.yinhuadm.cc^
 ||www.yomiwa.net^
 ||www.yomu-reader.com^
 ||www.yosintv.link^
@@ -1767,12 +1770,13 @@
 ||yadg.cc^
 ||yampi.live^
 ||yattatachi.com^
+||yenime.net^
 ||yeshd.net^
 ||yflix.to^
 ||yggdrasilradio.com^
 ||yifymovies.xyz^
 ||yifysubtitles.ch^
-||yinhuadm.one^
+||yomiraw.com^
 ||youflex.live^
 ||yourcountdown.to^
 ||youtube-music.app^
@@ -1841,6 +1845,7 @@
 ! 0.0.0.0 adding-repos.html
 ! 0.0.0.0 addon-manager.viren070.me
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
+! 0.0.0.0 aether.bar
 ! 0.0.0.0 aether.mom
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
@@ -2038,6 +2043,7 @@
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
+! 0.0.0.0 better-lyrics.boidu.dev
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
 ! 0.0.0.0 bgmlist.com
@@ -2301,6 +2307,7 @@
 ! 0.0.0.0 getlibation.com
 ! 0.0.0.0 getwacup.com
 ! 0.0.0.0 git.rebelonion.dev
+! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 goctruyentranh.net
@@ -2452,7 +2459,6 @@
 ! 0.0.0.0 lastfmstats.com
 ! 0.0.0.0 latanime.org
 ! 0.0.0.0 leemiau.com
-! 0.0.0.0 legacy.aether.mom
 ! 0.0.0.0 lermangas.me
 ! 0.0.0.0 letsanime.blogspot.com
 ! 0.0.0.0 libgen.li
@@ -2528,7 +2534,7 @@
 ! 0.0.0.0 mangapoisk.live
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.tech
+! 0.0.0.0 mangarawad.love
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangasora.net
@@ -2575,6 +2581,7 @@
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
 ! 0.0.0.0 monochrome.tf
+! 0.0.0.0 monoschinos2.com
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
@@ -2776,6 +2783,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
+! 0.0.0.0 rawfree.fo
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
 ! 0.0.0.0 rawotaku.com
@@ -2947,7 +2955,6 @@
 ! 0.0.0.0 streamr.mindreaders7557.workers.dev
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
-! 0.0.0.0 streamsports99.tv
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
 ! 0.0.0.0 streamwatch.online
@@ -3029,6 +3036,7 @@
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
+! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.co
 ! 0.0.0.0 toonstream.love
@@ -3538,7 +3546,6 @@
 ! 0.0.0.0 www.xmanagerapp.com
 ! 0.0.0.0 www.xn--h10bx0wsvp.net
 ! 0.0.0.0 www.yfanefa.com
-! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomiwa.net
 ! 0.0.0.0 www.yomu-reader.com
 ! 0.0.0.0 www.yosintv.link
@@ -3558,12 +3565,13 @@
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
 ! 0.0.0.0 yattatachi.com
+! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
 ! 0.0.0.0 yflix.to
 ! 0.0.0.0 yggdrasilradio.com
 ! 0.0.0.0 yifymovies.xyz
 ! 0.0.0.0 yifysubtitles.ch
-! 0.0.0.0 yinhuadm.one
+! 0.0.0.0 yomiraw.com
 ! 0.0.0.0 youflex.live
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youtube-music.app

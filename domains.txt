@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1788 domains | updated 2026-03-31T05:12:47Z
+# 1792 domains | updated 2026-04-01T05:28:34Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -46,6 +46,7 @@ acheriya.com
 adding-repos.html
 addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
+aether.bar
 aether.mom
 aha-music.com
 aidn.jp
@@ -243,6 +244,7 @@ bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
+better-lyrics.boidu.dev
 bflix.sh
 bgmd.bytex.space
 bgmlist.com
@@ -506,6 +508,7 @@ getcomics.org
 getlibation.com
 getwacup.com
 git.rebelonion.dev
+global.toptoon.com
 globeradio.app
 globetv.app
 goctruyentranh.net
@@ -657,7 +660,6 @@ last.timer
 lastfmstats.com
 latanime.org
 leemiau.com
-legacy.aether.mom
 lermangas.me
 letsanime.blogspot.com
 libgen.li
@@ -733,7 +735,7 @@ mangamirai.com
 mangapoisk.live
 mangaraw.ac
 mangaraw.best
-mangarawad.tech
+mangarawad.love
 mangarawjp.me
 mangashelf.co.il
 mangasora.net
@@ -780,6 +782,7 @@ moe.emi.aluminium
 moelist.net
 momovod.app
 monochrome.tf
+monoschinos2.com
 moonflix.com
 moriyashrine.org
 morphinlegacy.com
@@ -981,6 +984,7 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
+rawfree.fo
 rawkuma.net
 rawlazy.io
 rawotaku.com
@@ -1152,7 +1156,6 @@ streamm4u.com.co
 streamr.mindreaders7557.workers.dev
 streamsports99.ru
 streamsports99.su
-streamsports99.tv
 streamsports99.website
 streamtim.com
 streamwatch.online
@@ -1234,6 +1237,7 @@ tokuzl.net
 tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
+toomics.com
 toonamisquad.com
 toonhub4u.co
 toonstream.love
@@ -1743,7 +1747,6 @@ www.xgcartoon.com
 www.xmanagerapp.com
 www.xn--h10bx0wsvp.net
 www.yfanefa.com
-www.yinhuadm.cc
 www.yomiwa.net
 www.yomu-reader.com
 www.yosintv.link
@@ -1763,12 +1766,13 @@ xprime.su
 yadg.cc
 yampi.live
 yattatachi.com
+yenime.net
 yeshd.net
 yflix.to
 yggdrasilradio.com
 yifymovies.xyz
 yifysubtitles.ch
-yinhuadm.one
+yomiraw.com
 youflex.live
 yourcountdown.to
 youtube-music.app
