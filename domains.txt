@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1792 domains | updated 2026-04-01T05:28:34Z
+# 1796 domains | updated 2026-04-02T05:06:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -151,6 +151,7 @@ animelok.xyz
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
+animepahe.com
 animepahe.si
 animeradio.de
 animerank.top
@@ -444,6 +445,7 @@ famelack.com
 fancons.com
 fanedit.org
 fankai.fr
+fansubdb.com
 fansubdb.it
 fansubs.cat
 fansubs.ru
@@ -1747,6 +1749,7 @@ www.xgcartoon.com
 www.xmanagerapp.com
 www.xn--h10bx0wsvp.net
 www.yfanefa.com
+www.yinhuadm.cc
 www.yomiwa.net
 www.yomu-reader.com
 www.yosintv.link
@@ -1772,6 +1775,7 @@ yflix.to
 yggdrasilradio.com
 yifymovies.xyz
 yifysubtitles.ch
+yinhuadm.one
 yomiraw.com
 youflex.live
 yourcountdown.to

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1792 domains)
-! Last updated: 2026-04-01T05:28:34Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1796 domains)
+! Last updated: 2026-04-02T05:06:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -155,6 +155,7 @@
 ||animemusicquiz.com^
 ||animenosub.to^
 ||animeonsen.xyz^
+||animepahe.com^
 ||animepahe.si^
 ||animeradio.de^
 ||animerank.top^
@@ -448,6 +449,7 @@
 ||fancons.com^
 ||fanedit.org^
 ||fankai.fr^
+||fansubdb.com^
 ||fansubdb.it^
 ||fansubs.cat^
 ||fansubs.ru^
@@ -1751,6 +1753,7 @@
 ||www.xmanagerapp.com^
 ||www.xn--h10bx0wsvp.net^
 ||www.yfanefa.com^
+||www.yinhuadm.cc^
 ||www.yomiwa.net^
 ||www.yomu-reader.com^
 ||www.yosintv.link^
@@ -1776,6 +1779,7 @@
 ||yggdrasilradio.com^
 ||yifymovies.xyz^
 ||yifysubtitles.ch^
+||yinhuadm.one^
 ||yomiraw.com^
 ||youflex.live^
 ||yourcountdown.to^
@@ -1950,6 +1954,7 @@
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
+! 0.0.0.0 animepahe.com
 ! 0.0.0.0 animepahe.si
 ! 0.0.0.0 animeradio.de
 ! 0.0.0.0 animerank.top
@@ -2243,6 +2248,7 @@
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
 ! 0.0.0.0 fankai.fr
+! 0.0.0.0 fansubdb.com
 ! 0.0.0.0 fansubdb.it
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru
@@ -3546,6 +3552,7 @@
 ! 0.0.0.0 www.xmanagerapp.com
 ! 0.0.0.0 www.xn--h10bx0wsvp.net
 ! 0.0.0.0 www.yfanefa.com
+! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomiwa.net
 ! 0.0.0.0 www.yomu-reader.com
 ! 0.0.0.0 www.yosintv.link
@@ -3571,6 +3578,7 @@
 ! 0.0.0.0 yggdrasilradio.com
 ! 0.0.0.0 yifymovies.xyz
 ! 0.0.0.0 yifysubtitles.ch
+! 0.0.0.0 yinhuadm.one
 ! 0.0.0.0 yomiraw.com
 ! 0.0.0.0 youflex.live
 ! 0.0.0.0 yourcountdown.to
