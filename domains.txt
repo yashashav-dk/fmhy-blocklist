@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1796 domains | updated 2026-04-02T05:06:23Z
+# 1799 domains | updated 2026-04-03T05:08:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -285,7 +285,8 @@ cinebolt.net
 cinebytv.com
 cinego.co
 cinegram.net
-cinehd.cc
+cinehd.app
+cinehub.one
 cinelove.live
 cinema.bz
 cinemacity.cc
@@ -299,7 +300,6 @@ cinetimes.org
 cinetrii.com
 cinevibe.asia
 cksub.org
-claraiscute.neocities.org
 cli.club
 clients.md
 cmangax9.com
@@ -587,7 +587,6 @@ introduction.html
 iptv-player.me
 iptv-web.app
 iptv.community
-iptv.playtorrio.xyz
 iptv.surf
 iptvplayer.stream
 iqdb.org
@@ -647,6 +646,7 @@ kontrast.top
 kool.to
 korsite.net
 koryo.tv
+krakenflix.cx
 krdl.moe
 kudos.wiki
 kuramanime.red
@@ -1114,6 +1114,7 @@ softarchive.download
 softarchive.is
 softkomik.com
 some-guy.org
+song-bottle.app
 songle.jp
 soniczone.net
 soundbound.app
@@ -1263,6 +1264,7 @@ translatesubtitles.co
 translatesubtitles.com
 travelfilmarchive.com
 trendgola.org
+tria.ge
 troypoint.com
 trueharem.carrd.co
 truyendex.cc
@@ -1334,7 +1336,8 @@ vocadb.net
 vocaloid.radioca.st
 vocasphere.net
 vocaverse.network
-voiranime.tv
+voir-anime.to
+voirdrama.to
 vole.wtf
 vostfree.ws
 vrx.piro.moe

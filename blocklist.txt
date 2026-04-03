@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1796 domains)
-! Last updated: 2026-04-02T05:06:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1799 domains)
+! Last updated: 2026-04-03T05:08:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -289,7 +289,8 @@
 ||cinebytv.com^
 ||cinego.co^
 ||cinegram.net^
-||cinehd.cc^
+||cinehd.app^
+||cinehub.one^
 ||cinelove.live^
 ||cinema.bz^
 ||cinemacity.cc^
@@ -303,7 +304,6 @@
 ||cinetrii.com^
 ||cinevibe.asia^
 ||cksub.org^
-||claraiscute.neocities.org^
 ||cli.club^
 ||clients.md^
 ||cmangax9.com^
@@ -591,7 +591,6 @@
 ||iptv-player.me^
 ||iptv-web.app^
 ||iptv.community^
-||iptv.playtorrio.xyz^
 ||iptv.surf^
 ||iptvplayer.stream^
 ||iqdb.org^
@@ -651,6 +650,7 @@
 ||kool.to^
 ||korsite.net^
 ||koryo.tv^
+||krakenflix.cx^
 ||krdl.moe^
 ||kudos.wiki^
 ||kuramanime.red^
@@ -1118,6 +1118,7 @@
 ||softarchive.is^
 ||softkomik.com^
 ||some-guy.org^
+||song-bottle.app^
 ||songle.jp^
 ||soniczone.net^
 ||soundbound.app^
@@ -1267,6 +1268,7 @@
 ||translatesubtitles.com^
 ||travelfilmarchive.com^
 ||trendgola.org^
+||tria.ge^
 ||troypoint.com^
 ||trueharem.carrd.co^
 ||truyendex.cc^
@@ -1338,7 +1340,8 @@
 ||vocaloid.radioca.st^
 ||vocasphere.net^
 ||vocaverse.network^
-||voiranime.tv^
+||voir-anime.to^
+||voirdrama.to^
 ||vole.wtf^
 ||vostfree.ws^
 ||vrx.piro.moe^
@@ -2088,7 +2091,8 @@
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.net
-! 0.0.0.0 cinehd.cc
+! 0.0.0.0 cinehd.app
+! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
@@ -2102,7 +2106,6 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.asia
 ! 0.0.0.0 cksub.org
-! 0.0.0.0 claraiscute.neocities.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 cmangax9.com
@@ -2390,7 +2393,6 @@
 ! 0.0.0.0 iptv-player.me
 ! 0.0.0.0 iptv-web.app
 ! 0.0.0.0 iptv.community
-! 0.0.0.0 iptv.playtorrio.xyz
 ! 0.0.0.0 iptv.surf
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 iqdb.org
@@ -2450,6 +2452,7 @@
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
+! 0.0.0.0 krakenflix.cx
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
@@ -2917,6 +2920,7 @@
 ! 0.0.0.0 softarchive.is
 ! 0.0.0.0 softkomik.com
 ! 0.0.0.0 some-guy.org
+! 0.0.0.0 song-bottle.app
 ! 0.0.0.0 songle.jp
 ! 0.0.0.0 soniczone.net
 ! 0.0.0.0 soundbound.app
@@ -3066,6 +3070,7 @@
 ! 0.0.0.0 translatesubtitles.com
 ! 0.0.0.0 travelfilmarchive.com
 ! 0.0.0.0 trendgola.org
+! 0.0.0.0 tria.ge
 ! 0.0.0.0 troypoint.com
 ! 0.0.0.0 trueharem.carrd.co
 ! 0.0.0.0 truyendex.cc
@@ -3137,7 +3142,8 @@
 ! 0.0.0.0 vocaloid.radioca.st
 ! 0.0.0.0 vocasphere.net
 ! 0.0.0.0 vocaverse.network
-! 0.0.0.0 voiranime.tv
+! 0.0.0.0 voir-anime.to
+! 0.0.0.0 voirdrama.to
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vostfree.ws
 ! 0.0.0.0 vrx.piro.moe
