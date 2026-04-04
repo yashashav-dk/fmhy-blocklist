@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1799 domains)
-! Last updated: 2026-04-03T05:08:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1798 domains)
+! Last updated: 2026-04-04T04:54:02Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -387,8 +387,8 @@
 ||dl-raw.se^
 ||dl-zip.com^
 ||dlhd.dad^
-||dlhd.link^
 ||dlraw.net^
+||dlstreams.top^
 ||dmhy.org^
 ||dmtalkies.com^
 ||doblatgeanimecatala.blogspot.com^
@@ -419,6 +419,7 @@
 ||dw-anime.net^
 ||e.html^
 ||easterneuropeanmovies.com^
+||eddvault.notion.site^
 ||ee3.me^
 ||einthusan.tv^
 ||emmau680.driveraudiencej2zeu49.sbs^
@@ -434,7 +435,6 @@
 ||ermitteln.ihateani.me^
 ||erogamescape.org^
 ||erogemusicquiz.com^
-||erzat.blog^
 ||esp32.nontonx.com^
 ||estrenosanime.net^
 ||everythingmoe.com^
@@ -517,6 +517,7 @@
 ||global.toptoon.com^
 ||globeradio.app^
 ||globetv.app^
+||go.aftvnews.com^
 ||goctruyentranh.net^
 ||godriveplayer.com^
 ||gomuraw.com^
@@ -575,6 +576,7 @@
 ||id.shinigami.asia^
 ||idm.internet.download.manager^
 ||igmdb.com^
+||iklone.org^
 ||in.krosbits.musicolet^
 ||inazuma.rl404.com^
 ||index.cgi^
@@ -795,8 +797,8 @@
 ||moum.top^
 ||movie-web-sources.md^
 ||moviebite.cc^
+||moviebox.org^
 ||moviebox.ph^
-||moviebox.pk^
 ||movieboxapp.in^
 ||movieboxonline.net^
 ||moviedrive.org^
@@ -951,7 +953,6 @@
 ||ppv.to^
 ||ppvs.sh^
 ||primewire.nexus^
-||primewire.si^
 ||primewire.zip^
 ||privatemoviez.help^
 ||prodlist.php^
@@ -1085,7 +1086,6 @@
 ||server.elscione.com^
 ||sflix.ps^
 ||sflix2.to^
-||sflixto.tube^
 ||share.acgnx.se^
 ||sharebb.me^
 ||sharemania.us^
@@ -1140,6 +1140,7 @@
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
+||staff.iklone.org^
 ||status.dinsden.top^
 ||stigstream.ru^
 ||store.rg^
@@ -1195,7 +1196,6 @@
 ||t1.xtoon2.com^
 ||t2tunes.site^
 ||t4tsa.cc^
-||t4tv.click^
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
@@ -1213,7 +1213,7 @@
 ||theintrodb.org^
 ||thelongbox.net^
 ||themes.moe^
-||themoviebox.org^
+||themoviebox.pk^
 ||themoviespoiler.com^
 ||thepiratebay.org^
 ||theshowgrid.com^
@@ -1553,7 +1553,6 @@
 ||www.gingadaddy.com^
 ||www.gledajcrtace.org^
 ||www.gledajcrtace.rs^
-||www.glisco.link^
 ||www.globalfreetv.com^
 ||www.gokuhd.com^
 ||www.gomitier.tech^
@@ -2189,8 +2188,8 @@
 ! 0.0.0.0 dl-raw.se
 ! 0.0.0.0 dl-zip.com
 ! 0.0.0.0 dlhd.dad
-! 0.0.0.0 dlhd.link
 ! 0.0.0.0 dlraw.net
+! 0.0.0.0 dlstreams.top
 ! 0.0.0.0 dmhy.org
 ! 0.0.0.0 dmtalkies.com
 ! 0.0.0.0 doblatgeanimecatala.blogspot.com
@@ -2221,6 +2220,7 @@
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
 ! 0.0.0.0 easterneuropeanmovies.com
+! 0.0.0.0 eddvault.notion.site
 ! 0.0.0.0 ee3.me
 ! 0.0.0.0 einthusan.tv
 ! 0.0.0.0 emmau680.driveraudiencej2zeu49.sbs
@@ -2236,7 +2236,6 @@
 ! 0.0.0.0 ermitteln.ihateani.me
 ! 0.0.0.0 erogamescape.org
 ! 0.0.0.0 erogemusicquiz.com
-! 0.0.0.0 erzat.blog
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
 ! 0.0.0.0 everythingmoe.com
@@ -2319,6 +2318,7 @@
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
+! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 godriveplayer.com
 ! 0.0.0.0 gomuraw.com
@@ -2377,6 +2377,7 @@
 ! 0.0.0.0 id.shinigami.asia
 ! 0.0.0.0 idm.internet.download.manager
 ! 0.0.0.0 igmdb.com
+! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
 ! 0.0.0.0 inazuma.rl404.com
 ! 0.0.0.0 index.cgi
@@ -2597,8 +2598,8 @@
 ! 0.0.0.0 moum.top
 ! 0.0.0.0 movie-web-sources.md
 ! 0.0.0.0 moviebite.cc
+! 0.0.0.0 moviebox.org
 ! 0.0.0.0 moviebox.ph
-! 0.0.0.0 moviebox.pk
 ! 0.0.0.0 movieboxapp.in
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 moviedrive.org
@@ -2753,7 +2754,6 @@
 ! 0.0.0.0 ppv.to
 ! 0.0.0.0 ppvs.sh
 ! 0.0.0.0 primewire.nexus
-! 0.0.0.0 primewire.si
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 privatemoviez.help
 ! 0.0.0.0 prodlist.php
@@ -2887,7 +2887,6 @@
 ! 0.0.0.0 server.elscione.com
 ! 0.0.0.0 sflix.ps
 ! 0.0.0.0 sflix2.to
-! 0.0.0.0 sflixto.tube
 ! 0.0.0.0 share.acgnx.se
 ! 0.0.0.0 sharebb.me
 ! 0.0.0.0 sharemania.us
@@ -2942,6 +2941,7 @@
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
+! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 status.dinsden.top
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.rg
@@ -2997,7 +2997,6 @@
 ! 0.0.0.0 t1.xtoon2.com
 ! 0.0.0.0 t2tunes.site
 ! 0.0.0.0 t4tsa.cc
-! 0.0.0.0 t4tv.click
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
@@ -3015,7 +3014,7 @@
 ! 0.0.0.0 theintrodb.org
 ! 0.0.0.0 thelongbox.net
 ! 0.0.0.0 themes.moe
-! 0.0.0.0 themoviebox.org
+! 0.0.0.0 themoviebox.pk
 ! 0.0.0.0 themoviespoiler.com
 ! 0.0.0.0 thepiratebay.org
 ! 0.0.0.0 theshowgrid.com
@@ -3355,7 +3354,6 @@
 ! 0.0.0.0 www.gingadaddy.com
 ! 0.0.0.0 www.gledajcrtace.org
 ! 0.0.0.0 www.gledajcrtace.rs
-! 0.0.0.0 www.glisco.link
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
