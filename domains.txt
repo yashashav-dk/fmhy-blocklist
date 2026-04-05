@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1798 domains | updated 2026-04-04T04:54:02Z
+# 1798 domains | updated 2026-04-05T05:16:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -302,6 +302,7 @@ cinevibe.asia
 cksub.org
 cli.club
 clients.md
+cloud.umami.is
 cmangax9.com
 cmro.travis-starnes.com
 cocoleech.com
@@ -371,7 +372,6 @@ deafmovie.org
 debrid-link.com
 debrid.downloader.zone
 debridmediamanager.com
-desu-online.pl
 desu.me
 desu.uno
 desuarchive.org
@@ -615,6 +615,7 @@ kagane.org
 kaido.to
 kakuseiproject.com
 kara.moe
+kartoons.me
 katworld.net
 katzddl.net
 kayoanime.com
@@ -1377,7 +1378,6 @@ webcomicsapp.com
 webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
-weebdex.org
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com

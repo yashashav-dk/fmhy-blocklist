@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1798 domains)
-! Last updated: 2026-04-04T04:54:02Z
+! Last updated: 2026-04-05T05:16:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -306,6 +306,7 @@
 ||cksub.org^
 ||cli.club^
 ||clients.md^
+||cloud.umami.is^
 ||cmangax9.com^
 ||cmro.travis-starnes.com^
 ||cocoleech.com^
@@ -375,7 +376,6 @@
 ||debrid-link.com^
 ||debrid.downloader.zone^
 ||debridmediamanager.com^
-||desu-online.pl^
 ||desu.me^
 ||desu.uno^
 ||desuarchive.org^
@@ -619,6 +619,7 @@
 ||kaido.to^
 ||kakuseiproject.com^
 ||kara.moe^
+||kartoons.me^
 ||katworld.net^
 ||katzddl.net^
 ||kayoanime.com^
@@ -1381,7 +1382,6 @@
 ||webdramaturkey2.com^
 ||weblinhtinh1.net^
 ||weebcentral.com^
-||weebdex.org^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -2107,6 +2107,7 @@
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
+! 0.0.0.0 cloud.umami.is
 ! 0.0.0.0 cmangax9.com
 ! 0.0.0.0 cmro.travis-starnes.com
 ! 0.0.0.0 cocoleech.com
@@ -2176,7 +2177,6 @@
 ! 0.0.0.0 debrid-link.com
 ! 0.0.0.0 debrid.downloader.zone
 ! 0.0.0.0 debridmediamanager.com
-! 0.0.0.0 desu-online.pl
 ! 0.0.0.0 desu.me
 ! 0.0.0.0 desu.uno
 ! 0.0.0.0 desuarchive.org
@@ -2420,6 +2420,7 @@
 ! 0.0.0.0 kaido.to
 ! 0.0.0.0 kakuseiproject.com
 ! 0.0.0.0 kara.moe
+! 0.0.0.0 kartoons.me
 ! 0.0.0.0 katworld.net
 ! 0.0.0.0 katzddl.net
 ! 0.0.0.0 kayoanime.com
@@ -3182,7 +3183,6 @@
 ! 0.0.0.0 webdramaturkey2.com
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
-! 0.0.0.0 weebdex.org
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
