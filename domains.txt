@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1798 domains | updated 2026-04-05T05:16:23Z
+# 1801 domains | updated 2026-04-06T05:28:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -27,7 +27,7 @@
 35mm.online
 3asq.org
 456movie.nl
-4khdhub.fans
+4khdhub.dad
 56bca7d190fc-syncribullet.baby-beamup.club
 67movies.net
 69shuba.cx
@@ -206,7 +206,6 @@ app.animevsub.eu.org
 app.buffstream.io
 ar.tvplayer.tv
 arabshentai.com
-argoscomics.online
 article.olduse.net
 artwork.thekvt.eu.org
 ascii2d.net
@@ -216,6 +215,10 @@ asiaflix.net
 asiamediablog.com
 asiansubs.com
 ask4movie.app
+ask4sport.co
+ask4sport.link
+ask4sport.live
+ask4sport.xyz
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
@@ -266,7 +269,6 @@ booktoki468.com
 bstsrs.in
 bszip.com
 btorrent.xyz
-bundesliga.league.do
 bunko.sumikko.info
 bunkoranoberanking.blog.fc2.com
 bye.undi.rest
@@ -333,6 +335,7 @@ comicmafia.to
 comics.codes
 comicskingdom.com
 comix.to
+commodore.software
 commons.wikimedia
 condensedaudiocatalog.com
 coolmic.me
@@ -343,7 +346,6 @@ countdown.tv
 countries.html
 covers.musichoarders.xyz
 covers.roler.dev
-crackstreams.blog
 crackstreams.ms
 cracksurl.com
 crafty.moe
@@ -372,6 +374,7 @@ deafmovie.org
 debrid-link.com
 debrid.downloader.zone
 debridmediamanager.com
+desu-online.pl
 desu.me
 desu.uno
 desuarchive.org
@@ -401,7 +404,6 @@ doujindownloader.com
 doujinstyle.com
 downloader2.com
 dpan.tv
-dramacool-l.fun
 dramacool.sr
 dramacools9.cam
 dramacountdown.com
@@ -441,6 +443,7 @@ extranet.torrentbay.st
 eztvx.to
 f1-dash.com
 f1fullraces.com
+falconstreams.com
 famelack.com
 fancons.com
 fanedit.org
@@ -509,6 +512,7 @@ gensokyoradio.net
 getcomics.org
 getlibation.com
 getwacup.com
+ggflix.live
 git.rebelonion.dev
 global.toptoon.com
 globeradio.app
@@ -676,7 +680,6 @@ likemanga.ink
 listen-to-euterpe.eu
 listen.moe
 live.moviebite.cc
-live.wicketgoal.com
 livepush.io
 livetv.sx
 lmanime.com
@@ -690,8 +693,6 @@ lookmovie2.to
 lordflix.org
 lrclib.net
 lrepacks.net
-lsbc.cx
-lsbc.live
 lucida.to
 luciferdonghua.in
 lumotv.co.uk
@@ -794,8 +795,8 @@ morphinlegacy.com
 moum.top
 movie-web-sources.md
 moviebite.cc
-moviebox.org
 moviebox.ph
+moviebox.pk
 movieboxapp.in
 movieboxonline.net
 moviedrive.org
@@ -830,6 +831,7 @@ myfootball.pw
 mygully.com
 myneworm.katsurin.com
 myrunningman.com
+mysoccerpulse.com
 n1.olamovies.info
 naikamu.com
 nanaone.net
@@ -906,6 +908,7 @@ onepace.net
 onepiecepower.com
 onepiecetracklist.com
 onhockey.tv
+onoflix.com
 onoflix.ru
 openscrobbler.com
 opensourcealternative.to
@@ -928,7 +931,6 @@ phi-phenomenon.org
 pikahd.com
 piratexplay.cc
 piratexplay.com
-pitsport.xyz
 pixeldrain-bypass.cybar.to
 planete-bd.org
 plappa.me
@@ -940,6 +942,7 @@ plexmovies.online
 plotnf.com
 plugin.audio.navidrome
 plugin.audio.subsonic
+popcornflix.com
 popcornmovies.org
 portableappz.blogspot.com
 portapps.io
@@ -1210,7 +1213,7 @@ theindex.moe
 theintrodb.org
 thelongbox.net
 themes.moe
-themoviebox.pk
+themoviebox.org
 themoviespoiler.com
 thepiratebay.org
 theshowgrid.com
@@ -1246,7 +1249,7 @@ toonamisquad.com
 toonhub4u.co
 toonstream.love
 toonworld4all.me
-top.v1.html
+top.xdmovies.wtf
 topchineseanime.online
 topsrs.day
 topsters.org
@@ -1264,7 +1267,6 @@ transcripts.foreverdreaming.org
 translatesubtitles.co
 translatesubtitles.com
 travelfilmarchive.com
-trendgola.org
 tria.ge
 troypoint.com
 trueharem.carrd.co
@@ -1277,7 +1279,7 @@ tsquareplaza.blogspot.com
 tundra.moe
 tv.jest
 tv.jest.one
-tv.tflix.app
+tv.pulp.watch
 tv.vynx.cc
 tv247us.vip
 tvchart.benmiz.com
@@ -1304,7 +1306,6 @@ up.sportsbite.online
 upcomingcons.com
 uptime.ibbylabs.dev
 urajp.se
-us5.thetravelingtourguide.com
 usenet.rexum.space
 utaite-key.info
 utaitedb.net
@@ -1314,7 +1315,7 @@ v2.gostreameast.link
 v2.sportsurge.net
 vaughn.live
 vavoo.to
-vegamovies.gratis
+vegamovies.vodka
 ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
@@ -1364,7 +1365,6 @@ watchf1full.com
 watchflix.to
 watchfooty.st
 watchfooty.su
-watchfty.link
 watchmmafull.com
 watchprowrestlings.live
 watchreplay.net
@@ -1378,6 +1378,7 @@ webcomicsapp.com
 webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
+wfty.link
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1400,6 +1401,7 @@ worldnews24.tv
 wotaku.wiki
 wowtopix.com
 wuxia.click
+wv.dramacool.com.tr
 ww.animesultra.org
 ww1.goojara.to
 ww1.sharespark.cfd
@@ -1614,6 +1616,7 @@ www.miruro.com
 www.miruro.to
 www.mmnt.net
 www.mmnt.ru
+www.modsyndicate.com
 www.mojuru.app
 www.movie-censorship.com
 www.movie-locations.com
@@ -1754,7 +1757,6 @@ www.yfanefa.com
 www.yinhuadm.cc
 www.yomiwa.net
 www.yomu-reader.com
-www.yosintv.link
 www.zimmerit.moe
 www.zophar.net
 www12.dramacool.sr
@@ -1763,7 +1765,6 @@ x27.html
 x3dl.net
 xalosach.com
 xdcc.eu
-xdmovies.site
 xmanhua.com
 xoxocomic.com
 xprime.stream
@@ -1776,6 +1777,7 @@ yeshd.net
 yflix.to
 yggdrasilradio.com
 yifymovies.xyz
+yifystatus.com
 yifysubtitles.ch
 yinhuadm.one
 yomiraw.com
@@ -1796,6 +1798,7 @@ zeepubs.wordpress.com
 zekozimo.blogspot.com
 zenko.online
 zero1cine.com
+zerostream.alwaysdata.net
 zeta.animerco.org
 zokaj.com
 zxcprime.icu
