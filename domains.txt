@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1801 domains | updated 2026-04-06T05:28:54Z
+# 1804 domains | updated 2026-04-07T05:13:02Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -195,6 +195,8 @@ anitrendz.com
 anitrendz.net
 anitube.in.ua
 aniworld.to
+anixtv.in
+anixtv.pro
 anixtv.us.cc
 anizm.net
 anizone.to
@@ -448,7 +450,6 @@ famelack.com
 fancons.com
 fanedit.org
 fankai.fr
-fansubdb.com
 fansubdb.it
 fansubs.cat
 fansubs.ru
@@ -931,7 +932,8 @@ phi-phenomenon.org
 pikahd.com
 piratexplay.cc
 piratexplay.com
-pixeldrain-bypass.cybar.to
+pitsport.live
+pixeldrain-bypass.gamedrive.org
 planete-bd.org
 plappa.me
 playlist.pls
@@ -1535,6 +1537,7 @@ www.fctv33.lat
 www.fileeagle.com
 www.filepuma.com
 www.filmgo.live
+www.filmytime.site
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
