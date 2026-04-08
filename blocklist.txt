@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1804 domains)
-! Last updated: 2026-04-07T05:13:02Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1803 domains)
+! Last updated: 2026-04-08T05:14:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -1522,7 +1522,6 @@
 ||www.desidubanime.me^
 ||www.dojin-music.info^
 ||www.dongsub.net^
-||www.downloadha.com^
 ||www.downloads-anymovies.co^
 ||www.downturk.net^
 ||www.dozaanimata.net^
@@ -3329,7 +3328,6 @@
 ! 0.0.0.0 www.desidubanime.me
 ! 0.0.0.0 www.dojin-music.info
 ! 0.0.0.0 www.dongsub.net
-! 0.0.0.0 www.downloadha.com
 ! 0.0.0.0 www.downloads-anymovies.co
 ! 0.0.0.0 www.downturk.net
 ! 0.0.0.0 www.dozaanimata.net

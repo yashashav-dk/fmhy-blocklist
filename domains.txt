@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1804 domains | updated 2026-04-07T05:13:02Z
+# 1803 domains | updated 2026-04-08T05:14:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -1518,7 +1518,6 @@ www.deafvideo.tv
 www.desidubanime.me
 www.dojin-music.info
 www.dongsub.net
-www.downloadha.com
 www.downloads-anymovies.co
 www.downturk.net
 www.dozaanimata.net
