@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1803 domains | updated 2026-04-08T05:14:43Z
+# 1806 domains | updated 2026-04-09T05:13:05Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -143,7 +143,7 @@ animekarmalist.com
 animekhor.org
 animeko.ws
 animelayer.ru
-animelek.vip
+animelek.top
 animelib.org
 animelistesi.com
 animelok.to
@@ -194,6 +194,7 @@ anitrakt.huere.net
 anitrendz.com
 anitrendz.net
 anitube.in.ua
+aniwatchtv.to
 aniworld.to
 anixtv.in
 anixtv.pro
@@ -360,7 +361,6 @@ cubeflix.org
 cubiktv.com
 cuutruyen.net
 dabmusic.xyz
-daddylive.cv
 daddylive.im
 daddylive.pw
 daddylive.top
@@ -399,6 +399,7 @@ docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
 doctruyen3qui15.com
+dokiraw.mom
 donghuastream.org
 dorabash.in
 doubledouble.top
@@ -623,6 +624,7 @@ kara.moe
 kartoons.me
 katworld.net
 katzddl.net
+kawaii-anime.com
 kayoanime.com
 kazemakase.wjg.jp
 kcnawatch.us
@@ -764,6 +766,7 @@ mega.archive
 megabeastempire.wordpress.com
 meionovel.id
 melon-subs.de
+meownime.ltd
 meramifan.wordpress.com
 merlinwz.com
 meshmanga.com
@@ -772,7 +775,6 @@ metrolist.meowery.eu
 metruyenhot.vn
 michaelsapps.dk
 midloop.net
-midori.meownime.io
 mikanani.me
 mikudb.moe
 mindmine.audiobook
@@ -809,6 +811,7 @@ movieparadise.org
 moviepire.org
 moviepluto.fun
 moviepooper.com
+movies.php
 moviescountdown.com
 moviesdrive.forum
 moviesdrives.cv
@@ -868,7 +871,6 @@ nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
 nothing-to-watch.port80.ch
-notify.moe
 notscare.me
 novamovie.net
 novanon.net
@@ -1249,7 +1251,7 @@ tomeko.net
 toomics.com
 toonamisquad.com
 toonhub4u.co
-toonstream.love
+toonstream.dad
 toonworld4all.me
 top.xdmovies.wtf
 topchineseanime.online
@@ -1362,6 +1364,7 @@ watch.corsflix.net
 watch.foundtv.com
 watch.mometu.com
 watch.spencerdevs.xyz
+watch.versusmedia.com
 watchanimeworld.net
 watchf1full.com
 watchflix.to
