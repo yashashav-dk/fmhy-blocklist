@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1806 domains)
-! Last updated: 2026-04-09T05:13:05Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1807 domains)
+! Last updated: 2026-04-10T05:28:54Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -486,6 +486,7 @@
 ||footballia.net^
 ||footfy.net^
 ||footstreams.xyz^
+||fooyin.org^
 ||formula-timer.com^
 ||foro.unionfansub.com^
 ||forum.dirtywarez.com^
@@ -2295,6 +2296,7 @@
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 footfy.net
 ! 0.0.0.0 footstreams.xyz
+! 0.0.0.0 fooyin.org
 ! 0.0.0.0 formula-timer.com
 ! 0.0.0.0 foro.unionfansub.com
 ! 0.0.0.0 forum.dirtywarez.com

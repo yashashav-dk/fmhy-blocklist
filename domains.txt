@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1806 domains | updated 2026-04-09T05:13:05Z
+# 1807 domains | updated 2026-04-10T05:28:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -482,6 +482,7 @@ footballia.eu
 footballia.net
 footfy.net
 footstreams.xyz
+fooyin.org
 formula-timer.com
 foro.unionfansub.com
 forum.dirtywarez.com
