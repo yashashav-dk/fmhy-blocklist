@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1807 domains | updated 2026-04-10T05:28:54Z
+# 1808 domains | updated 2026-04-11T04:59:06Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -152,7 +152,6 @@ animemusicquiz.com
 animenosub.to
 animeonsen.xyz
 animepahe.com
-animepahe.si
 animeradio.de
 animerank.top
 animerss.com
@@ -337,6 +336,7 @@ comichubfree.com
 comicmafia.to
 comics.codes
 comicskingdom.com
+comikuro.to
 comix.to
 commodore.software
 commons.wikimedia
@@ -1175,6 +1175,7 @@ streamwatch.online
 streamwatch.youplex.site
 stremio-addons.net
 stremio-neo.aayushcodes.eu
+strexoplayer.onrender.com
 strmd.link
 studio-one.html
 sub-scene.com

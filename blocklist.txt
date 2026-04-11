@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1807 domains)
-! Last updated: 2026-04-10T05:28:54Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1808 domains)
+! Last updated: 2026-04-11T04:59:06Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -156,7 +156,6 @@
 ||animenosub.to^
 ||animeonsen.xyz^
 ||animepahe.com^
-||animepahe.si^
 ||animeradio.de^
 ||animerank.top^
 ||animerss.com^
@@ -341,6 +340,7 @@
 ||comicmafia.to^
 ||comics.codes^
 ||comicskingdom.com^
+||comikuro.to^
 ||comix.to^
 ||commodore.software^
 ||commons.wikimedia^
@@ -1179,6 +1179,7 @@
 ||streamwatch.youplex.site^
 ||stremio-addons.net^
 ||stremio-neo.aayushcodes.eu^
+||strexoplayer.onrender.com^
 ||strmd.link^
 ||studio-one.html^
 ||sub-scene.com^
@@ -1966,7 +1967,6 @@
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
 ! 0.0.0.0 animepahe.com
-! 0.0.0.0 animepahe.si
 ! 0.0.0.0 animeradio.de
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
@@ -2151,6 +2151,7 @@
 ! 0.0.0.0 comicmafia.to
 ! 0.0.0.0 comics.codes
 ! 0.0.0.0 comicskingdom.com
+! 0.0.0.0 comikuro.to
 ! 0.0.0.0 comix.to
 ! 0.0.0.0 commodore.software
 ! 0.0.0.0 commons.wikimedia
@@ -2989,6 +2990,7 @@
 ! 0.0.0.0 streamwatch.youplex.site
 ! 0.0.0.0 stremio-addons.net
 ! 0.0.0.0 stremio-neo.aayushcodes.eu
+! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strmd.link
 ! 0.0.0.0 studio-one.html
 ! 0.0.0.0 sub-scene.com
