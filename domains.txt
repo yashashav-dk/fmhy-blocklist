@@ -1,8 +1,9 @@
 # FMHY Binge Blocker — plain domain list
-# 1808 domains | updated 2026-04-11T04:59:06Z
+# 1812 domains | updated 2026-04-12T05:27:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
+1024teradl.com
 123animes.ru
 123movie.app
 123wrestling.com
@@ -367,6 +368,7 @@ daddylive.top
 daddylives.nl
 daddyny.com
 dailycommercials.com
+damitv.pro
 dan.valeena.dev
 db.silveryasha.id
 dd12streams.com
@@ -521,6 +523,7 @@ global.toptoon.com
 globeradio.app
 globetv.app
 go.aftvnews.com
+goalkick.live
 goctruyentranh.net
 godriveplayer.com
 gomuraw.com
@@ -600,6 +603,7 @@ iptv.surf
 iptvplayer.stream
 iqdb.org
 ishowmovies.org
+iteraplay.com
 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 japanesetorrents.wordpress.com
 japanpaw.com
@@ -630,6 +634,7 @@ kayoanime.com
 kazemakase.wjg.jp
 kcnawatch.us
 kesifasya.com
+ketaflix.st
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
@@ -683,8 +688,8 @@ lightnovelheaven.com
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
-live.moviebite.cc
 livepush.io
+livetv.moviebite.cc
 livetv.sx
 lmanime.com
 lmao.love
@@ -837,7 +842,6 @@ mygully.com
 myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
-n1.olamovies.info
 naikamu.com
 nanaone.net
 nanasubs.com.pl
@@ -901,6 +905,7 @@ ogladajanime.pl
 oha.to
 ohli24.net
 okanime.tv
+olamovies.dad
 old.klz9.com
 oldcomicsworld.blogspot.com
 omega.gg
@@ -1137,9 +1142,7 @@ sport7.md
 sport7.pro
 sporting77.ru
 sportontv.biz
-sportsbite.cv
-sportsbite.online
-sportsbite.sbs
+sports24.cc
 sportsurge.bz
 sportyhunter.com
 squid.wtf
@@ -1542,6 +1545,7 @@ www.fileeagle.com
 www.filepuma.com
 www.filmgo.live
 www.filmytime.site
+www.filmytime.top
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co

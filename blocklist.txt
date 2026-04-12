@@ -1,12 +1,13 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1808 domains)
-! Last updated: 2026-04-11T04:59:06Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1812 domains)
+! Last updated: 2026-04-12T05:27:46Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
 ! ── uBlock Origin filters ──
 !
 ||0xdb.org^
+||1024teradl.com^
 ||123animes.ru^
 ||123movie.app^
 ||123wrestling.com^
@@ -371,6 +372,7 @@
 ||daddylives.nl^
 ||daddyny.com^
 ||dailycommercials.com^
+||damitv.pro^
 ||dan.valeena.dev^
 ||db.silveryasha.id^
 ||dd12streams.com^
@@ -525,6 +527,7 @@
 ||globeradio.app^
 ||globetv.app^
 ||go.aftvnews.com^
+||goalkick.live^
 ||goctruyentranh.net^
 ||godriveplayer.com^
 ||gomuraw.com^
@@ -604,6 +607,7 @@
 ||iptvplayer.stream^
 ||iqdb.org^
 ||ishowmovies.org^
+||iteraplay.com^
 ||ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion^
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
@@ -634,6 +638,7 @@
 ||kazemakase.wjg.jp^
 ||kcnawatch.us^
 ||kesifasya.com^
+||ketaflix.st^
 ||keyframe-staff-list.com^
 ||keygenmusic.tk^
 ||kibo.fm^
@@ -687,8 +692,8 @@
 ||likemanga.ink^
 ||listen-to-euterpe.eu^
 ||listen.moe^
-||live.moviebite.cc^
 ||livepush.io^
+||livetv.moviebite.cc^
 ||livetv.sx^
 ||lmanime.com^
 ||lmao.love^
@@ -841,7 +846,6 @@
 ||myneworm.katsurin.com^
 ||myrunningman.com^
 ||mysoccerpulse.com^
-||n1.olamovies.info^
 ||naikamu.com^
 ||nanaone.net^
 ||nanasubs.com.pl^
@@ -905,6 +909,7 @@
 ||oha.to^
 ||ohli24.net^
 ||okanime.tv^
+||olamovies.dad^
 ||old.klz9.com^
 ||oldcomicsworld.blogspot.com^
 ||omega.gg^
@@ -1141,9 +1146,7 @@
 ||sport7.pro^
 ||sporting77.ru^
 ||sportontv.biz^
-||sportsbite.cv^
-||sportsbite.online^
-||sportsbite.sbs^
+||sports24.cc^
 ||sportsurge.bz^
 ||sportyhunter.com^
 ||squid.wtf^
@@ -1546,6 +1549,7 @@
 ||www.filepuma.com^
 ||www.filmgo.live^
 ||www.filmytime.site^
+||www.filmytime.top^
 ||www.flickchart.com^
 ||www.flikhub.net^
 ||www.flixwatch.co^
@@ -1818,6 +1822,7 @@
 ! ── /etc/hosts format (for apply-hosts.sh) ──
 !
 ! 0.0.0.0 0xdb.org
+! 0.0.0.0 1024teradl.com
 ! 0.0.0.0 123animes.ru
 ! 0.0.0.0 123movie.app
 ! 0.0.0.0 123wrestling.com
@@ -2182,6 +2187,7 @@
 ! 0.0.0.0 daddylives.nl
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
+! 0.0.0.0 damitv.pro
 ! 0.0.0.0 dan.valeena.dev
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 dd12streams.com
@@ -2336,6 +2342,7 @@
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
+! 0.0.0.0 goalkick.live
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 godriveplayer.com
 ! 0.0.0.0 gomuraw.com
@@ -2415,6 +2422,7 @@
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
+! 0.0.0.0 iteraplay.com
 ! 0.0.0.0 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
@@ -2445,6 +2453,7 @@
 ! 0.0.0.0 kazemakase.wjg.jp
 ! 0.0.0.0 kcnawatch.us
 ! 0.0.0.0 kesifasya.com
+! 0.0.0.0 ketaflix.st
 ! 0.0.0.0 keyframe-staff-list.com
 ! 0.0.0.0 keygenmusic.tk
 ! 0.0.0.0 kibo.fm
@@ -2498,8 +2507,8 @@
 ! 0.0.0.0 likemanga.ink
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
-! 0.0.0.0 live.moviebite.cc
 ! 0.0.0.0 livepush.io
+! 0.0.0.0 livetv.moviebite.cc
 ! 0.0.0.0 livetv.sx
 ! 0.0.0.0 lmanime.com
 ! 0.0.0.0 lmao.love
@@ -2652,7 +2661,6 @@
 ! 0.0.0.0 myneworm.katsurin.com
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
-! 0.0.0.0 n1.olamovies.info
 ! 0.0.0.0 naikamu.com
 ! 0.0.0.0 nanaone.net
 ! 0.0.0.0 nanasubs.com.pl
@@ -2716,6 +2724,7 @@
 ! 0.0.0.0 oha.to
 ! 0.0.0.0 ohli24.net
 ! 0.0.0.0 okanime.tv
+! 0.0.0.0 olamovies.dad
 ! 0.0.0.0 old.klz9.com
 ! 0.0.0.0 oldcomicsworld.blogspot.com
 ! 0.0.0.0 omega.gg
@@ -2952,9 +2961,7 @@
 ! 0.0.0.0 sport7.pro
 ! 0.0.0.0 sporting77.ru
 ! 0.0.0.0 sportontv.biz
-! 0.0.0.0 sportsbite.cv
-! 0.0.0.0 sportsbite.online
-! 0.0.0.0 sportsbite.sbs
+! 0.0.0.0 sports24.cc
 ! 0.0.0.0 sportsurge.bz
 ! 0.0.0.0 sportyhunter.com
 ! 0.0.0.0 squid.wtf
@@ -3357,6 +3364,7 @@
 ! 0.0.0.0 www.filepuma.com
 ! 0.0.0.0 www.filmgo.live
 ! 0.0.0.0 www.filmytime.site
+! 0.0.0.0 www.filmytime.top
 ! 0.0.0.0 www.flickchart.com
 ! 0.0.0.0 www.flikhub.net
 ! 0.0.0.0 www.flixwatch.co
