@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1812 domains)
-! Last updated: 2026-04-12T05:27:46Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1813 domains)
+! Last updated: 2026-04-13T05:45:36Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -311,7 +311,6 @@
 ||cksub.org^
 ||cli.club^
 ||clients.md^
-||cloud.umami.is^
 ||cmangax9.com^
 ||cmro.travis-starnes.com^
 ||cocoleech.com^
@@ -348,7 +347,6 @@
 ||condensedaudiocatalog.com^
 ||coolmic.me^
 ||corsflix.net^
-||cosectv.com^
 ||couchmoney.tv^
 ||countdown.tv^
 ||countries.html^
@@ -457,6 +455,7 @@
 ||fancons.com^
 ||fanedit.org^
 ||fankai.fr^
+||fansubdb.com^
 ||fansubdb.it^
 ||fansubs.cat^
 ||fansubs.ru^
@@ -544,6 +543,7 @@
 ||guide.html^
 ||guides.htm^
 ||guides.viren070.me^
+||guzesqdro.dev^
 ||hakuneko.download^
 ||halcyonrealms.com^
 ||hanime1.me^
@@ -1137,7 +1137,7 @@
 ||soniczone.net^
 ||soundbound.app^
 ||sozo.azamov.me^
-||space.olamovies.app^
+||space.olamovies.dad^
 ||spenflix.ru^
 ||sphinxanime.com^
 ||spin.moe^
@@ -1217,6 +1217,7 @@
 ||tape.xyz^
 ||tauonmusicbox.rocks^
 ||tennojim.xyz^
+||terabox.hnn.workers.dev^
 ||tfpdl.se^
 ||tfpdl.to^
 ||thanvuc.com^
@@ -2126,7 +2127,6 @@
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
-! 0.0.0.0 cloud.umami.is
 ! 0.0.0.0 cmangax9.com
 ! 0.0.0.0 cmro.travis-starnes.com
 ! 0.0.0.0 cocoleech.com
@@ -2163,7 +2163,6 @@
 ! 0.0.0.0 condensedaudiocatalog.com
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 corsflix.net
-! 0.0.0.0 cosectv.com
 ! 0.0.0.0 couchmoney.tv
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 countries.html
@@ -2272,6 +2271,7 @@
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
 ! 0.0.0.0 fankai.fr
+! 0.0.0.0 fansubdb.com
 ! 0.0.0.0 fansubdb.it
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru
@@ -2359,6 +2359,7 @@
 ! 0.0.0.0 guide.html
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
+! 0.0.0.0 guzesqdro.dev
 ! 0.0.0.0 hakuneko.download
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
@@ -2952,7 +2953,7 @@
 ! 0.0.0.0 soniczone.net
 ! 0.0.0.0 soundbound.app
 ! 0.0.0.0 sozo.azamov.me
-! 0.0.0.0 space.olamovies.app
+! 0.0.0.0 space.olamovies.dad
 ! 0.0.0.0 spenflix.ru
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
@@ -3032,6 +3033,7 @@
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 tennojim.xyz
+! 0.0.0.0 terabox.hnn.workers.dev
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 thanvuc.com

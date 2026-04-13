@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1812 domains | updated 2026-04-12T05:27:46Z
+# 1813 domains | updated 2026-04-13T05:45:36Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -307,7 +307,6 @@ cinevibe.asia
 cksub.org
 cli.club
 clients.md
-cloud.umami.is
 cmangax9.com
 cmro.travis-starnes.com
 cocoleech.com
@@ -344,7 +343,6 @@ commons.wikimedia
 condensedaudiocatalog.com
 coolmic.me
 corsflix.net
-cosectv.com
 couchmoney.tv
 countdown.tv
 countries.html
@@ -453,6 +451,7 @@ famelack.com
 fancons.com
 fanedit.org
 fankai.fr
+fansubdb.com
 fansubdb.it
 fansubs.cat
 fansubs.ru
@@ -540,6 +539,7 @@ guide.encode.moe
 guide.html
 guides.htm
 guides.viren070.me
+guzesqdro.dev
 hakuneko.download
 halcyonrealms.com
 hanime1.me
@@ -1133,7 +1133,7 @@ songle.jp
 soniczone.net
 soundbound.app
 sozo.azamov.me
-space.olamovies.app
+space.olamovies.dad
 spenflix.ru
 sphinxanime.com
 spin.moe
@@ -1213,6 +1213,7 @@ taosect.com
 tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
+terabox.hnn.workers.dev
 tfpdl.se
 tfpdl.to
 thanvuc.com
