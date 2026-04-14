@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1813 domains)
-! Last updated: 2026-04-13T05:45:36Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1814 domains)
+! Last updated: 2026-04-14T05:27:51Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -90,6 +90,7 @@
 ||anigo.to^
 ||aniguessr.com^
 ||anihq.to^
+||anikage.cc^
 ||anikai.to^
 ||anikototv.to^
 ||anikuro.ru^
@@ -162,6 +163,7 @@
 ||animerss.com^
 ||animesalt.top^
 ||animeschedule.net^
+||animesilo.cc^
 ||animesongs.org^
 ||animestars.org^
 ||animesub.info^
@@ -455,7 +457,6 @@
 ||fancons.com^
 ||fanedit.org^
 ||fankai.fr^
-||fansubdb.com^
 ||fansubdb.it^
 ||fansubs.cat^
 ||fansubs.ru^
@@ -1906,6 +1907,7 @@
 ! 0.0.0.0 anigo.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.to
+! 0.0.0.0 anikage.cc
 ! 0.0.0.0 anikai.to
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikuro.ru
@@ -1978,6 +1980,7 @@
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
+! 0.0.0.0 animesilo.cc
 ! 0.0.0.0 animesongs.org
 ! 0.0.0.0 animestars.org
 ! 0.0.0.0 animesub.info
@@ -2271,7 +2274,6 @@
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
 ! 0.0.0.0 fankai.fr
-! 0.0.0.0 fansubdb.com
 ! 0.0.0.0 fansubdb.it
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru

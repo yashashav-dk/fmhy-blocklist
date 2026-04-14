@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1813 domains | updated 2026-04-13T05:45:36Z
+# 1814 domains | updated 2026-04-14T05:27:51Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -86,6 +86,7 @@ anify.to
 anigo.to
 aniguessr.com
 anihq.to
+anikage.cc
 anikai.to
 anikototv.to
 anikuro.ru
@@ -158,6 +159,7 @@ animerank.top
 animerss.com
 animesalt.top
 animeschedule.net
+animesilo.cc
 animesongs.org
 animestars.org
 animesub.info
@@ -451,7 +453,6 @@ famelack.com
 fancons.com
 fanedit.org
 fankai.fr
-fansubdb.com
 fansubdb.it
 fansubs.cat
 fansubs.ru
