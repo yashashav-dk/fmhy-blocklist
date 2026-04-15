@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1814 domains)
-! Last updated: 2026-04-14T05:27:51Z
+! Last updated: 2026-04-15T05:28:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -68,7 +68,6 @@
 ||amalgam-fansubs.moe^
 ||amvnews.ru^
 ||an1me.to^
-||anacreondjt.gitlab.io^
 ||andlibria.qt^
 ||ani.lol^
 ||ani4u.org^
@@ -215,6 +214,7 @@
 ||app.buffstream.io^
 ||ar.tvplayer.tv^
 ||arabshentai.com^
+||argoscomics.online^
 ||article.olduse.net^
 ||artwork.thekvt.eu.org^
 ||ascii2d.net^
@@ -425,6 +425,7 @@
 ||dulo.tv^
 ||dw-anime.net^
 ||e.html^
+||e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion^
 ||easterneuropeanmovies.com^
 ||eddvault.notion.site^
 ||ee3.me^
@@ -609,7 +610,6 @@
 ||iqdb.org^
 ||ishowmovies.org^
 ||iteraplay.com^
-||ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion^
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
@@ -892,7 +892,7 @@
 ||noxx.to^
 ||ntv.cx^
 ||ntv.direct^
-||ntvstream.cx^
+||ntvs.cx^
 ||nunflix.li^
 ||nuvioapp.space^
 ||nxxhentai.net^
@@ -922,6 +922,7 @@
 ||onepiecepower.com^
 ||onepiecetracklist.com^
 ||onhockey.tv^
+||onisaga.com^
 ||onoflix.com^
 ||onoflix.ru^
 ||openscrobbler.com^
@@ -1127,8 +1128,6 @@
 ||sneedex.moe^
 ||soccerfull.net^
 ||soft.ac^
-||soft98-note.md^
-||soft98.ir^
 ||softarchive.download^
 ||softarchive.is^
 ||softkomik.com^
@@ -1299,6 +1298,7 @@
 ||tv247us.vip^
 ||tvchart.benmiz.com^
 ||tvcharts.co^
+||tvfreedom.duckdns.org^
 ||tvids.me^
 ||tvids.tv^
 ||tvpass.org^
@@ -1885,7 +1885,6 @@
 ! 0.0.0.0 amalgam-fansubs.moe
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
-! 0.0.0.0 anacreondjt.gitlab.io
 ! 0.0.0.0 andlibria.qt
 ! 0.0.0.0 ani.lol
 ! 0.0.0.0 ani4u.org
@@ -2032,6 +2031,7 @@
 ! 0.0.0.0 app.buffstream.io
 ! 0.0.0.0 ar.tvplayer.tv
 ! 0.0.0.0 arabshentai.com
+! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 artwork.thekvt.eu.org
 ! 0.0.0.0 ascii2d.net
@@ -2242,6 +2242,7 @@
 ! 0.0.0.0 dulo.tv
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
+! 0.0.0.0 e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
 ! 0.0.0.0 easterneuropeanmovies.com
 ! 0.0.0.0 eddvault.notion.site
 ! 0.0.0.0 ee3.me
@@ -2426,7 +2427,6 @@
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
 ! 0.0.0.0 iteraplay.com
-! 0.0.0.0 ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
@@ -2709,7 +2709,7 @@
 ! 0.0.0.0 noxx.to
 ! 0.0.0.0 ntv.cx
 ! 0.0.0.0 ntv.direct
-! 0.0.0.0 ntvstream.cx
+! 0.0.0.0 ntvs.cx
 ! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvioapp.space
 ! 0.0.0.0 nxxhentai.net
@@ -2739,6 +2739,7 @@
 ! 0.0.0.0 onepiecepower.com
 ! 0.0.0.0 onepiecetracklist.com
 ! 0.0.0.0 onhockey.tv
+! 0.0.0.0 onisaga.com
 ! 0.0.0.0 onoflix.com
 ! 0.0.0.0 onoflix.ru
 ! 0.0.0.0 openscrobbler.com
@@ -2944,8 +2945,6 @@
 ! 0.0.0.0 sneedex.moe
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
-! 0.0.0.0 soft98-note.md
-! 0.0.0.0 soft98.ir
 ! 0.0.0.0 softarchive.download
 ! 0.0.0.0 softarchive.is
 ! 0.0.0.0 softkomik.com
@@ -3116,6 +3115,7 @@
 ! 0.0.0.0 tv247us.vip
 ! 0.0.0.0 tvchart.benmiz.com
 ! 0.0.0.0 tvcharts.co
+! 0.0.0.0 tvfreedom.duckdns.org
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvids.tv
 ! 0.0.0.0 tvpass.org

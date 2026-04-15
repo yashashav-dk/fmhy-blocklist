@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1814 domains | updated 2026-04-14T05:27:51Z
+# 1814 domains | updated 2026-04-15T05:28:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -64,7 +64,6 @@ althub.co.za
 amalgam-fansubs.moe
 amvnews.ru
 an1me.to
-anacreondjt.gitlab.io
 andlibria.qt
 ani.lol
 ani4u.org
@@ -211,6 +210,7 @@ app.animevsub.eu.org
 app.buffstream.io
 ar.tvplayer.tv
 arabshentai.com
+argoscomics.online
 article.olduse.net
 artwork.thekvt.eu.org
 ascii2d.net
@@ -421,6 +421,7 @@ due.moe
 dulo.tv
 dw-anime.net
 e.html
+e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
 easterneuropeanmovies.com
 eddvault.notion.site
 ee3.me
@@ -605,7 +606,6 @@ iptvplayer.stream
 iqdb.org
 ishowmovies.org
 iteraplay.com
-ixyqd7a6tpptuvghgwiytsathbqlztuka3tcavnncohdw6zxhelhd3qd.onion
 japanesetorrents.wordpress.com
 japanpaw.com
 japanradio.de
@@ -888,7 +888,7 @@ novelfull.net
 noxx.to
 ntv.cx
 ntv.direct
-ntvstream.cx
+ntvs.cx
 nunflix.li
 nuvioapp.space
 nxxhentai.net
@@ -918,6 +918,7 @@ onepace.net
 onepiecepower.com
 onepiecetracklist.com
 onhockey.tv
+onisaga.com
 onoflix.com
 onoflix.ru
 openscrobbler.com
@@ -1123,8 +1124,6 @@ smoores.gitlab.io
 sneedex.moe
 soccerfull.net
 soft.ac
-soft98-note.md
-soft98.ir
 softarchive.download
 softarchive.is
 softkomik.com
@@ -1295,6 +1294,7 @@ tv.vynx.cc
 tv247us.vip
 tvchart.benmiz.com
 tvcharts.co
+tvfreedom.duckdns.org
 tvids.me
 tvids.tv
 tvpass.org
