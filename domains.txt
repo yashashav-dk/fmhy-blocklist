@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1814 domains | updated 2026-04-15T05:28:00Z
+# 1819 domains | updated 2026-04-16T05:34:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -153,6 +153,7 @@ animemusicquiz.com
 animenosub.to
 animeonsen.xyz
 animepahe.com
+animepahe.pw
 animeradio.de
 animerank.top
 animerss.com
@@ -401,7 +402,7 @@ docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
 doctruyen3qui15.com
-dokiraw.mom
+dokiraw.tech
 donghuastream.org
 dorabash.in
 doubledouble.top
@@ -657,7 +658,7 @@ kisskh.ovh
 kitsunekko.net
 komiic.com
 komikcast03.com
-komikindo3.com
+komikindo.ch
 komiku.id
 kontrast.top
 kool.to
@@ -1294,7 +1295,10 @@ tv.vynx.cc
 tv247us.vip
 tvchart.benmiz.com
 tvcharts.co
+tvfreedom.ct.ws
 tvfreedom.duckdns.org
+tvfreedom.free.nf
+tvfreedom.gt.tc
 tvids.me
 tvids.tv
 tvpass.org
@@ -1493,7 +1497,8 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
-www.bimiacg10.net
+www.bimiacg.icu
+www.bimiacg14.net
 www.bingeclock.com
 www.bitcine.app
 www.bitview.net

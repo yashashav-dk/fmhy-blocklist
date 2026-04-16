@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1814 domains)
-! Last updated: 2026-04-15T05:28:00Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1819 domains)
+! Last updated: 2026-04-16T05:34:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -157,6 +157,7 @@
 ||animenosub.to^
 ||animeonsen.xyz^
 ||animepahe.com^
+||animepahe.pw^
 ||animeradio.de^
 ||animerank.top^
 ||animerss.com^
@@ -405,7 +406,7 @@
 ||docs.squidify.org^
 ||docs.wyzie.ru^
 ||doctruyen3qui15.com^
-||dokiraw.mom^
+||dokiraw.tech^
 ||donghuastream.org^
 ||dorabash.in^
 ||doubledouble.top^
@@ -661,7 +662,7 @@
 ||kitsunekko.net^
 ||komiic.com^
 ||komikcast03.com^
-||komikindo3.com^
+||komikindo.ch^
 ||komiku.id^
 ||kontrast.top^
 ||kool.to^
@@ -1298,7 +1299,10 @@
 ||tv247us.vip^
 ||tvchart.benmiz.com^
 ||tvcharts.co^
+||tvfreedom.ct.ws^
 ||tvfreedom.duckdns.org^
+||tvfreedom.free.nf^
+||tvfreedom.gt.tc^
 ||tvids.me^
 ||tvids.tv^
 ||tvpass.org^
@@ -1497,7 +1501,8 @@
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
-||www.bimiacg10.net^
+||www.bimiacg.icu^
+||www.bimiacg14.net^
 ||www.bingeclock.com^
 ||www.bitcine.app^
 ||www.bitview.net^
@@ -1974,6 +1979,7 @@
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
 ! 0.0.0.0 animepahe.com
+! 0.0.0.0 animepahe.pw
 ! 0.0.0.0 animeradio.de
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
@@ -2222,7 +2228,7 @@
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
 ! 0.0.0.0 doctruyen3qui15.com
-! 0.0.0.0 dokiraw.mom
+! 0.0.0.0 dokiraw.tech
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
 ! 0.0.0.0 doubledouble.top
@@ -2478,7 +2484,7 @@
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikcast03.com
-! 0.0.0.0 komikindo3.com
+! 0.0.0.0 komikindo.ch
 ! 0.0.0.0 komiku.id
 ! 0.0.0.0 kontrast.top
 ! 0.0.0.0 kool.to
@@ -3115,7 +3121,10 @@
 ! 0.0.0.0 tv247us.vip
 ! 0.0.0.0 tvchart.benmiz.com
 ! 0.0.0.0 tvcharts.co
+! 0.0.0.0 tvfreedom.ct.ws
 ! 0.0.0.0 tvfreedom.duckdns.org
+! 0.0.0.0 tvfreedom.free.nf
+! 0.0.0.0 tvfreedom.gt.tc
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvids.tv
 ! 0.0.0.0 tvpass.org
@@ -3314,7 +3323,8 @@
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
-! 0.0.0.0 www.bimiacg10.net
+! 0.0.0.0 www.bimiacg.icu
+! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bitcine.app
 ! 0.0.0.0 www.bitview.net
