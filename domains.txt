@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1819 domains | updated 2026-04-16T05:34:13Z
+# 1816 domains | updated 2026-04-17T05:31:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -370,7 +370,6 @@ daddylives.nl
 daddyny.com
 dailycommercials.com
 damitv.pro
-dan.valeena.dev
 db.silveryasha.id
 dd12streams.com
 ddlbase.com
@@ -411,7 +410,6 @@ doujinstyle.com
 downloader2.com
 dpan.tv
 dramacool.sr
-dramacools9.cam
 dramacountdown.com
 dramaday.me
 dramafire.com.pl
@@ -714,7 +712,6 @@ m.flixindia.xyz
 m3u-ip.tv
 m3u4u.com
 m4uhd.page
-madplay.site
 magyaranime.eu
 main.jart
 main.mp

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1819 domains)
-! Last updated: 2026-04-16T05:34:13Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1816 domains)
+! Last updated: 2026-04-17T05:31:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -374,7 +374,6 @@
 ||daddyny.com^
 ||dailycommercials.com^
 ||damitv.pro^
-||dan.valeena.dev^
 ||db.silveryasha.id^
 ||dd12streams.com^
 ||ddlbase.com^
@@ -415,7 +414,6 @@
 ||downloader2.com^
 ||dpan.tv^
 ||dramacool.sr^
-||dramacools9.cam^
 ||dramacountdown.com^
 ||dramaday.me^
 ||dramafire.com.pl^
@@ -718,7 +716,6 @@
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.page^
-||madplay.site^
 ||magyaranime.eu^
 ||main.jart^
 ||main.mp^
@@ -2196,7 +2193,6 @@
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.pro
-! 0.0.0.0 dan.valeena.dev
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 dd12streams.com
 ! 0.0.0.0 ddlbase.com
@@ -2237,7 +2233,6 @@
 ! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacool.sr
-! 0.0.0.0 dramacools9.cam
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramafire.com.pl
@@ -2540,7 +2535,6 @@
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.page
-! 0.0.0.0 madplay.site
 ! 0.0.0.0 magyaranime.eu
 ! 0.0.0.0 main.jart
 ! 0.0.0.0 main.mp
