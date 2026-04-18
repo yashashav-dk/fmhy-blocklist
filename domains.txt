@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1816 domains | updated 2026-04-17T05:31:47Z
+# 1830 domains | updated 2026-04-18T05:10:37Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -37,6 +37,7 @@
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7plus.com.au
+7reels.cc
 888dl.ps
 a4.asurahosting.com
 absorbiendomangas2.blogspot.com
@@ -47,6 +48,7 @@ acheriya.com
 adding-repos.html
 addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
+adrama.app
 aether.bar
 aether.mom
 aha-music.com
@@ -307,6 +309,7 @@ cinetaro.tv
 cinetimes.org
 cinetrii.com
 cinevibe.asia
+cinevibe.to
 cksub.org
 cli.club
 clients.md
@@ -479,6 +482,7 @@ flixvo.fun
 flixvo.live
 flixwatch.online
 flixway.pro
+fluxtv.qzz.io
 fmstream.org
 footballia.eu
 footballia.net
@@ -916,6 +920,7 @@ onepace.net
 onepiecepower.com
 onepiecetracklist.com
 onhockey.tv
+onionplay.io
 onisaga.com
 onoflix.com
 onoflix.ru
@@ -1198,6 +1203,7 @@ sushi.net
 sushiscan.net
 swimrewind.com
 sync.coconono.org
+syncler.net
 synthv.info
 t.html
 t1.xtoon2.com
@@ -1269,6 +1275,7 @@ touhou-memories.com
 touhou.ai
 touhou.kuukunen.net
 touhoudb.com
+toustream.movietrunk.com
 trace.moe
 trailerpunk.com
 transcripts.foreverdreaming.org
@@ -1285,6 +1292,7 @@ truyenhentaivn.club
 truyenqqgo.com
 tsquareplaza.blogspot.com
 tundra.moe
+tv.filmu.in
 tv.jest
 tv.jest.one
 tv.pulp.watch
@@ -1369,6 +1377,7 @@ watch-v2.autoembed.app
 watch-wrestling.eu
 watch.corsflix.dpdns.org
 watch.corsflix.net
+watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
 watch.spencerdevs.xyz
@@ -1411,6 +1420,7 @@ wiztorrent.com
 wjungle.net
 worldfree4u.moe
 worldnews24.tv
+worldsports.st
 wotaku.wiki
 wowtopix.com
 wuxia.click
@@ -1420,12 +1430,13 @@ ww1.goojara.to
 ww1.sharespark.cfd
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
-www.1flex.nl
-www.1shows.nl
+www.1flex.ru
+www.1shows.ru
 www.2025copy.com
 www.23qb.net
 www.3cat.cat
 www.55comic.com
+www.90minutes.xyz
 www.a-zmanga.net
 www.addic7ed.com
 www.adit-hd.com
@@ -1523,6 +1534,7 @@ www.crossinfworld.com
 www.cxtv.com.br
 www.cxtvlive.com
 www.dailyscript.com
+www.damitvsports.com
 www.darkroom.film
 www.data-load.me
 www.ddlspot.com
@@ -1805,6 +1817,7 @@ yts-yify-note.md
 yts.bz
 ytsproxies.com
 yukisubs.wordpress.com
+yumemi.moe
 yumicoradio.net
 yurionair.top
 yuumanga.blogspot.com
@@ -1815,6 +1828,7 @@ zenko.online
 zero1cine.com
 zerostream.alwaysdata.net
 zeta.animerco.org
+zetmoon.live
 zokaj.com
 zxcprime.icu
 zxpinstaller.com

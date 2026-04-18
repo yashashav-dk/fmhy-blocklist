@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1816 domains)
-! Last updated: 2026-04-17T05:31:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1830 domains)
+! Last updated: 2026-04-18T05:10:37Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -41,6 +41,7 @@
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7plus.com.au^
+||7reels.cc^
 ||888dl.ps^
 ||a4.asurahosting.com^
 ||absorbiendomangas2.blogspot.com^
@@ -51,6 +52,7 @@
 ||adding-repos.html^
 ||addon-manager.viren070.me^
 ||addonsfortheweebs.midnightignite.me^
+||adrama.app^
 ||aether.bar^
 ||aether.mom^
 ||aha-music.com^
@@ -311,6 +313,7 @@
 ||cinetimes.org^
 ||cinetrii.com^
 ||cinevibe.asia^
+||cinevibe.to^
 ||cksub.org^
 ||cli.club^
 ||clients.md^
@@ -483,6 +486,7 @@
 ||flixvo.live^
 ||flixwatch.online^
 ||flixway.pro^
+||fluxtv.qzz.io^
 ||fmstream.org^
 ||footballia.eu^
 ||footballia.net^
@@ -920,6 +924,7 @@
 ||onepiecepower.com^
 ||onepiecetracklist.com^
 ||onhockey.tv^
+||onionplay.io^
 ||onisaga.com^
 ||onoflix.com^
 ||onoflix.ru^
@@ -1202,6 +1207,7 @@
 ||sushiscan.net^
 ||swimrewind.com^
 ||sync.coconono.org^
+||syncler.net^
 ||synthv.info^
 ||t.html^
 ||t1.xtoon2.com^
@@ -1273,6 +1279,7 @@
 ||touhou.ai^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
+||toustream.movietrunk.com^
 ||trace.moe^
 ||trailerpunk.com^
 ||transcripts.foreverdreaming.org^
@@ -1289,6 +1296,7 @@
 ||truyenqqgo.com^
 ||tsquareplaza.blogspot.com^
 ||tundra.moe^
+||tv.filmu.in^
 ||tv.jest^
 ||tv.jest.one^
 ||tv.pulp.watch^
@@ -1373,6 +1381,7 @@
 ||watch-wrestling.eu^
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
+||watch.filmu.in^
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.spencerdevs.xyz^
@@ -1415,6 +1424,7 @@
 ||wjungle.net^
 ||worldfree4u.moe^
 ||worldnews24.tv^
+||worldsports.st^
 ||wotaku.wiki^
 ||wowtopix.com^
 ||wuxia.click^
@@ -1424,12 +1434,13 @@
 ||ww1.sharespark.cfd^
 ||ww1.yesmovies.ag^
 ||ww14.kissasian.com.lv^
-||www.1flex.nl^
-||www.1shows.nl^
+||www.1flex.ru^
+||www.1shows.ru^
 ||www.2025copy.com^
 ||www.23qb.net^
 ||www.3cat.cat^
 ||www.55comic.com^
+||www.90minutes.xyz^
 ||www.a-zmanga.net^
 ||www.addic7ed.com^
 ||www.adit-hd.com^
@@ -1527,6 +1538,7 @@
 ||www.cxtv.com.br^
 ||www.cxtvlive.com^
 ||www.dailyscript.com^
+||www.damitvsports.com^
 ||www.darkroom.film^
 ||www.data-load.me^
 ||www.ddlspot.com^
@@ -1809,6 +1821,7 @@
 ||yts.bz^
 ||ytsproxies.com^
 ||yukisubs.wordpress.com^
+||yumemi.moe^
 ||yumicoradio.net^
 ||yurionair.top^
 ||yuumanga.blogspot.com^
@@ -1819,6 +1832,7 @@
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
 ||zeta.animerco.org^
+||zetmoon.live^
 ||zokaj.com^
 ||zxcprime.icu^
 ||zxpinstaller.com^
@@ -1860,6 +1874,7 @@
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7plus.com.au
+! 0.0.0.0 7reels.cc
 ! 0.0.0.0 888dl.ps
 ! 0.0.0.0 a4.asurahosting.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
@@ -1870,6 +1885,7 @@
 ! 0.0.0.0 adding-repos.html
 ! 0.0.0.0 addon-manager.viren070.me
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
+! 0.0.0.0 adrama.app
 ! 0.0.0.0 aether.bar
 ! 0.0.0.0 aether.mom
 ! 0.0.0.0 aha-music.com
@@ -2130,6 +2146,7 @@
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.asia
+! 0.0.0.0 cinevibe.to
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2302,6 +2319,7 @@
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixwatch.online
 ! 0.0.0.0 flixway.pro
+! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
@@ -2739,6 +2757,7 @@
 ! 0.0.0.0 onepiecepower.com
 ! 0.0.0.0 onepiecetracklist.com
 ! 0.0.0.0 onhockey.tv
+! 0.0.0.0 onionplay.io
 ! 0.0.0.0 onisaga.com
 ! 0.0.0.0 onoflix.com
 ! 0.0.0.0 onoflix.ru
@@ -3021,6 +3040,7 @@
 ! 0.0.0.0 sushiscan.net
 ! 0.0.0.0 swimrewind.com
 ! 0.0.0.0 sync.coconono.org
+! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t.html
 ! 0.0.0.0 t1.xtoon2.com
@@ -3092,6 +3112,7 @@
 ! 0.0.0.0 touhou.ai
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
+! 0.0.0.0 toustream.movietrunk.com
 ! 0.0.0.0 trace.moe
 ! 0.0.0.0 trailerpunk.com
 ! 0.0.0.0 transcripts.foreverdreaming.org
@@ -3108,6 +3129,7 @@
 ! 0.0.0.0 truyenqqgo.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tundra.moe
+! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
 ! 0.0.0.0 tv.pulp.watch
@@ -3192,6 +3214,7 @@
 ! 0.0.0.0 watch-wrestling.eu
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
+! 0.0.0.0 watch.filmu.in
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.spencerdevs.xyz
@@ -3234,6 +3257,7 @@
 ! 0.0.0.0 wjungle.net
 ! 0.0.0.0 worldfree4u.moe
 ! 0.0.0.0 worldnews24.tv
+! 0.0.0.0 worldsports.st
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wuxia.click
@@ -3243,12 +3267,13 @@
 ! 0.0.0.0 ww1.sharespark.cfd
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww14.kissasian.com.lv
-! 0.0.0.0 www.1flex.nl
-! 0.0.0.0 www.1shows.nl
+! 0.0.0.0 www.1flex.ru
+! 0.0.0.0 www.1shows.ru
 ! 0.0.0.0 www.2025copy.com
 ! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
 ! 0.0.0.0 www.55comic.com
+! 0.0.0.0 www.90minutes.xyz
 ! 0.0.0.0 www.a-zmanga.net
 ! 0.0.0.0 www.addic7ed.com
 ! 0.0.0.0 www.adit-hd.com
@@ -3346,6 +3371,7 @@
 ! 0.0.0.0 www.cxtv.com.br
 ! 0.0.0.0 www.cxtvlive.com
 ! 0.0.0.0 www.dailyscript.com
+! 0.0.0.0 www.damitvsports.com
 ! 0.0.0.0 www.darkroom.film
 ! 0.0.0.0 www.data-load.me
 ! 0.0.0.0 www.ddlspot.com
@@ -3628,6 +3654,7 @@
 ! 0.0.0.0 yts.bz
 ! 0.0.0.0 ytsproxies.com
 ! 0.0.0.0 yukisubs.wordpress.com
+! 0.0.0.0 yumemi.moe
 ! 0.0.0.0 yumicoradio.net
 ! 0.0.0.0 yurionair.top
 ! 0.0.0.0 yuumanga.blogspot.com
@@ -3638,6 +3665,7 @@
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zeta.animerco.org
+! 0.0.0.0 zetmoon.live
 ! 0.0.0.0 zokaj.com
 ! 0.0.0.0 zxcprime.icu
 ! 0.0.0.0 zxpinstaller.com
