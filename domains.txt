@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1830 domains | updated 2026-04-18T05:10:37Z
+# 1833 domains | updated 2026-04-19T05:32:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -657,6 +657,7 @@ kisskh.dk
 kisskh.fr
 kisskh.id
 kisskh.ovh
+kisskh.red
 kitsunekko.net
 komiic.com
 komikcast03.com
@@ -753,7 +754,7 @@ mangamirai.com
 mangapoisk.live
 mangaraw.ac
 mangaraw.best
-mangarawad.love
+mangarawad.bid
 mangarawjp.me
 mangashelf.co.il
 mangasora.net
@@ -1006,10 +1007,12 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.fo
+rawfree.nl
+rawinstant.net
 rawkuma.net
 rawlazy.io
 rawotaku.com
+rawsmanga.com
 rawuwu.net
 react.tv
 readallcomics.com
@@ -1236,7 +1239,6 @@ thetvapp.to
 thewiki.moe
 theyshootzombies.com
 thwiki.cc
-tidal.qqdl.site
 tiii.me
 times.abema.tv
 timesoccertv.com
@@ -1508,7 +1510,7 @@ www.best-moviez.ws
 www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
-www.bitcine.app
+www.bitcine.net
 www.bitview.net
 www.boredflix.com
 www.brokensilenze.net
@@ -1550,6 +1552,7 @@ www.ebookrenta.com
 www.edrlab.org
 www.elsubtitle.com
 www.emule-project.com
+www.entertainme.fun
 www.eshita.jp
 www.esjzone.cc
 www.eyedex.org

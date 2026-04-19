@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1830 domains)
-! Last updated: 2026-04-18T05:10:37Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1833 domains)
+! Last updated: 2026-04-19T05:32:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -661,6 +661,7 @@
 ||kisskh.fr^
 ||kisskh.id^
 ||kisskh.ovh^
+||kisskh.red^
 ||kitsunekko.net^
 ||komiic.com^
 ||komikcast03.com^
@@ -757,7 +758,7 @@
 ||mangapoisk.live^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.love^
+||mangarawad.bid^
 ||mangarawjp.me^
 ||mangashelf.co.il^
 ||mangasora.net^
@@ -1010,10 +1011,12 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.fo^
+||rawfree.nl^
+||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
 ||rawotaku.com^
+||rawsmanga.com^
 ||rawuwu.net^
 ||react.tv^
 ||readallcomics.com^
@@ -1240,7 +1243,6 @@
 ||thewiki.moe^
 ||theyshootzombies.com^
 ||thwiki.cc^
-||tidal.qqdl.site^
 ||tiii.me^
 ||times.abema.tv^
 ||timesoccertv.com^
@@ -1512,7 +1514,7 @@
 ||www.bimiacg.icu^
 ||www.bimiacg14.net^
 ||www.bingeclock.com^
-||www.bitcine.app^
+||www.bitcine.net^
 ||www.bitview.net^
 ||www.boredflix.com^
 ||www.brokensilenze.net^
@@ -1554,6 +1556,7 @@
 ||www.edrlab.org^
 ||www.elsubtitle.com^
 ||www.emule-project.com^
+||www.entertainme.fun^
 ||www.eshita.jp^
 ||www.esjzone.cc^
 ||www.eyedex.org^
@@ -2494,6 +2497,7 @@
 ! 0.0.0.0 kisskh.fr
 ! 0.0.0.0 kisskh.id
 ! 0.0.0.0 kisskh.ovh
+! 0.0.0.0 kisskh.red
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikcast03.com
@@ -2590,7 +2594,7 @@
 ! 0.0.0.0 mangapoisk.live
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.love
+! 0.0.0.0 mangarawad.bid
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangasora.net
@@ -2843,10 +2847,12 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.fo
+! 0.0.0.0 rawfree.nl
+! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
 ! 0.0.0.0 rawotaku.com
+! 0.0.0.0 rawsmanga.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
 ! 0.0.0.0 readallcomics.com
@@ -3073,7 +3079,6 @@
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thwiki.cc
-! 0.0.0.0 tidal.qqdl.site
 ! 0.0.0.0 tiii.me
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
@@ -3345,7 +3350,7 @@
 ! 0.0.0.0 www.bimiacg.icu
 ! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
-! 0.0.0.0 www.bitcine.app
+! 0.0.0.0 www.bitcine.net
 ! 0.0.0.0 www.bitview.net
 ! 0.0.0.0 www.boredflix.com
 ! 0.0.0.0 www.brokensilenze.net
@@ -3387,6 +3392,7 @@
 ! 0.0.0.0 www.edrlab.org
 ! 0.0.0.0 www.elsubtitle.com
 ! 0.0.0.0 www.emule-project.com
+! 0.0.0.0 www.entertainme.fun
 ! 0.0.0.0 www.eshita.jp
 ! 0.0.0.0 www.esjzone.cc
 ! 0.0.0.0 www.eyedex.org
