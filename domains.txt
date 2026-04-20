@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1833 domains | updated 2026-04-19T05:32:26Z
+# 1834 domains | updated 2026-04-20T05:44:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -646,6 +646,7 @@ kickassanime.cx
 kids-in-mind.com
 kilatlive.net
 kimcartoon.si
+kimoitv.com
 kindlemodding.org
 kinozal.tv
 kissanime.com.ru
@@ -1059,7 +1060,7 @@ rugby24.net
 russianfilmhub.com
 rutracker.org
 rutube.ru
-s24.anichin.blog
+s25.anichin.blog
 s7-tv.blogspot.com
 sadscans.net
 sakuhindb.com

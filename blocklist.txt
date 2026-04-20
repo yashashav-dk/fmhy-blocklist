@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1833 domains)
-! Last updated: 2026-04-19T05:32:26Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1834 domains)
+! Last updated: 2026-04-20T05:44:54Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -650,6 +650,7 @@
 ||kids-in-mind.com^
 ||kilatlive.net^
 ||kimcartoon.si^
+||kimoitv.com^
 ||kindlemodding.org^
 ||kinozal.tv^
 ||kissanime.com.ru^
@@ -1063,7 +1064,7 @@
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
-||s24.anichin.blog^
+||s25.anichin.blog^
 ||s7-tv.blogspot.com^
 ||sadscans.net^
 ||sakuhindb.com^
@@ -2486,6 +2487,7 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kilatlive.net
 ! 0.0.0.0 kimcartoon.si
+! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kinozal.tv
 ! 0.0.0.0 kissanime.com.ru
@@ -2899,7 +2901,7 @@
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
-! 0.0.0.0 s24.anichin.blog
+! 0.0.0.0 s25.anichin.blog
 ! 0.0.0.0 s7-tv.blogspot.com
 ! 0.0.0.0 sadscans.net
 ! 0.0.0.0 sakuhindb.com
