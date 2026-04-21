@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1834 domains)
-! Last updated: 2026-04-20T05:44:54Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1837 domains)
+! Last updated: 2026-04-21T05:31:15Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -74,6 +74,7 @@
 ||ani.lol^
 ||ani4u.org^
 ||anianimals.moe^
+||anibd.app^
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
 ||anica.jp^
@@ -132,7 +133,6 @@
 ||animecorner.me^
 ||animecountdown.com^
 ||animedb.jp^
-||animedefenders.me^
 ||animedesu.pl^
 ||animedrive.hu^
 ||animefire.plus^
@@ -369,14 +369,14 @@
 ||cubeflix.org^
 ||cubiktv.com^
 ||cuutruyen.net^
-||dabmusic.xyz^
 ||daddylive.im^
 ||daddylive.pw^
 ||daddylive.top^
 ||daddylives.nl^
 ||daddyny.com^
 ||dailycommercials.com^
-||damitv.pro^
+||damitv.live^
+||damitvsports.com^
 ||db.silveryasha.id^
 ||dd12streams.com^
 ||ddlbase.com^
@@ -531,7 +531,6 @@
 ||globeradio.app^
 ||globetv.app^
 ||go.aftvnews.com^
-||goalkick.live^
 ||goctruyentranh.net^
 ||godriveplayer.com^
 ||gomuraw.com^
@@ -572,6 +571,7 @@
 ||hicartoon.to^
 ||hikka.io^
 ||hindmoviez.cafe^
+||hizomanga.net^
 ||hkmdb.com^
 ||hollymoviehd-official.com^
 ||hollymoviehd.cc^
@@ -722,6 +722,7 @@
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.page^
+||magicnzb.com^
 ||magyaranime.eu^
 ||main.jart^
 ||main.mp^
@@ -960,7 +961,6 @@
 ||playtorrio.xyz^
 ||plaza.one^
 ||plexmovies.online^
-||plotnf.com^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
 ||popcornflix.com^
@@ -1058,6 +1058,9 @@
 ||rmzmirrors.com^
 ||rockvalleynovels.wixsite.com^
 ||rouman5.com^
+||roxiestreams.cc^
+||roxiestreams.info^
+||roxiestreams.su^
 ||rss.php^
 ||rss.xml^
 ||rugby24.net^
@@ -1536,12 +1539,12 @@
 ||www.comicbooktreasury.com^
 ||www.comichron.com^
 ||www.comicshoplocator.com^
+||www.continuityguide.net^
 ||www.copy20.com^
 ||www.crossinfworld.com^
 ||www.cxtv.com.br^
 ||www.cxtvlive.com^
 ||www.dailyscript.com^
-||www.damitvsports.com^
 ||www.darkroom.film^
 ||www.data-load.me^
 ||www.ddlspot.com^
@@ -1911,6 +1914,7 @@
 ! 0.0.0.0 ani.lol
 ! 0.0.0.0 ani4u.org
 ! 0.0.0.0 anianimals.moe
+! 0.0.0.0 anibd.app
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
 ! 0.0.0.0 anica.jp
@@ -1969,7 +1973,6 @@
 ! 0.0.0.0 animecorner.me
 ! 0.0.0.0 animecountdown.com
 ! 0.0.0.0 animedb.jp
-! 0.0.0.0 animedefenders.me
 ! 0.0.0.0 animedesu.pl
 ! 0.0.0.0 animedrive.hu
 ! 0.0.0.0 animefire.plus
@@ -2206,14 +2209,14 @@
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cuutruyen.net
-! 0.0.0.0 dabmusic.xyz
 ! 0.0.0.0 daddylive.im
 ! 0.0.0.0 daddylive.pw
 ! 0.0.0.0 daddylive.top
 ! 0.0.0.0 daddylives.nl
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
-! 0.0.0.0 damitv.pro
+! 0.0.0.0 damitv.live
+! 0.0.0.0 damitvsports.com
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 dd12streams.com
 ! 0.0.0.0 ddlbase.com
@@ -2368,7 +2371,6 @@
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
-! 0.0.0.0 goalkick.live
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 godriveplayer.com
 ! 0.0.0.0 gomuraw.com
@@ -2409,6 +2411,7 @@
 ! 0.0.0.0 hicartoon.to
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
+! 0.0.0.0 hizomanga.net
 ! 0.0.0.0 hkmdb.com
 ! 0.0.0.0 hollymoviehd-official.com
 ! 0.0.0.0 hollymoviehd.cc
@@ -2559,6 +2562,7 @@
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.page
+! 0.0.0.0 magicnzb.com
 ! 0.0.0.0 magyaranime.eu
 ! 0.0.0.0 main.jart
 ! 0.0.0.0 main.mp
@@ -2797,7 +2801,6 @@
 ! 0.0.0.0 playtorrio.xyz
 ! 0.0.0.0 plaza.one
 ! 0.0.0.0 plexmovies.online
-! 0.0.0.0 plotnf.com
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 popcornflix.com
@@ -2895,6 +2898,9 @@
 ! 0.0.0.0 rmzmirrors.com
 ! 0.0.0.0 rockvalleynovels.wixsite.com
 ! 0.0.0.0 rouman5.com
+! 0.0.0.0 roxiestreams.cc
+! 0.0.0.0 roxiestreams.info
+! 0.0.0.0 roxiestreams.su
 ! 0.0.0.0 rss.php
 ! 0.0.0.0 rss.xml
 ! 0.0.0.0 rugby24.net
@@ -3373,12 +3379,12 @@
 ! 0.0.0.0 www.comicbooktreasury.com
 ! 0.0.0.0 www.comichron.com
 ! 0.0.0.0 www.comicshoplocator.com
+! 0.0.0.0 www.continuityguide.net
 ! 0.0.0.0 www.copy20.com
 ! 0.0.0.0 www.crossinfworld.com
 ! 0.0.0.0 www.cxtv.com.br
 ! 0.0.0.0 www.cxtvlive.com
 ! 0.0.0.0 www.dailyscript.com
-! 0.0.0.0 www.damitvsports.com
 ! 0.0.0.0 www.darkroom.film
 ! 0.0.0.0 www.data-load.me
 ! 0.0.0.0 www.ddlspot.com

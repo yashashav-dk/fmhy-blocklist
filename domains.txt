@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1834 domains | updated 2026-04-20T05:44:54Z
+# 1837 domains | updated 2026-04-21T05:31:15Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -70,6 +70,7 @@ andlibria.qt
 ani.lol
 ani4u.org
 anianimals.moe
+anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
 anica.jp
@@ -128,7 +129,6 @@ animecons.com
 animecorner.me
 animecountdown.com
 animedb.jp
-animedefenders.me
 animedesu.pl
 animedrive.hu
 animefire.plus
@@ -365,14 +365,14 @@ cubari.moe
 cubeflix.org
 cubiktv.com
 cuutruyen.net
-dabmusic.xyz
 daddylive.im
 daddylive.pw
 daddylive.top
 daddylives.nl
 daddyny.com
 dailycommercials.com
-damitv.pro
+damitv.live
+damitvsports.com
 db.silveryasha.id
 dd12streams.com
 ddlbase.com
@@ -527,7 +527,6 @@ global.toptoon.com
 globeradio.app
 globetv.app
 go.aftvnews.com
-goalkick.live
 goctruyentranh.net
 godriveplayer.com
 gomuraw.com
@@ -568,6 +567,7 @@ hi10anime.com
 hicartoon.to
 hikka.io
 hindmoviez.cafe
+hizomanga.net
 hkmdb.com
 hollymoviehd-official.com
 hollymoviehd.cc
@@ -718,6 +718,7 @@ m.flixindia.xyz
 m3u-ip.tv
 m3u4u.com
 m4uhd.page
+magicnzb.com
 magyaranime.eu
 main.jart
 main.mp
@@ -956,7 +957,6 @@ playlists.at
 playtorrio.xyz
 plaza.one
 plexmovies.online
-plotnf.com
 plugin.audio.navidrome
 plugin.audio.subsonic
 popcornflix.com
@@ -1054,6 +1054,9 @@ rmz.cr
 rmzmirrors.com
 rockvalleynovels.wixsite.com
 rouman5.com
+roxiestreams.cc
+roxiestreams.info
+roxiestreams.su
 rss.php
 rss.xml
 rugby24.net
@@ -1532,12 +1535,12 @@ www.comicbookherald.com
 www.comicbooktreasury.com
 www.comichron.com
 www.comicshoplocator.com
+www.continuityguide.net
 www.copy20.com
 www.crossinfworld.com
 www.cxtv.com.br
 www.cxtvlive.com
 www.dailyscript.com
-www.damitvsports.com
 www.darkroom.film
 www.data-load.me
 www.ddlspot.com
