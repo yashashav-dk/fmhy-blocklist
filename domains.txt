@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1837 domains | updated 2026-04-21T05:31:15Z
+# 1837 domains | updated 2026-04-22T05:29:36Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -869,8 +869,6 @@ newstream.html
 newtoki468.com
 nextflick.tv
 nextnovels.com
-nexvid.online
-nexvid.pl
 nfl-replays.com
 nfl-video.com
 nflhunter.com
@@ -1154,7 +1152,7 @@ sporting77.ru
 sportontv.biz
 sports24.cc
 sportsurge.bz
-sportyhunter.com
+sportyhunter.space
 squid.wtf
 srstop.link
 ssrmovies.com
@@ -1458,6 +1456,7 @@ www.androidtv-guide.com
 www.anianimals.moe
 www.anibunker.com
 www.anikore.jp
+www.animatetimes.com
 www.anime-jl.net
 www.anime-loads.org
 www.anime-overdose.com
@@ -1520,13 +1519,13 @@ www.boredflix.com
 www.brokensilenze.net
 www.bumpworthy.com
 www.cagematch.net
+www.catsuka.com
 www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
 www.cineby.gd
 www.cineby.sc
-www.cineflow.watch
 www.cinezo.net
 www.classreal.com
 www.colamanga.com
@@ -1645,6 +1644,7 @@ www.mangasplaining.com
 www.mangaworld.ac
 www.mangaworldadult.net
 www.manhuagui.com
+www.mau2.com
 www.miobt.com
 www.miruro.com
 www.miruro.to

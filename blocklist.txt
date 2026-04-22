@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1837 domains)
-! Last updated: 2026-04-21T05:31:15Z
+! Last updated: 2026-04-22T05:29:36Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -873,8 +873,6 @@
 ||newtoki468.com^
 ||nextflick.tv^
 ||nextnovels.com^
-||nexvid.online^
-||nexvid.pl^
 ||nfl-replays.com^
 ||nfl-video.com^
 ||nflhunter.com^
@@ -1158,7 +1156,7 @@
 ||sportontv.biz^
 ||sports24.cc^
 ||sportsurge.bz^
-||sportyhunter.com^
+||sportyhunter.space^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -1462,6 +1460,7 @@
 ||www.anianimals.moe^
 ||www.anibunker.com^
 ||www.anikore.jp^
+||www.animatetimes.com^
 ||www.anime-jl.net^
 ||www.anime-loads.org^
 ||www.anime-overdose.com^
@@ -1524,13 +1523,13 @@
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
 ||www.cagematch.net^
+||www.catsuka.com^
 ||www.cclm.cl^
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineby.gd^
 ||www.cineby.sc^
-||www.cineflow.watch^
 ||www.cinezo.net^
 ||www.classreal.com^
 ||www.colamanga.com^
@@ -1649,6 +1648,7 @@
 ||www.mangaworld.ac^
 ||www.mangaworldadult.net^
 ||www.manhuagui.com^
+||www.mau2.com^
 ||www.miobt.com^
 ||www.miruro.com^
 ||www.miruro.to^
@@ -2713,8 +2713,6 @@
 ! 0.0.0.0 newtoki468.com
 ! 0.0.0.0 nextflick.tv
 ! 0.0.0.0 nextnovels.com
-! 0.0.0.0 nexvid.online
-! 0.0.0.0 nexvid.pl
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nflhunter.com
@@ -2998,7 +2996,7 @@
 ! 0.0.0.0 sportontv.biz
 ! 0.0.0.0 sports24.cc
 ! 0.0.0.0 sportsurge.bz
-! 0.0.0.0 sportyhunter.com
+! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
@@ -3302,6 +3300,7 @@
 ! 0.0.0.0 www.anianimals.moe
 ! 0.0.0.0 www.anibunker.com
 ! 0.0.0.0 www.anikore.jp
+! 0.0.0.0 www.animatetimes.com
 ! 0.0.0.0 www.anime-jl.net
 ! 0.0.0.0 www.anime-loads.org
 ! 0.0.0.0 www.anime-overdose.com
@@ -3364,13 +3363,13 @@
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
 ! 0.0.0.0 www.cagematch.net
+! 0.0.0.0 www.catsuka.com
 ! 0.0.0.0 www.cclm.cl
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineby.gd
 ! 0.0.0.0 www.cineby.sc
-! 0.0.0.0 www.cineflow.watch
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
 ! 0.0.0.0 www.colamanga.com
@@ -3489,6 +3488,7 @@
 ! 0.0.0.0 www.mangaworld.ac
 ! 0.0.0.0 www.mangaworldadult.net
 ! 0.0.0.0 www.manhuagui.com
+! 0.0.0.0 www.mau2.com
 ! 0.0.0.0 www.miobt.com
 ! 0.0.0.0 www.miruro.com
 ! 0.0.0.0 www.miruro.to
