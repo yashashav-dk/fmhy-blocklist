@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1837 domains)
-! Last updated: 2026-04-22T05:29:36Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1835 domains)
+! Last updated: 2026-04-23T05:34:32Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -189,6 +189,7 @@
 ||animex.one^
 ||animexin.dev^
 ||animeyy.com^
+||animotvslash.nl^
 ||animoye.com^
 ||animusic.moe^
 ||anipiece.net^
@@ -631,7 +632,7 @@
 ||kaa.lt^
 ||kaa.to^
 ||kagane.org^
-||kaido.to^
+||kajzu.com^
 ||kakuseiproject.com^
 ||kara.moe^
 ||kartoons.me^
@@ -984,7 +985,6 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
-||qmanga.art^
 ||quiz.animesongs.org^
 ||r-a-d.io^
 ||radio-anime24.pls^
@@ -1258,11 +1258,9 @@
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
-||toku555.com^
 ||tokusatsunetwork.com^
 ||tokuvn.com^
 ||tokuzilla.net^
-||tokuzl.net^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
@@ -1622,6 +1620,7 @@
 ||www.kiboanime.app^
 ||www.koodoreader.com^
 ||www.koreandrama.org^
+||www.kumanga.com^
 ||www.lecinemaclub.com^
 ||www.lesbonscomptes.com^
 ||www.levidia.ch^
@@ -1655,7 +1654,6 @@
 ||www.mmnt.net^
 ||www.mmnt.ru^
 ||www.modsyndicate.com^
-||www.mojuru.app^
 ||www.movie-censorship.com^
 ||www.movie-locations.com^
 ||www.movieloci.com^
@@ -2029,6 +2027,7 @@
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
 ! 0.0.0.0 animeyy.com
+! 0.0.0.0 animotvslash.nl
 ! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 anipiece.net
@@ -2471,7 +2470,7 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
-! 0.0.0.0 kaido.to
+! 0.0.0.0 kajzu.com
 ! 0.0.0.0 kakuseiproject.com
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.me
@@ -2824,7 +2823,6 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
-! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
 ! 0.0.0.0 radio-anime24.pls
@@ -3098,11 +3096,9 @@
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
-! 0.0.0.0 toku555.com
 ! 0.0.0.0 tokusatsunetwork.com
 ! 0.0.0.0 tokuvn.com
 ! 0.0.0.0 tokuzilla.net
-! 0.0.0.0 tokuzl.net
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
@@ -3462,6 +3458,7 @@
 ! 0.0.0.0 www.kiboanime.app
 ! 0.0.0.0 www.koodoreader.com
 ! 0.0.0.0 www.koreandrama.org
+! 0.0.0.0 www.kumanga.com
 ! 0.0.0.0 www.lecinemaclub.com
 ! 0.0.0.0 www.lesbonscomptes.com
 ! 0.0.0.0 www.levidia.ch
@@ -3495,7 +3492,6 @@
 ! 0.0.0.0 www.mmnt.net
 ! 0.0.0.0 www.mmnt.ru
 ! 0.0.0.0 www.modsyndicate.com
-! 0.0.0.0 www.mojuru.app
 ! 0.0.0.0 www.movie-censorship.com
 ! 0.0.0.0 www.movie-locations.com
 ! 0.0.0.0 www.movieloci.com

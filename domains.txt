@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1837 domains | updated 2026-04-22T05:29:36Z
+# 1835 domains | updated 2026-04-23T05:34:32Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -185,6 +185,7 @@ animewat.ch
 animex.one
 animexin.dev
 animeyy.com
+animotvslash.nl
 animoye.com
 animusic.moe
 anipiece.net
@@ -627,7 +628,7 @@ justsubtitles.com
 kaa.lt
 kaa.to
 kagane.org
-kaido.to
+kajzu.com
 kakuseiproject.com
 kara.moe
 kartoons.me
@@ -980,7 +981,6 @@ psychodownloads.com
 pulsedmedia.com
 puretoons.in
 pwrestling.com
-qmanga.art
 quiz.animesongs.org
 r-a-d.io
 radio-anime24.pls
@@ -1254,11 +1254,9 @@ tkor104.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
-toku555.com
 tokusatsunetwork.com
 tokuvn.com
 tokuzilla.net
-tokuzl.net
 tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
@@ -1618,6 +1616,7 @@ www.kanzenshuu.com
 www.kiboanime.app
 www.koodoreader.com
 www.koreandrama.org
+www.kumanga.com
 www.lecinemaclub.com
 www.lesbonscomptes.com
 www.levidia.ch
@@ -1651,7 +1650,6 @@ www.miruro.to
 www.mmnt.net
 www.mmnt.ru
 www.modsyndicate.com
-www.mojuru.app
 www.movie-censorship.com
 www.movie-locations.com
 www.movieloci.com
