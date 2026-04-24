@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1835 domains | updated 2026-04-23T05:34:32Z
+# 1835 domains | updated 2026-04-24T05:39:25Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -184,7 +184,6 @@ animevsub.eu.org
 animewat.ch
 animex.one
 animexin.dev
-animeyy.com
 animotvslash.nl
 animoye.com
 animusic.moe
@@ -1432,8 +1431,8 @@ ww1.goojara.to
 ww1.sharespark.cfd
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
-www.1flex.ru
-www.1shows.ru
+www.1flex.org
+www.1shows.org
 www.2025copy.com
 www.23qb.net
 www.3cat.cat
@@ -1696,6 +1695,7 @@ www.ratingraph.com
 www.rbsports77.mom
 www.reelscary.com
 www.releases.com
+www.rgshows.org
 www.rgshows.ru
 www.rivestream.app
 www.rpgamers.net
@@ -1792,7 +1792,7 @@ www.yomu-reader.com
 www.zimmerit.moe
 www.zophar.net
 www12.dramacool.sr
-www3.animeflv.net
+www4.animeflv.net
 x27.html
 x3dl.net
 xalosach.com

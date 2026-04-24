@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1835 domains)
-! Last updated: 2026-04-23T05:34:32Z
+! Last updated: 2026-04-24T05:39:25Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -188,7 +188,6 @@
 ||animewat.ch^
 ||animex.one^
 ||animexin.dev^
-||animeyy.com^
 ||animotvslash.nl^
 ||animoye.com^
 ||animusic.moe^
@@ -1436,8 +1435,8 @@
 ||ww1.sharespark.cfd^
 ||ww1.yesmovies.ag^
 ||ww14.kissasian.com.lv^
-||www.1flex.ru^
-||www.1shows.ru^
+||www.1flex.org^
+||www.1shows.org^
 ||www.2025copy.com^
 ||www.23qb.net^
 ||www.3cat.cat^
@@ -1700,6 +1699,7 @@
 ||www.rbsports77.mom^
 ||www.reelscary.com^
 ||www.releases.com^
+||www.rgshows.org^
 ||www.rgshows.ru^
 ||www.rivestream.app^
 ||www.rpgamers.net^
@@ -1796,7 +1796,7 @@
 ||www.zimmerit.moe^
 ||www.zophar.net^
 ||www12.dramacool.sr^
-||www3.animeflv.net^
+||www4.animeflv.net^
 ||x27.html^
 ||x3dl.net^
 ||xalosach.com^
@@ -2026,7 +2026,6 @@
 ! 0.0.0.0 animewat.ch
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
-! 0.0.0.0 animeyy.com
 ! 0.0.0.0 animotvslash.nl
 ! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
@@ -3274,8 +3273,8 @@
 ! 0.0.0.0 ww1.sharespark.cfd
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww14.kissasian.com.lv
-! 0.0.0.0 www.1flex.ru
-! 0.0.0.0 www.1shows.ru
+! 0.0.0.0 www.1flex.org
+! 0.0.0.0 www.1shows.org
 ! 0.0.0.0 www.2025copy.com
 ! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
@@ -3538,6 +3537,7 @@
 ! 0.0.0.0 www.rbsports77.mom
 ! 0.0.0.0 www.reelscary.com
 ! 0.0.0.0 www.releases.com
+! 0.0.0.0 www.rgshows.org
 ! 0.0.0.0 www.rgshows.ru
 ! 0.0.0.0 www.rivestream.app
 ! 0.0.0.0 www.rpgamers.net
@@ -3634,7 +3634,7 @@
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zophar.net
 ! 0.0.0.0 www12.dramacool.sr
-! 0.0.0.0 www3.animeflv.net
+! 0.0.0.0 www4.animeflv.net
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 x3dl.net
 ! 0.0.0.0 xalosach.com
