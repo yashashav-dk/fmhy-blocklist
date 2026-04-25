@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1835 domains)
-! Last updated: 2026-04-24T05:39:25Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1846 domains)
+! Last updated: 2026-04-25T05:15:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -68,6 +68,7 @@
 ||allwrestling24.com^
 ||althub.co.za^
 ||amalgam-fansubs.moe^
+||amvenfer.fr^
 ||amvnews.ru^
 ||an1me.to^
 ||andlibria.qt^
@@ -215,7 +216,6 @@
 ||anonops.com^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
-||ar.tvplayer.tv^
 ||arabshentai.com^
 ||argoscomics.online^
 ||article.olduse.net^
@@ -296,6 +296,7 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||cinebolt.net^
+||cinebytv-note.md^
 ||cinebytv.com^
 ||cinego.co^
 ||cinegram.net^
@@ -520,6 +521,7 @@
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||garden.breadio.wiki^
+||gearwheel.html^
 ||geekdot.live^
 ||gensokyoradio.net^
 ||getcomics.org^
@@ -547,7 +549,8 @@
 ||guide.html^
 ||guides.htm^
 ||guides.viren070.me^
-||guzesqdro.dev^
+||guzes.surge.sh^
+||guzesqdro.surge.sh^
 ||hakuneko.download^
 ||halcyonrealms.com^
 ||hanime1.me^
@@ -642,7 +645,6 @@
 ||kazemakase.wjg.jp^
 ||kcnawatch.us^
 ||kesifasya.com^
-||ketaflix.st^
 ||keyframe-staff-list.com^
 ||keygenmusic.tk^
 ||kibo.fm^
@@ -795,6 +797,10 @@
 ||mikudb.moe^
 ||mindmine.audiobook^
 ||miru.js.org^
+||miruro.bz^
+||miruro.online^
+||miruro.to^
+||miruro.tv^
 ||mitsukeru.timschneeberger.me^
 ||mixdebrid.com^
 ||mixmoose.com^
@@ -1160,7 +1166,9 @@
 ||srstop.link^
 ||ssrmovies.com^
 ||staff.iklone.org^
+||static.sneedex.moe^
 ||status.dinsden.top^
+||status.miruro.com^
 ||stigstream.ru^
 ||store.rg^
 ||stream.gensokyoradio.net^
@@ -1251,6 +1259,7 @@
 ||timstreams.net^
 ||tioanime.com^
 ||tiodonghua.com^
+||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
 ||tkor104.com^
@@ -1303,14 +1312,16 @@
 ||tv.pulp.watch^
 ||tv.vynx.cc^
 ||tv247us.vip^
+||tvalt.surge.sh^
 ||tvchart.benmiz.com^
 ||tvcharts.co^
-||tvfreedom.ct.ws^
-||tvfreedom.duckdns.org^
-||tvfreedom.free.nf^
-||tvfreedom.gt.tc^
+||tvforfree.surge.sh^
+||tvfredom.surge.sh^
+||tvfree.surge.sh^
+||tvfreedom.surge.sh^
 ||tvids.me^
 ||tvids.tv^
+||tvmirror.surge.sh^
 ||tvpass.org^
 ||tvsboy.com^
 ||tvshows.ac^
@@ -1906,6 +1917,7 @@
 ! 0.0.0.0 allwrestling24.com
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amalgam-fansubs.moe
+! 0.0.0.0 amvenfer.fr
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
 ! 0.0.0.0 andlibria.qt
@@ -2053,7 +2065,6 @@
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
-! 0.0.0.0 ar.tvplayer.tv
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 article.olduse.net
@@ -2134,6 +2145,7 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 cinebolt.net
+! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.net
@@ -2358,6 +2370,7 @@
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 garden.breadio.wiki
+! 0.0.0.0 gearwheel.html
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 getcomics.org
@@ -2385,7 +2398,8 @@
 ! 0.0.0.0 guide.html
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
-! 0.0.0.0 guzesqdro.dev
+! 0.0.0.0 guzes.surge.sh
+! 0.0.0.0 guzesqdro.surge.sh
 ! 0.0.0.0 hakuneko.download
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
@@ -2480,7 +2494,6 @@
 ! 0.0.0.0 kazemakase.wjg.jp
 ! 0.0.0.0 kcnawatch.us
 ! 0.0.0.0 kesifasya.com
-! 0.0.0.0 ketaflix.st
 ! 0.0.0.0 keyframe-staff-list.com
 ! 0.0.0.0 keygenmusic.tk
 ! 0.0.0.0 kibo.fm
@@ -2633,6 +2646,10 @@
 ! 0.0.0.0 mikudb.moe
 ! 0.0.0.0 mindmine.audiobook
 ! 0.0.0.0 miru.js.org
+! 0.0.0.0 miruro.bz
+! 0.0.0.0 miruro.online
+! 0.0.0.0 miruro.to
+! 0.0.0.0 miruro.tv
 ! 0.0.0.0 mitsukeru.timschneeberger.me
 ! 0.0.0.0 mixdebrid.com
 ! 0.0.0.0 mixmoose.com
@@ -2998,7 +3015,9 @@
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
 ! 0.0.0.0 staff.iklone.org
+! 0.0.0.0 static.sneedex.moe
 ! 0.0.0.0 status.dinsden.top
+! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 stream.gensokyoradio.net
@@ -3089,6 +3108,7 @@
 ! 0.0.0.0 timstreams.net
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
+! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
 ! 0.0.0.0 tkor104.com
@@ -3141,14 +3161,16 @@
 ! 0.0.0.0 tv.pulp.watch
 ! 0.0.0.0 tv.vynx.cc
 ! 0.0.0.0 tv247us.vip
+! 0.0.0.0 tvalt.surge.sh
 ! 0.0.0.0 tvchart.benmiz.com
 ! 0.0.0.0 tvcharts.co
-! 0.0.0.0 tvfreedom.ct.ws
-! 0.0.0.0 tvfreedom.duckdns.org
-! 0.0.0.0 tvfreedom.free.nf
-! 0.0.0.0 tvfreedom.gt.tc
+! 0.0.0.0 tvforfree.surge.sh
+! 0.0.0.0 tvfredom.surge.sh
+! 0.0.0.0 tvfree.surge.sh
+! 0.0.0.0 tvfreedom.surge.sh
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvids.tv
+! 0.0.0.0 tvmirror.surge.sh
 ! 0.0.0.0 tvpass.org
 ! 0.0.0.0 tvsboy.com
 ! 0.0.0.0 tvshows.ac

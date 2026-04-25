@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1835 domains | updated 2026-04-24T05:39:25Z
+# 1846 domains | updated 2026-04-25T05:15:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -64,6 +64,7 @@ allnovel.org
 allwrestling24.com
 althub.co.za
 amalgam-fansubs.moe
+amvenfer.fr
 amvnews.ru
 an1me.to
 andlibria.qt
@@ -211,7 +212,6 @@ anoboye.com
 anonops.com
 app.animevsub.eu.org
 app.buffstream.io
-ar.tvplayer.tv
 arabshentai.com
 argoscomics.online
 article.olduse.net
@@ -292,6 +292,7 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 cinebolt.net
+cinebytv-note.md
 cinebytv.com
 cinego.co
 cinegram.net
@@ -516,6 +517,7 @@ g4u.to
 gadgeteer.co.za
 gaiaflix.live
 garden.breadio.wiki
+gearwheel.html
 geekdot.live
 gensokyoradio.net
 getcomics.org
@@ -543,7 +545,8 @@ guide.encode.moe
 guide.html
 guides.htm
 guides.viren070.me
-guzesqdro.dev
+guzes.surge.sh
+guzesqdro.surge.sh
 hakuneko.download
 halcyonrealms.com
 hanime1.me
@@ -638,7 +641,6 @@ kayoanime.com
 kazemakase.wjg.jp
 kcnawatch.us
 kesifasya.com
-ketaflix.st
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
@@ -791,6 +793,10 @@ mikanani.me
 mikudb.moe
 mindmine.audiobook
 miru.js.org
+miruro.bz
+miruro.online
+miruro.to
+miruro.tv
 mitsukeru.timschneeberger.me
 mixdebrid.com
 mixmoose.com
@@ -1156,7 +1162,9 @@ squid.wtf
 srstop.link
 ssrmovies.com
 staff.iklone.org
+static.sneedex.moe
 status.dinsden.top
+status.miruro.com
 stigstream.ru
 store.rg
 stream.gensokyoradio.net
@@ -1247,6 +1255,7 @@ timstreams.fit
 timstreams.net
 tioanime.com
 tiodonghua.com
+tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
 tkor104.com
@@ -1299,14 +1308,16 @@ tv.jest.one
 tv.pulp.watch
 tv.vynx.cc
 tv247us.vip
+tvalt.surge.sh
 tvchart.benmiz.com
 tvcharts.co
-tvfreedom.ct.ws
-tvfreedom.duckdns.org
-tvfreedom.free.nf
-tvfreedom.gt.tc
+tvforfree.surge.sh
+tvfredom.surge.sh
+tvfree.surge.sh
+tvfreedom.surge.sh
 tvids.me
 tvids.tv
+tvmirror.surge.sh
 tvpass.org
 tvsboy.com
 tvshows.ac
