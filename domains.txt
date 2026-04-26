@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1846 domains | updated 2026-04-25T05:15:28Z
+# 1844 domains | updated 2026-04-26T05:42:57Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -517,7 +517,6 @@ g4u.to
 gadgeteer.co.za
 gaiaflix.live
 garden.breadio.wiki
-gearwheel.html
 geekdot.live
 gensokyoradio.net
 getcomics.org
@@ -808,7 +807,6 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
-monochrome.tf
 monoschinos2.com
 moonflix.com
 moriyashrine.org
@@ -1129,7 +1127,6 @@ silentaperture.gitlab.io
 siptv.eu
 site.yummyani.me
 skiley.net
-skuy.co.id
 slow.pics
 smashystream.com
 smashystream.xyz
@@ -1344,6 +1341,7 @@ utaitedb.net
 utaten.com
 v0n.notion.site
 v2.gostreameast.link
+v2.samehadaku.how
 v2.sportsurge.net
 vaughn.live
 vavoo.to

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1846 domains)
-! Last updated: 2026-04-25T05:15:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1844 domains)
+! Last updated: 2026-04-26T05:42:57Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -521,7 +521,6 @@
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||garden.breadio.wiki^
-||gearwheel.html^
 ||geekdot.live^
 ||gensokyoradio.net^
 ||getcomics.org^
@@ -812,7 +811,6 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
-||monochrome.tf^
 ||monoschinos2.com^
 ||moonflix.com^
 ||moriyashrine.org^
@@ -1133,7 +1131,6 @@
 ||siptv.eu^
 ||site.yummyani.me^
 ||skiley.net^
-||skuy.co.id^
 ||slow.pics^
 ||smashystream.com^
 ||smashystream.xyz^
@@ -1348,6 +1345,7 @@
 ||utaten.com^
 ||v0n.notion.site^
 ||v2.gostreameast.link^
+||v2.samehadaku.how^
 ||v2.sportsurge.net^
 ||vaughn.live^
 ||vavoo.to^
@@ -2370,7 +2368,6 @@
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 garden.breadio.wiki
-! 0.0.0.0 gearwheel.html
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 getcomics.org
@@ -2661,7 +2658,6 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
-! 0.0.0.0 monochrome.tf
 ! 0.0.0.0 monoschinos2.com
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moriyashrine.org
@@ -2982,7 +2978,6 @@
 ! 0.0.0.0 siptv.eu
 ! 0.0.0.0 site.yummyani.me
 ! 0.0.0.0 skiley.net
-! 0.0.0.0 skuy.co.id
 ! 0.0.0.0 slow.pics
 ! 0.0.0.0 smashystream.com
 ! 0.0.0.0 smashystream.xyz
@@ -3197,6 +3192,7 @@
 ! 0.0.0.0 utaten.com
 ! 0.0.0.0 v0n.notion.site
 ! 0.0.0.0 v2.gostreameast.link
+! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vavoo.to
