@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1844 domains)
-! Last updated: 2026-04-26T05:42:57Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1838 domains)
+! Last updated: 2026-04-27T05:57:38Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -93,7 +93,6 @@
 ||anigo.to^
 ||aniguessr.com^
 ||anihq.to^
-||anikage.cc^
 ||anikai.to^
 ||anikototv.to^
 ||anikuro.ru^
@@ -128,6 +127,7 @@
 ||animeawards.moe^
 ||animebalkan.gg^
 ||animebalkan.org^
+||animebashindia.me^
 ||animebathscenewiki.com^
 ||animebuff.ru^
 ||animecons.com^
@@ -139,7 +139,6 @@
 ||animefire.plus^
 ||animehay.in^
 ||animehub.ac^
-||animejoker.com^
 ||animejoy.ru^
 ||animekai.fi^
 ||animekai.fo^
@@ -159,7 +158,6 @@
 ||animemusicquiz.com^
 ||animenosub.to^
 ||animeonsen.xyz^
-||animepahe.com^
 ||animepahe.pw^
 ||animeradio.de^
 ||animerank.top^
@@ -277,7 +275,7 @@
 ||bollywood.eu.org^
 ||bookmarklets.roler.dev^
 ||booksonic.org^
-||booktoki468.com^
+||bookwalker.com^
 ||bstsrs.in^
 ||bszip.com^
 ||btorrent.xyz^
@@ -515,9 +513,8 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe622.com^
+||funbe632.com^
 ||furaba-animeseichi.blog.jp^
-||g4u.to^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||garden.breadio.wiki^
@@ -695,7 +692,6 @@
 ||library.cufiy.net^
 ||libremdb.iket.me^
 ||lightcone.org^
-||lightnovelheaven.com^
 ||likemanga.ink^
 ||listen-to-euterpe.eu^
 ||listen.moe^
@@ -732,7 +728,6 @@
 ||malsync.moe^
 ||malupdaterosx.moe^
 ||manatan.com^
-||manatoki468.net^
 ||manba.co.jp^
 ||manga-oni.com^
 ||manga-tr.com^
@@ -874,7 +869,6 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
-||newtoki468.com^
 ||nextflick.tv^
 ||nextnovels.com^
 ||nfl-replays.com^
@@ -988,6 +982,7 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
+||qmanga.art^
 ||quiz.animesongs.org^
 ||r-a-d.io^
 ||radio-anime24.pls^
@@ -1151,6 +1146,7 @@
 ||spenflix.ru^
 ||sphinxanime.com^
 ||spin.moe^
+||splay.id^
 ||split-tv.co.il^
 ||sport7.md^
 ||sport7.pro^
@@ -1259,7 +1255,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
-||tkor104.com^
+||tkor114.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1489,7 +1485,6 @@
 ||www.animeout.xyz^
 ||www.animeparadise.moe^
 ||www.animeradio.de^
-||www.animerdle.com^
 ||www.animerealms.org^
 ||www.animesaturn.me^
 ||www.animesonglyrics.com^
@@ -1797,7 +1792,6 @@
 ||www.xdlab.ru^
 ||www.xgcartoon.com^
 ||www.xmanagerapp.com^
-||www.xn--h10bx0wsvp.net^
 ||www.yfanefa.com^
 ||www.yinhuadm.cc^
 ||www.yomiwa.net^
@@ -1940,7 +1934,6 @@
 ! 0.0.0.0 anigo.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.to
-! 0.0.0.0 anikage.cc
 ! 0.0.0.0 anikai.to
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikuro.ru
@@ -1975,6 +1968,7 @@
 ! 0.0.0.0 animeawards.moe
 ! 0.0.0.0 animebalkan.gg
 ! 0.0.0.0 animebalkan.org
+! 0.0.0.0 animebashindia.me
 ! 0.0.0.0 animebathscenewiki.com
 ! 0.0.0.0 animebuff.ru
 ! 0.0.0.0 animecons.com
@@ -1986,7 +1980,6 @@
 ! 0.0.0.0 animefire.plus
 ! 0.0.0.0 animehay.in
 ! 0.0.0.0 animehub.ac
-! 0.0.0.0 animejoker.com
 ! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekai.fi
 ! 0.0.0.0 animekai.fo
@@ -2006,7 +1999,6 @@
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
-! 0.0.0.0 animepahe.com
 ! 0.0.0.0 animepahe.pw
 ! 0.0.0.0 animeradio.de
 ! 0.0.0.0 animerank.top
@@ -2124,7 +2116,7 @@
 ! 0.0.0.0 bollywood.eu.org
 ! 0.0.0.0 bookmarklets.roler.dev
 ! 0.0.0.0 booksonic.org
-! 0.0.0.0 booktoki468.com
+! 0.0.0.0 bookwalker.com
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
 ! 0.0.0.0 btorrent.xyz
@@ -2362,9 +2354,8 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe622.com
+! 0.0.0.0 funbe632.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
-! 0.0.0.0 g4u.to
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 garden.breadio.wiki
@@ -2542,7 +2533,6 @@
 ! 0.0.0.0 library.cufiy.net
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
-! 0.0.0.0 lightnovelheaven.com
 ! 0.0.0.0 likemanga.ink
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
@@ -2579,7 +2569,6 @@
 ! 0.0.0.0 malsync.moe
 ! 0.0.0.0 malupdaterosx.moe
 ! 0.0.0.0 manatan.com
-! 0.0.0.0 manatoki468.net
 ! 0.0.0.0 manba.co.jp
 ! 0.0.0.0 manga-oni.com
 ! 0.0.0.0 manga-tr.com
@@ -2721,7 +2710,6 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
-! 0.0.0.0 newtoki468.com
 ! 0.0.0.0 nextflick.tv
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
@@ -2835,6 +2823,7 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
+! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
 ! 0.0.0.0 radio-anime24.pls
@@ -2998,6 +2987,7 @@
 ! 0.0.0.0 spenflix.ru
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
+! 0.0.0.0 splay.id
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sport7.md
 ! 0.0.0.0 sport7.pro
@@ -3106,7 +3096,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
-! 0.0.0.0 tkor104.com
+! 0.0.0.0 tkor114.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3336,7 +3326,6 @@
 ! 0.0.0.0 www.animeout.xyz
 ! 0.0.0.0 www.animeparadise.moe
 ! 0.0.0.0 www.animeradio.de
-! 0.0.0.0 www.animerdle.com
 ! 0.0.0.0 www.animerealms.org
 ! 0.0.0.0 www.animesaturn.me
 ! 0.0.0.0 www.animesonglyrics.com
@@ -3644,7 +3633,6 @@
 ! 0.0.0.0 www.xdlab.ru
 ! 0.0.0.0 www.xgcartoon.com
 ! 0.0.0.0 www.xmanagerapp.com
-! 0.0.0.0 www.xn--h10bx0wsvp.net
 ! 0.0.0.0 www.yfanefa.com
 ! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomiwa.net

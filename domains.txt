@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1844 domains | updated 2026-04-26T05:42:57Z
+# 1838 domains | updated 2026-04-27T05:57:38Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -89,7 +89,6 @@ anify.to
 anigo.to
 aniguessr.com
 anihq.to
-anikage.cc
 anikai.to
 anikototv.to
 anikuro.ru
@@ -124,6 +123,7 @@ animeav1.com
 animeawards.moe
 animebalkan.gg
 animebalkan.org
+animebashindia.me
 animebathscenewiki.com
 animebuff.ru
 animecons.com
@@ -135,7 +135,6 @@ animedrive.hu
 animefire.plus
 animehay.in
 animehub.ac
-animejoker.com
 animejoy.ru
 animekai.fi
 animekai.fo
@@ -155,7 +154,6 @@ animelok.xyz
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
-animepahe.com
 animepahe.pw
 animeradio.de
 animerank.top
@@ -273,7 +271,7 @@ bollywood.eu
 bollywood.eu.org
 bookmarklets.roler.dev
 booksonic.org
-booktoki468.com
+bookwalker.com
 bstsrs.in
 bszip.com
 btorrent.xyz
@@ -511,9 +509,8 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe622.com
+funbe632.com
 furaba-animeseichi.blog.jp
-g4u.to
 gadgeteer.co.za
 gaiaflix.live
 garden.breadio.wiki
@@ -691,7 +688,6 @@ libgen.li
 library.cufiy.net
 libremdb.iket.me
 lightcone.org
-lightnovelheaven.com
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
@@ -728,7 +724,6 @@ malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
 manatan.com
-manatoki468.net
 manba.co.jp
 manga-oni.com
 manga-tr.com
@@ -870,7 +865,6 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
-newtoki468.com
 nextflick.tv
 nextnovels.com
 nfl-replays.com
@@ -984,6 +978,7 @@ psychodownloads.com
 pulsedmedia.com
 puretoons.in
 pwrestling.com
+qmanga.art
 quiz.animesongs.org
 r-a-d.io
 radio-anime24.pls
@@ -1147,6 +1142,7 @@ space.olamovies.dad
 spenflix.ru
 sphinxanime.com
 spin.moe
+splay.id
 split-tv.co.il
 sport7.md
 sport7.pro
@@ -1255,7 +1251,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
-tkor104.com
+tkor114.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1485,7 +1481,6 @@ www.animeonsen.xyz
 www.animeout.xyz
 www.animeparadise.moe
 www.animeradio.de
-www.animerdle.com
 www.animerealms.org
 www.animesaturn.me
 www.animesonglyrics.com
@@ -1793,7 +1788,6 @@ www.xdcc.eu
 www.xdlab.ru
 www.xgcartoon.com
 www.xmanagerapp.com
-www.xn--h10bx0wsvp.net
 www.yfanefa.com
 www.yinhuadm.cc
 www.yomiwa.net
