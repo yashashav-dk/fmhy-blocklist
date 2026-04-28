@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1838 domains | updated 2026-04-27T05:57:38Z
+# 1838 domains | updated 2026-04-28T06:09:31Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -135,6 +135,7 @@ animedrive.hu
 animefire.plus
 animehay.in
 animehub.ac
+animejoker.com
 animejoy.ru
 animekai.fi
 animekai.fo
@@ -148,6 +149,7 @@ animeko.ws
 animelayer.ru
 animelek.top
 animelib.org
+animelistdiff.zerolabs.fyi
 animelistesi.com
 animelok.to
 animelok.xyz
@@ -476,7 +478,6 @@ flickystream.ru
 flix.smashystream.xyz
 flixer.su
 flixhouse.com
-flixhq.to
 flixvo.fun
 flixvo.live
 flixwatch.online
@@ -715,6 +716,7 @@ m.flixindia.xyz
 m3u-ip.tv
 m3u4u.com
 m4uhd.page
+m4uhd.vip
 magicnzb.com
 magyaranime.eu
 main.jart
@@ -1056,6 +1058,7 @@ roxiestreams.su
 rss.php
 rss.xml
 rugby24.net
+runo.ink
 russianfilmhub.com
 rutracker.org
 rutube.ru
@@ -1102,8 +1105,6 @@ seriesgraph.com
 seriesvault.org
 seriesvault.win
 server.elscione.com
-sflix.ps
-sflix2.to
 share.acgnx.se
 sharebb.me
 sharemania.us
@@ -1123,7 +1124,6 @@ siptv.eu
 site.yummyani.me
 skiley.net
 slow.pics
-smashystream.com
 smashystream.xyz
 smoores.gitlab.io
 sneedex.moe

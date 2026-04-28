@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1838 domains)
-! Last updated: 2026-04-27T05:57:38Z
+! Last updated: 2026-04-28T06:09:31Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -139,6 +139,7 @@
 ||animefire.plus^
 ||animehay.in^
 ||animehub.ac^
+||animejoker.com^
 ||animejoy.ru^
 ||animekai.fi^
 ||animekai.fo^
@@ -152,6 +153,7 @@
 ||animelayer.ru^
 ||animelek.top^
 ||animelib.org^
+||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
 ||animelok.to^
 ||animelok.xyz^
@@ -480,7 +482,6 @@
 ||flix.smashystream.xyz^
 ||flixer.su^
 ||flixhouse.com^
-||flixhq.to^
 ||flixvo.fun^
 ||flixvo.live^
 ||flixwatch.online^
@@ -719,6 +720,7 @@
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.page^
+||m4uhd.vip^
 ||magicnzb.com^
 ||magyaranime.eu^
 ||main.jart^
@@ -1060,6 +1062,7 @@
 ||rss.php^
 ||rss.xml^
 ||rugby24.net^
+||runo.ink^
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
@@ -1106,8 +1109,6 @@
 ||seriesvault.org^
 ||seriesvault.win^
 ||server.elscione.com^
-||sflix.ps^
-||sflix2.to^
 ||share.acgnx.se^
 ||sharebb.me^
 ||sharemania.us^
@@ -1127,7 +1128,6 @@
 ||site.yummyani.me^
 ||skiley.net^
 ||slow.pics^
-||smashystream.com^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
 ||sneedex.moe^
@@ -1980,6 +1980,7 @@
 ! 0.0.0.0 animefire.plus
 ! 0.0.0.0 animehay.in
 ! 0.0.0.0 animehub.ac
+! 0.0.0.0 animejoker.com
 ! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekai.fi
 ! 0.0.0.0 animekai.fo
@@ -1993,6 +1994,7 @@
 ! 0.0.0.0 animelayer.ru
 ! 0.0.0.0 animelek.top
 ! 0.0.0.0 animelib.org
+! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
@@ -2321,7 +2323,6 @@
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhouse.com
-! 0.0.0.0 flixhq.to
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixwatch.online
@@ -2560,6 +2561,7 @@
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.page
+! 0.0.0.0 m4uhd.vip
 ! 0.0.0.0 magicnzb.com
 ! 0.0.0.0 magyaranime.eu
 ! 0.0.0.0 main.jart
@@ -2901,6 +2903,7 @@
 ! 0.0.0.0 rss.php
 ! 0.0.0.0 rss.xml
 ! 0.0.0.0 rugby24.net
+! 0.0.0.0 runo.ink
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
@@ -2947,8 +2950,6 @@
 ! 0.0.0.0 seriesvault.org
 ! 0.0.0.0 seriesvault.win
 ! 0.0.0.0 server.elscione.com
-! 0.0.0.0 sflix.ps
-! 0.0.0.0 sflix2.to
 ! 0.0.0.0 share.acgnx.se
 ! 0.0.0.0 sharebb.me
 ! 0.0.0.0 sharemania.us
@@ -2968,7 +2969,6 @@
 ! 0.0.0.0 site.yummyani.me
 ! 0.0.0.0 skiley.net
 ! 0.0.0.0 slow.pics
-! 0.0.0.0 smashystream.com
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
 ! 0.0.0.0 sneedex.moe
