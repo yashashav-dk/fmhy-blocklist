@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1838 domains)
-! Last updated: 2026-04-28T06:09:31Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1843 domains)
+! Last updated: 2026-04-29T05:57:21Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -92,6 +92,7 @@
 ||anify.to^
 ||anigo.to^
 ||aniguessr.com^
+||anihq.org^
 ||anihq.to^
 ||anikai.to^
 ||anikototv.to^
@@ -164,6 +165,7 @@
 ||animeradio.de^
 ||animerank.top^
 ||animerss.com^
+||animes.garden^
 ||animesalt.top^
 ||animeschedule.net^
 ||animesilo.cc^
@@ -203,7 +205,6 @@
 ||anitrendz.com^
 ||anitrendz.net^
 ||anitube.in.ua^
-||aniwatchtv.to^
 ||aniworld.to^
 ||anixtv.in^
 ||anixtv.pro^
@@ -260,6 +261,7 @@
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
+||beta.otaku-streamers.com^
 ||better-lyrics.boidu.dev^
 ||bflix.sh^
 ||bgmd.bytex.space^
@@ -328,6 +330,8 @@
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
 ||com.maxmpz.audioplayer.unlock^
+||com.maxmpz.equalizer^
+||com.pittvandewitt.wavelet^
 ||com.piyush.music^
 ||com.progdigy.cdisplay.free^
 ||com.rookiestudio.perfectviewer^
@@ -352,6 +356,7 @@
 ||commodore.software^
 ||commons.wikimedia^
 ||condensedaudiocatalog.com^
+||cooljapanportal.com^
 ||coolmic.me^
 ||corsflix.net^
 ||couchmoney.tv^
@@ -371,6 +376,9 @@
 ||cubiktv.com^
 ||cuutruyen.net^
 ||daddylive.im^
+||daddylive.li^
+||daddylive.lol^
+||daddylive.org^
 ||daddylive.pw^
 ||daddylive.top^
 ||daddylives.nl^
@@ -422,7 +430,7 @@
 ||dramaday.me^
 ||dramafire.com.pl^
 ||dramahood.mom^
-||dualeotruyenvh.com^
+||dualeotruyenay.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.tv^
@@ -518,7 +526,6 @@
 ||furaba-animeseichi.blog.jp^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
-||garden.breadio.wiki^
 ||geekdot.live^
 ||gensokyoradio.net^
 ||getcomics.org^
@@ -716,7 +723,6 @@
 ||lunaranime.ru^
 ||lunastream.fun^
 ||m-p.sakura.ne.jp^
-||m.flixindia.xyz^
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.page^
@@ -1181,7 +1187,6 @@
 ||streami.su^
 ||streaming-integrale.com^
 ||streamm4u.com.co^
-||streamr.mindreaders7557.workers.dev^
 ||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
@@ -1933,6 +1938,7 @@
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 anigo.to
 ! 0.0.0.0 aniguessr.com
+! 0.0.0.0 anihq.org
 ! 0.0.0.0 anihq.to
 ! 0.0.0.0 anikai.to
 ! 0.0.0.0 anikototv.to
@@ -2005,6 +2011,7 @@
 ! 0.0.0.0 animeradio.de
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
+! 0.0.0.0 animes.garden
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
 ! 0.0.0.0 animesilo.cc
@@ -2044,7 +2051,6 @@
 ! 0.0.0.0 anitrendz.com
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
-! 0.0.0.0 aniwatchtv.to
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
 ! 0.0.0.0 anixtv.pro
@@ -2101,6 +2107,7 @@
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
+! 0.0.0.0 beta.otaku-streamers.com
 ! 0.0.0.0 better-lyrics.boidu.dev
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
@@ -2169,6 +2176,8 @@
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
 ! 0.0.0.0 com.maxmpz.audioplayer.unlock
+! 0.0.0.0 com.maxmpz.equalizer
+! 0.0.0.0 com.pittvandewitt.wavelet
 ! 0.0.0.0 com.piyush.music
 ! 0.0.0.0 com.progdigy.cdisplay.free
 ! 0.0.0.0 com.rookiestudio.perfectviewer
@@ -2193,6 +2202,7 @@
 ! 0.0.0.0 commodore.software
 ! 0.0.0.0 commons.wikimedia
 ! 0.0.0.0 condensedaudiocatalog.com
+! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 corsflix.net
 ! 0.0.0.0 couchmoney.tv
@@ -2212,6 +2222,9 @@
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cuutruyen.net
 ! 0.0.0.0 daddylive.im
+! 0.0.0.0 daddylive.li
+! 0.0.0.0 daddylive.lol
+! 0.0.0.0 daddylive.org
 ! 0.0.0.0 daddylive.pw
 ! 0.0.0.0 daddylive.top
 ! 0.0.0.0 daddylives.nl
@@ -2263,7 +2276,7 @@
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramafire.com.pl
 ! 0.0.0.0 dramahood.mom
-! 0.0.0.0 dualeotruyenvh.com
+! 0.0.0.0 dualeotruyenay.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.tv
@@ -2359,7 +2372,6 @@
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
-! 0.0.0.0 garden.breadio.wiki
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 getcomics.org
@@ -2557,7 +2569,6 @@
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
-! 0.0.0.0 m.flixindia.xyz
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.page
@@ -3022,7 +3033,6 @@
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamm4u.com.co
-! 0.0.0.0 streamr.mindreaders7557.workers.dev
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website

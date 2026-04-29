@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1838 domains | updated 2026-04-28T06:09:31Z
+# 1843 domains | updated 2026-04-29T05:57:21Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -88,6 +88,7 @@ anifox.club
 anify.to
 anigo.to
 aniguessr.com
+anihq.org
 anihq.to
 anikai.to
 anikototv.to
@@ -160,6 +161,7 @@ animepahe.pw
 animeradio.de
 animerank.top
 animerss.com
+animes.garden
 animesalt.top
 animeschedule.net
 animesilo.cc
@@ -199,7 +201,6 @@ anitrakt.huere.net
 anitrendz.com
 anitrendz.net
 anitube.in.ua
-aniwatchtv.to
 aniworld.to
 anixtv.in
 anixtv.pro
@@ -256,6 +257,7 @@ bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
+beta.otaku-streamers.com
 better-lyrics.boidu.dev
 bflix.sh
 bgmd.bytex.space
@@ -324,6 +326,8 @@ com.delphicoder.flud
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
 com.maxmpz.audioplayer.unlock
+com.maxmpz.equalizer
+com.pittvandewitt.wavelet
 com.piyush.music
 com.progdigy.cdisplay.free
 com.rookiestudio.perfectviewer
@@ -348,6 +352,7 @@ comix.to
 commodore.software
 commons.wikimedia
 condensedaudiocatalog.com
+cooljapanportal.com
 coolmic.me
 corsflix.net
 couchmoney.tv
@@ -367,6 +372,9 @@ cubeflix.org
 cubiktv.com
 cuutruyen.net
 daddylive.im
+daddylive.li
+daddylive.lol
+daddylive.org
 daddylive.pw
 daddylive.top
 daddylives.nl
@@ -418,7 +426,7 @@ dramacountdown.com
 dramaday.me
 dramafire.com.pl
 dramahood.mom
-dualeotruyenvh.com
+dualeotruyenay.com
 dubolt.com
 due.moe
 dulo.tv
@@ -514,7 +522,6 @@ funbe632.com
 furaba-animeseichi.blog.jp
 gadgeteer.co.za
 gaiaflix.live
-garden.breadio.wiki
 geekdot.live
 gensokyoradio.net
 getcomics.org
@@ -712,7 +719,6 @@ lumotv.co.uk
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
-m.flixindia.xyz
 m3u-ip.tv
 m3u4u.com
 m4uhd.page
@@ -1177,7 +1183,6 @@ streamgoblin.com
 streami.su
 streaming-integrale.com
 streamm4u.com.co
-streamr.mindreaders7557.workers.dev
 streamsports99.ru
 streamsports99.su
 streamsports99.website
