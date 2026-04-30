@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1843 domains)
-! Last updated: 2026-04-29T05:57:21Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1842 domains)
+! Last updated: 2026-04-30T06:08:06Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -384,7 +384,7 @@
 ||daddylives.nl^
 ||daddyny.com^
 ||dailycommercials.com^
-||damitv.live^
+||dami-tv.pro^
 ||damitvsports.com^
 ||db.silveryasha.id^
 ||dd12streams.com^
@@ -1495,7 +1495,7 @@
 ||www.animesonglyrics.com^
 ||www.animesrbija.com^
 ||www.animeunity.to^
-||www.animeworld.so^
+||www.animeworld.ac^
 ||www.animexx.de^
 ||www.animezone.pl^
 ||www.animotvslash.org^
@@ -1625,7 +1625,6 @@
 ||www.kanjitomo.net^
 ||www.kansou.me^
 ||www.kanzenshuu.com^
-||www.kiboanime.app^
 ||www.koodoreader.com^
 ||www.koreandrama.org^
 ||www.kumanga.com^
@@ -2230,7 +2229,7 @@
 ! 0.0.0.0 daddylives.nl
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
-! 0.0.0.0 damitv.live
+! 0.0.0.0 dami-tv.pro
 ! 0.0.0.0 damitvsports.com
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 dd12streams.com
@@ -3341,7 +3340,7 @@
 ! 0.0.0.0 www.animesonglyrics.com
 ! 0.0.0.0 www.animesrbija.com
 ! 0.0.0.0 www.animeunity.to
-! 0.0.0.0 www.animeworld.so
+! 0.0.0.0 www.animeworld.ac
 ! 0.0.0.0 www.animexx.de
 ! 0.0.0.0 www.animezone.pl
 ! 0.0.0.0 www.animotvslash.org
@@ -3471,7 +3470,6 @@
 ! 0.0.0.0 www.kanjitomo.net
 ! 0.0.0.0 www.kansou.me
 ! 0.0.0.0 www.kanzenshuu.com
-! 0.0.0.0 www.kiboanime.app
 ! 0.0.0.0 www.koodoreader.com
 ! 0.0.0.0 www.koreandrama.org
 ! 0.0.0.0 www.kumanga.com

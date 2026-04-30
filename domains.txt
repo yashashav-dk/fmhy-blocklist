@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1843 domains | updated 2026-04-29T05:57:21Z
+# 1842 domains | updated 2026-04-30T06:08:06Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -380,7 +380,7 @@ daddylive.top
 daddylives.nl
 daddyny.com
 dailycommercials.com
-damitv.live
+dami-tv.pro
 damitvsports.com
 db.silveryasha.id
 dd12streams.com
@@ -1491,7 +1491,7 @@ www.animesaturn.me
 www.animesonglyrics.com
 www.animesrbija.com
 www.animeunity.to
-www.animeworld.so
+www.animeworld.ac
 www.animexx.de
 www.animezone.pl
 www.animotvslash.org
@@ -1621,7 +1621,6 @@ www.kaitovault.com
 www.kanjitomo.net
 www.kansou.me
 www.kanzenshuu.com
-www.kiboanime.app
 www.koodoreader.com
 www.koreandrama.org
 www.kumanga.com
