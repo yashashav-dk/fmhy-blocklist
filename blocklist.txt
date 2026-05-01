@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1842 domains)
-! Last updated: 2026-04-30T06:08:06Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1836 domains)
+! Last updated: 2026-05-01T06:18:19Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -84,7 +84,6 @@
 ||anichin.bio^
 ||anidap.se^
 ||anidoor.me^
-||anidream.cc^
 ||anidub.pro^
 ||anifilm.pro^
 ||aniflix.uno^
@@ -550,12 +549,10 @@
 ||gttradio.com^
 ||guesstheopening.com^
 ||guide.encode.moe^
-||guide.html^
 ||guides.htm^
 ||guides.viren070.me^
 ||guzes.surge.sh^
 ||guzesqdro.surge.sh^
-||hakuneko.download^
 ||halcyonrealms.com^
 ||hanime1.me^
 ||harmony.pulsewidth.org.uk^
@@ -678,7 +675,6 @@
 ||kool.to^
 ||korsite.net^
 ||koryo.tv^
-||krakenflix.cx^
 ||krdl.moe^
 ||kudos.wiki^
 ||kuramanime.red^
@@ -1046,7 +1042,6 @@
 ||retrostrange.com^
 ||retrosystemsrevival.blogspot.com^
 ||revoldiv.com^
-||rgshows-autoplay.md^
 ||ridomovies.tv^
 ||rips.cc^
 ||ristohentai.com^
@@ -1447,6 +1442,7 @@
 ||ww14.kissasian.com.lv^
 ||www.1flex.org^
 ||www.1shows.org^
+||www.1tube.org^
 ||www.2025copy.com^
 ||www.23qb.net^
 ||www.3cat.cat^
@@ -1707,8 +1703,6 @@
 ||www.rbsports77.mom^
 ||www.reelscary.com^
 ||www.releases.com^
-||www.rgshows.org^
-||www.rgshows.ru^
 ||www.rivestream.app^
 ||www.rpgamers.net^
 ||www.savesubs.com^
@@ -1929,7 +1923,6 @@
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anidap.se
 ! 0.0.0.0 anidoor.me
-! 0.0.0.0 anidream.cc
 ! 0.0.0.0 anidub.pro
 ! 0.0.0.0 anifilm.pro
 ! 0.0.0.0 aniflix.uno
@@ -2395,12 +2388,10 @@
 ! 0.0.0.0 gttradio.com
 ! 0.0.0.0 guesstheopening.com
 ! 0.0.0.0 guide.encode.moe
-! 0.0.0.0 guide.html
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
 ! 0.0.0.0 guzes.surge.sh
 ! 0.0.0.0 guzesqdro.surge.sh
-! 0.0.0.0 hakuneko.download
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
 ! 0.0.0.0 harmony.pulsewidth.org.uk
@@ -2523,7 +2514,6 @@
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
-! 0.0.0.0 krakenflix.cx
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
@@ -2891,7 +2881,6 @@
 ! 0.0.0.0 retrostrange.com
 ! 0.0.0.0 retrosystemsrevival.blogspot.com
 ! 0.0.0.0 revoldiv.com
-! 0.0.0.0 rgshows-autoplay.md
 ! 0.0.0.0 ridomovies.tv
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristohentai.com
@@ -3292,6 +3281,7 @@
 ! 0.0.0.0 ww14.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1shows.org
+! 0.0.0.0 www.1tube.org
 ! 0.0.0.0 www.2025copy.com
 ! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
@@ -3552,8 +3542,6 @@
 ! 0.0.0.0 www.rbsports77.mom
 ! 0.0.0.0 www.reelscary.com
 ! 0.0.0.0 www.releases.com
-! 0.0.0.0 www.rgshows.org
-! 0.0.0.0 www.rgshows.ru
 ! 0.0.0.0 www.rivestream.app
 ! 0.0.0.0 www.rpgamers.net
 ! 0.0.0.0 www.savesubs.com

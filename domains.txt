@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1842 domains | updated 2026-04-30T06:08:06Z
+# 1836 domains | updated 2026-05-01T06:18:19Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -80,7 +80,6 @@ anicheck.moe
 anichin.bio
 anidap.se
 anidoor.me
-anidream.cc
 anidub.pro
 anifilm.pro
 aniflix.uno
@@ -546,12 +545,10 @@ gsc.tab
 gttradio.com
 guesstheopening.com
 guide.encode.moe
-guide.html
 guides.htm
 guides.viren070.me
 guzes.surge.sh
 guzesqdro.surge.sh
-hakuneko.download
 halcyonrealms.com
 hanime1.me
 harmony.pulsewidth.org.uk
@@ -674,7 +671,6 @@ kontrast.top
 kool.to
 korsite.net
 koryo.tv
-krakenflix.cx
 krdl.moe
 kudos.wiki
 kuramanime.red
@@ -1042,7 +1038,6 @@ retroflix.org
 retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
-rgshows-autoplay.md
 ridomovies.tv
 rips.cc
 ristohentai.com
@@ -1443,6 +1438,7 @@ ww1.yesmovies.ag
 ww14.kissasian.com.lv
 www.1flex.org
 www.1shows.org
+www.1tube.org
 www.2025copy.com
 www.23qb.net
 www.3cat.cat
@@ -1703,8 +1699,6 @@ www.ratingraph.com
 www.rbsports77.mom
 www.reelscary.com
 www.releases.com
-www.rgshows.org
-www.rgshows.ru
 www.rivestream.app
 www.rpgamers.net
 www.savesubs.com
