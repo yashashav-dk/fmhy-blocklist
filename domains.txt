@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1836 domains | updated 2026-05-01T06:18:19Z
+# 1832 domains | updated 2026-05-02T05:40:30Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -17,7 +17,7 @@
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
-1movies.bz
+1moviesz.to
 1primeshow.online
 24-7-channels.php
 24hnovel.com
@@ -727,7 +727,6 @@ mainportal66.com
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
-manatan.com
 manba.co.jp
 manga-oni.com
 manga-tr.com
@@ -836,7 +835,6 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
-mtool.app
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -1614,7 +1612,6 @@ www.jam-cons.net
 www.jame-world.com
 www.japscan.foo
 www.kaitovault.com
-www.kanjitomo.net
 www.kansou.me
 www.kanzenshuu.com
 www.koodoreader.com
@@ -1788,7 +1785,6 @@ www.xgcartoon.com
 www.xmanagerapp.com
 www.yfanefa.com
 www.yinhuadm.cc
-www.yomiwa.net
 www.yomu-reader.com
 www.zimmerit.moe
 www.zophar.net

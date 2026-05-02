@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1836 domains)
-! Last updated: 2026-05-01T06:18:19Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1832 domains)
+! Last updated: 2026-05-02T05:40:30Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -21,7 +21,7 @@
 ||1ddl.org^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
-||1movies.bz^
+||1moviesz.to^
 ||1primeshow.online^
 ||24-7-channels.php^
 ||24hnovel.com^
@@ -731,7 +731,6 @@
 ||malscraper.azurewebsites.net^
 ||malsync.moe^
 ||malupdaterosx.moe^
-||manatan.com^
 ||manba.co.jp^
 ||manga-oni.com^
 ||manga-tr.com^
@@ -840,7 +839,6 @@
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
-||mtool.app^
 ||mugen.karaokes.moe^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -1618,7 +1616,6 @@
 ||www.jame-world.com^
 ||www.japscan.foo^
 ||www.kaitovault.com^
-||www.kanjitomo.net^
 ||www.kansou.me^
 ||www.kanzenshuu.com^
 ||www.koodoreader.com^
@@ -1792,7 +1789,6 @@
 ||www.xmanagerapp.com^
 ||www.yfanefa.com^
 ||www.yinhuadm.cc^
-||www.yomiwa.net^
 ||www.yomu-reader.com^
 ||www.zimmerit.moe^
 ||www.zophar.net^
@@ -1860,7 +1856,7 @@
 ! 0.0.0.0 1ddl.org
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
-! 0.0.0.0 1movies.bz
+! 0.0.0.0 1moviesz.to
 ! 0.0.0.0 1primeshow.online
 ! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 24hnovel.com
@@ -2570,7 +2566,6 @@
 ! 0.0.0.0 malscraper.azurewebsites.net
 ! 0.0.0.0 malsync.moe
 ! 0.0.0.0 malupdaterosx.moe
-! 0.0.0.0 manatan.com
 ! 0.0.0.0 manba.co.jp
 ! 0.0.0.0 manga-oni.com
 ! 0.0.0.0 manga-tr.com
@@ -2679,7 +2674,6 @@
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtool.app
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -3457,7 +3451,6 @@
 ! 0.0.0.0 www.jame-world.com
 ! 0.0.0.0 www.japscan.foo
 ! 0.0.0.0 www.kaitovault.com
-! 0.0.0.0 www.kanjitomo.net
 ! 0.0.0.0 www.kansou.me
 ! 0.0.0.0 www.kanzenshuu.com
 ! 0.0.0.0 www.koodoreader.com
@@ -3631,7 +3624,6 @@
 ! 0.0.0.0 www.xmanagerapp.com
 ! 0.0.0.0 www.yfanefa.com
 ! 0.0.0.0 www.yinhuadm.cc
-! 0.0.0.0 www.yomiwa.net
 ! 0.0.0.0 www.yomu-reader.com
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zophar.net
