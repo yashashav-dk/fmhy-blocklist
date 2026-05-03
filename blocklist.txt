@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1832 domains)
-! Last updated: 2026-05-02T05:40:30Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
+! Last updated: 2026-05-03T06:07:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -125,11 +125,11 @@
 ||anime7.download^
 ||animeav1.com^
 ||animeawards.moe^
-||animebalkan.gg^
 ||animebalkan.org^
 ||animebashindia.me^
 ||animebathscenewiki.com^
 ||animebuff.ru^
+||animeco.link^
 ||animecons.com^
 ||animecorner.me^
 ||animecountdown.com^
@@ -345,7 +345,6 @@
 ||comicbookplus.com^
 ||comicbookreadingorders.com^
 ||comicbookroundup.com^
-||comicdate.web.fc2.com^
 ||comichubfree.com^
 ||comicmafia.to^
 ||comics.codes^
@@ -418,7 +417,6 @@
 ||doctruyen3qui15.com^
 ||dokiraw.tech^
 ||donghuastream.org^
-||dorabash.in^
 ||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
@@ -862,6 +860,7 @@
 ||nbamonster.com^
 ||nekobt.to^
 ||nekomitai.net^
+||neoapo.com^
 ||nepchan.org^
 ||nepu.to^
 ||netnaija.film^
@@ -997,6 +996,7 @@
 ||randime.moe^
 ||random-song.com^
 ||randomanga.wordpress.com^
+||ranime.net^
 ||ranobe-mori.net^
 ||ranobedb.org^
 ||ranobelib.me^
@@ -1005,7 +1005,6 @@
 ||rar.to^
 ||rarefilmm.com^
 ||ravencentric.cc^
-||raw-cans.net^
 ||raw.senmanga.com^
 ||raw1001.net^
 ||rawbaka.com^
@@ -1227,7 +1226,6 @@
 ||terabox.hnn.workers.dev^
 ||tfpdl.se^
 ||tfpdl.to^
-||thanvuc.com^
 ||the-tv.app^
 ||thecinefy.site^
 ||theindex.moe^
@@ -1586,7 +1584,6 @@
 ||www.gestdown.info^
 ||www.getmusicbee.com^
 ||www.gingadaddy.com^
-||www.gledajcrtace.org^
 ||www.gledajcrtace.rs^
 ||www.globalfreetv.com^
 ||www.gokuhd.com^
@@ -1960,11 +1957,11 @@
 ! 0.0.0.0 anime7.download
 ! 0.0.0.0 animeav1.com
 ! 0.0.0.0 animeawards.moe
-! 0.0.0.0 animebalkan.gg
 ! 0.0.0.0 animebalkan.org
 ! 0.0.0.0 animebashindia.me
 ! 0.0.0.0 animebathscenewiki.com
 ! 0.0.0.0 animebuff.ru
+! 0.0.0.0 animeco.link
 ! 0.0.0.0 animecons.com
 ! 0.0.0.0 animecorner.me
 ! 0.0.0.0 animecountdown.com
@@ -2180,7 +2177,6 @@
 ! 0.0.0.0 comicbookplus.com
 ! 0.0.0.0 comicbookreadingorders.com
 ! 0.0.0.0 comicbookroundup.com
-! 0.0.0.0 comicdate.web.fc2.com
 ! 0.0.0.0 comichubfree.com
 ! 0.0.0.0 comicmafia.to
 ! 0.0.0.0 comics.codes
@@ -2253,7 +2249,6 @@
 ! 0.0.0.0 doctruyen3qui15.com
 ! 0.0.0.0 dokiraw.tech
 ! 0.0.0.0 donghuastream.org
-! 0.0.0.0 dorabash.in
 ! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
@@ -2697,6 +2692,7 @@
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
+! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepchan.org
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
@@ -2832,6 +2828,7 @@
 ! 0.0.0.0 randime.moe
 ! 0.0.0.0 random-song.com
 ! 0.0.0.0 randomanga.wordpress.com
+! 0.0.0.0 ranime.net
 ! 0.0.0.0 ranobe-mori.net
 ! 0.0.0.0 ranobedb.org
 ! 0.0.0.0 ranobelib.me
@@ -2840,7 +2837,6 @@
 ! 0.0.0.0 rar.to
 ! 0.0.0.0 rarefilmm.com
 ! 0.0.0.0 ravencentric.cc
-! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw.senmanga.com
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
@@ -3062,7 +3058,6 @@
 ! 0.0.0.0 terabox.hnn.workers.dev
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
-! 0.0.0.0 thanvuc.com
 ! 0.0.0.0 the-tv.app
 ! 0.0.0.0 thecinefy.site
 ! 0.0.0.0 theindex.moe
@@ -3421,7 +3416,6 @@
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
 ! 0.0.0.0 www.gingadaddy.com
-! 0.0.0.0 www.gledajcrtace.org
 ! 0.0.0.0 www.gledajcrtace.rs
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gokuhd.com

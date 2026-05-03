@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1832 domains | updated 2026-05-02T05:40:30Z
+# 1829 domains | updated 2026-05-03T06:07:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -121,11 +121,11 @@ anime4up.rest
 anime7.download
 animeav1.com
 animeawards.moe
-animebalkan.gg
 animebalkan.org
 animebashindia.me
 animebathscenewiki.com
 animebuff.ru
+animeco.link
 animecons.com
 animecorner.me
 animecountdown.com
@@ -341,7 +341,6 @@ comic77.com
 comicbookplus.com
 comicbookreadingorders.com
 comicbookroundup.com
-comicdate.web.fc2.com
 comichubfree.com
 comicmafia.to
 comics.codes
@@ -414,7 +413,6 @@ docs.wyzie.ru
 doctruyen3qui15.com
 dokiraw.tech
 donghuastream.org
-dorabash.in
 doubledouble.top
 doujindownloader.com
 doujinstyle.com
@@ -858,6 +856,7 @@ navic.app
 nbamonster.com
 nekobt.to
 nekomitai.net
+neoapo.com
 nepchan.org
 nepu.to
 netnaija.film
@@ -993,6 +992,7 @@ ramenparados.com
 randime.moe
 random-song.com
 randomanga.wordpress.com
+ranime.net
 ranobe-mori.net
 ranobedb.org
 ranobelib.me
@@ -1001,7 +1001,6 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
-raw-cans.net
 raw.senmanga.com
 raw1001.net
 rawbaka.com
@@ -1223,7 +1222,6 @@ tennojim.xyz
 terabox.hnn.workers.dev
 tfpdl.se
 tfpdl.to
-thanvuc.com
 the-tv.app
 thecinefy.site
 theindex.moe
@@ -1582,7 +1580,6 @@ www.gamescentral.top
 www.gestdown.info
 www.getmusicbee.com
 www.gingadaddy.com
-www.gledajcrtace.org
 www.gledajcrtace.rs
 www.globalfreetv.com
 www.gokuhd.com
