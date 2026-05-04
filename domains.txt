@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1829 domains | updated 2026-05-03T06:07:28Z
+# 1839 domains | updated 2026-05-04T06:16:17Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -416,6 +416,7 @@ donghuastream.org
 doubledouble.top
 doujindownloader.com
 doujinstyle.com
+downloader.now
 downloader2.com
 dpan.tv
 dramacool.sr
@@ -491,6 +492,9 @@ fluxtv.qzz.io
 fmstream.org
 footballia.eu
 footballia.net
+footfast.cc
+footfast.link
+footfast.us
 footfy.net
 footstreams.xyz
 fooyin.org
@@ -866,7 +870,6 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
-nextflick.tv
 nextnovels.com
 nfl-replays.com
 nfl-video.com
@@ -947,6 +950,7 @@ piratexplay.cc
 piratexplay.com
 pitsport.live
 pixeldrain-bypass.gamedrive.org
+pixeldrain-bypass.gamedrive.to
 planete-bd.org
 plappa.me
 playlist.pls
@@ -1192,6 +1196,7 @@ subconverter.com
 sublimemusic.app
 submarinerapp.com
 subshifter.bitsnbites.eu
+subsl.top
 subslikescript.com
 substital.com
 subtitld.org
@@ -1553,6 +1558,7 @@ www.ebookrenta.com
 www.edrlab.org
 www.elsubtitle.com
 www.emule-project.com
+www.enma.lol
 www.entertainme.fun
 www.eshita.jp
 www.esjzone.cc
@@ -1580,6 +1586,7 @@ www.gamescentral.top
 www.gestdown.info
 www.getmusicbee.com
 www.gingadaddy.com
+www.gledajcrtace.org
 www.gledajcrtace.rs
 www.globalfreetv.com
 www.gokuhd.com
@@ -1766,6 +1773,9 @@ www.vn-meido.com
 www.vocaloidradio.com
 www.watchfooty.top
 www.wco.tv
+www.wcoanimedub.tv
+www.wcoanimesub.tv
+www.wcoflix.tv
 www.wcoforever.net
 www.wcostatus.com
 www.wcostream.tv

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
-! Last updated: 2026-05-03T06:07:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1839 domains)
+! Last updated: 2026-05-04T06:16:17Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -420,6 +420,7 @@
 ||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
+||downloader.now^
 ||downloader2.com^
 ||dpan.tv^
 ||dramacool.sr^
@@ -495,6 +496,9 @@
 ||fmstream.org^
 ||footballia.eu^
 ||footballia.net^
+||footfast.cc^
+||footfast.link^
+||footfast.us^
 ||footfy.net^
 ||footstreams.xyz^
 ||fooyin.org^
@@ -870,7 +874,6 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
-||nextflick.tv^
 ||nextnovels.com^
 ||nfl-replays.com^
 ||nfl-video.com^
@@ -951,6 +954,7 @@
 ||piratexplay.com^
 ||pitsport.live^
 ||pixeldrain-bypass.gamedrive.org^
+||pixeldrain-bypass.gamedrive.to^
 ||planete-bd.org^
 ||plappa.me^
 ||playlist.pls^
@@ -1196,6 +1200,7 @@
 ||sublimemusic.app^
 ||submarinerapp.com^
 ||subshifter.bitsnbites.eu^
+||subsl.top^
 ||subslikescript.com^
 ||substital.com^
 ||subtitld.org^
@@ -1557,6 +1562,7 @@
 ||www.edrlab.org^
 ||www.elsubtitle.com^
 ||www.emule-project.com^
+||www.enma.lol^
 ||www.entertainme.fun^
 ||www.eshita.jp^
 ||www.esjzone.cc^
@@ -1584,6 +1590,7 @@
 ||www.gestdown.info^
 ||www.getmusicbee.com^
 ||www.gingadaddy.com^
+||www.gledajcrtace.org^
 ||www.gledajcrtace.rs^
 ||www.globalfreetv.com^
 ||www.gokuhd.com^
@@ -1770,6 +1777,9 @@
 ||www.vocaloidradio.com^
 ||www.watchfooty.top^
 ||www.wco.tv^
+||www.wcoanimedub.tv^
+||www.wcoanimesub.tv^
+||www.wcoflix.tv^
 ||www.wcoforever.net^
 ||www.wcostatus.com^
 ||www.wcostream.tv^
@@ -2252,6 +2262,7 @@
 ! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
+! 0.0.0.0 downloader.now
 ! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacool.sr
@@ -2327,6 +2338,9 @@
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
+! 0.0.0.0 footfast.cc
+! 0.0.0.0 footfast.link
+! 0.0.0.0 footfast.us
 ! 0.0.0.0 footfy.net
 ! 0.0.0.0 footstreams.xyz
 ! 0.0.0.0 fooyin.org
@@ -2702,7 +2716,6 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
-! 0.0.0.0 nextflick.tv
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
@@ -2783,6 +2796,7 @@
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.live
 ! 0.0.0.0 pixeldrain-bypass.gamedrive.org
+! 0.0.0.0 pixeldrain-bypass.gamedrive.to
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 playlist.pls
@@ -3028,6 +3042,7 @@
 ! 0.0.0.0 sublimemusic.app
 ! 0.0.0.0 submarinerapp.com
 ! 0.0.0.0 subshifter.bitsnbites.eu
+! 0.0.0.0 subsl.top
 ! 0.0.0.0 subslikescript.com
 ! 0.0.0.0 substital.com
 ! 0.0.0.0 subtitld.org
@@ -3389,6 +3404,7 @@
 ! 0.0.0.0 www.edrlab.org
 ! 0.0.0.0 www.elsubtitle.com
 ! 0.0.0.0 www.emule-project.com
+! 0.0.0.0 www.enma.lol
 ! 0.0.0.0 www.entertainme.fun
 ! 0.0.0.0 www.eshita.jp
 ! 0.0.0.0 www.esjzone.cc
@@ -3416,6 +3432,7 @@
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
 ! 0.0.0.0 www.gingadaddy.com
+! 0.0.0.0 www.gledajcrtace.org
 ! 0.0.0.0 www.gledajcrtace.rs
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gokuhd.com
@@ -3602,6 +3619,9 @@
 ! 0.0.0.0 www.vocaloidradio.com
 ! 0.0.0.0 www.watchfooty.top
 ! 0.0.0.0 www.wco.tv
+! 0.0.0.0 www.wcoanimedub.tv
+! 0.0.0.0 www.wcoanimesub.tv
+! 0.0.0.0 www.wcoflix.tv
 ! 0.0.0.0 www.wcoforever.net
 ! 0.0.0.0 www.wcostatus.com
 ! 0.0.0.0 www.wcostream.tv
