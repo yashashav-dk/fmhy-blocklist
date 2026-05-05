@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1839 domains)
-! Last updated: 2026-05-04T06:16:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1818 domains)
+! Last updated: 2026-05-05T05:46:40Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -227,9 +227,6 @@
 ||asiamediablog.com^
 ||asiansubs.com^
 ||ask4movie.app^
-||ask4sport.co^
-||ask4sport.link^
-||ask4sport.live^
 ||ask4sport.xyz^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
@@ -297,7 +294,6 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||cinebolt.net^
-||cinebytv-note.md^
 ||cinebytv.com^
 ||cinego.co^
 ||cinegram.net^
@@ -373,13 +369,8 @@
 ||cubeflix.org^
 ||cubiktv.com^
 ||cuutruyen.net^
-||daddylive.im^
 ||daddylive.li^
-||daddylive.lol^
 ||daddylive.org^
-||daddylive.pw^
-||daddylive.top^
-||daddylives.nl^
 ||daddyny.com^
 ||dailycommercials.com^
 ||dami-tv.pro^
@@ -462,7 +453,7 @@
 ||eztvx.to^
 ||f1-dash.com^
 ||f1fullraces.com^
-||falconstreams.com^
+||falconstreams.net^
 ||famelack.com^
 ||fancons.com^
 ||fanedit.org^
@@ -538,6 +529,7 @@
 ||globeradio.app^
 ||globetv.app^
 ||go.aftvnews.com^
+||goatapi.imreallydagoatt.workers.dev^
 ||goctruyentranh.net^
 ||godriveplayer.com^
 ||gomuraw.com^
@@ -653,7 +645,6 @@
 ||kibo.fm^
 ||kickassanime.cx^
 ||kids-in-mind.com^
-||kilatlive.net^
 ||kimcartoon.si^
 ||kimoitv.com^
 ||kindlemodding.org^
@@ -686,7 +677,6 @@
 ||kusonime.com^
 ||kuudere.ru^
 ||kuudere.to^
-||l1l1.link^
 ||lama.watch^
 ||last.timer^
 ||lastfmstats.com^
@@ -705,7 +695,6 @@
 ||livetv.moviebite.cc^
 ||livetv.sx^
 ||lmanime.com^
-||lmao.love^
 ||lnbmange.com^
 ||lnori.com^
 ||log.rlsbb.ru^
@@ -774,7 +763,6 @@
 ||martinbarker.me^
 ||marvelguides.com^
 ||max-rls.com^
-||may01gu.risenow3mtjt0k.sbs^
 ||me.timschneeberger.jdsp^
 ||me.webcric.com^
 ||medeberiya.net^
@@ -811,6 +799,7 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
+||monochrome.tf^
 ||monoschinos2.com^
 ||moonflix.com^
 ||moriyashrine.org^
@@ -822,19 +811,14 @@
 ||moviebox.pk^
 ||movieboxapp.in^
 ||movieboxonline.net^
-||moviedrive.org^
-||movieland.ghetto.ng^
 ||movielens.org^
 ||movieo.me^
 ||movieparadise-code.md^
 ||movieparadise.org^
 ||moviepire.org^
-||moviepluto.fun^
 ||moviepooper.com^
 ||movies.php^
 ||moviescountdown.com^
-||moviesdrive.forum^
-||moviesdrives.cv^
 ||moviesflix.ad^
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
@@ -850,7 +834,6 @@
 ||myanime.live^
 ||mydublist.com^
 ||myfluneo.eu^
-||myfootball.pw^
 ||mygully.com^
 ||myneworm.katsurin.com^
 ||myrunningman.com^
@@ -879,7 +862,6 @@
 ||nfl-video.com^
 ||nflhunter.com^
 ||nhattruyenqq.com^
-||nhlstreams.io^
 ||nibl.co.uk^
 ||nicelink22.com^
 ||nipponsei.minglong.org^
@@ -1046,7 +1028,6 @@
 ||ridomovies.tv^
 ||rips.cc^
 ||ristohentai.com^
-||rivestream.net^
 ||rivestream.org^
 ||rlsbb.cc^
 ||rlsbb.in^
@@ -1183,7 +1164,6 @@
 ||streami.su^
 ||streaming-integrale.com^
 ||streamm4u.com.co^
-||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1397,7 +1377,6 @@
 ||watchf1full.com^
 ||watchflix.to^
 ||watchfooty.st^
-||watchfooty.su^
 ||watchmmafull.com^
 ||watchprowrestlings.live^
 ||watchreplay.net^
@@ -2069,9 +2048,6 @@
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
 ! 0.0.0.0 ask4movie.app
-! 0.0.0.0 ask4sport.co
-! 0.0.0.0 ask4sport.link
-! 0.0.0.0 ask4sport.live
 ! 0.0.0.0 ask4sport.xyz
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
@@ -2139,7 +2115,6 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 cinebolt.net
-! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.net
@@ -2215,13 +2190,8 @@
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cuutruyen.net
-! 0.0.0.0 daddylive.im
 ! 0.0.0.0 daddylive.li
-! 0.0.0.0 daddylive.lol
 ! 0.0.0.0 daddylive.org
-! 0.0.0.0 daddylive.pw
-! 0.0.0.0 daddylive.top
-! 0.0.0.0 daddylives.nl
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 dami-tv.pro
@@ -2304,7 +2274,7 @@
 ! 0.0.0.0 eztvx.to
 ! 0.0.0.0 f1-dash.com
 ! 0.0.0.0 f1fullraces.com
-! 0.0.0.0 falconstreams.com
+! 0.0.0.0 falconstreams.net
 ! 0.0.0.0 famelack.com
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
@@ -2380,6 +2350,7 @@
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
+! 0.0.0.0 goatapi.imreallydagoatt.workers.dev
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 godriveplayer.com
 ! 0.0.0.0 gomuraw.com
@@ -2495,7 +2466,6 @@
 ! 0.0.0.0 kibo.fm
 ! 0.0.0.0 kickassanime.cx
 ! 0.0.0.0 kids-in-mind.com
-! 0.0.0.0 kilatlive.net
 ! 0.0.0.0 kimcartoon.si
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
@@ -2528,7 +2498,6 @@
 ! 0.0.0.0 kusonime.com
 ! 0.0.0.0 kuudere.ru
 ! 0.0.0.0 kuudere.to
-! 0.0.0.0 l1l1.link
 ! 0.0.0.0 lama.watch
 ! 0.0.0.0 last.timer
 ! 0.0.0.0 lastfmstats.com
@@ -2547,7 +2516,6 @@
 ! 0.0.0.0 livetv.moviebite.cc
 ! 0.0.0.0 livetv.sx
 ! 0.0.0.0 lmanime.com
-! 0.0.0.0 lmao.love
 ! 0.0.0.0 lnbmange.com
 ! 0.0.0.0 lnori.com
 ! 0.0.0.0 log.rlsbb.ru
@@ -2616,7 +2584,6 @@
 ! 0.0.0.0 martinbarker.me
 ! 0.0.0.0 marvelguides.com
 ! 0.0.0.0 max-rls.com
-! 0.0.0.0 may01gu.risenow3mtjt0k.sbs
 ! 0.0.0.0 me.timschneeberger.jdsp
 ! 0.0.0.0 me.webcric.com
 ! 0.0.0.0 medeberiya.net
@@ -2653,6 +2620,7 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
+! 0.0.0.0 monochrome.tf
 ! 0.0.0.0 monoschinos2.com
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moriyashrine.org
@@ -2664,19 +2632,14 @@
 ! 0.0.0.0 moviebox.pk
 ! 0.0.0.0 movieboxapp.in
 ! 0.0.0.0 movieboxonline.net
-! 0.0.0.0 moviedrive.org
-! 0.0.0.0 movieland.ghetto.ng
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise-code.md
 ! 0.0.0.0 movieparadise.org
 ! 0.0.0.0 moviepire.org
-! 0.0.0.0 moviepluto.fun
 ! 0.0.0.0 moviepooper.com
 ! 0.0.0.0 movies.php
 ! 0.0.0.0 moviescountdown.com
-! 0.0.0.0 moviesdrive.forum
-! 0.0.0.0 moviesdrives.cv
 ! 0.0.0.0 moviesflix.ad
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
@@ -2692,7 +2655,6 @@
 ! 0.0.0.0 myanime.live
 ! 0.0.0.0 mydublist.com
 ! 0.0.0.0 myfluneo.eu
-! 0.0.0.0 myfootball.pw
 ! 0.0.0.0 mygully.com
 ! 0.0.0.0 myneworm.katsurin.com
 ! 0.0.0.0 myrunningman.com
@@ -2721,7 +2683,6 @@
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nflhunter.com
 ! 0.0.0.0 nhattruyenqq.com
-! 0.0.0.0 nhlstreams.io
 ! 0.0.0.0 nibl.co.uk
 ! 0.0.0.0 nicelink22.com
 ! 0.0.0.0 nipponsei.minglong.org
@@ -2888,7 +2849,6 @@
 ! 0.0.0.0 ridomovies.tv
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristohentai.com
-! 0.0.0.0 rivestream.net
 ! 0.0.0.0 rivestream.org
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
@@ -3025,7 +2985,6 @@
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamm4u.com.co
-! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3239,7 +3198,6 @@
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
 ! 0.0.0.0 watchfooty.st
-! 0.0.0.0 watchfooty.su
 ! 0.0.0.0 watchmmafull.com
 ! 0.0.0.0 watchprowrestlings.live
 ! 0.0.0.0 watchreplay.net

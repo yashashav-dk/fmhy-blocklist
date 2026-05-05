@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1839 domains | updated 2026-05-04T06:16:17Z
+# 1818 domains | updated 2026-05-05T05:46:40Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -223,9 +223,6 @@ asiaflix.net
 asiamediablog.com
 asiansubs.com
 ask4movie.app
-ask4sport.co
-ask4sport.link
-ask4sport.live
 ask4sport.xyz
 at4klauncher.com
 atisket.pulsewidth.org.uk
@@ -293,7 +290,6 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 cinebolt.net
-cinebytv-note.md
 cinebytv.com
 cinego.co
 cinegram.net
@@ -369,13 +365,8 @@ cubari.moe
 cubeflix.org
 cubiktv.com
 cuutruyen.net
-daddylive.im
 daddylive.li
-daddylive.lol
 daddylive.org
-daddylive.pw
-daddylive.top
-daddylives.nl
 daddyny.com
 dailycommercials.com
 dami-tv.pro
@@ -458,7 +449,7 @@ extranet.torrentbay.st
 eztvx.to
 f1-dash.com
 f1fullraces.com
-falconstreams.com
+falconstreams.net
 famelack.com
 fancons.com
 fanedit.org
@@ -534,6 +525,7 @@ global.toptoon.com
 globeradio.app
 globetv.app
 go.aftvnews.com
+goatapi.imreallydagoatt.workers.dev
 goctruyentranh.net
 godriveplayer.com
 gomuraw.com
@@ -649,7 +641,6 @@ keygenmusic.tk
 kibo.fm
 kickassanime.cx
 kids-in-mind.com
-kilatlive.net
 kimcartoon.si
 kimoitv.com
 kindlemodding.org
@@ -682,7 +673,6 @@ kurozora.app
 kusonime.com
 kuudere.ru
 kuudere.to
-l1l1.link
 lama.watch
 last.timer
 lastfmstats.com
@@ -701,7 +691,6 @@ livepush.io
 livetv.moviebite.cc
 livetv.sx
 lmanime.com
-lmao.love
 lnbmange.com
 lnori.com
 log.rlsbb.ru
@@ -770,7 +759,6 @@ mapple.tv
 martinbarker.me
 marvelguides.com
 max-rls.com
-may01gu.risenow3mtjt0k.sbs
 me.timschneeberger.jdsp
 me.webcric.com
 medeberiya.net
@@ -807,6 +795,7 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
+monochrome.tf
 monoschinos2.com
 moonflix.com
 moriyashrine.org
@@ -818,19 +807,14 @@ moviebox.ph
 moviebox.pk
 movieboxapp.in
 movieboxonline.net
-moviedrive.org
-movieland.ghetto.ng
 movielens.org
 movieo.me
 movieparadise-code.md
 movieparadise.org
 moviepire.org
-moviepluto.fun
 moviepooper.com
 movies.php
 moviescountdown.com
-moviesdrive.forum
-moviesdrives.cv
 moviesflix.ad
 moviesfoundonline.com
 moviesnipipay.me
@@ -846,7 +830,6 @@ myani.org
 myanime.live
 mydublist.com
 myfluneo.eu
-myfootball.pw
 mygully.com
 myneworm.katsurin.com
 myrunningman.com
@@ -875,7 +858,6 @@ nfl-replays.com
 nfl-video.com
 nflhunter.com
 nhattruyenqq.com
-nhlstreams.io
 nibl.co.uk
 nicelink22.com
 nipponsei.minglong.org
@@ -1042,7 +1024,6 @@ revoldiv.com
 ridomovies.tv
 rips.cc
 ristohentai.com
-rivestream.net
 rivestream.org
 rlsbb.cc
 rlsbb.in
@@ -1179,7 +1160,6 @@ streamgoblin.com
 streami.su
 streaming-integrale.com
 streamm4u.com.co
-streamsports99.ru
 streamsports99.su
 streamsports99.website
 streamtim.com
@@ -1393,7 +1373,6 @@ watchanimeworld.net
 watchf1full.com
 watchflix.to
 watchfooty.st
-watchfooty.su
 watchmmafull.com
 watchprowrestlings.live
 watchreplay.net
