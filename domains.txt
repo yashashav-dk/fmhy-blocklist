@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1818 domains | updated 2026-05-05T05:46:40Z
+# 1832 domains | updated 2026-05-06T06:08:12Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -103,6 +103,7 @@ animan.ru
 anime-archive.com
 anime-bingo.aikats.us
 anime-community-germany.de
+anime-dunya.com
 anime-fansubs.de
 anime-kami.com
 anime-odcinki.pl
@@ -398,23 +399,24 @@ dmtalkies.com
 doblatgeanimecatala.blogspot.com
 docchi.pl
 docln.net
+docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
 doctruyen3qui15.com
 dokiraw.tech
 donghuastream.org
+dorabash.in
 doubledouble.top
 doujindownloader.com
 doujinstyle.com
 downloader.now
 downloader2.com
 dpan.tv
-dramacool.sr
 dramacountdown.com
 dramaday.me
-dramafire.com.pl
 dramahood.mom
+dramanice.boo
 dualeotruyenay.com
 dubolt.com
 due.moe
@@ -506,11 +508,12 @@ freetvz.com
 freewebnovel.com
 french-anime.com
 frixysubs.pl
+frtoon1.com
 fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe632.com
+funbe633.com
 furaba-animeseichi.blog.jp
 gadgeteer.co.za
 gaiaflix.live
@@ -549,6 +552,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
+hdhd502.net
 hdrush.cc
 heavenmanga.com
 henshingrid.blogspot.com
@@ -626,7 +630,6 @@ kaa.lt
 kaa.to
 kagane.org
 kajzu.com
-kakuseiproject.com
 kara.moe
 kartoons.me
 katworld.net
@@ -684,6 +687,7 @@ libgen.li
 library.cufiy.net
 libremdb.iket.me
 lightcone.org
+lightnovelheaven.com
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
@@ -718,6 +722,7 @@ mainportal66.com
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
+managall.com
 manba.co.jp
 manga-oni.com
 manga-tr.com
@@ -768,6 +773,7 @@ megabeastempire.wordpress.com
 meionovel.id
 melon-subs.de
 meownime.ltd
+meowtv.ru
 meramifan.wordpress.com
 merlinwz.com
 meshmanga.com
@@ -821,6 +827,7 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
+mtoon138.com
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -835,6 +842,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
+namee100.com
 nanaone.net
 nanasubs.com.pl
 nanoskript.dev
@@ -859,7 +867,7 @@ nfl-video.com
 nflhunter.com
 nhattruyenqq.com
 nibl.co.uk
-nicelink22.com
+nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
@@ -987,6 +995,7 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
+raw-cans.net
 raw.senmanga.com
 raw1001.net
 rawbaka.com
@@ -1007,6 +1016,7 @@ readnovelfull.com
 real-debrid.com
 realfight.top
 realityripple.com
+reanime.to
 redflix.club
 redflix.co
 redsquirrel87.com
@@ -1193,7 +1203,7 @@ sync.coconono.org
 syncler.net
 synthv.info
 t.html
-t1.xtoon2.com
+t2.xtoon365.com
 t2tunes.site
 t4tsa.cc
 tachiyomiaz.apk
@@ -1232,7 +1242,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
-tkor114.com
+tkor115.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1387,6 +1397,7 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wfty.link
+wfwf449.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1409,6 +1420,7 @@ worldnews24.tv
 worldsports.st
 wotaku.wiki
 wowtopix.com
+wtwt323.com
 wuxia.click
 wv.dramacool.com.tr
 ww.animesultra.org
@@ -1724,7 +1736,6 @@ www.tokyoinsider.com
 www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
-www.toonshub.my.id
 www.toontales.net
 www.toptruyentv11.com
 www.totsrucs.cat
@@ -1774,18 +1785,21 @@ www.yinhuadm.cc
 www.yomu-reader.com
 www.zimmerit.moe
 www.zophar.net
-www12.dramacool.sr
 www4.animeflv.net
 x27.html
 x3dl.net
 xalosach.com
 xdcc.eu
 xmanhua.com
+xn--9t4b31dr7o.com
+xn--ph1bph0az41x.com
 xoxocomic.com
 xprime.stream
 xprime.su
 yadg.cc
 yampi.live
+yatoon228.com
+yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net
