@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1832 domains | updated 2026-05-06T06:08:12Z
+# 1829 domains | updated 2026-05-07T06:13:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -268,8 +268,6 @@ bleh.katelyn.moe
 blkom.com
 blog.decryption.net.au
 blog.sakugabooru.com
-bollywood.eu
-bollywood.eu.org
 bookmarklets.roler.dev
 booksonic.org
 bookwalker.com
@@ -362,7 +360,6 @@ crichd.at
 crichd.com.co
 crimsonfansubs.com
 cringemdb.com
-cubari.moe
 cubeflix.org
 cubiktv.com
 cuutruyen.net
@@ -1156,9 +1153,9 @@ store.rg
 stream.gensokyoradio.net
 stream.telev.tv
 stream192.mp
-streamcorner.cfd
+streamcorner.cc
 streamcorner.info
-streamcorner.sbs
+streamcorner.vu
 streameast.ga
 streameast.games
 streameast.ph

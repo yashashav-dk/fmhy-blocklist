@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1832 domains)
-! Last updated: 2026-05-06T06:08:12Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
+! Last updated: 2026-05-07T06:13:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -272,8 +272,6 @@
 ||blkom.com^
 ||blog.decryption.net.au^
 ||blog.sakugabooru.com^
-||bollywood.eu^
-||bollywood.eu.org^
 ||bookmarklets.roler.dev^
 ||booksonic.org^
 ||bookwalker.com^
@@ -366,7 +364,6 @@
 ||crichd.com.co^
 ||crimsonfansubs.com^
 ||cringemdb.com^
-||cubari.moe^
 ||cubeflix.org^
 ||cubiktv.com^
 ||cuutruyen.net^
@@ -1160,9 +1157,9 @@
 ||stream.gensokyoradio.net^
 ||stream.telev.tv^
 ||stream192.mp^
-||streamcorner.cfd^
+||streamcorner.cc^
 ||streamcorner.info^
-||streamcorner.sbs^
+||streamcorner.vu^
 ||streameast.ga^
 ||streameast.games^
 ||streameast.ph^
@@ -2107,8 +2104,6 @@
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
 ! 0.0.0.0 blog.sakugabooru.com
-! 0.0.0.0 bollywood.eu
-! 0.0.0.0 bollywood.eu.org
 ! 0.0.0.0 bookmarklets.roler.dev
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
@@ -2201,7 +2196,6 @@
 ! 0.0.0.0 crichd.com.co
 ! 0.0.0.0 crimsonfansubs.com
 ! 0.0.0.0 cringemdb.com
-! 0.0.0.0 cubari.moe
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cuutruyen.net
@@ -2995,9 +2989,9 @@
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream.telev.tv
 ! 0.0.0.0 stream192.mp
-! 0.0.0.0 streamcorner.cfd
+! 0.0.0.0 streamcorner.cc
 ! 0.0.0.0 streamcorner.info
-! 0.0.0.0 streamcorner.sbs
+! 0.0.0.0 streamcorner.vu
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.games
 ! 0.0.0.0 streameast.ph
