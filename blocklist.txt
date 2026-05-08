@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
-! Last updated: 2026-05-07T06:13:26Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1836 domains)
+! Last updated: 2026-05-08T05:31:40Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -168,6 +168,7 @@
 ||animes.garden^
 ||animesalt.top^
 ||animeschedule.net^
+||animeshrine.xyz^
 ||animesilo.cc^
 ||animesongs.org^
 ||animestars.org^
@@ -295,7 +296,7 @@
 ||cinebolt.net^
 ||cinebytv.com^
 ||cinego.co^
-||cinegram.net^
+||cinegram.tv^
 ||cinehd.app^
 ||cinehub.one^
 ||cinelove.live^
@@ -477,6 +478,7 @@
 ||flickystream.ru^
 ||flix.smashystream.xyz^
 ||flixer.su^
+||flixhop.com^
 ||flixhouse.com^
 ||flixvo.fun^
 ||flixvo.live^
@@ -649,6 +651,7 @@
 ||kimoitv.com^
 ||kindlemodding.org^
 ||kinozal.tv^
+||kiroku.my^
 ||kissanime.com.ru^
 ||kissanime.help^
 ||kissasian.video^
@@ -1036,6 +1039,8 @@
 ||rips.cc^
 ||ristohentai.com^
 ||rivestream.org^
+||rivestream.ru^
+||rivestream.top^
 ||rlsbb.cc^
 ||rlsbb.in^
 ||rlsbb.ru^
@@ -1130,6 +1135,7 @@
 ||song-bottle.app^
 ||songle.jp^
 ||soniczone.net^
+||sora.ich^
 ||soundbound.app^
 ||sozo.azamov.me^
 ||space.olamovies.dad^
@@ -1143,7 +1149,7 @@
 ||sporting77.ru^
 ||sportontv.biz^
 ||sports24.cc^
-||sportsurge.bz^
+||sportsurge.events^
 ||sportyhunter.space^
 ||squid.wtf^
 ||srstop.link^
@@ -1265,7 +1271,7 @@
 ||torbox.app^
 ||torrents.youplex.site^
 ||tortuga-ceviri.com^
-||totalsportek.events^
+||totalsportek.tips^
 ||touhou-memories.com^
 ||touhou.ai^
 ||touhou.kuukunen.net^
@@ -1327,7 +1333,6 @@
 ||utaite-key.info^
 ||utaitedb.net^
 ||utaten.com^
-||v0n.notion.site^
 ||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
@@ -1429,6 +1434,7 @@
 ||ww1.sharespark.cfd^
 ||ww1.yesmovies.ag^
 ||ww14.kissasian.com.lv^
+||wwv.veranimes.net^
 ||www.1flex.org^
 ||www.1shows.org^
 ||www.1tube.org^
@@ -1819,6 +1825,7 @@
 ||yts-yify-note.md^
 ||yts.bz^
 ||ytsproxies.com^
+||ytsubdl.com^
 ||yukisubs.wordpress.com^
 ||yumemi.moe^
 ||yumicoradio.net^
@@ -2000,6 +2007,7 @@
 ! 0.0.0.0 animes.garden
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
+! 0.0.0.0 animeshrine.xyz
 ! 0.0.0.0 animesilo.cc
 ! 0.0.0.0 animesongs.org
 ! 0.0.0.0 animestars.org
@@ -2127,7 +2135,7 @@
 ! 0.0.0.0 cinebolt.net
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
-! 0.0.0.0 cinegram.net
+! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
 ! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinelove.live
@@ -2309,6 +2317,7 @@
 ! 0.0.0.0 flickystream.ru
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
+! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
@@ -2481,6 +2490,7 @@
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kinozal.tv
+! 0.0.0.0 kiroku.my
 ! 0.0.0.0 kissanime.com.ru
 ! 0.0.0.0 kissanime.help
 ! 0.0.0.0 kissasian.video
@@ -2868,6 +2878,8 @@
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristohentai.com
 ! 0.0.0.0 rivestream.org
+! 0.0.0.0 rivestream.ru
+! 0.0.0.0 rivestream.top
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
 ! 0.0.0.0 rlsbb.ru
@@ -2962,6 +2974,7 @@
 ! 0.0.0.0 song-bottle.app
 ! 0.0.0.0 songle.jp
 ! 0.0.0.0 soniczone.net
+! 0.0.0.0 sora.ich
 ! 0.0.0.0 soundbound.app
 ! 0.0.0.0 sozo.azamov.me
 ! 0.0.0.0 space.olamovies.dad
@@ -2975,7 +2988,7 @@
 ! 0.0.0.0 sporting77.ru
 ! 0.0.0.0 sportontv.biz
 ! 0.0.0.0 sports24.cc
-! 0.0.0.0 sportsurge.bz
+! 0.0.0.0 sportsurge.events
 ! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
@@ -3097,7 +3110,7 @@
 ! 0.0.0.0 torbox.app
 ! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 tortuga-ceviri.com
-! 0.0.0.0 totalsportek.events
+! 0.0.0.0 totalsportek.tips
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.ai
 ! 0.0.0.0 touhou.kuukunen.net
@@ -3159,7 +3172,6 @@
 ! 0.0.0.0 utaite-key.info
 ! 0.0.0.0 utaitedb.net
 ! 0.0.0.0 utaten.com
-! 0.0.0.0 v0n.notion.site
 ! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
@@ -3261,6 +3273,7 @@
 ! 0.0.0.0 ww1.sharespark.cfd
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww14.kissasian.com.lv
+! 0.0.0.0 wwv.veranimes.net
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1shows.org
 ! 0.0.0.0 www.1tube.org
@@ -3651,6 +3664,7 @@
 ! 0.0.0.0 yts-yify-note.md
 ! 0.0.0.0 yts.bz
 ! 0.0.0.0 ytsproxies.com
+! 0.0.0.0 ytsubdl.com
 ! 0.0.0.0 yukisubs.wordpress.com
 ! 0.0.0.0 yumemi.moe
 ! 0.0.0.0 yumicoradio.net

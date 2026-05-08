@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1829 domains | updated 2026-05-07T06:13:26Z
+# 1836 domains | updated 2026-05-08T05:31:40Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -164,6 +164,7 @@ animerss.com
 animes.garden
 animesalt.top
 animeschedule.net
+animeshrine.xyz
 animesilo.cc
 animesongs.org
 animestars.org
@@ -291,7 +292,7 @@ chikianimation.online
 cinebolt.net
 cinebytv.com
 cinego.co
-cinegram.net
+cinegram.tv
 cinehd.app
 cinehub.one
 cinelove.live
@@ -473,6 +474,7 @@ flickmetrix.com
 flickystream.ru
 flix.smashystream.xyz
 flixer.su
+flixhop.com
 flixhouse.com
 flixvo.fun
 flixvo.live
@@ -645,6 +647,7 @@ kimcartoon.si
 kimoitv.com
 kindlemodding.org
 kinozal.tv
+kiroku.my
 kissanime.com.ru
 kissanime.help
 kissasian.video
@@ -1032,6 +1035,8 @@ ridomovies.tv
 rips.cc
 ristohentai.com
 rivestream.org
+rivestream.ru
+rivestream.top
 rlsbb.cc
 rlsbb.in
 rlsbb.ru
@@ -1126,6 +1131,7 @@ some-guy.org
 song-bottle.app
 songle.jp
 soniczone.net
+sora.ich
 soundbound.app
 sozo.azamov.me
 space.olamovies.dad
@@ -1139,7 +1145,7 @@ sport7.pro
 sporting77.ru
 sportontv.biz
 sports24.cc
-sportsurge.bz
+sportsurge.events
 sportyhunter.space
 squid.wtf
 srstop.link
@@ -1261,7 +1267,7 @@ topsters.org
 torbox.app
 torrents.youplex.site
 tortuga-ceviri.com
-totalsportek.events
+totalsportek.tips
 touhou-memories.com
 touhou.ai
 touhou.kuukunen.net
@@ -1323,7 +1329,6 @@ usenet.rexum.space
 utaite-key.info
 utaitedb.net
 utaten.com
-v0n.notion.site
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
@@ -1425,6 +1430,7 @@ ww1.goojara.to
 ww1.sharespark.cfd
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
+wwv.veranimes.net
 www.1flex.org
 www.1shows.org
 www.1tube.org
@@ -1815,6 +1821,7 @@ yts-subs.com
 yts-yify-note.md
 yts.bz
 ytsproxies.com
+ytsubdl.com
 yukisubs.wordpress.com
 yumemi.moe
 yumicoradio.net
