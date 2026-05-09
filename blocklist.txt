@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1836 domains)
-! Last updated: 2026-05-08T05:31:40Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1821 domains)
+! Last updated: 2026-05-09T05:50:58Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -177,7 +177,6 @@
 ||animesuge.bid^
 ||animesuge.cz^
 ||animethemes.moe^
-||animetosho.org^
 ||animetsu.bz^
 ||animetsu.cc^
 ||animetsu.live^
@@ -221,7 +220,6 @@
 ||arabshentai.com^
 ||argoscomics.online^
 ||article.olduse.net^
-||artwork.thekvt.eu.org^
 ||ascii2d.net^
 ||asiadreamradio.torontocast.stream^
 ||asiaflix.in^
@@ -256,7 +254,6 @@
 ||batcave.biz^
 ||bcine.app^
 ||bechdeltest.com^
-||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
 ||beta.otaku-streamers.com^
@@ -273,7 +270,6 @@
 ||blkom.com^
 ||blog.decryption.net.au^
 ||blog.sakugabooru.com^
-||bookmarklets.roler.dev^
 ||booksonic.org^
 ||bookwalker.com^
 ||bstsrs.in^
@@ -321,7 +317,6 @@
 ||code.name.monkey.retromusic^
 ||com-x.life^
 ||com.aimp.player^
-||com.delphicoder.flud^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
 ||com.maxmpz.audioplayer.unlock^
@@ -356,8 +351,6 @@
 ||couchmoney.tv^
 ||countdown.tv^
 ||countries.html^
-||covers.musichoarders.xyz^
-||covers.roler.dev^
 ||crackstreams.ms^
 ||cracksurl.com^
 ||crafty.moe^
@@ -370,6 +363,7 @@
 ||cuutruyen.net^
 ||daddylive.li^
 ||daddylive.org^
+||daddylive.pk^
 ||daddyny.com^
 ||dailycommercials.com^
 ||dami-tv.pro^
@@ -379,7 +373,6 @@
 ||ddlbase.com^
 ||deaffestonlinecinema.eventive.org^
 ||deafmovie.org^
-||debrid-link.com^
 ||debrid.downloader.zone^
 ||debridmediamanager.com^
 ||desu-online.pl^
@@ -393,9 +386,8 @@
 ||directory.html^
 ||dl-raw.se^
 ||dl-zip.com^
-||dlhd.dad^
+||dlhd.pk^
 ||dlraw.net^
-||dlstreams.top^
 ||dmhy.org^
 ||dmtalkies.com^
 ||doblatgeanimecatala.blogspot.com^
@@ -440,7 +432,6 @@
 ||english.html^
 ||episodehive.com^
 ||epub.moe^
-||ermitteln.ihateani.me^
 ||erogamescape.org^
 ||erogemusicquiz.com^
 ||esp32.nontonx.com^
@@ -590,7 +581,6 @@
 ||iamscum.wordpress.com^
 ||icefy.top^
 ||id.shinigami.asia^
-||idm.internet.download.manager^
 ||igmdb.com^
 ||iklone.org^
 ||in.krosbits.musicolet^
@@ -1144,12 +1134,9 @@
 ||spin.moe^
 ||splay.id^
 ||split-tv.co.il^
-||sport7.md^
-||sport7.pro^
-||sporting77.ru^
 ||sportontv.biz^
 ||sports24.cc^
-||sportsurge.events^
+||sportsurge.pk^
 ||sportyhunter.space^
 ||squid.wtf^
 ||srstop.link^
@@ -1296,7 +1283,6 @@
 ||tv.filmu.in^
 ||tv.jest^
 ||tv.jest.one^
-||tv.pulp.watch^
 ||tv.vynx.cc^
 ||tv247us.vip^
 ||tvalt.surge.sh^
@@ -1768,7 +1754,6 @@
 ||www.vipvgm.net^
 ||www.vn-meido.com^
 ||www.vocaloidradio.com^
-||www.watchfooty.top^
 ||www.wco.tv^
 ||www.wcoanimedub.tv^
 ||www.wcoanimesub.tv^
@@ -2016,7 +2001,6 @@
 ! 0.0.0.0 animesuge.bid
 ! 0.0.0.0 animesuge.cz
 ! 0.0.0.0 animethemes.moe
-! 0.0.0.0 animetosho.org
 ! 0.0.0.0 animetsu.bz
 ! 0.0.0.0 animetsu.cc
 ! 0.0.0.0 animetsu.live
@@ -2060,7 +2044,6 @@
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 article.olduse.net
-! 0.0.0.0 artwork.thekvt.eu.org
 ! 0.0.0.0 ascii2d.net
 ! 0.0.0.0 asiadreamradio.torontocast.stream
 ! 0.0.0.0 asiaflix.in
@@ -2095,7 +2078,6 @@
 ! 0.0.0.0 batcave.biz
 ! 0.0.0.0 bcine.app
 ! 0.0.0.0 bechdeltest.com
-! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
 ! 0.0.0.0 beta.otaku-streamers.com
@@ -2112,7 +2094,6 @@
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
 ! 0.0.0.0 blog.sakugabooru.com
-! 0.0.0.0 bookmarklets.roler.dev
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
 ! 0.0.0.0 bstsrs.in
@@ -2160,7 +2141,6 @@
 ! 0.0.0.0 code.name.monkey.retromusic
 ! 0.0.0.0 com-x.life
 ! 0.0.0.0 com.aimp.player
-! 0.0.0.0 com.delphicoder.flud
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
 ! 0.0.0.0 com.maxmpz.audioplayer.unlock
@@ -2195,8 +2175,6 @@
 ! 0.0.0.0 couchmoney.tv
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 countries.html
-! 0.0.0.0 covers.musichoarders.xyz
-! 0.0.0.0 covers.roler.dev
 ! 0.0.0.0 crackstreams.ms
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
@@ -2209,6 +2187,7 @@
 ! 0.0.0.0 cuutruyen.net
 ! 0.0.0.0 daddylive.li
 ! 0.0.0.0 daddylive.org
+! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 dami-tv.pro
@@ -2218,7 +2197,6 @@
 ! 0.0.0.0 ddlbase.com
 ! 0.0.0.0 deaffestonlinecinema.eventive.org
 ! 0.0.0.0 deafmovie.org
-! 0.0.0.0 debrid-link.com
 ! 0.0.0.0 debrid.downloader.zone
 ! 0.0.0.0 debridmediamanager.com
 ! 0.0.0.0 desu-online.pl
@@ -2232,9 +2210,8 @@
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.se
 ! 0.0.0.0 dl-zip.com
-! 0.0.0.0 dlhd.dad
+! 0.0.0.0 dlhd.pk
 ! 0.0.0.0 dlraw.net
-! 0.0.0.0 dlstreams.top
 ! 0.0.0.0 dmhy.org
 ! 0.0.0.0 dmtalkies.com
 ! 0.0.0.0 doblatgeanimecatala.blogspot.com
@@ -2279,7 +2256,6 @@
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
 ! 0.0.0.0 epub.moe
-! 0.0.0.0 ermitteln.ihateani.me
 ! 0.0.0.0 erogamescape.org
 ! 0.0.0.0 erogemusicquiz.com
 ! 0.0.0.0 esp32.nontonx.com
@@ -2429,7 +2405,6 @@
 ! 0.0.0.0 iamscum.wordpress.com
 ! 0.0.0.0 icefy.top
 ! 0.0.0.0 id.shinigami.asia
-! 0.0.0.0 idm.internet.download.manager
 ! 0.0.0.0 igmdb.com
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
@@ -2983,12 +2958,9 @@
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 splay.id
 ! 0.0.0.0 split-tv.co.il
-! 0.0.0.0 sport7.md
-! 0.0.0.0 sport7.pro
-! 0.0.0.0 sporting77.ru
 ! 0.0.0.0 sportontv.biz
 ! 0.0.0.0 sports24.cc
-! 0.0.0.0 sportsurge.events
+! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
@@ -3135,7 +3107,6 @@
 ! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
-! 0.0.0.0 tv.pulp.watch
 ! 0.0.0.0 tv.vynx.cc
 ! 0.0.0.0 tv247us.vip
 ! 0.0.0.0 tvalt.surge.sh
@@ -3607,7 +3578,6 @@
 ! 0.0.0.0 www.vipvgm.net
 ! 0.0.0.0 www.vn-meido.com
 ! 0.0.0.0 www.vocaloidradio.com
-! 0.0.0.0 www.watchfooty.top
 ! 0.0.0.0 www.wco.tv
 ! 0.0.0.0 www.wcoanimedub.tv
 ! 0.0.0.0 www.wcoanimesub.tv

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1836 domains | updated 2026-05-08T05:31:40Z
+# 1821 domains | updated 2026-05-09T05:50:58Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -173,7 +173,6 @@ animesub.lt
 animesuge.bid
 animesuge.cz
 animethemes.moe
-animetosho.org
 animetsu.bz
 animetsu.cc
 animetsu.live
@@ -217,7 +216,6 @@ app.buffstream.io
 arabshentai.com
 argoscomics.online
 article.olduse.net
-artwork.thekvt.eu.org
 ascii2d.net
 asiadreamradio.torontocast.stream
 asiaflix.in
@@ -252,7 +250,6 @@ basketballreplays.net
 batcave.biz
 bcine.app
 bechdeltest.com
-bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
 beta.otaku-streamers.com
@@ -269,7 +266,6 @@ bleh.katelyn.moe
 blkom.com
 blog.decryption.net.au
 blog.sakugabooru.com
-bookmarklets.roler.dev
 booksonic.org
 bookwalker.com
 bstsrs.in
@@ -317,7 +313,6 @@ cocoleech.com
 code.name.monkey.retromusic
 com-x.life
 com.aimp.player
-com.delphicoder.flud
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
 com.maxmpz.audioplayer.unlock
@@ -352,8 +347,6 @@ corsflix.net
 couchmoney.tv
 countdown.tv
 countries.html
-covers.musichoarders.xyz
-covers.roler.dev
 crackstreams.ms
 cracksurl.com
 crafty.moe
@@ -366,6 +359,7 @@ cubiktv.com
 cuutruyen.net
 daddylive.li
 daddylive.org
+daddylive.pk
 daddyny.com
 dailycommercials.com
 dami-tv.pro
@@ -375,7 +369,6 @@ dd12streams.com
 ddlbase.com
 deaffestonlinecinema.eventive.org
 deafmovie.org
-debrid-link.com
 debrid.downloader.zone
 debridmediamanager.com
 desu-online.pl
@@ -389,9 +382,8 @@ digitalfilmarchive.net
 directory.html
 dl-raw.se
 dl-zip.com
-dlhd.dad
+dlhd.pk
 dlraw.net
-dlstreams.top
 dmhy.org
 dmtalkies.com
 doblatgeanimecatala.blogspot.com
@@ -436,7 +428,6 @@ english-dubbed.com
 english.html
 episodehive.com
 epub.moe
-ermitteln.ihateani.me
 erogamescape.org
 erogemusicquiz.com
 esp32.nontonx.com
@@ -586,7 +577,6 @@ i.wotaku.wiki
 iamscum.wordpress.com
 icefy.top
 id.shinigami.asia
-idm.internet.download.manager
 igmdb.com
 iklone.org
 in.krosbits.musicolet
@@ -1140,12 +1130,9 @@ sphinxanime.com
 spin.moe
 splay.id
 split-tv.co.il
-sport7.md
-sport7.pro
-sporting77.ru
 sportontv.biz
 sports24.cc
-sportsurge.events
+sportsurge.pk
 sportyhunter.space
 squid.wtf
 srstop.link
@@ -1292,7 +1279,6 @@ tundra.moe
 tv.filmu.in
 tv.jest
 tv.jest.one
-tv.pulp.watch
 tv.vynx.cc
 tv247us.vip
 tvalt.surge.sh
@@ -1764,7 +1750,6 @@ www.viprow.co
 www.vipvgm.net
 www.vn-meido.com
 www.vocaloidradio.com
-www.watchfooty.top
 www.wco.tv
 www.wcoanimedub.tv
 www.wcoanimesub.tv
