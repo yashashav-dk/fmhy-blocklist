@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1821 domains)
-! Last updated: 2026-05-09T05:50:58Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1815 domains)
+! Last updated: 2026-05-10T06:14:38Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -263,6 +263,7 @@
 ||bgmlist.com^
 ||bgmx.mysxl.cn^
 ||bilibili.tv^
+||bingebox.to^
 ||bingeflix.tv^
 ||binsearch.info^
 ||bintv.net^
@@ -307,11 +308,12 @@
 ||cinetimes.org^
 ||cinetrii.com^
 ||cinevibe.asia^
+||cinevibe.icu^
+||cinevibe.site^
 ||cinevibe.to^
 ||cksub.org^
 ||cli.club^
 ||clients.md^
-||cmangax9.com^
 ||cmro.travis-starnes.com^
 ||cocoleech.com^
 ||code.name.monkey.retromusic^
@@ -360,7 +362,6 @@
 ||cringemdb.com^
 ||cubeflix.org^
 ||cubiktv.com^
-||cuutruyen.net^
 ||daddylive.li^
 ||daddylive.org^
 ||daddylive.pk^
@@ -397,7 +398,6 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||doctruyen3qui15.com^
 ||dokiraw.tech^
 ||donghuastream.org^
 ||dorabash.in^
@@ -411,7 +411,7 @@
 ||dramaday.me^
 ||dramahood.mom^
 ||dramanice.boo^
-||dualeotruyenay.com^
+||dualeotruyenhx.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.tv^
@@ -490,7 +490,6 @@
 ||forum.dirtywarez.com^
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
-||foxtruyen.com^
 ||franime.fr^
 ||free-movies.to^
 ||free-usenet-trials.php^
@@ -929,7 +928,6 @@
 ||patchwork.moekyun.me^
 ||phate.io^
 ||phi-phenomenon.org^
-||pikahd.com^
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.live^
@@ -1277,7 +1275,7 @@
 ||truyenfull.io^
 ||truyenfull.vision^
 ||truyenhentaivn.club^
-||truyenqqgo.com^
+||truyenqqko.com^
 ||tsquareplaza.blogspot.com^
 ||tundra.moe^
 ||tv.filmu.in^
@@ -1331,7 +1329,6 @@
 ||vgmdb.net^
 ||vgmrips.net^
 ||vgmusic.com^
-||vi-hentai.com^
 ||vibemax.to^
 ||vidbox.cc^
 ||vidbox.xyz^
@@ -1341,7 +1338,6 @@
 ||virgil.samidy.com^
 ||vknext.net^
 ||vkvideo.ru^
-||vlogtruyen58.com^
 ||vnkeyfc.com^
 ||vocadb.net^
 ||vocaloid.radioca.st^
@@ -1677,7 +1673,6 @@
 ||www.publicdomaintorrents.info^
 ||www.quodb.com^
 ||www.radioanime24.pl^
-||www.radiotokuheroclub.com^
 ||www.rapidseedbox.com^
 ||www.raredoramas.com^
 ||www.ratingraph.com^
@@ -1730,7 +1725,6 @@
 ||www.toonamiaftermath.com^
 ||www.toonamiremastered.com^
 ||www.toontales.net^
-||www.toptruyentv11.com^
 ||www.totsrucs.cat^
 ||www.tranimeizle.co^
 ||www.treasuretv.org^
@@ -2087,6 +2081,7 @@
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bgmx.mysxl.cn
 ! 0.0.0.0 bilibili.tv
+! 0.0.0.0 bingebox.to
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 binsearch.info
 ! 0.0.0.0 bintv.net
@@ -2131,11 +2126,12 @@
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.asia
+! 0.0.0.0 cinevibe.icu
+! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
-! 0.0.0.0 cmangax9.com
 ! 0.0.0.0 cmro.travis-starnes.com
 ! 0.0.0.0 cocoleech.com
 ! 0.0.0.0 code.name.monkey.retromusic
@@ -2184,7 +2180,6 @@
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
-! 0.0.0.0 cuutruyen.net
 ! 0.0.0.0 daddylive.li
 ! 0.0.0.0 daddylive.org
 ! 0.0.0.0 daddylive.pk
@@ -2221,7 +2216,6 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 doctruyen3qui15.com
 ! 0.0.0.0 dokiraw.tech
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2235,7 +2229,7 @@
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
-! 0.0.0.0 dualeotruyenay.com
+! 0.0.0.0 dualeotruyenhx.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.tv
@@ -2314,7 +2308,6 @@
 ! 0.0.0.0 forum.dirtywarez.com
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
-! 0.0.0.0 foxtruyen.com
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
 ! 0.0.0.0 free-usenet-trials.php
@@ -2753,7 +2746,6 @@
 ! 0.0.0.0 patchwork.moekyun.me
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
-! 0.0.0.0 pikahd.com
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.live
@@ -3101,7 +3093,7 @@
 ! 0.0.0.0 truyenfull.io
 ! 0.0.0.0 truyenfull.vision
 ! 0.0.0.0 truyenhentaivn.club
-! 0.0.0.0 truyenqqgo.com
+! 0.0.0.0 truyenqqko.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tv.filmu.in
@@ -3155,7 +3147,6 @@
 ! 0.0.0.0 vgmdb.net
 ! 0.0.0.0 vgmrips.net
 ! 0.0.0.0 vgmusic.com
-! 0.0.0.0 vi-hentai.com
 ! 0.0.0.0 vibemax.to
 ! 0.0.0.0 vidbox.cc
 ! 0.0.0.0 vidbox.xyz
@@ -3165,7 +3156,6 @@
 ! 0.0.0.0 virgil.samidy.com
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru
-! 0.0.0.0 vlogtruyen58.com
 ! 0.0.0.0 vnkeyfc.com
 ! 0.0.0.0 vocadb.net
 ! 0.0.0.0 vocaloid.radioca.st
@@ -3501,7 +3491,6 @@
 ! 0.0.0.0 www.publicdomaintorrents.info
 ! 0.0.0.0 www.quodb.com
 ! 0.0.0.0 www.radioanime24.pl
-! 0.0.0.0 www.radiotokuheroclub.com
 ! 0.0.0.0 www.rapidseedbox.com
 ! 0.0.0.0 www.raredoramas.com
 ! 0.0.0.0 www.ratingraph.com
@@ -3554,7 +3543,6 @@
 ! 0.0.0.0 www.toonamiaftermath.com
 ! 0.0.0.0 www.toonamiremastered.com
 ! 0.0.0.0 www.toontales.net
-! 0.0.0.0 www.toptruyentv11.com
 ! 0.0.0.0 www.totsrucs.cat
 ! 0.0.0.0 www.tranimeizle.co
 ! 0.0.0.0 www.treasuretv.org

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1821 domains | updated 2026-05-09T05:50:58Z
+# 1815 domains | updated 2026-05-10T06:14:38Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -259,6 +259,7 @@ bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
 bilibili.tv
+bingebox.to
 bingeflix.tv
 binsearch.info
 bintv.net
@@ -303,11 +304,12 @@ cinetaro.tv
 cinetimes.org
 cinetrii.com
 cinevibe.asia
+cinevibe.icu
+cinevibe.site
 cinevibe.to
 cksub.org
 cli.club
 clients.md
-cmangax9.com
 cmro.travis-starnes.com
 cocoleech.com
 code.name.monkey.retromusic
@@ -356,7 +358,6 @@ crimsonfansubs.com
 cringemdb.com
 cubeflix.org
 cubiktv.com
-cuutruyen.net
 daddylive.li
 daddylive.org
 daddylive.pk
@@ -393,7 +394,6 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-doctruyen3qui15.com
 dokiraw.tech
 donghuastream.org
 dorabash.in
@@ -407,7 +407,7 @@ dramacountdown.com
 dramaday.me
 dramahood.mom
 dramanice.boo
-dualeotruyenay.com
+dualeotruyenhx.com
 dubolt.com
 due.moe
 dulo.tv
@@ -486,7 +486,6 @@ foro.unionfansub.com
 forum.dirtywarez.com
 forum.mobilism.org
 foundfootagecritic.com
-foxtruyen.com
 franime.fr
 free-movies.to
 free-usenet-trials.php
@@ -925,7 +924,6 @@ pahe.ink
 patchwork.moekyun.me
 phate.io
 phi-phenomenon.org
-pikahd.com
 piratexplay.cc
 piratexplay.com
 pitsport.live
@@ -1273,7 +1271,7 @@ truyendex.cc
 truyenfull.io
 truyenfull.vision
 truyenhentaivn.club
-truyenqqgo.com
+truyenqqko.com
 tsquareplaza.blogspot.com
 tundra.moe
 tv.filmu.in
@@ -1327,7 +1325,6 @@ vgm.impulseinformatica.com.br
 vgmdb.net
 vgmrips.net
 vgmusic.com
-vi-hentai.com
 vibemax.to
 vidbox.cc
 vidbox.xyz
@@ -1337,7 +1334,6 @@ vipotv.com
 virgil.samidy.com
 vknext.net
 vkvideo.ru
-vlogtruyen58.com
 vnkeyfc.com
 vocadb.net
 vocaloid.radioca.st
@@ -1673,7 +1669,6 @@ www.primewire.mov
 www.publicdomaintorrents.info
 www.quodb.com
 www.radioanime24.pl
-www.radiotokuheroclub.com
 www.rapidseedbox.com
 www.raredoramas.com
 www.ratingraph.com
@@ -1726,7 +1721,6 @@ www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
 www.toontales.net
-www.toptruyentv11.com
 www.totsrucs.cat
 www.tranimeizle.co
 www.treasuretv.org
