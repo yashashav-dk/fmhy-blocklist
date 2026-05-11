@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1815 domains | updated 2026-05-10T06:14:38Z
+# 1812 domains | updated 2026-05-11T06:42:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -85,11 +85,9 @@ anifilm.pro
 aniflix.uno
 anifox.club
 anify.to
-anigo.to
 aniguessr.com
 anihq.org
 anihq.to
-anikai.to
 anikototv.to
 anikuro.ru
 anikuro.site
@@ -138,11 +136,6 @@ animehay.in
 animehub.ac
 animejoker.com
 animejoy.ru
-animekai.fi
-animekai.fo
-animekai.gs
-animekai.la
-animekai.pw
 animekai.to
 animekarmalist.com
 animekhor.org
@@ -195,12 +188,14 @@ aniplaylist.com
 anison.fm
 anisongdb.com
 anissia.net
+anistream.one
 anisuge.tv
 anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.com
 anitrendz.net
 anitube.in.ua
+aniverse.watch
 aniworld.to
 anixtv.in
 anixtv.pro
@@ -486,6 +481,8 @@ foro.unionfansub.com
 forum.dirtywarez.com
 forum.mobilism.org
 foundfootagecritic.com
+foxlink.buzz
+foxtrend.vip
 franime.fr
 free-movies.to
 free-usenet-trials.php
@@ -618,6 +615,7 @@ kaa.lt
 kaa.to
 kagane.org
 kajzu.com
+kanae.to
 kara.moe
 kartoons.me
 katworld.net
@@ -664,7 +662,6 @@ kurotoshiro.dev
 kurozora.app
 kusonime.com
 kuudere.ru
-kuudere.to
 lama.watch
 last.timer
 lastfmstats.com
@@ -680,6 +677,7 @@ lightnovelheaven.com
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
+lists.fun
 livepush.io
 livetv.moviebite.cc
 livetv.sx
@@ -1156,6 +1154,7 @@ streamex.sh
 streamfree.app
 streamgoblin.com
 streami.su
+streami.top
 streaming-integrale.com
 streamm4u.com.co
 streamsports99.su
@@ -1558,7 +1557,6 @@ www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
 www.futez.com.br
-www.gamescentral.top
 www.gestdown.info
 www.getmusicbee.com
 www.gingadaddy.com
@@ -1602,7 +1600,6 @@ www.lesbonscomptes.com
 www.levidia.ch
 www.lexmangas.com
 www.li-ma.nl
-www.lightnovel.fun
 www.limetorrents.lol
 www.listal.com
 www.littleakiba.ch
