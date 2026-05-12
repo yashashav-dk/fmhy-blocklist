@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1812 domains | updated 2026-05-11T06:42:03Z
+# 1813 domains | updated 2026-05-12T06:16:51Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -15,10 +15,11 @@
 1anime.app
 1ball.pk
 1ddl.org
+1embed.cc
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
-1moviesz.to
 1primeshow.online
+1shows-note.md
 24-7-channels.php
 24hnovel.com
 2ecbbd610840-trakt.baby-beamup.club
@@ -189,6 +190,7 @@ anison.fm
 anisongdb.com
 anissia.net
 anistream.one
+anisub.tv
 anisuge.tv
 anitools.koopz.rocks
 anitrakt.huere.net
@@ -211,6 +213,7 @@ app.buffstream.io
 arabshentai.com
 argoscomics.online
 article.olduse.net
+arvio.tv
 ascii2d.net
 asiadreamradio.torontocast.stream
 asiaflix.in
@@ -226,6 +229,7 @@ audiobookbay.lu
 audiovault.net
 autoembed.app
 avac.moe
+avistaz.to
 azmovies.to
 azoramoon.com
 azseries.org
@@ -308,7 +312,6 @@ clients.md
 cmro.travis-starnes.com
 cocoleech.com
 code.name.monkey.retromusic
-com-x.life
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -433,7 +436,6 @@ exp.tv
 ext.to
 extranet.torrentbay.st
 eztvx.to
-f1-dash.com
 f1fullraces.com
 falconstreams.net
 famelack.com
@@ -476,7 +478,6 @@ footfast.us
 footfy.net
 footstreams.xyz
 fooyin.org
-formula-timer.com
 foro.unionfansub.com
 forum.dirtywarez.com
 forum.mobilism.org
@@ -640,6 +641,7 @@ kissanime.help
 kissasian.video
 kisscartoon.nz
 kisscartoon.sh
+kisskh.co
 kisskh.dk
 kisskh.fr
 kisskh.id
@@ -741,7 +743,6 @@ mangaraw.best
 mangarawad.bid
 mangarawjp.me
 mangashelf.co.il
-mangasora.net
 mangataro.org
 manhuabika.com
 mannavi.net
@@ -774,7 +775,7 @@ mikudb.moe
 mindmine.audiobook
 miru.js.org
 miruro.bz
-miruro.online
+miruro.ru
 miruro.to
 miruro.tv
 mitsukeru.timschneeberger.me
@@ -899,6 +900,7 @@ onepace.co
 onepace.net
 onepiecepower.com
 onepiecetracklist.com
+onetouchtv.xyz
 onhockey.tv
 onionplay.io
 onisaga.com
@@ -995,7 +997,6 @@ rawsmanga.com
 rawuwu.net
 react.tv
 readallcomics.com
-readcomiconline.li
 readcomicsonline.ru
 readnovel.eu
 readnovelfull.com
@@ -1038,6 +1039,7 @@ roxiestreams.info
 roxiestreams.su
 rss.php
 rss.xml
+ru.com-x.life
 rugby24.net
 runo.ink
 russianfilmhub.com
@@ -1256,7 +1258,7 @@ touhou-memories.com
 touhou.ai
 touhou.kuukunen.net
 touhoudb.com
-toustream.movietrunk.com
+toustream.xyz
 trace.moe
 trailerpunk.com
 transcripts.foreverdreaming.org
@@ -1317,7 +1319,7 @@ v2.samehadaku.how
 v2.sportsurge.net
 vaughn.live
 vavoo.to
-vegamovies.vodka
+vegamovies.market
 ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
@@ -1345,7 +1347,6 @@ vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
-vynovel.com
 warezforums.com
 warezload.net
 warezomen.com
@@ -1556,7 +1557,6 @@ www.footstreams.co
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
-www.futez.com.br
 www.gestdown.info
 www.getmusicbee.com
 www.gingadaddy.com
@@ -1592,6 +1592,7 @@ www.japscan.foo
 www.kaitovault.com
 www.kansou.me
 www.kanzenshuu.com
+www.kisskhweb.com
 www.koodoreader.com
 www.koreandrama.org
 www.kumanga.com
@@ -1600,6 +1601,7 @@ www.lesbonscomptes.com
 www.levidia.ch
 www.lexmangas.com
 www.li-ma.nl
+www.lightnovel.fun
 www.limetorrents.lol
 www.listal.com
 www.littleakiba.ch
@@ -1782,7 +1784,6 @@ yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net
-yflix.to
 yggdrasilradio.com
 yifymovies.xyz
 yifystatus.com
