@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1813 domains)
-! Last updated: 2026-05-12T06:16:51Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1820 domains)
+! Last updated: 2026-05-13T06:28:24Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -33,7 +33,9 @@
 ||35mm.online^
 ||3asq.org^
 ||456movie.nl^
-||4khdhub.dad^
+||4khdhub.link^
+||4search.neocities.org^
+||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
 ||67movies.net^
 ||69shuba.cx^
@@ -215,6 +217,11 @@
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
 ||arabshentai.com^
+||arch.b4k.dev^
+||archive.4plebs.org^
+||archive.palanq.win^
+||archived.moe^
+||archiveofsins.com^
 ||argoscomics.online^
 ||article.olduse.net^
 ||arvio.tv^
@@ -317,6 +324,7 @@
 ||cocoleech.com^
 ||code.name.monkey.retromusic^
 ||com.aimp.player^
+||com.deezus.pchan^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
 ||com.maxmpz.audioplayer.unlock^
@@ -837,7 +845,6 @@
 ||namee100.com^
 ||nanaone.net^
 ||nanasubs.com.pl^
-||nanoskript.dev^
 ||narjomusic.com^
 ||navic.app^
 ||nbamonster.com^
@@ -925,6 +932,7 @@
 ||ouo.si^
 ||overtakefans.com^
 ||pahe.ink^
+||palanq.win^
 ||patchwork.moekyun.me^
 ||phate.io^
 ||phi-phenomenon.org^
@@ -1065,7 +1073,6 @@
 ||saucenao.com^
 ||saudihentai.com^
 ||sbystream.com^
-||scarlet.nsk.sh^
 ||scatter.fm^
 ||scatterfm.markhansen.co.nz^
 ||scenelist.org^
@@ -1211,6 +1218,7 @@
 ||tfpdl.se^
 ||tfpdl.to^
 ||the-tv.app^
+||thebarchive.com^
 ||thecinefy.site^
 ||theindex.moe^
 ||theintrodb.org^
@@ -1282,7 +1290,6 @@
 ||tv.filmu.in^
 ||tv.jest^
 ||tv.jest.one^
-||tv.vynx.cc^
 ||tv247us.vip^
 ||tvalt.surge.sh^
 ||tvchart.benmiz.com^
@@ -1357,6 +1364,7 @@
 ||warflix.cv^
 ||warflix.im^
 ||warflix.nl^
+||warosu.org^
 ||watch-tvseries.net^
 ||watch-v2.autoembed.app^
 ||watch-wrestling.eu^
@@ -1398,7 +1406,7 @@
 ||wiki.servarr.com^
 ||wikiflix.toolforge.org^
 ||wikizilla.org^
-||willow.arlen.icu^
+||willowmovies.com^
 ||witanime.cyou^
 ||withsubtitles.com^
 ||wiztorrent.com^
@@ -1596,7 +1604,6 @@
 ||www.kaitovault.com^
 ||www.kansou.me^
 ||www.kanzenshuu.com^
-||www.kisskhweb.com^
 ||www.koodoreader.com^
 ||www.koreandrama.org^
 ||www.kumanga.com^
@@ -1849,7 +1856,9 @@
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3asq.org
 ! 0.0.0.0 456movie.nl
-! 0.0.0.0 4khdhub.dad
+! 0.0.0.0 4khdhub.link
+! 0.0.0.0 4search.neocities.org
+! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
 ! 0.0.0.0 67movies.net
 ! 0.0.0.0 69shuba.cx
@@ -2031,6 +2040,11 @@
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
 ! 0.0.0.0 arabshentai.com
+! 0.0.0.0 arch.b4k.dev
+! 0.0.0.0 archive.4plebs.org
+! 0.0.0.0 archive.palanq.win
+! 0.0.0.0 archived.moe
+! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 arvio.tv
@@ -2133,6 +2147,7 @@
 ! 0.0.0.0 cocoleech.com
 ! 0.0.0.0 code.name.monkey.retromusic
 ! 0.0.0.0 com.aimp.player
+! 0.0.0.0 com.deezus.pchan
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
 ! 0.0.0.0 com.maxmpz.audioplayer.unlock
@@ -2653,7 +2668,6 @@
 ! 0.0.0.0 namee100.com
 ! 0.0.0.0 nanaone.net
 ! 0.0.0.0 nanasubs.com.pl
-! 0.0.0.0 nanoskript.dev
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
@@ -2741,6 +2755,7 @@
 ! 0.0.0.0 ouo.si
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
+! 0.0.0.0 palanq.win
 ! 0.0.0.0 patchwork.moekyun.me
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
@@ -2881,7 +2896,6 @@
 ! 0.0.0.0 saucenao.com
 ! 0.0.0.0 saudihentai.com
 ! 0.0.0.0 sbystream.com
-! 0.0.0.0 scarlet.nsk.sh
 ! 0.0.0.0 scatter.fm
 ! 0.0.0.0 scatterfm.markhansen.co.nz
 ! 0.0.0.0 scenelist.org
@@ -3027,6 +3041,7 @@
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 the-tv.app
+! 0.0.0.0 thebarchive.com
 ! 0.0.0.0 thecinefy.site
 ! 0.0.0.0 theindex.moe
 ! 0.0.0.0 theintrodb.org
@@ -3098,7 +3113,6 @@
 ! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
-! 0.0.0.0 tv.vynx.cc
 ! 0.0.0.0 tv247us.vip
 ! 0.0.0.0 tvalt.surge.sh
 ! 0.0.0.0 tvchart.benmiz.com
@@ -3173,6 +3187,7 @@
 ! 0.0.0.0 warflix.cv
 ! 0.0.0.0 warflix.im
 ! 0.0.0.0 warflix.nl
+! 0.0.0.0 warosu.org
 ! 0.0.0.0 watch-tvseries.net
 ! 0.0.0.0 watch-v2.autoembed.app
 ! 0.0.0.0 watch-wrestling.eu
@@ -3214,7 +3229,7 @@
 ! 0.0.0.0 wiki.servarr.com
 ! 0.0.0.0 wikiflix.toolforge.org
 ! 0.0.0.0 wikizilla.org
-! 0.0.0.0 willow.arlen.icu
+! 0.0.0.0 willowmovies.com
 ! 0.0.0.0 witanime.cyou
 ! 0.0.0.0 withsubtitles.com
 ! 0.0.0.0 wiztorrent.com
@@ -3412,7 +3427,6 @@
 ! 0.0.0.0 www.kaitovault.com
 ! 0.0.0.0 www.kansou.me
 ! 0.0.0.0 www.kanzenshuu.com
-! 0.0.0.0 www.kisskhweb.com
 ! 0.0.0.0 www.koodoreader.com
 ! 0.0.0.0 www.koreandrama.org
 ! 0.0.0.0 www.kumanga.com

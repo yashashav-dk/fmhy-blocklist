@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1813 domains | updated 2026-05-12T06:16:51Z
+# 1820 domains | updated 2026-05-13T06:28:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -29,7 +29,9 @@
 35mm.online
 3asq.org
 456movie.nl
-4khdhub.dad
+4khdhub.link
+4search.neocities.org
+4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
 67movies.net
 69shuba.cx
@@ -211,6 +213,11 @@ anonops.com
 app.animevsub.eu.org
 app.buffstream.io
 arabshentai.com
+arch.b4k.dev
+archive.4plebs.org
+archive.palanq.win
+archived.moe
+archiveofsins.com
 argoscomics.online
 article.olduse.net
 arvio.tv
@@ -313,6 +320,7 @@ cmro.travis-starnes.com
 cocoleech.com
 code.name.monkey.retromusic
 com.aimp.player
+com.deezus.pchan
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
 com.maxmpz.audioplayer.unlock
@@ -833,7 +841,6 @@ naikamu.com
 namee100.com
 nanaone.net
 nanasubs.com.pl
-nanoskript.dev
 narjomusic.com
 navic.app
 nbamonster.com
@@ -921,6 +928,7 @@ otcs.minuspoint.com
 ouo.si
 overtakefans.com
 pahe.ink
+palanq.win
 patchwork.moekyun.me
 phate.io
 phi-phenomenon.org
@@ -1061,7 +1069,6 @@ sastatus.com
 saucenao.com
 saudihentai.com
 sbystream.com
-scarlet.nsk.sh
 scatter.fm
 scatterfm.markhansen.co.nz
 scenelist.org
@@ -1207,6 +1214,7 @@ terabox.hnn.workers.dev
 tfpdl.se
 tfpdl.to
 the-tv.app
+thebarchive.com
 thecinefy.site
 theindex.moe
 theintrodb.org
@@ -1278,7 +1286,6 @@ tundra.moe
 tv.filmu.in
 tv.jest
 tv.jest.one
-tv.vynx.cc
 tv247us.vip
 tvalt.surge.sh
 tvchart.benmiz.com
@@ -1353,6 +1360,7 @@ warezomen.com
 warflix.cv
 warflix.im
 warflix.nl
+warosu.org
 watch-tvseries.net
 watch-v2.autoembed.app
 watch-wrestling.eu
@@ -1394,7 +1402,7 @@ wiki.hayase.watch
 wiki.servarr.com
 wikiflix.toolforge.org
 wikizilla.org
-willow.arlen.icu
+willowmovies.com
 witanime.cyou
 withsubtitles.com
 wiztorrent.com
@@ -1592,7 +1600,6 @@ www.japscan.foo
 www.kaitovault.com
 www.kansou.me
 www.kanzenshuu.com
-www.kisskhweb.com
 www.koodoreader.com
 www.koreandrama.org
 www.kumanga.com
