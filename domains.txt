@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1820 domains | updated 2026-05-13T06:28:24Z
+# 1824 domains | updated 2026-05-14T06:26:57Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -526,7 +526,6 @@ go.aftvnews.com
 goatapi.imreallydagoatt.workers.dev
 goctruyentranh.net
 godriveplayer.com
-gomuraw.com
 goplay.ml
 goplay.su
 goradio.gr
@@ -704,6 +703,7 @@ lrepacks.net
 lucida.to
 luciferdonghua.in
 lumotv.co.uk
+lunara.watch
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
@@ -851,6 +851,7 @@ nepchan.org
 nepu.to
 netnaija.film
 netplayz.live
+netshows.xyz
 new.anidl.org
 news.animenomics.com
 news.tokunation.com
@@ -866,6 +867,8 @@ nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
+noirx.live
+noirx.me
 nothing-to-watch.port80.ch
 notscare.me
 novamovie.net
@@ -1467,6 +1470,7 @@ www.animeonsen.xyz
 www.animeout.xyz
 www.animeparadise.moe
 www.animeradio.de
+www.animerdle.com
 www.animerealms.org
 www.animesaturn.me
 www.animesonglyrics.com
@@ -1502,7 +1506,7 @@ www.bimiacg14.net
 www.bingeclock.com
 www.bitcine.net
 www.bitview.net
-www.boredflix.com
+www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com
 www.cagematch.net

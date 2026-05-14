@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1820 domains)
-! Last updated: 2026-05-13T06:28:24Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1824 domains)
+! Last updated: 2026-05-14T06:26:57Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -530,7 +530,6 @@
 ||goatapi.imreallydagoatt.workers.dev^
 ||goctruyentranh.net^
 ||godriveplayer.com^
-||gomuraw.com^
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
@@ -708,6 +707,7 @@
 ||lucida.to^
 ||luciferdonghua.in^
 ||lumotv.co.uk^
+||lunara.watch^
 ||lunaranime.ru^
 ||lunastream.fun^
 ||m-p.sakura.ne.jp^
@@ -855,6 +855,7 @@
 ||nepu.to^
 ||netnaija.film^
 ||netplayz.live^
+||netshows.xyz^
 ||new.anidl.org^
 ||news.animenomics.com^
 ||news.tokunation.com^
@@ -870,6 +871,8 @@
 ||nipponsei.minglong.org^
 ||nkiri.ink^
 ||nmovies.cc^
+||noirx.live^
+||noirx.me^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
 ||novamovie.net^
@@ -1471,6 +1474,7 @@
 ||www.animeout.xyz^
 ||www.animeparadise.moe^
 ||www.animeradio.de^
+||www.animerdle.com^
 ||www.animerealms.org^
 ||www.animesaturn.me^
 ||www.animesonglyrics.com^
@@ -1506,7 +1510,7 @@
 ||www.bingeclock.com^
 ||www.bitcine.net^
 ||www.bitview.net^
-||www.boredflix.com^
+||www.boredflix.tv^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
 ||www.cagematch.net^
@@ -2353,7 +2357,6 @@
 ! 0.0.0.0 goatapi.imreallydagoatt.workers.dev
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 godriveplayer.com
-! 0.0.0.0 gomuraw.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
@@ -2531,6 +2534,7 @@
 ! 0.0.0.0 lucida.to
 ! 0.0.0.0 luciferdonghua.in
 ! 0.0.0.0 lumotv.co.uk
+! 0.0.0.0 lunara.watch
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
@@ -2678,6 +2682,7 @@
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.live
+! 0.0.0.0 netshows.xyz
 ! 0.0.0.0 new.anidl.org
 ! 0.0.0.0 news.animenomics.com
 ! 0.0.0.0 news.tokunation.com
@@ -2693,6 +2698,8 @@
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nkiri.ink
 ! 0.0.0.0 nmovies.cc
+! 0.0.0.0 noirx.live
+! 0.0.0.0 noirx.me
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
 ! 0.0.0.0 novamovie.net
@@ -3294,6 +3301,7 @@
 ! 0.0.0.0 www.animeout.xyz
 ! 0.0.0.0 www.animeparadise.moe
 ! 0.0.0.0 www.animeradio.de
+! 0.0.0.0 www.animerdle.com
 ! 0.0.0.0 www.animerealms.org
 ! 0.0.0.0 www.animesaturn.me
 ! 0.0.0.0 www.animesonglyrics.com
@@ -3329,7 +3337,7 @@
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bitcine.net
 ! 0.0.0.0 www.bitview.net
-! 0.0.0.0 www.boredflix.com
+! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
 ! 0.0.0.0 www.cagematch.net
