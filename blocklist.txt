@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1824 domains)
-! Last updated: 2026-05-14T06:26:57Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1827 domains)
+! Last updated: 2026-05-15T06:36:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -410,7 +410,6 @@
 ||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
-||downloader.now^
 ||downloader2.com^
 ||dpan.tv^
 ||dramacountdown.com^
@@ -645,6 +644,7 @@
 ||kimcartoon.si^
 ||kimoitv.com^
 ||kindlemodding.org^
+||kingofshojo.com^
 ||kinozal.tv^
 ||kiroku.my^
 ||kissanime.com.ru^
@@ -713,7 +713,6 @@
 ||m-p.sakura.ne.jp^
 ||m3u-ip.tv^
 ||m3u4u.com^
-||m4uhd.page^
 ||m4uhd.vip^
 ||magicnzb.com^
 ||magyaranime.eu^
@@ -757,6 +756,11 @@
 ||mangashelf.co.il^
 ||mangataro.org^
 ||manhuabika.com^
+||manhuafast.com^
+||manhuatop.org^
+||manhwaclan.com^
+||manhwatop.com^
+||manhwazone.com^
 ||mannavi.net^
 ||manta.net^
 ||mappl.tv^
@@ -827,7 +831,6 @@
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
-||mtoon138.com^
 ||mugen.karaokes.moe^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -871,8 +874,6 @@
 ||nipponsei.minglong.org^
 ||nkiri.ink^
 ||nmovies.cc^
-||noirx.live^
-||noirx.me^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
 ||novamovie.net^
@@ -953,6 +954,7 @@
 ||plexmovies.online^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
+||pontv.to^
 ||popcornflix.com^
 ||popcornmovies.org^
 ||portableappz.blogspot.com^
@@ -1172,10 +1174,10 @@
 ||streami.su^
 ||streami.top^
 ||streaming-integrale.com^
-||streamm4u.com.co^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
+||streamvaults.ru^
 ||streamwatch.online^
 ||streamwatch.youplex.site^
 ||stremio-addons.net^
@@ -1386,6 +1388,7 @@
 ||watchprowrestlings.live^
 ||watchreplay.net^
 ||watchsports.to^
+||watchsurface.stream^
 ||watchtvs.live^
 ||watchwrestling.ae^
 ||watchwrestling.st^
@@ -2237,7 +2240,6 @@
 ! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
-! 0.0.0.0 downloader.now
 ! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacountdown.com
@@ -2472,6 +2474,7 @@
 ! 0.0.0.0 kimcartoon.si
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
+! 0.0.0.0 kingofshojo.com
 ! 0.0.0.0 kinozal.tv
 ! 0.0.0.0 kiroku.my
 ! 0.0.0.0 kissanime.com.ru
@@ -2540,7 +2543,6 @@
 ! 0.0.0.0 m-p.sakura.ne.jp
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
-! 0.0.0.0 m4uhd.page
 ! 0.0.0.0 m4uhd.vip
 ! 0.0.0.0 magicnzb.com
 ! 0.0.0.0 magyaranime.eu
@@ -2584,6 +2586,11 @@
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangataro.org
 ! 0.0.0.0 manhuabika.com
+! 0.0.0.0 manhuafast.com
+! 0.0.0.0 manhuatop.org
+! 0.0.0.0 manhwaclan.com
+! 0.0.0.0 manhwatop.com
+! 0.0.0.0 manhwazone.com
 ! 0.0.0.0 mannavi.net
 ! 0.0.0.0 manta.net
 ! 0.0.0.0 mappl.tv
@@ -2654,7 +2661,6 @@
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon138.com
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -2698,8 +2704,6 @@
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nkiri.ink
 ! 0.0.0.0 nmovies.cc
-! 0.0.0.0 noirx.live
-! 0.0.0.0 noirx.me
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
 ! 0.0.0.0 novamovie.net
@@ -2780,6 +2784,7 @@
 ! 0.0.0.0 plexmovies.online
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
+! 0.0.0.0 pontv.to
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.org
 ! 0.0.0.0 portableappz.blogspot.com
@@ -2999,10 +3004,10 @@
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streami.top
 ! 0.0.0.0 streaming-integrale.com
-! 0.0.0.0 streamm4u.com.co
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
+! 0.0.0.0 streamvaults.ru
 ! 0.0.0.0 streamwatch.online
 ! 0.0.0.0 streamwatch.youplex.site
 ! 0.0.0.0 stremio-addons.net
@@ -3213,6 +3218,7 @@
 ! 0.0.0.0 watchprowrestlings.live
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchsports.to
+! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
 ! 0.0.0.0 watchwrestling.st

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1824 domains | updated 2026-05-14T06:26:57Z
+# 1827 domains | updated 2026-05-15T06:36:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -406,7 +406,6 @@ dorabash.in
 doubledouble.top
 doujindownloader.com
 doujinstyle.com
-downloader.now
 downloader2.com
 dpan.tv
 dramacountdown.com
@@ -641,6 +640,7 @@ kids-in-mind.com
 kimcartoon.si
 kimoitv.com
 kindlemodding.org
+kingofshojo.com
 kinozal.tv
 kiroku.my
 kissanime.com.ru
@@ -709,7 +709,6 @@ lunastream.fun
 m-p.sakura.ne.jp
 m3u-ip.tv
 m3u4u.com
-m4uhd.page
 m4uhd.vip
 magicnzb.com
 magyaranime.eu
@@ -753,6 +752,11 @@ mangarawjp.me
 mangashelf.co.il
 mangataro.org
 manhuabika.com
+manhuafast.com
+manhuatop.org
+manhwaclan.com
+manhwatop.com
+manhwazone.com
 mannavi.net
 manta.net
 mappl.tv
@@ -823,7 +827,6 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
-mtoon138.com
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -867,8 +870,6 @@ nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
-noirx.live
-noirx.me
 nothing-to-watch.port80.ch
 notscare.me
 novamovie.net
@@ -949,6 +950,7 @@ plaza.one
 plexmovies.online
 plugin.audio.navidrome
 plugin.audio.subsonic
+pontv.to
 popcornflix.com
 popcornmovies.org
 portableappz.blogspot.com
@@ -1168,10 +1170,10 @@ streamgoblin.com
 streami.su
 streami.top
 streaming-integrale.com
-streamm4u.com.co
 streamsports99.su
 streamsports99.website
 streamtim.com
+streamvaults.ru
 streamwatch.online
 streamwatch.youplex.site
 stremio-addons.net
@@ -1382,6 +1384,7 @@ watchmmafull.com
 watchprowrestlings.live
 watchreplay.net
 watchsports.to
+watchsurface.stream
 watchtvs.live
 watchwrestling.ae
 watchwrestling.st
