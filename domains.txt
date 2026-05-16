@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1827 domains | updated 2026-05-15T06:36:00Z
+# 1830 domains | updated 2026-05-16T05:57:07Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -102,6 +102,7 @@ anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animan.ru
 anime-archive.com
+anime-base.net
 anime-bingo.aikats.us
 anime-community-germany.de
 anime-dunya.com
@@ -390,6 +391,7 @@ directory.html
 dl-raw.se
 dl-zip.com
 dlhd.pk
+dlraw.cc
 dlraw.net
 dmhy.org
 dmtalkies.com
@@ -433,6 +435,7 @@ english-dubbed.com
 english.html
 episodehive.com
 epub.moe
+erogamescape.dyndns.org
 erogamescape.org
 erogemusicquiz.com
 esp32.nontonx.com
@@ -731,7 +734,6 @@ manga.tumeo.space
 mangabaka.org
 mangaball.net
 mangabookshelf.com
-mangabuddy.com
 mangacodex.com
 mangacrab.org
 mangadot.net
@@ -827,6 +829,7 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
+mtoon139.com
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -842,6 +845,7 @@ myrunningman.com
 mysoccerpulse.com
 naikamu.com
 namee100.com
+namu.wiki
 nanaone.net
 nanasubs.com.pl
 narjomusic.com
@@ -1011,6 +1015,7 @@ rawuwu.net
 react.tv
 readallcomics.com
 readcomicsonline.ru
+readme.en.md
 readnovel.eu
 readnovelfull.com
 real-debrid.com
@@ -1504,8 +1509,6 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
-www.bimiacg.icu
-www.bimiacg14.net
 www.bingeclock.com
 www.bitcine.net
 www.bitview.net
