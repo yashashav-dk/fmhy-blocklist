@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1830 domains | updated 2026-05-16T05:57:07Z
+# 1842 domains | updated 2026-05-17T06:25:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -194,7 +194,6 @@ anisongdb.com
 anissia.net
 anistream.one
 anisub.tv
-anisuge.tv
 anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.com
@@ -470,7 +469,6 @@ fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.ru
-flix.smashystream.xyz
 flixer.su
 flixhop.com
 flixhouse.com
@@ -497,7 +495,6 @@ foxtrend.vip
 franime.fr
 free-movies.to
 free-usenet-trials.php
-freepdfcomic.eu
 freepopular.htm
 freestreams-live1a.pk
 freesub.live
@@ -512,6 +509,7 @@ fullmatchshows.com
 fullraces.com
 funbe633.com
 furaba-animeseichi.blog.jp
+fusionapp.dev
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -534,6 +532,7 @@ goradio.gr
 goyabu.io
 gptsubtitler.com
 greekota.pls
+grids.fun
 gsc.tab
 gttradio.com
 guesstheopening.com
@@ -738,6 +737,7 @@ mangacodex.com
 mangacrab.org
 mangadot.net
 mangafire.to
+mangafonts.carrd.co
 mangafox.la
 mangaguide.de
 mangahub.io
@@ -884,6 +884,7 @@ novelbin.com
 novelfire.net
 novelfull.net
 noxx.to
+nsk.sh
 ntv.cx
 ntv.direct
 ntvs.cx
@@ -938,6 +939,7 @@ overtakefans.com
 pahe.ink
 palanq.win
 patchwork.moekyun.me
+pdftoshokan.com
 phate.io
 phi-phenomenon.org
 piratexplay.cc
@@ -945,6 +947,7 @@ piratexplay.com
 pitsport.live
 pixeldrain-bypass.gamedrive.org
 pixeldrain-bypass.gamedrive.to
+placeit.fun
 planete-bd.org
 plappa.me
 playlist.pls
@@ -979,6 +982,7 @@ pulsedmedia.com
 puretoons.in
 pwrestling.com
 qmanga.art
+quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
 radio-anime24.pls
@@ -1012,6 +1016,7 @@ rawlazy.io
 rawotaku.com
 rawsmanga.com
 rawuwu.net
+rcostation.xyz
 react.tv
 readallcomics.com
 readcomicsonline.ru
@@ -1124,7 +1129,6 @@ siptv.eu
 site.yummyani.me
 skiley.net
 slow.pics
-smashystream.xyz
 smoores.gitlab.io
 sneedex.moe
 soccerfull.net
@@ -1159,7 +1163,6 @@ status.miruro.com
 stigstream.ru
 store.rg
 stream.gensokyoradio.net
-stream.telev.tv
 stream192.mp
 streamcorner.cc
 streamcorner.info
@@ -1219,6 +1222,7 @@ tana.moe
 taosect.com
 tape.xyz
 tauonmusicbox.rocks
+telev.tv
 tennojim.xyz
 terabox.hnn.workers.dev
 tfpdl.se
@@ -1228,6 +1232,7 @@ thebarchive.com
 thecinefy.site
 theindex.moe
 theintrodb.org
+thejadednetwork.com
 thelongbox.net
 themes.moe
 themoviebox.org
@@ -1313,6 +1318,7 @@ tvshows.ac
 tvshows4mobile.org
 twcclassics.com
 twicomi.com
+typer.hayasaku.fr
 ubu.com
 ufreetv.com
 ukiku.app
@@ -1509,8 +1515,10 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
+www.bimiacg.icu
+www.bimiacg14.net
 www.bingeclock.com
-www.bitcine.net
+www.bitcine.tv
 www.bitview.net
 www.boredflix.tv
 www.brokensilenze.net
@@ -1570,6 +1578,8 @@ www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
 www.fmovies.gd
+www.fontspring.com
+www.fontsquirrel.com
 www.footballorgin.com
 www.footstreams.co
 www.freegreatmovies.com
@@ -1598,6 +1608,7 @@ www.howtolovecomics.com
 www.icheckmovies.com
 www.imcdb.org
 www.imfdb.org
+www.insidescanlation.com
 www.instafest.app
 www.iptvsmarters.com
 www.ivanime.com
@@ -1656,6 +1667,7 @@ www.mundodonghua.com
 www.music-map.com
 www.musicbutler.io
 www.myepisodes.com
+www.myfonts.com
 www.mynimeku.com
 www.myshinytoyrobots.com
 www.naijavault.com
@@ -1699,7 +1711,6 @@ www.scnsrc.me
 www.scripts.com
 www.scriptslug.com
 www.searchftps.net
-www.senpai.moe
 www.seriezloaded.com.ng
 www.shanaproject.com
 www.shortverse.com
@@ -1767,6 +1778,7 @@ www.wcoflix.tv
 www.wcoforever.net
 www.wcostatus.com
 www.wcostream.tv
+www.whatfontis.com
 www.whatismymovie.com
 www.whenjumpscare.com
 www.whentostream.com
