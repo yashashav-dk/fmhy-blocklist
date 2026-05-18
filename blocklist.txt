@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1842 domains)
-! Last updated: 2026-05-17T06:25:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1838 domains)
+! Last updated: 2026-05-18T06:59:17Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -67,7 +67,6 @@
 ||allcomic.noor.jp^
 ||alldebrid.com^
 ||allmanga.to^
-||allnovel.org^
 ||allwrestling24.com^
 ||althub.co.za^
 ||amalgam-fansubs.moe^
@@ -104,6 +103,7 @@
 ||anilife.live^
 ||anilinks.neocities.org^
 ||anilist-adaptations.timschneeberger.me^
+||animagarchive.com^
 ||animan.ru^
 ||anime-archive.com^
 ||anime-base.net^
@@ -153,6 +153,7 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
+||animelok.online^
 ||animelok.to^
 ||animelok.xyz^
 ||animemusicquiz.com^
@@ -219,6 +220,7 @@
 ||arabshentai.com^
 ||arch.b4k.dev^
 ||archive.4plebs.org^
+||archive.gamehistory.org^
 ||archive.palanq.win^
 ||archived.moe^
 ||archiveofsins.com^
@@ -236,7 +238,6 @@
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
-||audiobookbay.lu^
 ||audiovault.net^
 ||autoembed.app^
 ||avac.moe^
@@ -503,7 +504,6 @@
 ||freestreams-live1a.pk^
 ||freesub.live^
 ||freetvz.com^
-||freewebnovel.com^
 ||french-anime.com^
 ||frixysubs.pl^
 ||frtoon1.com^
@@ -688,7 +688,6 @@
 ||library.cufiy.net^
 ||libremdb.iket.me^
 ||lightcone.org^
-||lightnovelheaven.com^
 ||likemanga.ink^
 ||listen-to-euterpe.eu^
 ||listen.moe^
@@ -884,9 +883,6 @@
 ||novanon.net^
 ||novel.sumikko.info^
 ||novelasligeras.net^
-||novelbin.com^
-||novelfire.net^
-||novelfull.net^
 ||noxx.to^
 ||nsk.sh^
 ||ntv.cx^
@@ -912,6 +908,7 @@
 ||olamovies.dad^
 ||old.klz9.com^
 ||oldcomicsworld.blogspot.com^
+||oldgamemags.tumblr.com^
 ||omega.gg^
 ||on.jetanimes.com^
 ||one.plaza.nightwaveplaza^
@@ -1025,8 +1022,6 @@
 ||readallcomics.com^
 ||readcomicsonline.ru^
 ||readme.en.md^
-||readnovel.eu^
-||readnovelfull.com^
 ||real-debrid.com^
 ||realfight.top^
 ||realityripple.com^
@@ -1040,6 +1035,7 @@
 ||releases.moe^
 ||remanga.org^
 ||replay.nontonx.com^
+||retroanimechris.blogspot.com^
 ||retroblast.tv^
 ||retroflix.org^
 ||retrostrange.com^
@@ -1068,7 +1064,6 @@
 ||rss.xml^
 ||ru.com-x.life^
 ||rugby24.net^
-||runo.ink^
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
@@ -1118,7 +1113,7 @@
 ||sharebb.me^
 ||sharemania.us^
 ||sharkstreams.net^
-||shikimori.one^
+||shikimori.io^
 ||shinden.pl^
 ||shokoanime.com^
 ||shosekiranking.blog.fc2.com^
@@ -1434,7 +1429,6 @@
 ||wotaku.wiki^
 ||wowtopix.com^
 ||wtwt323.com^
-||wuxia.click^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1.goojara.to^
@@ -1586,9 +1580,11 @@
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
 ||www.footstreams.co^
+||www.forgottenworlds.net^
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
 ||www.funniermoments.net^
+||www.gamingalexandria.com^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
 ||www.gingadaddy.com^
@@ -1679,8 +1675,6 @@
 ||www.newznab.com^
 ||www.ngprovider.com^
 ||www.nightcoreuniverse.net^
-||www.novelhall.com^
-||www.novellist.co^
 ||www.novelupdates.com^
 ||www.nsaneforums.com^
 ||www.nzbindex.com^
@@ -1757,6 +1751,7 @@
 ||www.treasuretv.org^
 ||www.turkanime.tv^
 ||www.turnipsoft.com^
+||www.tuxedounmasked.com^
 ||www.tvbsmh.com^
 ||www.tvchannellists.com^
 ||www.tvdrama-db.com^
@@ -1822,6 +1817,7 @@
 ||yifystatus.com^
 ||yifysubtitles.ch^
 ||yinhuadm.one^
+||yomi.to^
 ||yomiraw.com^
 ||youflex.live^
 ||yourcountdown.to^
@@ -1912,7 +1908,6 @@
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
 ! 0.0.0.0 allmanga.to
-! 0.0.0.0 allnovel.org
 ! 0.0.0.0 allwrestling24.com
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amalgam-fansubs.moe
@@ -1949,6 +1944,7 @@
 ! 0.0.0.0 anilife.live
 ! 0.0.0.0 anilinks.neocities.org
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
+! 0.0.0.0 animagarchive.com
 ! 0.0.0.0 animan.ru
 ! 0.0.0.0 anime-archive.com
 ! 0.0.0.0 anime-base.net
@@ -1998,6 +1994,7 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
+! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
 ! 0.0.0.0 animemusicquiz.com
@@ -2064,6 +2061,7 @@
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 arch.b4k.dev
 ! 0.0.0.0 archive.4plebs.org
+! 0.0.0.0 archive.gamehistory.org
 ! 0.0.0.0 archive.palanq.win
 ! 0.0.0.0 archived.moe
 ! 0.0.0.0 archiveofsins.com
@@ -2081,7 +2079,6 @@
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
-! 0.0.0.0 audiobookbay.lu
 ! 0.0.0.0 audiovault.net
 ! 0.0.0.0 autoembed.app
 ! 0.0.0.0 avac.moe
@@ -2348,7 +2345,6 @@
 ! 0.0.0.0 freestreams-live1a.pk
 ! 0.0.0.0 freesub.live
 ! 0.0.0.0 freetvz.com
-! 0.0.0.0 freewebnovel.com
 ! 0.0.0.0 french-anime.com
 ! 0.0.0.0 frixysubs.pl
 ! 0.0.0.0 frtoon1.com
@@ -2533,7 +2529,6 @@
 ! 0.0.0.0 library.cufiy.net
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
-! 0.0.0.0 lightnovelheaven.com
 ! 0.0.0.0 likemanga.ink
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
@@ -2729,9 +2724,6 @@
 ! 0.0.0.0 novanon.net
 ! 0.0.0.0 novel.sumikko.info
 ! 0.0.0.0 novelasligeras.net
-! 0.0.0.0 novelbin.com
-! 0.0.0.0 novelfire.net
-! 0.0.0.0 novelfull.net
 ! 0.0.0.0 noxx.to
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
@@ -2757,6 +2749,7 @@
 ! 0.0.0.0 olamovies.dad
 ! 0.0.0.0 old.klz9.com
 ! 0.0.0.0 oldcomicsworld.blogspot.com
+! 0.0.0.0 oldgamemags.tumblr.com
 ! 0.0.0.0 omega.gg
 ! 0.0.0.0 on.jetanimes.com
 ! 0.0.0.0 one.plaza.nightwaveplaza
@@ -2870,8 +2863,6 @@
 ! 0.0.0.0 readallcomics.com
 ! 0.0.0.0 readcomicsonline.ru
 ! 0.0.0.0 readme.en.md
-! 0.0.0.0 readnovel.eu
-! 0.0.0.0 readnovelfull.com
 ! 0.0.0.0 real-debrid.com
 ! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
@@ -2885,6 +2876,7 @@
 ! 0.0.0.0 releases.moe
 ! 0.0.0.0 remanga.org
 ! 0.0.0.0 replay.nontonx.com
+! 0.0.0.0 retroanimechris.blogspot.com
 ! 0.0.0.0 retroblast.tv
 ! 0.0.0.0 retroflix.org
 ! 0.0.0.0 retrostrange.com
@@ -2913,7 +2905,6 @@
 ! 0.0.0.0 rss.xml
 ! 0.0.0.0 ru.com-x.life
 ! 0.0.0.0 rugby24.net
-! 0.0.0.0 runo.ink
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
@@ -2963,7 +2954,7 @@
 ! 0.0.0.0 sharebb.me
 ! 0.0.0.0 sharemania.us
 ! 0.0.0.0 sharkstreams.net
-! 0.0.0.0 shikimori.one
+! 0.0.0.0 shikimori.io
 ! 0.0.0.0 shinden.pl
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shosekiranking.blog.fc2.com
@@ -3279,7 +3270,6 @@
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wtwt323.com
-! 0.0.0.0 wuxia.click
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1.goojara.to
@@ -3431,9 +3421,11 @@
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
 ! 0.0.0.0 www.footstreams.co
+! 0.0.0.0 www.forgottenworlds.net
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
+! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
 ! 0.0.0.0 www.gingadaddy.com
@@ -3524,8 +3516,6 @@
 ! 0.0.0.0 www.newznab.com
 ! 0.0.0.0 www.ngprovider.com
 ! 0.0.0.0 www.nightcoreuniverse.net
-! 0.0.0.0 www.novelhall.com
-! 0.0.0.0 www.novellist.co
 ! 0.0.0.0 www.novelupdates.com
 ! 0.0.0.0 www.nsaneforums.com
 ! 0.0.0.0 www.nzbindex.com
@@ -3602,6 +3592,7 @@
 ! 0.0.0.0 www.treasuretv.org
 ! 0.0.0.0 www.turkanime.tv
 ! 0.0.0.0 www.turnipsoft.com
+! 0.0.0.0 www.tuxedounmasked.com
 ! 0.0.0.0 www.tvbsmh.com
 ! 0.0.0.0 www.tvchannellists.com
 ! 0.0.0.0 www.tvdrama-db.com
@@ -3667,6 +3658,7 @@
 ! 0.0.0.0 yifystatus.com
 ! 0.0.0.0 yifysubtitles.ch
 ! 0.0.0.0 yinhuadm.one
+! 0.0.0.0 yomi.to
 ! 0.0.0.0 yomiraw.com
 ! 0.0.0.0 youflex.live
 ! 0.0.0.0 yourcountdown.to

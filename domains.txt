@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1842 domains | updated 2026-05-17T06:25:23Z
+# 1838 domains | updated 2026-05-18T06:59:17Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -63,7 +63,6 @@ alist.thdisc.tk
 allcomic.noor.jp
 alldebrid.com
 allmanga.to
-allnovel.org
 allwrestling24.com
 althub.co.za
 amalgam-fansubs.moe
@@ -100,6 +99,7 @@ anilibria.top
 anilife.live
 anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
+animagarchive.com
 animan.ru
 anime-archive.com
 anime-base.net
@@ -149,6 +149,7 @@ animelek.top
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
+animelok.online
 animelok.to
 animelok.xyz
 animemusicquiz.com
@@ -215,6 +216,7 @@ app.buffstream.io
 arabshentai.com
 arch.b4k.dev
 archive.4plebs.org
+archive.gamehistory.org
 archive.palanq.win
 archived.moe
 archiveofsins.com
@@ -232,7 +234,6 @@ ask4sport.xyz
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
-audiobookbay.lu
 audiovault.net
 autoembed.app
 avac.moe
@@ -499,7 +500,6 @@ freepopular.htm
 freestreams-live1a.pk
 freesub.live
 freetvz.com
-freewebnovel.com
 french-anime.com
 frixysubs.pl
 frtoon1.com
@@ -684,7 +684,6 @@ libgen.li
 library.cufiy.net
 libremdb.iket.me
 lightcone.org
-lightnovelheaven.com
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
@@ -880,9 +879,6 @@ novamovie.net
 novanon.net
 novel.sumikko.info
 novelasligeras.net
-novelbin.com
-novelfire.net
-novelfull.net
 noxx.to
 nsk.sh
 ntv.cx
@@ -908,6 +904,7 @@ okanime.tv
 olamovies.dad
 old.klz9.com
 oldcomicsworld.blogspot.com
+oldgamemags.tumblr.com
 omega.gg
 on.jetanimes.com
 one.plaza.nightwaveplaza
@@ -1021,8 +1018,6 @@ react.tv
 readallcomics.com
 readcomicsonline.ru
 readme.en.md
-readnovel.eu
-readnovelfull.com
 real-debrid.com
 realfight.top
 realityripple.com
@@ -1036,6 +1031,7 @@ releases.com
 releases.moe
 remanga.org
 replay.nontonx.com
+retroanimechris.blogspot.com
 retroblast.tv
 retroflix.org
 retrostrange.com
@@ -1064,7 +1060,6 @@ rss.php
 rss.xml
 ru.com-x.life
 rugby24.net
-runo.ink
 russianfilmhub.com
 rutracker.org
 rutube.ru
@@ -1114,7 +1109,7 @@ share.acgnx.se
 sharebb.me
 sharemania.us
 sharkstreams.net
-shikimori.one
+shikimori.io
 shinden.pl
 shokoanime.com
 shosekiranking.blog.fc2.com
@@ -1430,7 +1425,6 @@ worldsports.st
 wotaku.wiki
 wowtopix.com
 wtwt323.com
-wuxia.click
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1.goojara.to
@@ -1582,9 +1576,11 @@ www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com
 www.footstreams.co
+www.forgottenworlds.net
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
+www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com
 www.gingadaddy.com
@@ -1675,8 +1671,6 @@ www.nautiljon.com
 www.newznab.com
 www.ngprovider.com
 www.nightcoreuniverse.net
-www.novelhall.com
-www.novellist.co
 www.novelupdates.com
 www.nsaneforums.com
 www.nzbindex.com
@@ -1753,6 +1747,7 @@ www.tranimeizle.co
 www.treasuretv.org
 www.turkanime.tv
 www.turnipsoft.com
+www.tuxedounmasked.com
 www.tvbsmh.com
 www.tvchannellists.com
 www.tvdrama-db.com
@@ -1818,6 +1813,7 @@ yifymovies.xyz
 yifystatus.com
 yifysubtitles.ch
 yinhuadm.one
+yomi.to
 yomiraw.com
 youflex.live
 yourcountdown.to
