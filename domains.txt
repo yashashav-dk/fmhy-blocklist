@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1838 domains | updated 2026-05-18T06:59:17Z
+# 1839 domains | updated 2026-05-19T06:51:08Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -41,6 +41,7 @@
 7a625ac658ec-animeo.baby-beamup.club
 7plus.com.au
 7reels.cc
+80s-ova.com
 888dl.ps
 a4.asurahosting.com
 absorbiendomangas2.blogspot.com
@@ -476,7 +477,7 @@ flixhouse.com
 flixvo.fun
 flixvo.live
 flixwatch.online
-flixway.pro
+flixway.ru
 fluxtv.qzz.io
 fmstream.org
 footballia.eu
@@ -624,7 +625,6 @@ kaa.lt
 kaa.to
 kagane.org
 kajzu.com
-kanae.to
 kara.moe
 kartoons.me
 katworld.net
@@ -954,7 +954,6 @@ plaza.one
 plexmovies.online
 plugin.audio.navidrome
 plugin.audio.subsonic
-pontv.to
 popcornflix.com
 popcornmovies.org
 portableappz.blogspot.com
@@ -976,7 +975,6 @@ psa.wf
 pstream.net
 psychodownloads.com
 pulsedmedia.com
-puretoons.in
 pwrestling.com
 qmanga.art
 quicksandscans.wordpress.com
@@ -1056,6 +1054,7 @@ rouman5.com
 roxiestreams.cc
 roxiestreams.info
 roxiestreams.su
+rreelstream.live
 rss.php
 rss.xml
 ru.com-x.life
@@ -1240,6 +1239,7 @@ thewiki.moe
 theyshootzombies.com
 thwiki.cc
 tiii.me
+timeldred.com
 times.abema.tv
 timesoccertv.com
 timstreams.fit
@@ -1679,6 +1679,7 @@ www.omoi.com
 www.openutau.com
 www.otakukingdom-subs.de
 www.otakunews.com
+www.ourstarblazers.com
 www.panix.com
 www.pirateboard.net
 www.playary.com
@@ -1815,7 +1816,7 @@ yifysubtitles.ch
 yinhuadm.one
 yomi.to
 yomiraw.com
-youflex.live
+youflex.lol
 yourcountdown.to
 youtube-music.app
 ytch.tv

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1838 domains)
-! Last updated: 2026-05-18T06:59:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1839 domains)
+! Last updated: 2026-05-19T06:51:08Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -45,6 +45,7 @@
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7plus.com.au^
 ||7reels.cc^
+||80s-ova.com^
 ||888dl.ps^
 ||a4.asurahosting.com^
 ||absorbiendomangas2.blogspot.com^
@@ -480,7 +481,7 @@
 ||flixvo.fun^
 ||flixvo.live^
 ||flixwatch.online^
-||flixway.pro^
+||flixway.ru^
 ||fluxtv.qzz.io^
 ||fmstream.org^
 ||footballia.eu^
@@ -628,7 +629,6 @@
 ||kaa.to^
 ||kagane.org^
 ||kajzu.com^
-||kanae.to^
 ||kara.moe^
 ||kartoons.me^
 ||katworld.net^
@@ -958,7 +958,6 @@
 ||plexmovies.online^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
-||pontv.to^
 ||popcornflix.com^
 ||popcornmovies.org^
 ||portableappz.blogspot.com^
@@ -980,7 +979,6 @@
 ||pstream.net^
 ||psychodownloads.com^
 ||pulsedmedia.com^
-||puretoons.in^
 ||pwrestling.com^
 ||qmanga.art^
 ||quicksandscans.wordpress.com^
@@ -1060,6 +1058,7 @@
 ||roxiestreams.cc^
 ||roxiestreams.info^
 ||roxiestreams.su^
+||rreelstream.live^
 ||rss.php^
 ||rss.xml^
 ||ru.com-x.life^
@@ -1244,6 +1243,7 @@
 ||theyshootzombies.com^
 ||thwiki.cc^
 ||tiii.me^
+||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
 ||timstreams.fit^
@@ -1683,6 +1683,7 @@
 ||www.openutau.com^
 ||www.otakukingdom-subs.de^
 ||www.otakunews.com^
+||www.ourstarblazers.com^
 ||www.panix.com^
 ||www.pirateboard.net^
 ||www.playary.com^
@@ -1819,7 +1820,7 @@
 ||yinhuadm.one^
 ||yomi.to^
 ||yomiraw.com^
-||youflex.live^
+||youflex.lol^
 ||yourcountdown.to^
 ||youtube-music.app^
 ||ytch.tv^
@@ -1886,6 +1887,7 @@
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7plus.com.au
 ! 0.0.0.0 7reels.cc
+! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 888dl.ps
 ! 0.0.0.0 a4.asurahosting.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
@@ -2321,7 +2323,7 @@
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixwatch.online
-! 0.0.0.0 flixway.pro
+! 0.0.0.0 flixway.ru
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
@@ -2469,7 +2471,6 @@
 ! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kajzu.com
-! 0.0.0.0 kanae.to
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.me
 ! 0.0.0.0 katworld.net
@@ -2799,7 +2800,6 @@
 ! 0.0.0.0 plexmovies.online
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
-! 0.0.0.0 pontv.to
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.org
 ! 0.0.0.0 portableappz.blogspot.com
@@ -2821,7 +2821,6 @@
 ! 0.0.0.0 pstream.net
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
-! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
 ! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quicksandscans.wordpress.com
@@ -2901,6 +2900,7 @@
 ! 0.0.0.0 roxiestreams.cc
 ! 0.0.0.0 roxiestreams.info
 ! 0.0.0.0 roxiestreams.su
+! 0.0.0.0 rreelstream.live
 ! 0.0.0.0 rss.php
 ! 0.0.0.0 rss.xml
 ! 0.0.0.0 ru.com-x.life
@@ -3085,6 +3085,7 @@
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thwiki.cc
 ! 0.0.0.0 tiii.me
+! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
 ! 0.0.0.0 timstreams.fit
@@ -3524,6 +3525,7 @@
 ! 0.0.0.0 www.openutau.com
 ! 0.0.0.0 www.otakukingdom-subs.de
 ! 0.0.0.0 www.otakunews.com
+! 0.0.0.0 www.ourstarblazers.com
 ! 0.0.0.0 www.panix.com
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
@@ -3660,7 +3662,7 @@
 ! 0.0.0.0 yinhuadm.one
 ! 0.0.0.0 yomi.to
 ! 0.0.0.0 yomiraw.com
-! 0.0.0.0 youflex.live
+! 0.0.0.0 youflex.lol
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youtube-music.app
 ! 0.0.0.0 ytch.tv
