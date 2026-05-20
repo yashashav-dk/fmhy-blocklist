@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1839 domains | updated 2026-05-19T06:51:08Z
+# 1840 domains | updated 2026-05-20T06:51:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -43,7 +43,6 @@
 7reels.cc
 80s-ova.com
 888dl.ps
-a4.asurahosting.com
 absorbiendomangas2.blogspot.com
 acestreamid.com
 acestreamsearch.net
@@ -102,7 +101,6 @@ anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animagarchive.com
 animan.ru
-anime-archive.com
 anime-base.net
 anime-bingo.aikats.us
 anime-community-germany.de
@@ -150,7 +148,6 @@ animelek.top
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
-animelok.online
 animelok.to
 animelok.xyz
 animemusicquiz.com
@@ -471,9 +468,11 @@ fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.ru
+flix.smashystream.xyz
 flixer.su
 flixhop.com
 flixhouse.com
+flixtrz.com
 flixvo.fun
 flixvo.live
 flixwatch.online
@@ -935,7 +934,6 @@ ouo.si
 overtakefans.com
 pahe.ink
 palanq.win
-patchwork.moekyun.me
 pdftoshokan.com
 phate.io
 phi-phenomenon.org
@@ -1123,6 +1121,7 @@ siptv.eu
 site.yummyani.me
 skiley.net
 slow.pics
+smashystream.xyz
 smoores.gitlab.io
 sneedex.moe
 soccerfull.net
@@ -1265,7 +1264,6 @@ toonhub4u.co
 toonstream.dad
 toonworld4all.me
 top.xdmovies.wtf
-topchineseanime.online
 topsrs.day
 topsters.org
 torbox.app
@@ -1349,6 +1347,7 @@ vidbox.cc
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
+vidplay.to
 vipotv.com
 virgil.samidy.com
 vknext.net
@@ -1375,6 +1374,7 @@ warosu.org
 watch-tvseries.net
 watch-v2.autoembed.app
 watch-wrestling.eu
+watch.cinewave.qzz.io
 watch.corsflix.dpdns.org
 watch.corsflix.net
 watch.filmu.in
@@ -1802,6 +1802,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xprime.stream
 xprime.su
+xyzstreams.shop
 yadg.cc
 yampi.live
 yatoon228.com
@@ -1816,7 +1817,7 @@ yifysubtitles.ch
 yinhuadm.one
 yomi.to
 yomiraw.com
-youflex.lol
+youflex.top
 yourcountdown.to
 youtube-music.app
 ytch.tv

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1839 domains)
-! Last updated: 2026-05-19T06:51:08Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
+! Last updated: 2026-05-20T06:51:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -47,7 +47,6 @@
 ||7reels.cc^
 ||80s-ova.com^
 ||888dl.ps^
-||a4.asurahosting.com^
 ||absorbiendomangas2.blogspot.com^
 ||acestreamid.com^
 ||acestreamsearch.net^
@@ -106,7 +105,6 @@
 ||anilist-adaptations.timschneeberger.me^
 ||animagarchive.com^
 ||animan.ru^
-||anime-archive.com^
 ||anime-base.net^
 ||anime-bingo.aikats.us^
 ||anime-community-germany.de^
@@ -154,7 +152,6 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
-||animelok.online^
 ||animelok.to^
 ||animelok.xyz^
 ||animemusicquiz.com^
@@ -475,9 +472,11 @@
 ||flicker-proxy.md^
 ||flickmetrix.com^
 ||flickystream.ru^
+||flix.smashystream.xyz^
 ||flixer.su^
 ||flixhop.com^
 ||flixhouse.com^
+||flixtrz.com^
 ||flixvo.fun^
 ||flixvo.live^
 ||flixwatch.online^
@@ -939,7 +938,6 @@
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
-||patchwork.moekyun.me^
 ||pdftoshokan.com^
 ||phate.io^
 ||phi-phenomenon.org^
@@ -1127,6 +1125,7 @@
 ||site.yummyani.me^
 ||skiley.net^
 ||slow.pics^
+||smashystream.xyz^
 ||smoores.gitlab.io^
 ||sneedex.moe^
 ||soccerfull.net^
@@ -1269,7 +1268,6 @@
 ||toonstream.dad^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
-||topchineseanime.online^
 ||topsrs.day^
 ||topsters.org^
 ||torbox.app^
@@ -1353,6 +1351,7 @@
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
+||vidplay.to^
 ||vipotv.com^
 ||virgil.samidy.com^
 ||vknext.net^
@@ -1379,6 +1378,7 @@
 ||watch-tvseries.net^
 ||watch-v2.autoembed.app^
 ||watch-wrestling.eu^
+||watch.cinewave.qzz.io^
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
 ||watch.filmu.in^
@@ -1806,6 +1806,7 @@
 ||xoxocomic.com^
 ||xprime.stream^
 ||xprime.su^
+||xyzstreams.shop^
 ||yadg.cc^
 ||yampi.live^
 ||yatoon228.com^
@@ -1820,7 +1821,7 @@
 ||yinhuadm.one^
 ||yomi.to^
 ||yomiraw.com^
-||youflex.lol^
+||youflex.top^
 ||yourcountdown.to^
 ||youtube-music.app^
 ||ytch.tv^
@@ -1889,7 +1890,6 @@
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 888dl.ps
-! 0.0.0.0 a4.asurahosting.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
 ! 0.0.0.0 acestreamid.com
 ! 0.0.0.0 acestreamsearch.net
@@ -1948,7 +1948,6 @@
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
 ! 0.0.0.0 animagarchive.com
 ! 0.0.0.0 animan.ru
-! 0.0.0.0 anime-archive.com
 ! 0.0.0.0 anime-base.net
 ! 0.0.0.0 anime-bingo.aikats.us
 ! 0.0.0.0 anime-community-germany.de
@@ -1996,7 +1995,6 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
-! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
 ! 0.0.0.0 animemusicquiz.com
@@ -2317,9 +2315,11 @@
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.ru
+! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
+! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixwatch.online
@@ -2781,7 +2781,6 @@
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
-! 0.0.0.0 patchwork.moekyun.me
 ! 0.0.0.0 pdftoshokan.com
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
@@ -2969,6 +2968,7 @@
 ! 0.0.0.0 site.yummyani.me
 ! 0.0.0.0 skiley.net
 ! 0.0.0.0 slow.pics
+! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
 ! 0.0.0.0 sneedex.moe
 ! 0.0.0.0 soccerfull.net
@@ -3111,7 +3111,6 @@
 ! 0.0.0.0 toonstream.dad
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf
-! 0.0.0.0 topchineseanime.online
 ! 0.0.0.0 topsrs.day
 ! 0.0.0.0 topsters.org
 ! 0.0.0.0 torbox.app
@@ -3195,6 +3194,7 @@
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
+! 0.0.0.0 vidplay.to
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
 ! 0.0.0.0 vknext.net
@@ -3221,6 +3221,7 @@
 ! 0.0.0.0 watch-tvseries.net
 ! 0.0.0.0 watch-v2.autoembed.app
 ! 0.0.0.0 watch-wrestling.eu
+! 0.0.0.0 watch.cinewave.qzz.io
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
 ! 0.0.0.0 watch.filmu.in
@@ -3648,6 +3649,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xprime.stream
 ! 0.0.0.0 xprime.su
+! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
 ! 0.0.0.0 yatoon228.com
@@ -3662,7 +3664,7 @@
 ! 0.0.0.0 yinhuadm.one
 ! 0.0.0.0 yomi.to
 ! 0.0.0.0 yomiraw.com
-! 0.0.0.0 youflex.lol
+! 0.0.0.0 youflex.top
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youtube-music.app
 ! 0.0.0.0 ytch.tv
