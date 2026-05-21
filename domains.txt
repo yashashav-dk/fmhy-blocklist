@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-05-20T06:51:26Z
+# 1840 domains | updated 2026-05-21T06:55:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -177,6 +177,7 @@ animetudes.com
 animetv-jp.net
 animeua.club
 animeuknews.net
+animeverse.to
 animevilla.in
 animevost.org
 animevsub.eu.org
@@ -1158,8 +1159,7 @@ store.rg
 stream.gensokyoradio.net
 stream192.mp
 streamcorner.cc
-streamcorner.info
-streamcorner.vu
+streamcorner.site
 streameast.ga
 streameast.games
 streameast.ph
@@ -1626,7 +1626,7 @@ www.levidia.ch
 www.lexmangas.com
 www.li-ma.nl
 www.lightnovel.fun
-www.limetorrents.lol
+www.limetorrents.fun
 www.listal.com
 www.littleakiba.ch
 www.livehdtv.com

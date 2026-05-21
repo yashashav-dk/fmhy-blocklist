@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
-! Last updated: 2026-05-20T06:51:26Z
+! Last updated: 2026-05-21T06:55:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -181,6 +181,7 @@
 ||animetv-jp.net^
 ||animeua.club^
 ||animeuknews.net^
+||animeverse.to^
 ||animevilla.in^
 ||animevost.org^
 ||animevsub.eu.org^
@@ -1162,8 +1163,7 @@
 ||stream.gensokyoradio.net^
 ||stream192.mp^
 ||streamcorner.cc^
-||streamcorner.info^
-||streamcorner.vu^
+||streamcorner.site^
 ||streameast.ga^
 ||streameast.games^
 ||streameast.ph^
@@ -1630,7 +1630,7 @@
 ||www.lexmangas.com^
 ||www.li-ma.nl^
 ||www.lightnovel.fun^
-||www.limetorrents.lol^
+||www.limetorrents.fun^
 ||www.listal.com^
 ||www.littleakiba.ch^
 ||www.livehdtv.com^
@@ -2024,6 +2024,7 @@
 ! 0.0.0.0 animetv-jp.net
 ! 0.0.0.0 animeua.club
 ! 0.0.0.0 animeuknews.net
+! 0.0.0.0 animeverse.to
 ! 0.0.0.0 animevilla.in
 ! 0.0.0.0 animevost.org
 ! 0.0.0.0 animevsub.eu.org
@@ -3005,8 +3006,7 @@
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream192.mp
 ! 0.0.0.0 streamcorner.cc
-! 0.0.0.0 streamcorner.info
-! 0.0.0.0 streamcorner.vu
+! 0.0.0.0 streamcorner.site
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.games
 ! 0.0.0.0 streameast.ph
@@ -3473,7 +3473,7 @@
 ! 0.0.0.0 www.lexmangas.com
 ! 0.0.0.0 www.li-ma.nl
 ! 0.0.0.0 www.lightnovel.fun
-! 0.0.0.0 www.limetorrents.lol
+! 0.0.0.0 www.limetorrents.fun
 ! 0.0.0.0 www.listal.com
 ! 0.0.0.0 www.littleakiba.ch
 ! 0.0.0.0 www.livehdtv.com
