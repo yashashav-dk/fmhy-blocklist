@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
-! Last updated: 2026-05-21T06:55:44Z
+! Last updated: 2026-05-22T06:51:50Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -105,6 +105,7 @@
 ||anilist-adaptations.timschneeberger.me^
 ||animagarchive.com^
 ||animan.ru^
+||anime-archive.com^
 ||anime-base.net^
 ||anime-bingo.aikats.us^
 ||anime-community-germany.de^
@@ -152,6 +153,7 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
+||animelok.online^
 ||animelok.to^
 ||animelok.xyz^
 ||animemusicquiz.com^
@@ -1142,7 +1144,6 @@
 ||soundbound.app^
 ||sozo.azamov.me^
 ||space.olamovies.dad^
-||spenflix.ru^
 ||sphinxanime.com^
 ||spin.moe^
 ||splay.id^
@@ -1156,7 +1157,6 @@
 ||ssrmovies.com^
 ||staff.iklone.org^
 ||static.sneedex.moe^
-||status.dinsden.top^
 ||status.miruro.com^
 ||stigstream.ru^
 ||store.rg^
@@ -1948,6 +1948,7 @@
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
 ! 0.0.0.0 animagarchive.com
 ! 0.0.0.0 animan.ru
+! 0.0.0.0 anime-archive.com
 ! 0.0.0.0 anime-base.net
 ! 0.0.0.0 anime-bingo.aikats.us
 ! 0.0.0.0 anime-community-germany.de
@@ -1995,6 +1996,7 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
+! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
 ! 0.0.0.0 animemusicquiz.com
@@ -2985,7 +2987,6 @@
 ! 0.0.0.0 soundbound.app
 ! 0.0.0.0 sozo.azamov.me
 ! 0.0.0.0 space.olamovies.dad
-! 0.0.0.0 spenflix.ru
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 splay.id
@@ -2999,7 +3000,6 @@
 ! 0.0.0.0 ssrmovies.com
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 static.sneedex.moe
-! 0.0.0.0 status.dinsden.top
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.rg

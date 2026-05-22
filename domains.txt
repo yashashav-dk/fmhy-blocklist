@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-05-21T06:55:44Z
+# 1840 domains | updated 2026-05-22T06:51:50Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -101,6 +101,7 @@ anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animagarchive.com
 animan.ru
+anime-archive.com
 anime-base.net
 anime-bingo.aikats.us
 anime-community-germany.de
@@ -148,6 +149,7 @@ animelek.top
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
+animelok.online
 animelok.to
 animelok.xyz
 animemusicquiz.com
@@ -1138,7 +1140,6 @@ sora.ich
 soundbound.app
 sozo.azamov.me
 space.olamovies.dad
-spenflix.ru
 sphinxanime.com
 spin.moe
 splay.id
@@ -1152,7 +1153,6 @@ srstop.link
 ssrmovies.com
 staff.iklone.org
 static.sneedex.moe
-status.dinsden.top
 status.miruro.com
 stigstream.ru
 store.rg
