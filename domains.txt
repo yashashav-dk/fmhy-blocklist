@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-05-22T06:51:50Z
+# 1840 domains | updated 2026-05-23T06:14:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -54,6 +54,7 @@ addonsfortheweebs.midnightignite.me
 adrama.app
 aether.bar
 aether.mom
+afterstream.org
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
@@ -198,7 +199,6 @@ anistream.one
 anisub.tv
 anitools.koopz.rocks
 anitrakt.huere.net
-anitrendz.com
 anitrendz.net
 anitube.in.ua
 aniverse.watch
@@ -428,6 +428,7 @@ ee3.me
 einthusan.tv
 emmau680.driveraudiencej2zeu49.sbs
 en.anison.fm
+en.gundam-official.com
 en.kinorium.com
 en.whakoom.com
 en12.sportplus.live
@@ -448,6 +449,7 @@ ext.to
 extranet.torrentbay.st
 eztvx.to
 f1fullraces.com
+f1live.dpdns.org
 falconstreams.net
 famelack.com
 fancons.com
@@ -734,7 +736,6 @@ manga.tumeo.space
 mangabaka.org
 mangaball.net
 mangabookshelf.com
-mangacodex.com
 mangacrab.org
 mangadot.net
 mangafire.to
@@ -743,6 +744,7 @@ mangafox.la
 mangaguide.de
 mangahub.io
 mangahub.ru
+mangak.io
 mangakatana.com
 mangakuro.net
 mangalib.me
@@ -760,7 +762,6 @@ manhuatop.org
 manhwaclan.com
 manhwatop.com
 manhwazone.com
-mannavi.net
 manta.net
 mappl.tv
 mapple.tv
@@ -824,7 +825,6 @@ moviepire.org
 moviepooper.com
 movies.php
 moviescountdown.com
-moviesflix.ad
 moviesfoundonline.com
 moviesnipipay.me
 movish.net
@@ -976,6 +976,7 @@ psa.wf
 pstream.net
 psychodownloads.com
 pulsedmedia.com
+puretoons.in
 pwrestling.com
 qmanga.art
 quicksandscans.wordpress.com
@@ -1229,6 +1230,7 @@ thejadednetwork.com
 thelongbox.net
 themes.moe
 themoviebox.org
+themoviesflix.onl
 themoviespoiler.com
 thepiratebay.org
 theshowgrid.com
@@ -1356,7 +1358,6 @@ vnkeyfc.com
 vocadb.net
 vocaloid.radioca.st
 vocasphere.net
-vocaverse.network
 voir-anime.to
 voirdrama.to
 vole.wtf
@@ -1387,6 +1388,7 @@ watchf1full.com
 watchflix.to
 watchfooty.st
 watchmmafull.com
+watchott.ru
 watchprowrestlings.live
 watchreplay.net
 watchsports.to
@@ -1566,8 +1568,6 @@ www.fctv33.lat
 www.fileeagle.com
 www.filepuma.com
 www.filmgo.live
-www.filmytime.site
-www.filmytime.top
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
@@ -1669,8 +1669,8 @@ www.myshinytoyrobots.com
 www.naijavault.com
 www.nautiljon.com
 www.newznab.com
+www.nextpvr.com
 www.ngprovider.com
-www.nightcoreuniverse.net
 www.novelupdates.com
 www.nsaneforums.com
 www.nzbindex.com
