@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-05-23T06:14:44Z
+# 1814 domains | updated 2026-05-24T06:39:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0xdb.org
@@ -36,7 +36,6 @@
 67movies.net
 69shuba.cx
 720pier.ru
-720pstream.lc
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7plus.com.au
@@ -45,7 +44,6 @@
 888dl.ps
 absorbiendomangas2.blogspot.com
 acestreamid.com
-acestreamsearch.net
 acg.rip
 acheriya.com
 adding-repos.html
@@ -231,7 +229,6 @@ asiaflix.net
 asiamediablog.com
 asiansubs.com
 ask4movie.app
-ask4sport.xyz
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
@@ -369,7 +366,6 @@ cubiktv.com
 daddylive.li
 daddylive.org
 daddylive.pk
-daddyny.com
 dailycommercials.com
 dami-tv.pro
 damitvsports.com
@@ -473,6 +469,7 @@ fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.ru
+flickystream.su
 flix.smashystream.xyz
 flixer.su
 flixhop.com
@@ -489,7 +486,6 @@ footballia.net
 footfast.cc
 footfast.link
 footfast.us
-footfy.net
 footstreams.xyz
 fooyin.org
 foro.unionfansub.com
@@ -512,7 +508,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe633.com
+funbe637.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 gadgeteer.co.za
@@ -530,7 +526,6 @@ globetv.app
 go.aftvnews.com
 goatapi.imreallydagoatt.workers.dev
 goctruyentranh.net
-godriveplayer.com
 goplay.ml
 goplay.su
 goradio.gr
@@ -553,7 +548,6 @@ hayase.watch
 hdclump.com
 hdencode.org
 hdhd502.net
-hdrush.cc
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -708,7 +702,6 @@ lrepacks.net
 lucida.to
 luciferdonghua.in
 lumotv.co.uk
-lunara.watch
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
@@ -777,7 +770,6 @@ megabeastempire.wordpress.com
 meionovel.id
 melon-subs.de
 meownime.ltd
-meowtv.ru
 meramifan.wordpress.com
 merlinwz.com
 meshmanga.com
@@ -830,7 +822,7 @@ moviesnipipay.me
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
-mtoon139.com
+mtoon140.com
 mugen.karaokes.moe
 musicalyst.com
 musichoarders.xyz
@@ -905,10 +897,10 @@ ohli24.net
 okanime.tv
 olamovies.dad
 old.klz9.com
+old.yummyani.me
 oldcomicsworld.blogspot.com
 oldgamemags.tumblr.com
 omega.gg
-on.jetanimes.com
 one.plaza.nightwaveplaza
 onepace-ru.tilda.ws
 onepace.co
@@ -962,9 +954,8 @@ portapps.io
 potamanime.rs
 powder.media
 ppv.cx
-ppv.link
+ppv.domains
 ppv.to
-ppvs.sh
 primewire.nexus
 primewire.zip
 privatemoviez.help
@@ -978,7 +969,6 @@ psychodownloads.com
 pulsedmedia.com
 puretoons.in
 pwrestling.com
-qmanga.art
 quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
@@ -1040,7 +1030,6 @@ revoldiv.com
 ridomovies.tv
 rips.cc
 ristohentai.com
-rivestream.org
 rivestream.ru
 rivestream.top
 rlsbb.cc
@@ -1122,7 +1111,6 @@ signonscreen.com
 silent-hall-of-fame.org
 silentaperture.gitlab.io
 siptv.eu
-site.yummyani.me
 skiley.net
 slow.pics
 smashystream.xyz
@@ -1143,10 +1131,8 @@ sozo.azamov.me
 space.olamovies.dad
 sphinxanime.com
 spin.moe
-splay.id
 split-tv.co.il
 sportontv.biz
-sports24.cc
 sportsurge.pk
 sportyhunter.space
 squid.wtf
@@ -1162,7 +1148,6 @@ stream192.mp
 streamcorner.cc
 streamcorner.site
 streameast.ga
-streameast.games
 streameast.ph
 streamed.pk
 streamed.st
@@ -1172,6 +1157,8 @@ streamgoblin.com
 streami.su
 streami.top
 streaming-integrale.com
+streamninja.cc
+streamninja.site
 streamsports99.su
 streamsports99.website
 streamtim.com
@@ -1179,7 +1166,6 @@ streamvaults.ru
 streamwatch.online
 streamwatch.youplex.site
 stremio-addons.net
-stremio-neo.aayushcodes.eu
 strexoplayer.onrender.com
 strmd.link
 studio-one.html
@@ -1206,8 +1192,8 @@ sync.coconono.org
 syncler.net
 synthv.info
 t.html
-t2.xtoon365.com
 t2tunes.site
+t3.xtoon365.com
 t4tsa.cc
 tachiyomiaz.apk
 tagger.site
@@ -1243,19 +1229,17 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timstreams.fit
 timstreams.net
 tioanime.com
 tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
-tkor115.com
+tkor119.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
 tokusatsunetwork.com
-tokuvn.com
 tokuzilla.net
 tokyo-tosho.net
 tokyodross.blogspot.com
@@ -1273,7 +1257,6 @@ torrents.youplex.site
 tortuga-ceviri.com
 totalsportek.tips
 touhou-memories.com
-touhou.ai
 touhou.kuukunen.net
 touhoudb.com
 toustream.xyz
@@ -1381,7 +1364,6 @@ watch.corsflix.net
 watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
-watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.net
 watchf1full.com
@@ -1403,7 +1385,7 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wfty.link
-wfwf449.com
+wfwf454.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1426,11 +1408,10 @@ worldnews24.tv
 worldsports.st
 wotaku.wiki
 wowtopix.com
-wtwt323.com
+wtwt327.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1.goojara.to
-ww1.sharespark.cfd
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
 wwv.veranimes.net
@@ -1481,7 +1462,6 @@ www.animeout.xyz
 www.animeparadise.moe
 www.animeradio.de
 www.animerdle.com
-www.animerealms.org
 www.animesaturn.me
 www.animesonglyrics.com
 www.animesrbija.com
@@ -1583,9 +1563,6 @@ www.funniermoments.net
 www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com
-www.gingadaddy.com
-www.gledajcrtace.org
-www.gledajcrtace.rs
 www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
@@ -1593,6 +1570,7 @@ www.goodjobmedia.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
+www.hanmoto.com
 www.hdmoviez.name
 www.hentai.cat
 www.hentaisaturn.tv
@@ -1656,8 +1634,6 @@ www.modsyndicate.com
 www.movie-censorship.com
 www.movie-locations.com
 www.movieloci.com
-www.mp4moviez.talk
-www.mrgbackup.link
 www.mrqe.com
 www.mundodonghua.com
 www.music-map.com
@@ -1684,7 +1660,6 @@ www.panix.com
 www.pirateboard.net
 www.playary.com
 www.playimdb.com
-www.podnapisi.net
 www.popr.ink
 www.pracdev.org
 www.primeshows.uk
@@ -1695,7 +1670,6 @@ www.radioanime24.pl
 www.rapidseedbox.com
 www.raredoramas.com
 www.ratingraph.com
-www.rbsports77.mom
 www.reelscary.com
 www.releases.com
 www.rivestream.app
@@ -1805,7 +1779,7 @@ xprime.su
 xyzstreams.shop
 yadg.cc
 yampi.live
-yatoon228.com
+yatoon232.com
 yatoonlink.com
 yattatachi.com
 yenime.net

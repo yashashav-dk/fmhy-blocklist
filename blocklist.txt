@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
-! Last updated: 2026-05-23T06:14:44Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1814 domains)
+! Last updated: 2026-05-24T06:39:46Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -40,7 +40,6 @@
 ||67movies.net^
 ||69shuba.cx^
 ||720pier.ru^
-||720pstream.lc^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7plus.com.au^
@@ -49,7 +48,6 @@
 ||888dl.ps^
 ||absorbiendomangas2.blogspot.com^
 ||acestreamid.com^
-||acestreamsearch.net^
 ||acg.rip^
 ||acheriya.com^
 ||adding-repos.html^
@@ -235,7 +233,6 @@
 ||asiamediablog.com^
 ||asiansubs.com^
 ||ask4movie.app^
-||ask4sport.xyz^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
@@ -373,7 +370,6 @@
 ||daddylive.li^
 ||daddylive.org^
 ||daddylive.pk^
-||daddyny.com^
 ||dailycommercials.com^
 ||dami-tv.pro^
 ||damitvsports.com^
@@ -477,6 +473,7 @@
 ||flicker-proxy.md^
 ||flickmetrix.com^
 ||flickystream.ru^
+||flickystream.su^
 ||flix.smashystream.xyz^
 ||flixer.su^
 ||flixhop.com^
@@ -493,7 +490,6 @@
 ||footfast.cc^
 ||footfast.link^
 ||footfast.us^
-||footfy.net^
 ||footstreams.xyz^
 ||fooyin.org^
 ||foro.unionfansub.com^
@@ -516,7 +512,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe633.com^
+||funbe637.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||gadgeteer.co.za^
@@ -534,7 +530,6 @@
 ||go.aftvnews.com^
 ||goatapi.imreallydagoatt.workers.dev^
 ||goctruyentranh.net^
-||godriveplayer.com^
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
@@ -557,7 +552,6 @@
 ||hdclump.com^
 ||hdencode.org^
 ||hdhd502.net^
-||hdrush.cc^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -712,7 +706,6 @@
 ||lucida.to^
 ||luciferdonghua.in^
 ||lumotv.co.uk^
-||lunara.watch^
 ||lunaranime.ru^
 ||lunastream.fun^
 ||m-p.sakura.ne.jp^
@@ -781,7 +774,6 @@
 ||meionovel.id^
 ||melon-subs.de^
 ||meownime.ltd^
-||meowtv.ru^
 ||meramifan.wordpress.com^
 ||merlinwz.com^
 ||meshmanga.com^
@@ -834,7 +826,7 @@
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
-||mtoon139.com^
+||mtoon140.com^
 ||mugen.karaokes.moe^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -909,10 +901,10 @@
 ||okanime.tv^
 ||olamovies.dad^
 ||old.klz9.com^
+||old.yummyani.me^
 ||oldcomicsworld.blogspot.com^
 ||oldgamemags.tumblr.com^
 ||omega.gg^
-||on.jetanimes.com^
 ||one.plaza.nightwaveplaza^
 ||onepace-ru.tilda.ws^
 ||onepace.co^
@@ -966,9 +958,8 @@
 ||potamanime.rs^
 ||powder.media^
 ||ppv.cx^
-||ppv.link^
+||ppv.domains^
 ||ppv.to^
-||ppvs.sh^
 ||primewire.nexus^
 ||primewire.zip^
 ||privatemoviez.help^
@@ -982,7 +973,6 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
-||qmanga.art^
 ||quicksandscans.wordpress.com^
 ||quiz.animesongs.org^
 ||r-a-d.io^
@@ -1044,7 +1034,6 @@
 ||ridomovies.tv^
 ||rips.cc^
 ||ristohentai.com^
-||rivestream.org^
 ||rivestream.ru^
 ||rivestream.top^
 ||rlsbb.cc^
@@ -1126,7 +1115,6 @@
 ||silent-hall-of-fame.org^
 ||silentaperture.gitlab.io^
 ||siptv.eu^
-||site.yummyani.me^
 ||skiley.net^
 ||slow.pics^
 ||smashystream.xyz^
@@ -1147,10 +1135,8 @@
 ||space.olamovies.dad^
 ||sphinxanime.com^
 ||spin.moe^
-||splay.id^
 ||split-tv.co.il^
 ||sportontv.biz^
-||sports24.cc^
 ||sportsurge.pk^
 ||sportyhunter.space^
 ||squid.wtf^
@@ -1166,7 +1152,6 @@
 ||streamcorner.cc^
 ||streamcorner.site^
 ||streameast.ga^
-||streameast.games^
 ||streameast.ph^
 ||streamed.pk^
 ||streamed.st^
@@ -1176,6 +1161,8 @@
 ||streami.su^
 ||streami.top^
 ||streaming-integrale.com^
+||streamninja.cc^
+||streamninja.site^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1183,7 +1170,6 @@
 ||streamwatch.online^
 ||streamwatch.youplex.site^
 ||stremio-addons.net^
-||stremio-neo.aayushcodes.eu^
 ||strexoplayer.onrender.com^
 ||strmd.link^
 ||studio-one.html^
@@ -1210,8 +1196,8 @@
 ||syncler.net^
 ||synthv.info^
 ||t.html^
-||t2.xtoon365.com^
 ||t2tunes.site^
+||t3.xtoon365.com^
 ||t4tsa.cc^
 ||tachiyomiaz.apk^
 ||tagger.site^
@@ -1247,19 +1233,17 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
-||timstreams.fit^
 ||timstreams.net^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
-||tkor115.com^
+||tkor119.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
 ||tokusatsunetwork.com^
-||tokuvn.com^
 ||tokuzilla.net^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
@@ -1277,7 +1261,6 @@
 ||tortuga-ceviri.com^
 ||totalsportek.tips^
 ||touhou-memories.com^
-||touhou.ai^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
 ||toustream.xyz^
@@ -1385,7 +1368,6 @@
 ||watch.filmu.in^
 ||watch.foundtv.com^
 ||watch.mometu.com^
-||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.net^
 ||watchf1full.com^
@@ -1407,7 +1389,7 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wfty.link^
-||wfwf449.com^
+||wfwf454.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1430,11 +1412,10 @@
 ||worldsports.st^
 ||wotaku.wiki^
 ||wowtopix.com^
-||wtwt323.com^
+||wtwt327.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1.goojara.to^
-||ww1.sharespark.cfd^
 ||ww1.yesmovies.ag^
 ||ww14.kissasian.com.lv^
 ||wwv.veranimes.net^
@@ -1485,7 +1466,6 @@
 ||www.animeparadise.moe^
 ||www.animeradio.de^
 ||www.animerdle.com^
-||www.animerealms.org^
 ||www.animesaturn.me^
 ||www.animesonglyrics.com^
 ||www.animesrbija.com^
@@ -1587,9 +1567,6 @@
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
-||www.gingadaddy.com^
-||www.gledajcrtace.org^
-||www.gledajcrtace.rs^
 ||www.globalfreetv.com^
 ||www.gokuhd.com^
 ||www.gomitier.tech^
@@ -1597,6 +1574,7 @@
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
+||www.hanmoto.com^
 ||www.hdmoviez.name^
 ||www.hentai.cat^
 ||www.hentaisaturn.tv^
@@ -1660,8 +1638,6 @@
 ||www.movie-censorship.com^
 ||www.movie-locations.com^
 ||www.movieloci.com^
-||www.mp4moviez.talk^
-||www.mrgbackup.link^
 ||www.mrqe.com^
 ||www.mundodonghua.com^
 ||www.music-map.com^
@@ -1688,7 +1664,6 @@
 ||www.pirateboard.net^
 ||www.playary.com^
 ||www.playimdb.com^
-||www.podnapisi.net^
 ||www.popr.ink^
 ||www.pracdev.org^
 ||www.primeshows.uk^
@@ -1699,7 +1674,6 @@
 ||www.rapidseedbox.com^
 ||www.raredoramas.com^
 ||www.ratingraph.com^
-||www.rbsports77.mom^
 ||www.reelscary.com^
 ||www.releases.com^
 ||www.rivestream.app^
@@ -1809,7 +1783,7 @@
 ||xyzstreams.shop^
 ||yadg.cc^
 ||yampi.live^
-||yatoon228.com^
+||yatoon232.com^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -1883,7 +1857,6 @@
 ! 0.0.0.0 67movies.net
 ! 0.0.0.0 69shuba.cx
 ! 0.0.0.0 720pier.ru
-! 0.0.0.0 720pstream.lc
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7plus.com.au
@@ -1892,7 +1865,6 @@
 ! 0.0.0.0 888dl.ps
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
 ! 0.0.0.0 acestreamid.com
-! 0.0.0.0 acestreamsearch.net
 ! 0.0.0.0 acg.rip
 ! 0.0.0.0 acheriya.com
 ! 0.0.0.0 adding-repos.html
@@ -2078,7 +2050,6 @@
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
 ! 0.0.0.0 ask4movie.app
-! 0.0.0.0 ask4sport.xyz
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
@@ -2216,7 +2187,6 @@
 ! 0.0.0.0 daddylive.li
 ! 0.0.0.0 daddylive.org
 ! 0.0.0.0 daddylive.pk
-! 0.0.0.0 daddyny.com
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 dami-tv.pro
 ! 0.0.0.0 damitvsports.com
@@ -2320,6 +2290,7 @@
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.ru
+! 0.0.0.0 flickystream.su
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
@@ -2336,7 +2307,6 @@
 ! 0.0.0.0 footfast.cc
 ! 0.0.0.0 footfast.link
 ! 0.0.0.0 footfast.us
-! 0.0.0.0 footfy.net
 ! 0.0.0.0 footstreams.xyz
 ! 0.0.0.0 fooyin.org
 ! 0.0.0.0 foro.unionfansub.com
@@ -2359,7 +2329,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe633.com
+! 0.0.0.0 funbe637.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 gadgeteer.co.za
@@ -2377,7 +2347,6 @@
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goatapi.imreallydagoatt.workers.dev
 ! 0.0.0.0 goctruyentranh.net
-! 0.0.0.0 godriveplayer.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
@@ -2400,7 +2369,6 @@
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
 ! 0.0.0.0 hdhd502.net
-! 0.0.0.0 hdrush.cc
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2555,7 +2523,6 @@
 ! 0.0.0.0 lucida.to
 ! 0.0.0.0 luciferdonghua.in
 ! 0.0.0.0 lumotv.co.uk
-! 0.0.0.0 lunara.watch
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
@@ -2624,7 +2591,6 @@
 ! 0.0.0.0 meionovel.id
 ! 0.0.0.0 melon-subs.de
 ! 0.0.0.0 meownime.ltd
-! 0.0.0.0 meowtv.ru
 ! 0.0.0.0 meramifan.wordpress.com
 ! 0.0.0.0 merlinwz.com
 ! 0.0.0.0 meshmanga.com
@@ -2677,7 +2643,7 @@
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon139.com
+! 0.0.0.0 mtoon140.com
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -2752,10 +2718,10 @@
 ! 0.0.0.0 okanime.tv
 ! 0.0.0.0 olamovies.dad
 ! 0.0.0.0 old.klz9.com
+! 0.0.0.0 old.yummyani.me
 ! 0.0.0.0 oldcomicsworld.blogspot.com
 ! 0.0.0.0 oldgamemags.tumblr.com
 ! 0.0.0.0 omega.gg
-! 0.0.0.0 on.jetanimes.com
 ! 0.0.0.0 one.plaza.nightwaveplaza
 ! 0.0.0.0 onepace-ru.tilda.ws
 ! 0.0.0.0 onepace.co
@@ -2809,9 +2775,8 @@
 ! 0.0.0.0 potamanime.rs
 ! 0.0.0.0 powder.media
 ! 0.0.0.0 ppv.cx
-! 0.0.0.0 ppv.link
+! 0.0.0.0 ppv.domains
 ! 0.0.0.0 ppv.to
-! 0.0.0.0 ppvs.sh
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 privatemoviez.help
@@ -2825,7 +2790,6 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
-! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quicksandscans.wordpress.com
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
@@ -2887,7 +2851,6 @@
 ! 0.0.0.0 ridomovies.tv
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristohentai.com
-! 0.0.0.0 rivestream.org
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rivestream.top
 ! 0.0.0.0 rlsbb.cc
@@ -2969,7 +2932,6 @@
 ! 0.0.0.0 silent-hall-of-fame.org
 ! 0.0.0.0 silentaperture.gitlab.io
 ! 0.0.0.0 siptv.eu
-! 0.0.0.0 site.yummyani.me
 ! 0.0.0.0 skiley.net
 ! 0.0.0.0 slow.pics
 ! 0.0.0.0 smashystream.xyz
@@ -2990,10 +2952,8 @@
 ! 0.0.0.0 space.olamovies.dad
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
-! 0.0.0.0 splay.id
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportontv.biz
-! 0.0.0.0 sports24.cc
 ! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
@@ -3009,7 +2969,6 @@
 ! 0.0.0.0 streamcorner.cc
 ! 0.0.0.0 streamcorner.site
 ! 0.0.0.0 streameast.ga
-! 0.0.0.0 streameast.games
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamed.pk
 ! 0.0.0.0 streamed.st
@@ -3019,6 +2978,8 @@
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streami.top
 ! 0.0.0.0 streaming-integrale.com
+! 0.0.0.0 streamninja.cc
+! 0.0.0.0 streamninja.site
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3026,7 +2987,6 @@
 ! 0.0.0.0 streamwatch.online
 ! 0.0.0.0 streamwatch.youplex.site
 ! 0.0.0.0 stremio-addons.net
-! 0.0.0.0 stremio-neo.aayushcodes.eu
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strmd.link
 ! 0.0.0.0 studio-one.html
@@ -3053,8 +3013,8 @@
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t.html
-! 0.0.0.0 t2.xtoon365.com
 ! 0.0.0.0 t2tunes.site
+! 0.0.0.0 t3.xtoon365.com
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
@@ -3090,19 +3050,17 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
-! 0.0.0.0 timstreams.fit
 ! 0.0.0.0 timstreams.net
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
-! 0.0.0.0 tkor115.com
+! 0.0.0.0 tkor119.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsunetwork.com
-! 0.0.0.0 tokuvn.com
 ! 0.0.0.0 tokuzilla.net
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
@@ -3120,7 +3078,6 @@
 ! 0.0.0.0 tortuga-ceviri.com
 ! 0.0.0.0 totalsportek.tips
 ! 0.0.0.0 touhou-memories.com
-! 0.0.0.0 touhou.ai
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
 ! 0.0.0.0 toustream.xyz
@@ -3228,7 +3185,6 @@
 ! 0.0.0.0 watch.filmu.in
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
-! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchf1full.com
@@ -3250,7 +3206,7 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf449.com
+! 0.0.0.0 wfwf454.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3273,11 +3229,10 @@
 ! 0.0.0.0 worldsports.st
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
-! 0.0.0.0 wtwt323.com
+! 0.0.0.0 wtwt327.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1.goojara.to
-! 0.0.0.0 ww1.sharespark.cfd
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww14.kissasian.com.lv
 ! 0.0.0.0 wwv.veranimes.net
@@ -3328,7 +3283,6 @@
 ! 0.0.0.0 www.animeparadise.moe
 ! 0.0.0.0 www.animeradio.de
 ! 0.0.0.0 www.animerdle.com
-! 0.0.0.0 www.animerealms.org
 ! 0.0.0.0 www.animesaturn.me
 ! 0.0.0.0 www.animesonglyrics.com
 ! 0.0.0.0 www.animesrbija.com
@@ -3430,9 +3384,6 @@
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
-! 0.0.0.0 www.gingadaddy.com
-! 0.0.0.0 www.gledajcrtace.org
-! 0.0.0.0 www.gledajcrtace.rs
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
@@ -3440,6 +3391,7 @@
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
+! 0.0.0.0 www.hanmoto.com
 ! 0.0.0.0 www.hdmoviez.name
 ! 0.0.0.0 www.hentai.cat
 ! 0.0.0.0 www.hentaisaturn.tv
@@ -3503,8 +3455,6 @@
 ! 0.0.0.0 www.movie-censorship.com
 ! 0.0.0.0 www.movie-locations.com
 ! 0.0.0.0 www.movieloci.com
-! 0.0.0.0 www.mp4moviez.talk
-! 0.0.0.0 www.mrgbackup.link
 ! 0.0.0.0 www.mrqe.com
 ! 0.0.0.0 www.mundodonghua.com
 ! 0.0.0.0 www.music-map.com
@@ -3531,7 +3481,6 @@
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
 ! 0.0.0.0 www.playimdb.com
-! 0.0.0.0 www.podnapisi.net
 ! 0.0.0.0 www.popr.ink
 ! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.uk
@@ -3542,7 +3491,6 @@
 ! 0.0.0.0 www.rapidseedbox.com
 ! 0.0.0.0 www.raredoramas.com
 ! 0.0.0.0 www.ratingraph.com
-! 0.0.0.0 www.rbsports77.mom
 ! 0.0.0.0 www.reelscary.com
 ! 0.0.0.0 www.releases.com
 ! 0.0.0.0 www.rivestream.app
@@ -3652,7 +3600,7 @@
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yampi.live
-! 0.0.0.0 yatoon228.com
+! 0.0.0.0 yatoon232.com
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
