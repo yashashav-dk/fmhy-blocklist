@@ -1,7 +1,8 @@
 # FMHY Binge Blocker — plain domain list
-# 1814 domains | updated 2026-05-24T06:39:46Z
+# 1825 domains | updated 2026-05-25T07:17:53Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
+0115765.com
 0xdb.org
 1024teradl.com
 123animes.ru
@@ -112,6 +113,7 @@ anime-sama.pw
 anime-sama.to
 anime-skip.com
 anime-stats.net
+anime-tourism.jp
 anime.ameo.dev
 anime.eiga.com
 anime.nexus
@@ -195,6 +197,7 @@ anisongdb.com
 anissia.net
 anistream.one
 anisub.tv
+anitabi.cn
 anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
@@ -204,6 +207,7 @@ aniworld.to
 anixtv.in
 anixtv.pro
 anixtv.us.cc
+anixx.fun
 anizm.net
 anizone.to
 annas-archive.gl
@@ -282,8 +286,10 @@ bunkoranoberanking.blog.fc2.com
 bye.undi.rest
 cal.syoboi.jp
 calendar.html
+candlestream.xyz
 canibinge.com
 caps-a-holic.com
+cartooncartoons.thatsoretro.com
 cc.edatribe.com
 cd.textfiles
 channelsurfer.tv
@@ -350,6 +356,7 @@ commons.wikimedia
 condensedaudiocatalog.com
 cooljapanportal.com
 coolmic.me
+coreflix.tv
 corsflix.net
 couchmoney.tv
 countdown.tv
@@ -729,6 +736,7 @@ manga.tumeo.space
 mangabaka.org
 mangaball.net
 mangabookshelf.com
+mangabuddy.com
 mangacrab.org
 mangadot.net
 mangafire.to
@@ -737,7 +745,6 @@ mangafox.la
 mangaguide.de
 mangahub.io
 mangahub.ru
-mangak.io
 mangakatana.com
 mangakuro.net
 mangalib.me
@@ -901,6 +908,7 @@ old.yummyani.me
 oldcomicsworld.blogspot.com
 oldgamemags.tumblr.com
 omega.gg
+on.jetanimes.com
 one.plaza.nightwaveplaza
 onepace-ru.tilda.ws
 onepace.co
@@ -1154,8 +1162,8 @@ streamed.st
 streamex.sh
 streamfree.app
 streamgoblin.com
+streami.click
 streami.su
-streami.top
 streaming-integrale.com
 streamninja.cc
 streamninja.site
@@ -1368,6 +1376,8 @@ watch.versusmedia.com
 watchanimeworld.net
 watchf1full.com
 watchflix.to
+watchflixad.com
+watchflx.tv
 watchfooty.st
 watchmmafull.com
 watchott.ru
@@ -1437,7 +1447,6 @@ www.amvhell.com
 www.androidtv-guide.com
 www.anianimals.moe
 www.anibunker.com
-www.anikore.jp
 www.animatetimes.com
 www.anime-jl.net
 www.anime-loads.org
@@ -1563,6 +1572,8 @@ www.funniermoments.net
 www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com
+www.gingadaddy.com
+www.gledajcrtace.rs
 www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
@@ -1595,6 +1606,7 @@ www.japscan.foo
 www.kaitovault.com
 www.kansou.me
 www.kanzenshuu.com
+www.konsumr.com
 www.koodoreader.com
 www.koreandrama.org
 www.kumanga.com
@@ -1714,7 +1726,6 @@ www.theyshootpictures.com
 www.todaytvseries6.com
 www.tokyoinsider.com
 www.tokyotosho.info
-www.toonamiaftermath.com
 www.toonamiremastered.com
 www.toontales.net
 www.totsrucs.cat
