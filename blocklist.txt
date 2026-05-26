@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1825 domains)
-! Last updated: 2026-05-25T07:17:53Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1827 domains)
+! Last updated: 2026-05-26T06:49:49Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -88,7 +88,6 @@
 ||anidoor.me^
 ||anidub.pro^
 ||anifilm.pro^
-||aniflix.uno^
 ||anifox.club^
 ||anify.to^
 ||aniguessr.com^
@@ -228,6 +227,7 @@
 ||archived.moe^
 ||archiveofsins.com^
 ||argoscomics.online^
+||arise.aniflix.uno^
 ||article.olduse.net^
 ||arvio.tv^
 ||ascii2d.net^
@@ -503,8 +503,6 @@
 ||forum.dirtywarez.com^
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
-||foxlink.buzz^
-||foxtrend.vip^
 ||franime.fr^
 ||free-movies.to^
 ||free-usenet-trials.php^
@@ -631,7 +629,6 @@
 ||justanime.to^
 ||justsubtitles.com^
 ||kaa.lt^
-||kaa.to^
 ||kagane.org^
 ||kajzu.com^
 ||kara.moe^
@@ -740,7 +737,6 @@
 ||mangabaka.org^
 ||mangaball.net^
 ||mangabookshelf.com^
-||mangabuddy.com^
 ||mangacrab.org^
 ||mangadot.net^
 ||mangafire.to^
@@ -749,6 +745,7 @@
 ||mangaguide.de^
 ||mangahub.io^
 ||mangahub.ru^
+||mangak.io^
 ||mangakatana.com^
 ||mangakuro.net^
 ||mangalib.me^
@@ -781,6 +778,7 @@
 ||meionovel.id^
 ||melon-subs.de^
 ||meownime.ltd^
+||meowtv.ru^
 ||meramifan.wordpress.com^
 ||merlinwz.com^
 ||meshmanga.com^
@@ -878,6 +876,7 @@
 ||nipponsei.minglong.org^
 ||nkiri.ink^
 ||nmovies.cc^
+||note.com^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
 ||novamovie.net^
@@ -981,6 +980,7 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
+||qmanga.art^
 ||quicksandscans.wordpress.com^
 ||quiz.animesongs.org^
 ||r-a-d.io^
@@ -1039,7 +1039,7 @@
 ||retrostrange.com^
 ||retrosystemsrevival.blogspot.com^
 ||revoldiv.com^
-||ridomovies.tv^
+||ridomovies.is^
 ||rips.cc^
 ||ristohentai.com^
 ||rivestream.ru^
@@ -1179,7 +1179,9 @@
 ||streamwatch.youplex.site^
 ||stremio-addons.net^
 ||strexoplayer.onrender.com^
+||strims24.pl^
 ||strmd.link^
+||strumyk.net^
 ||studio-one.html^
 ||sub-scene.com^
 ||sub.wyzie.ru^
@@ -1204,7 +1206,6 @@
 ||syncler.net^
 ||synthv.info^
 ||t.html^
-||t2tunes.site^
 ||t3.xtoon365.com^
 ||t4tsa.cc^
 ||tachiyomiaz.apk^
@@ -1634,7 +1635,7 @@
 ||www.manga-zone.org^
 ||www.mangacodex.com^
 ||www.mangadraft.com^
-||www.mangakakalot.fan^
+||www.mangakakalot.gg^
 ||www.mangakawaii.io^
 ||www.mangasplaining.com^
 ||www.mangaworld.ac^
@@ -1730,6 +1731,7 @@
 ||www.todaytvseries6.com^
 ||www.tokyoinsider.com^
 ||www.tokyotosho.info^
+||www.toonamiaftermath.com^
 ||www.toonamiremastered.com^
 ||www.toontales.net^
 ||www.totsrucs.cat^
@@ -1916,7 +1918,6 @@
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anidub.pro
 ! 0.0.0.0 anifilm.pro
-! 0.0.0.0 aniflix.uno
 ! 0.0.0.0 anifox.club
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
@@ -2056,6 +2057,7 @@
 ! 0.0.0.0 archived.moe
 ! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 argoscomics.online
+! 0.0.0.0 arise.aniflix.uno
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 arvio.tv
 ! 0.0.0.0 ascii2d.net
@@ -2331,8 +2333,6 @@
 ! 0.0.0.0 forum.dirtywarez.com
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
-! 0.0.0.0 foxlink.buzz
-! 0.0.0.0 foxtrend.vip
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
 ! 0.0.0.0 free-usenet-trials.php
@@ -2459,7 +2459,6 @@
 ! 0.0.0.0 justanime.to
 ! 0.0.0.0 justsubtitles.com
 ! 0.0.0.0 kaa.lt
-! 0.0.0.0 kaa.to
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kajzu.com
 ! 0.0.0.0 kara.moe
@@ -2568,7 +2567,6 @@
 ! 0.0.0.0 mangabaka.org
 ! 0.0.0.0 mangaball.net
 ! 0.0.0.0 mangabookshelf.com
-! 0.0.0.0 mangabuddy.com
 ! 0.0.0.0 mangacrab.org
 ! 0.0.0.0 mangadot.net
 ! 0.0.0.0 mangafire.to
@@ -2577,6 +2575,7 @@
 ! 0.0.0.0 mangaguide.de
 ! 0.0.0.0 mangahub.io
 ! 0.0.0.0 mangahub.ru
+! 0.0.0.0 mangak.io
 ! 0.0.0.0 mangakatana.com
 ! 0.0.0.0 mangakuro.net
 ! 0.0.0.0 mangalib.me
@@ -2609,6 +2608,7 @@
 ! 0.0.0.0 meionovel.id
 ! 0.0.0.0 melon-subs.de
 ! 0.0.0.0 meownime.ltd
+! 0.0.0.0 meowtv.ru
 ! 0.0.0.0 meramifan.wordpress.com
 ! 0.0.0.0 merlinwz.com
 ! 0.0.0.0 meshmanga.com
@@ -2706,6 +2706,7 @@
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nkiri.ink
 ! 0.0.0.0 nmovies.cc
+! 0.0.0.0 note.com
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
 ! 0.0.0.0 novamovie.net
@@ -2809,6 +2810,7 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
+! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quicksandscans.wordpress.com
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
@@ -2867,7 +2869,7 @@
 ! 0.0.0.0 retrostrange.com
 ! 0.0.0.0 retrosystemsrevival.blogspot.com
 ! 0.0.0.0 revoldiv.com
-! 0.0.0.0 ridomovies.tv
+! 0.0.0.0 ridomovies.is
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristohentai.com
 ! 0.0.0.0 rivestream.ru
@@ -3007,7 +3009,9 @@
 ! 0.0.0.0 streamwatch.youplex.site
 ! 0.0.0.0 stremio-addons.net
 ! 0.0.0.0 strexoplayer.onrender.com
+! 0.0.0.0 strims24.pl
 ! 0.0.0.0 strmd.link
+! 0.0.0.0 strumyk.net
 ! 0.0.0.0 studio-one.html
 ! 0.0.0.0 sub-scene.com
 ! 0.0.0.0 sub.wyzie.ru
@@ -3032,7 +3036,6 @@
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t.html
-! 0.0.0.0 t2tunes.site
 ! 0.0.0.0 t3.xtoon365.com
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
@@ -3462,7 +3465,7 @@
 ! 0.0.0.0 www.manga-zone.org
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
-! 0.0.0.0 www.mangakakalot.fan
+! 0.0.0.0 www.mangakakalot.gg
 ! 0.0.0.0 www.mangakawaii.io
 ! 0.0.0.0 www.mangasplaining.com
 ! 0.0.0.0 www.mangaworld.ac
@@ -3558,6 +3561,7 @@
 ! 0.0.0.0 www.todaytvseries6.com
 ! 0.0.0.0 www.tokyoinsider.com
 ! 0.0.0.0 www.tokyotosho.info
+! 0.0.0.0 www.toonamiaftermath.com
 ! 0.0.0.0 www.toonamiremastered.com
 ! 0.0.0.0 www.toontales.net
 ! 0.0.0.0 www.totsrucs.cat

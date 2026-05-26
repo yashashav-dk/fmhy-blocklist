@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1825 domains | updated 2026-05-25T07:17:53Z
+# 1827 domains | updated 2026-05-26T06:49:49Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -84,7 +84,6 @@ anidap.se
 anidoor.me
 anidub.pro
 anifilm.pro
-aniflix.uno
 anifox.club
 anify.to
 aniguessr.com
@@ -224,6 +223,7 @@ archive.palanq.win
 archived.moe
 archiveofsins.com
 argoscomics.online
+arise.aniflix.uno
 article.olduse.net
 arvio.tv
 ascii2d.net
@@ -499,8 +499,6 @@ foro.unionfansub.com
 forum.dirtywarez.com
 forum.mobilism.org
 foundfootagecritic.com
-foxlink.buzz
-foxtrend.vip
 franime.fr
 free-movies.to
 free-usenet-trials.php
@@ -627,7 +625,6 @@ justanime.site
 justanime.to
 justsubtitles.com
 kaa.lt
-kaa.to
 kagane.org
 kajzu.com
 kara.moe
@@ -736,7 +733,6 @@ manga.tumeo.space
 mangabaka.org
 mangaball.net
 mangabookshelf.com
-mangabuddy.com
 mangacrab.org
 mangadot.net
 mangafire.to
@@ -745,6 +741,7 @@ mangafox.la
 mangaguide.de
 mangahub.io
 mangahub.ru
+mangak.io
 mangakatana.com
 mangakuro.net
 mangalib.me
@@ -777,6 +774,7 @@ megabeastempire.wordpress.com
 meionovel.id
 melon-subs.de
 meownime.ltd
+meowtv.ru
 meramifan.wordpress.com
 merlinwz.com
 meshmanga.com
@@ -874,6 +872,7 @@ nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
+note.com
 nothing-to-watch.port80.ch
 notscare.me
 novamovie.net
@@ -977,6 +976,7 @@ psychodownloads.com
 pulsedmedia.com
 puretoons.in
 pwrestling.com
+qmanga.art
 quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
@@ -1035,7 +1035,7 @@ retroflix.org
 retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
-ridomovies.tv
+ridomovies.is
 rips.cc
 ristohentai.com
 rivestream.ru
@@ -1175,7 +1175,9 @@ streamwatch.online
 streamwatch.youplex.site
 stremio-addons.net
 strexoplayer.onrender.com
+strims24.pl
 strmd.link
+strumyk.net
 studio-one.html
 sub-scene.com
 sub.wyzie.ru
@@ -1200,7 +1202,6 @@ sync.coconono.org
 syncler.net
 synthv.info
 t.html
-t2tunes.site
 t3.xtoon365.com
 t4tsa.cc
 tachiyomiaz.apk
@@ -1630,7 +1631,7 @@ www.manga-passion.de
 www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
-www.mangakakalot.fan
+www.mangakakalot.gg
 www.mangakawaii.io
 www.mangasplaining.com
 www.mangaworld.ac
@@ -1726,6 +1727,7 @@ www.theyshootpictures.com
 www.todaytvseries6.com
 www.tokyoinsider.com
 www.tokyotosho.info
+www.toonamiaftermath.com
 www.toonamiremastered.com
 www.toontales.net
 www.totsrucs.cat
