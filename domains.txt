@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1827 domains | updated 2026-05-26T06:49:49Z
+# 1829 domains | updated 2026-05-27T07:06:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -756,7 +756,6 @@ mangataro.org
 manhuabika.com
 manhuafast.com
 manhuatop.org
-manhwaclan.com
 manhwatop.com
 manhwazone.com
 manta.net
@@ -884,6 +883,7 @@ nsk.sh
 ntv.cx
 ntv.direct
 ntvs.cx
+nukkard.com
 nunflix.li
 nuvioapp.space
 nxxhentai.net
@@ -1108,6 +1108,7 @@ sharebb.me
 sharemania.us
 sharkstreams.net
 shikimori.io
+shikimori.rip
 shinden.pl
 shokoanime.com
 shosekiranking.blog.fc2.com
@@ -1161,6 +1162,7 @@ streamed.pk
 streamed.st
 streamex.sh
 streamfree.app
+streamfree.link
 streamgoblin.com
 streami.click
 streami.su

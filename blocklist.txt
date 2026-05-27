@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1827 domains)
-! Last updated: 2026-05-26T06:49:49Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
+! Last updated: 2026-05-27T07:06:29Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -760,7 +760,6 @@
 ||manhuabika.com^
 ||manhuafast.com^
 ||manhuatop.org^
-||manhwaclan.com^
 ||manhwatop.com^
 ||manhwazone.com^
 ||manta.net^
@@ -888,6 +887,7 @@
 ||ntv.cx^
 ||ntv.direct^
 ||ntvs.cx^
+||nukkard.com^
 ||nunflix.li^
 ||nuvioapp.space^
 ||nxxhentai.net^
@@ -1112,6 +1112,7 @@
 ||sharemania.us^
 ||sharkstreams.net^
 ||shikimori.io^
+||shikimori.rip^
 ||shinden.pl^
 ||shokoanime.com^
 ||shosekiranking.blog.fc2.com^
@@ -1165,6 +1166,7 @@
 ||streamed.st^
 ||streamex.sh^
 ||streamfree.app^
+||streamfree.link^
 ||streamgoblin.com^
 ||streami.click^
 ||streami.su^
@@ -2590,7 +2592,6 @@
 ! 0.0.0.0 manhuabika.com
 ! 0.0.0.0 manhuafast.com
 ! 0.0.0.0 manhuatop.org
-! 0.0.0.0 manhwaclan.com
 ! 0.0.0.0 manhwatop.com
 ! 0.0.0.0 manhwazone.com
 ! 0.0.0.0 manta.net
@@ -2718,6 +2719,7 @@
 ! 0.0.0.0 ntv.cx
 ! 0.0.0.0 ntv.direct
 ! 0.0.0.0 ntvs.cx
+! 0.0.0.0 nukkard.com
 ! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvioapp.space
 ! 0.0.0.0 nxxhentai.net
@@ -2942,6 +2944,7 @@
 ! 0.0.0.0 sharemania.us
 ! 0.0.0.0 sharkstreams.net
 ! 0.0.0.0 shikimori.io
+! 0.0.0.0 shikimori.rip
 ! 0.0.0.0 shinden.pl
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shosekiranking.blog.fc2.com
@@ -2995,6 +2998,7 @@
 ! 0.0.0.0 streamed.st
 ! 0.0.0.0 streamex.sh
 ! 0.0.0.0 streamfree.app
+! 0.0.0.0 streamfree.link
 ! 0.0.0.0 streamgoblin.com
 ! 0.0.0.0 streami.click
 ! 0.0.0.0 streami.su
