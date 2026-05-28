@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1829 domains)
-! Last updated: 2026-05-27T07:06:29Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1841 domains)
+! Last updated: 2026-05-28T06:57:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -56,7 +56,7 @@
 ||addonsfortheweebs.midnightignite.me^
 ||adrama.app^
 ||aether.bar^
-||aether.mom^
+||aether.cx^
 ||afterstream.org^
 ||aha-music.com^
 ||aidn.jp^
@@ -68,6 +68,7 @@
 ||alldebrid.com^
 ||allmanga.to^
 ||allwrestling24.com^
+||allyoucanwatch.net^
 ||althub.co.za^
 ||amalgam-fansubs.moe^
 ||amvenfer.fr^
@@ -261,7 +262,7 @@
 ||basketball-video.com^
 ||basketballreplays.net^
 ||batcave.biz^
-||bcine.app^
+||bcine.ru^
 ||bechdeltest.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
@@ -301,6 +302,7 @@
 ||chiaki.site^
 ||chikianimation.com^
 ||chikianimation.online^
+||chillflix.to^
 ||cinebolt.net^
 ||cinebytv.com^
 ||cinego.co^
@@ -387,6 +389,7 @@
 ||deafmovie.org^
 ||debrid.downloader.zone^
 ||debridmediamanager.com^
+||debridvault.elfhosted.com^
 ||desu-online.pl^
 ||desu.me^
 ||desu.uno^
@@ -491,6 +494,7 @@
 ||flixwatch.online^
 ||flixway.ru^
 ||fluxtv.qzz.io^
+||flyflix.net^
 ||fmstream.org^
 ||footballia.eu^
 ||footballia.net^
@@ -695,7 +699,6 @@
 ||listen.moe^
 ||lists.fun^
 ||livepush.io^
-||livetv.moviebite.cc^
 ||livetv.sx^
 ||lmanime.com^
 ||lnbmange.com^
@@ -827,6 +830,7 @@
 ||moviescountdown.com^
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
+||movique.site^
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
@@ -910,6 +914,7 @@
 ||old.yummyani.me^
 ||oldcomicsworld.blogspot.com^
 ||oldgamemags.tumblr.com^
+||olympicstreams.im^
 ||omega.gg^
 ||on.jetanimes.com^
 ||one.plaza.nightwaveplaza^
@@ -940,6 +945,7 @@
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
+||pawflix.foo.ng^
 ||pdftoshokan.com^
 ||phate.io^
 ||phi-phenomenon.org^
@@ -1087,6 +1093,7 @@
 ||scenenzbs.com^
 ||schedule.html^
 ||scnlog.me^
+||screenscape.me^
 ||scripts-onscreen.com^
 ||scripts.com^
 ||sdtoons.com^
@@ -1146,6 +1153,8 @@
 ||spin.moe^
 ||split-tv.co.il^
 ||sportontv.biz^
+||sportsbite.cv^
+||sportsbite.sbs^
 ||sportsurge.pk^
 ||sportyhunter.space^
 ||squid.wtf^
@@ -1302,6 +1311,7 @@
 ||tvfredom.surge.sh^
 ||tvfree.surge.sh^
 ||tvfreedom.surge.sh^
+||tvhub.surge.sh^
 ||tvids.me^
 ||tvids.tv^
 ||tvmirror.surge.sh^
@@ -1322,7 +1332,6 @@
 ||unogs.com^
 ||unpackerr.zip^
 ||up-next.dontwanttos.top^
-||up.sportsbite.online^
 ||upcomingcons.com^
 ||uptime.ibbylabs.dev^
 ||urajp.se^
@@ -1387,6 +1396,7 @@
 ||watchflx.tv^
 ||watchfooty.st^
 ||watchmmafull.com^
+||watchorbit.me^
 ||watchott.ru^
 ||watchprowrestlings.live^
 ||watchreplay.net^
@@ -1396,6 +1406,7 @@
 ||watchwrestling.ae^
 ||watchwrestling.st^
 ||way2movies.live^
+||web.nxsha.app^
 ||web.watchargo.com^
 ||webcomicsapp.com^
 ||webdramaturkey2.com^
@@ -1491,6 +1502,7 @@
 ||www.anisaturn.com^
 ||www.anisil.com^
 ||www.anmosugoi.com^
+||www.anniversaryjump.com^
 ||www.antbyw.com^
 ||www.anzmanga25.com^
 ||www.arabic-toons.com^
@@ -1888,7 +1900,7 @@
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
 ! 0.0.0.0 adrama.app
 ! 0.0.0.0 aether.bar
-! 0.0.0.0 aether.mom
+! 0.0.0.0 aether.cx
 ! 0.0.0.0 afterstream.org
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
@@ -1900,6 +1912,7 @@
 ! 0.0.0.0 alldebrid.com
 ! 0.0.0.0 allmanga.to
 ! 0.0.0.0 allwrestling24.com
+! 0.0.0.0 allyoucanwatch.net
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amalgam-fansubs.moe
 ! 0.0.0.0 amvenfer.fr
@@ -2093,7 +2106,7 @@
 ! 0.0.0.0 basketball-video.com
 ! 0.0.0.0 basketballreplays.net
 ! 0.0.0.0 batcave.biz
-! 0.0.0.0 bcine.app
+! 0.0.0.0 bcine.ru
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
@@ -2133,6 +2146,7 @@
 ! 0.0.0.0 chiaki.site
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
+! 0.0.0.0 chillflix.to
 ! 0.0.0.0 cinebolt.net
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
@@ -2219,6 +2233,7 @@
 ! 0.0.0.0 deafmovie.org
 ! 0.0.0.0 debrid.downloader.zone
 ! 0.0.0.0 debridmediamanager.com
+! 0.0.0.0 debridvault.elfhosted.com
 ! 0.0.0.0 desu-online.pl
 ! 0.0.0.0 desu.me
 ! 0.0.0.0 desu.uno
@@ -2323,6 +2338,7 @@
 ! 0.0.0.0 flixwatch.online
 ! 0.0.0.0 flixway.ru
 ! 0.0.0.0 fluxtv.qzz.io
+! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
@@ -2527,7 +2543,6 @@
 ! 0.0.0.0 listen.moe
 ! 0.0.0.0 lists.fun
 ! 0.0.0.0 livepush.io
-! 0.0.0.0 livetv.moviebite.cc
 ! 0.0.0.0 livetv.sx
 ! 0.0.0.0 lmanime.com
 ! 0.0.0.0 lnbmange.com
@@ -2659,6 +2674,7 @@
 ! 0.0.0.0 moviescountdown.com
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
+! 0.0.0.0 movique.site
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
@@ -2742,6 +2758,7 @@
 ! 0.0.0.0 old.yummyani.me
 ! 0.0.0.0 oldcomicsworld.blogspot.com
 ! 0.0.0.0 oldgamemags.tumblr.com
+! 0.0.0.0 olympicstreams.im
 ! 0.0.0.0 omega.gg
 ! 0.0.0.0 on.jetanimes.com
 ! 0.0.0.0 one.plaza.nightwaveplaza
@@ -2772,6 +2789,7 @@
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
+! 0.0.0.0 pawflix.foo.ng
 ! 0.0.0.0 pdftoshokan.com
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
@@ -2919,6 +2937,7 @@
 ! 0.0.0.0 scenenzbs.com
 ! 0.0.0.0 schedule.html
 ! 0.0.0.0 scnlog.me
+! 0.0.0.0 screenscape.me
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
 ! 0.0.0.0 sdtoons.com
@@ -2978,6 +2997,8 @@
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportontv.biz
+! 0.0.0.0 sportsbite.cv
+! 0.0.0.0 sportsbite.sbs
 ! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
@@ -3134,6 +3155,7 @@
 ! 0.0.0.0 tvfredom.surge.sh
 ! 0.0.0.0 tvfree.surge.sh
 ! 0.0.0.0 tvfreedom.surge.sh
+! 0.0.0.0 tvhub.surge.sh
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvids.tv
 ! 0.0.0.0 tvmirror.surge.sh
@@ -3154,7 +3176,6 @@
 ! 0.0.0.0 unogs.com
 ! 0.0.0.0 unpackerr.zip
 ! 0.0.0.0 up-next.dontwanttos.top
-! 0.0.0.0 up.sportsbite.online
 ! 0.0.0.0 upcomingcons.com
 ! 0.0.0.0 uptime.ibbylabs.dev
 ! 0.0.0.0 urajp.se
@@ -3219,6 +3240,7 @@
 ! 0.0.0.0 watchflx.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchmmafull.com
+! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.ru
 ! 0.0.0.0 watchprowrestlings.live
 ! 0.0.0.0 watchreplay.net
@@ -3228,6 +3250,7 @@
 ! 0.0.0.0 watchwrestling.ae
 ! 0.0.0.0 watchwrestling.st
 ! 0.0.0.0 way2movies.live
+! 0.0.0.0 web.nxsha.app
 ! 0.0.0.0 web.watchargo.com
 ! 0.0.0.0 webcomicsapp.com
 ! 0.0.0.0 webdramaturkey2.com
@@ -3323,6 +3346,7 @@
 ! 0.0.0.0 www.anisaturn.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anmosugoi.com
+! 0.0.0.0 www.anniversaryjump.com
 ! 0.0.0.0 www.antbyw.com
 ! 0.0.0.0 www.anzmanga25.com
 ! 0.0.0.0 www.arabic-toons.com

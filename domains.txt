@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1829 domains | updated 2026-05-27T07:06:29Z
+# 1841 domains | updated 2026-05-28T06:57:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -52,7 +52,7 @@ addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
 adrama.app
 aether.bar
-aether.mom
+aether.cx
 afterstream.org
 aha-music.com
 aidn.jp
@@ -64,6 +64,7 @@ allcomic.noor.jp
 alldebrid.com
 allmanga.to
 allwrestling24.com
+allyoucanwatch.net
 althub.co.za
 amalgam-fansubs.moe
 amvenfer.fr
@@ -257,7 +258,7 @@ basic.pp.ua
 basketball-video.com
 basketballreplays.net
 batcave.biz
-bcine.app
+bcine.ru
 bechdeltest.com
 berekescrubs.wordpress.com
 bestsimilar.com
@@ -297,6 +298,7 @@ chauthanh.info
 chiaki.site
 chikianimation.com
 chikianimation.online
+chillflix.to
 cinebolt.net
 cinebytv.com
 cinego.co
@@ -383,6 +385,7 @@ deaffestonlinecinema.eventive.org
 deafmovie.org
 debrid.downloader.zone
 debridmediamanager.com
+debridvault.elfhosted.com
 desu-online.pl
 desu.me
 desu.uno
@@ -487,6 +490,7 @@ flixvo.live
 flixwatch.online
 flixway.ru
 fluxtv.qzz.io
+flyflix.net
 fmstream.org
 footballia.eu
 footballia.net
@@ -691,7 +695,6 @@ listen-to-euterpe.eu
 listen.moe
 lists.fun
 livepush.io
-livetv.moviebite.cc
 livetv.sx
 lmanime.com
 lnbmange.com
@@ -823,6 +826,7 @@ movies.php
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
+movique.site
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
@@ -906,6 +910,7 @@ old.klz9.com
 old.yummyani.me
 oldcomicsworld.blogspot.com
 oldgamemags.tumblr.com
+olympicstreams.im
 omega.gg
 on.jetanimes.com
 one.plaza.nightwaveplaza
@@ -936,6 +941,7 @@ ouo.si
 overtakefans.com
 pahe.ink
 palanq.win
+pawflix.foo.ng
 pdftoshokan.com
 phate.io
 phi-phenomenon.org
@@ -1083,6 +1089,7 @@ scenelist.org
 scenenzbs.com
 schedule.html
 scnlog.me
+screenscape.me
 scripts-onscreen.com
 scripts.com
 sdtoons.com
@@ -1142,6 +1149,8 @@ sphinxanime.com
 spin.moe
 split-tv.co.il
 sportontv.biz
+sportsbite.cv
+sportsbite.sbs
 sportsurge.pk
 sportyhunter.space
 squid.wtf
@@ -1298,6 +1307,7 @@ tvforfree.surge.sh
 tvfredom.surge.sh
 tvfree.surge.sh
 tvfreedom.surge.sh
+tvhub.surge.sh
 tvids.me
 tvids.tv
 tvmirror.surge.sh
@@ -1318,7 +1328,6 @@ uniquestream.net
 unogs.com
 unpackerr.zip
 up-next.dontwanttos.top
-up.sportsbite.online
 upcomingcons.com
 uptime.ibbylabs.dev
 urajp.se
@@ -1383,6 +1392,7 @@ watchflixad.com
 watchflx.tv
 watchfooty.st
 watchmmafull.com
+watchorbit.me
 watchott.ru
 watchprowrestlings.live
 watchreplay.net
@@ -1392,6 +1402,7 @@ watchtvs.live
 watchwrestling.ae
 watchwrestling.st
 way2movies.live
+web.nxsha.app
 web.watchargo.com
 webcomicsapp.com
 webdramaturkey2.com
@@ -1487,6 +1498,7 @@ www.animu.moe
 www.anisaturn.com
 www.anisil.com
 www.anmosugoi.com
+www.anniversaryjump.com
 www.antbyw.com
 www.anzmanga25.com
 www.arabic-toons.com
