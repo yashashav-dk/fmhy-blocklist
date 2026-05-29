@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1841 domains | updated 2026-05-28T06:57:23Z
+# 1845 domains | updated 2026-05-29T06:57:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -62,6 +62,7 @@ alienflix.net
 alist.thdisc.tk
 allcomic.noor.jp
 alldebrid.com
+alley.moe
 allmanga.to
 allwrestling24.com
 allyoucanwatch.net
@@ -233,7 +234,6 @@ asiaflix.in
 asiaflix.net
 asiamediablog.com
 asiansubs.com
-ask4movie.app
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
@@ -415,12 +415,14 @@ dorabash.in
 doubledouble.top
 doujindownloader.com
 doujinstyle.com
+download.duafile.com
 downloader2.com
 dpan.tv
 dramacountdown.com
 dramaday.me
 dramahood.mom
 dramanice.boo
+duafile.net
 dualeotruyenhx.com
 dubolt.com
 due.moe
@@ -826,7 +828,6 @@ movies.php
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
-movique.site
 movish.net
 mrgamingstreams.org
 msft-store.tplant.com.au
@@ -854,6 +855,7 @@ navic.app
 nbamonster.com
 nekobt.to
 nekomitai.net
+nelvix.xyz
 neoapo.com
 nepchan.org
 nepu.to
@@ -1220,6 +1222,7 @@ tagger.site
 taiga.moe
 tana.moe
 taosect.com
+tap4movie.tv
 tape.xyz
 tauonmusicbox.rocks
 telev.tv
@@ -1349,6 +1352,7 @@ vgmrips.net
 vgmusic.com
 vibemax.to
 vidbox.cc
+vidbox.dev
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net

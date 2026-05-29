@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1841 domains)
-! Last updated: 2026-05-28T06:57:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1845 domains)
+! Last updated: 2026-05-29T06:57:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -66,6 +66,7 @@
 ||alist.thdisc.tk^
 ||allcomic.noor.jp^
 ||alldebrid.com^
+||alley.moe^
 ||allmanga.to^
 ||allwrestling24.com^
 ||allyoucanwatch.net^
@@ -237,7 +238,6 @@
 ||asiaflix.net^
 ||asiamediablog.com^
 ||asiansubs.com^
-||ask4movie.app^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
@@ -419,12 +419,14 @@
 ||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
+||download.duafile.com^
 ||downloader2.com^
 ||dpan.tv^
 ||dramacountdown.com^
 ||dramaday.me^
 ||dramahood.mom^
 ||dramanice.boo^
+||duafile.net^
 ||dualeotruyenhx.com^
 ||dubolt.com^
 ||due.moe^
@@ -830,7 +832,6 @@
 ||moviescountdown.com^
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
-||movique.site^
 ||movish.net^
 ||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
@@ -858,6 +859,7 @@
 ||nbamonster.com^
 ||nekobt.to^
 ||nekomitai.net^
+||nelvix.xyz^
 ||neoapo.com^
 ||nepchan.org^
 ||nepu.to^
@@ -1224,6 +1226,7 @@
 ||taiga.moe^
 ||tana.moe^
 ||taosect.com^
+||tap4movie.tv^
 ||tape.xyz^
 ||tauonmusicbox.rocks^
 ||telev.tv^
@@ -1353,6 +1356,7 @@
 ||vgmusic.com^
 ||vibemax.to^
 ||vidbox.cc^
+||vidbox.dev^
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
@@ -1910,6 +1914,7 @@
 ! 0.0.0.0 alist.thdisc.tk
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
+! 0.0.0.0 alley.moe
 ! 0.0.0.0 allmanga.to
 ! 0.0.0.0 allwrestling24.com
 ! 0.0.0.0 allyoucanwatch.net
@@ -2081,7 +2086,6 @@
 ! 0.0.0.0 asiaflix.net
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
-! 0.0.0.0 ask4movie.app
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
@@ -2263,12 +2267,14 @@
 ! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
+! 0.0.0.0 download.duafile.com
 ! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
+! 0.0.0.0 duafile.net
 ! 0.0.0.0 dualeotruyenhx.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
@@ -2674,7 +2680,6 @@
 ! 0.0.0.0 moviescountdown.com
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
-! 0.0.0.0 movique.site
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
@@ -2702,6 +2707,7 @@
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
+! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepchan.org
 ! 0.0.0.0 nepu.to
@@ -3068,6 +3074,7 @@
 ! 0.0.0.0 taiga.moe
 ! 0.0.0.0 tana.moe
 ! 0.0.0.0 taosect.com
+! 0.0.0.0 tap4movie.tv
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 telev.tv
@@ -3197,6 +3204,7 @@
 ! 0.0.0.0 vgmusic.com
 ! 0.0.0.0 vibemax.to
 ! 0.0.0.0 vidbox.cc
+! 0.0.0.0 vidbox.dev
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
