@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1845 domains | updated 2026-05-29T06:57:28Z
+# 1846 domains | updated 2026-05-30T06:26:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -241,6 +241,7 @@ audiovault.net
 autoembed.app
 avac.moe
 avistaz.to
+awardstreams.link
 azmovies.to
 azoramoon.com
 azseries.org
@@ -484,7 +485,6 @@ flickystream.ru
 flickystream.su
 flix.smashystream.xyz
 flixer.su
-flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -711,6 +711,7 @@ lrepacks.net
 lucida.to
 luciferdonghua.in
 lumotv.co.uk
+lunara.watch
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
@@ -790,6 +791,7 @@ midloop.net
 mikanani.me
 mikudb.moe
 mindmine.audiobook
+mirror.awardstreams.link
 miru.js.org
 miruro.bz
 miruro.ru
@@ -1103,7 +1105,6 @@ search.bgmss.fun
 search.extto.com
 search.php
 seed.musichoarders.xyz
-seiyuu.moe
 sekai.one
 sekai.rl404.com
 senpuu.com.br
@@ -1262,6 +1263,7 @@ tkor119.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
+toku8.com
 tokusatsunetwork.com
 tokuzilla.net
 tokyo-tosho.net
@@ -1388,6 +1390,7 @@ watch.corsflix.net
 watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
+watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.net
 watchf1full.com
@@ -1397,7 +1400,6 @@ watchflx.tv
 watchfooty.st
 watchmmafull.com
 watchorbit.me
-watchott.ru
 watchprowrestlings.live
 watchreplay.net
 watchsports.to
@@ -1809,7 +1811,6 @@ xprime.stream
 xprime.su
 xyzstreams.shop
 yadg.cc
-yampi.live
 yatoon232.com
 yatoonlink.com
 yattatachi.com
