@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1846 domains | updated 2026-05-30T06:26:00Z
+# 1849 domains | updated 2026-05-31T07:00:12Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -485,6 +485,7 @@ flickystream.ru
 flickystream.su
 flix.smashystream.xyz
 flixer.su
+flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -514,7 +515,7 @@ freesub.live
 freetvz.com
 french-anime.com
 frixysubs.pl
-frtoon1.com
+frtoon2.com
 fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
@@ -1105,6 +1106,7 @@ search.bgmss.fun
 search.extto.com
 search.php
 seed.musichoarders.xyz
+seiyuu.moe
 sekai.one
 sekai.rl404.com
 senpuu.com.br
@@ -1263,6 +1265,7 @@ tkor119.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
+toku555.com
 toku8.com
 tokusatsunetwork.com
 tokuzilla.net
