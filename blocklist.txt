@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1849 domains)
-! Last updated: 2026-05-31T07:00:12Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1845 domains)
+! Last updated: 2026-06-01T08:37:39Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -20,7 +20,6 @@
 ||1anime.app^
 ||1ball.pk^
 ||1ddl.org^
-||1embed.cc^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
 ||1primeshow.online^
@@ -146,7 +145,6 @@
 ||animehub.ac^
 ||animejoker.com^
 ||animejoy.ru^
-||animekai.to^
 ||animekarmalist.com^
 ||animekhor.org^
 ||animeko.ws^
@@ -242,7 +240,6 @@
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
 ||audiovault.net^
-||autoembed.app^
 ||avac.moe^
 ||avistaz.to^
 ||awardstreams.link^
@@ -399,6 +396,7 @@
 ||digitalcomicmuseum.com^
 ||digitaldreamdoor.com^
 ||digitalfilmarchive.net^
+||digitalworldarchive.wordpress.com^
 ||directory.html^
 ||dl-raw.se^
 ||dl-zip.com^
@@ -616,6 +614,7 @@
 ||iptv-web.app^
 ||iptv.community^
 ||iptv.surf^
+||iptv.watchott.ru^
 ||iptvplayer.stream^
 ||iqdb.org^
 ||ishowmovies.org^
@@ -775,6 +774,7 @@
 ||martinbarker.me^
 ||marvelguides.com^
 ||max-rls.com^
+||mdblist.com^
 ||me.timschneeberger.jdsp^
 ||me.webcric.com^
 ||medeberiya.net^
@@ -853,7 +853,6 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee100.com^
 ||namu.wiki^
 ||nanaone.net^
 ||nanasubs.com.pl^
@@ -875,6 +874,7 @@
 ||news.xml^
 ||newstream.html^
 ||nextnovels.com^
+||nf.watchott.ru^
 ||nfl-replays.com^
 ||nfl-video.com^
 ||nflhunter.com^
@@ -884,6 +884,8 @@
 ||nipponsei.minglong.org^
 ||nkiri.ink^
 ||nmovies.cc^
+||noirx.live^
+||noirx.me^
 ||note.com^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
@@ -1130,6 +1132,7 @@
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
 ||showrss.info^
+||shuttletv.pk^
 ||shuttletv.su^
 ||sickfansubs.com^
 ||signonscreen.com^
@@ -1229,7 +1232,6 @@
 ||taiga.moe^
 ||tana.moe^
 ||taosect.com^
-||tap4movie.tv^
 ||tape.xyz^
 ||tauonmusicbox.rocks^
 ||telev.tv^
@@ -1360,7 +1362,6 @@
 ||vgmrips.net^
 ||vgmusic.com^
 ||vibemax.to^
-||vidbox.cc^
 ||vidbox.dev^
 ||vidbox.xyz^
 ||videa.hu^
@@ -1389,7 +1390,6 @@
 ||warflix.nl^
 ||warosu.org^
 ||watch-tvseries.net^
-||watch-v2.autoembed.app^
 ||watch-wrestling.eu^
 ||watch.cinewave.qzz.io^
 ||watch.corsflix.dpdns.org^
@@ -1402,8 +1402,6 @@
 ||watchanimeworld.net^
 ||watchf1full.com^
 ||watchflix.to^
-||watchflixad.com^
-||watchflx.tv^
 ||watchfooty.st^
 ||watchmmafull.com^
 ||watchorbit.me^
@@ -1484,7 +1482,6 @@
 ||www.animechiby.com^
 ||www.animeclick.it^
 ||www.animeclipse.com^
-||www.animeddl.xyz^
 ||www.animefillerguide.com^
 ||www.animefillerlist.com^
 ||www.animeguess.moe^
@@ -1687,6 +1684,7 @@
 ||www.newznab.com^
 ||www.nextpvr.com^
 ||www.ngprovider.com^
+||www.notion.so^
 ||www.novelupdates.com^
 ||www.nsaneforums.com^
 ||www.nzbindex.com^
@@ -1818,8 +1816,6 @@
 ||xprime.su^
 ||xyzstreams.shop^
 ||yadg.cc^
-||yatoon232.com^
-||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1872,7 +1868,6 @@
 ! 0.0.0.0 1anime.app
 ! 0.0.0.0 1ball.pk
 ! 0.0.0.0 1ddl.org
-! 0.0.0.0 1embed.cc
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
 ! 0.0.0.0 1primeshow.online
@@ -1998,7 +1993,6 @@
 ! 0.0.0.0 animehub.ac
 ! 0.0.0.0 animejoker.com
 ! 0.0.0.0 animejoy.ru
-! 0.0.0.0 animekai.to
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
 ! 0.0.0.0 animeko.ws
@@ -2094,7 +2088,6 @@
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
-! 0.0.0.0 autoembed.app
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 avistaz.to
 ! 0.0.0.0 awardstreams.link
@@ -2251,6 +2244,7 @@
 ! 0.0.0.0 digitalcomicmuseum.com
 ! 0.0.0.0 digitaldreamdoor.com
 ! 0.0.0.0 digitalfilmarchive.net
+! 0.0.0.0 digitalworldarchive.wordpress.com
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.se
 ! 0.0.0.0 dl-zip.com
@@ -2468,6 +2462,7 @@
 ! 0.0.0.0 iptv-web.app
 ! 0.0.0.0 iptv.community
 ! 0.0.0.0 iptv.surf
+! 0.0.0.0 iptv.watchott.ru
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
@@ -2627,6 +2622,7 @@
 ! 0.0.0.0 martinbarker.me
 ! 0.0.0.0 marvelguides.com
 ! 0.0.0.0 max-rls.com
+! 0.0.0.0 mdblist.com
 ! 0.0.0.0 me.timschneeberger.jdsp
 ! 0.0.0.0 me.webcric.com
 ! 0.0.0.0 medeberiya.net
@@ -2705,7 +2701,6 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee100.com
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanaone.net
 ! 0.0.0.0 nanasubs.com.pl
@@ -2727,6 +2722,7 @@
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
 ! 0.0.0.0 nextnovels.com
+! 0.0.0.0 nf.watchott.ru
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nflhunter.com
@@ -2736,6 +2732,8 @@
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nkiri.ink
 ! 0.0.0.0 nmovies.cc
+! 0.0.0.0 noirx.live
+! 0.0.0.0 noirx.me
 ! 0.0.0.0 note.com
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
@@ -2982,6 +2980,7 @@
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
 ! 0.0.0.0 showrss.info
+! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
 ! 0.0.0.0 sickfansubs.com
 ! 0.0.0.0 signonscreen.com
@@ -3081,7 +3080,6 @@
 ! 0.0.0.0 taiga.moe
 ! 0.0.0.0 tana.moe
 ! 0.0.0.0 taosect.com
-! 0.0.0.0 tap4movie.tv
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 telev.tv
@@ -3212,7 +3210,6 @@
 ! 0.0.0.0 vgmrips.net
 ! 0.0.0.0 vgmusic.com
 ! 0.0.0.0 vibemax.to
-! 0.0.0.0 vidbox.cc
 ! 0.0.0.0 vidbox.dev
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
@@ -3241,7 +3238,6 @@
 ! 0.0.0.0 warflix.nl
 ! 0.0.0.0 warosu.org
 ! 0.0.0.0 watch-tvseries.net
-! 0.0.0.0 watch-v2.autoembed.app
 ! 0.0.0.0 watch-wrestling.eu
 ! 0.0.0.0 watch.cinewave.qzz.io
 ! 0.0.0.0 watch.corsflix.dpdns.org
@@ -3254,8 +3250,6 @@
 ! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
-! 0.0.0.0 watchflixad.com
-! 0.0.0.0 watchflx.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchmmafull.com
 ! 0.0.0.0 watchorbit.me
@@ -3336,7 +3330,6 @@
 ! 0.0.0.0 www.animechiby.com
 ! 0.0.0.0 www.animeclick.it
 ! 0.0.0.0 www.animeclipse.com
-! 0.0.0.0 www.animeddl.xyz
 ! 0.0.0.0 www.animefillerguide.com
 ! 0.0.0.0 www.animefillerlist.com
 ! 0.0.0.0 www.animeguess.moe
@@ -3539,6 +3532,7 @@
 ! 0.0.0.0 www.newznab.com
 ! 0.0.0.0 www.nextpvr.com
 ! 0.0.0.0 www.ngprovider.com
+! 0.0.0.0 www.notion.so
 ! 0.0.0.0 www.novelupdates.com
 ! 0.0.0.0 www.nsaneforums.com
 ! 0.0.0.0 www.nzbindex.com
@@ -3670,8 +3664,6 @@
 ! 0.0.0.0 xprime.su
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
-! 0.0.0.0 yatoon232.com
-! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

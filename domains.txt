@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1849 domains | updated 2026-05-31T07:00:12Z
+# 1845 domains | updated 2026-06-01T08:37:39Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -16,7 +16,6 @@
 1anime.app
 1ball.pk
 1ddl.org
-1embed.cc
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
 1primeshow.online
@@ -142,7 +141,6 @@ animehay.in
 animehub.ac
 animejoker.com
 animejoy.ru
-animekai.to
 animekarmalist.com
 animekhor.org
 animeko.ws
@@ -238,7 +236,6 @@ at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
 audiovault.net
-autoembed.app
 avac.moe
 avistaz.to
 awardstreams.link
@@ -395,6 +392,7 @@ dgbfansub.carrd.co
 digitalcomicmuseum.com
 digitaldreamdoor.com
 digitalfilmarchive.net
+digitalworldarchive.wordpress.com
 directory.html
 dl-raw.se
 dl-zip.com
@@ -612,6 +610,7 @@ iptv-player.me
 iptv-web.app
 iptv.community
 iptv.surf
+iptv.watchott.ru
 iptvplayer.stream
 iqdb.org
 ishowmovies.org
@@ -771,6 +770,7 @@ mapple.tv
 martinbarker.me
 marvelguides.com
 max-rls.com
+mdblist.com
 me.timschneeberger.jdsp
 me.webcric.com
 medeberiya.net
@@ -849,7 +849,6 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee100.com
 namu.wiki
 nanaone.net
 nanasubs.com.pl
@@ -871,6 +870,7 @@ news.tokunation.com
 news.xml
 newstream.html
 nextnovels.com
+nf.watchott.ru
 nfl-replays.com
 nfl-video.com
 nflhunter.com
@@ -880,6 +880,8 @@ nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
+noirx.live
+noirx.me
 note.com
 nothing-to-watch.port80.ch
 notscare.me
@@ -1126,6 +1128,7 @@ shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
+shuttletv.pk
 shuttletv.su
 sickfansubs.com
 signonscreen.com
@@ -1225,7 +1228,6 @@ tagger.site
 taiga.moe
 tana.moe
 taosect.com
-tap4movie.tv
 tape.xyz
 tauonmusicbox.rocks
 telev.tv
@@ -1356,7 +1358,6 @@ vgmdb.net
 vgmrips.net
 vgmusic.com
 vibemax.to
-vidbox.cc
 vidbox.dev
 vidbox.xyz
 videa.hu
@@ -1385,7 +1386,6 @@ warflix.im
 warflix.nl
 warosu.org
 watch-tvseries.net
-watch-v2.autoembed.app
 watch-wrestling.eu
 watch.cinewave.qzz.io
 watch.corsflix.dpdns.org
@@ -1398,8 +1398,6 @@ watch.versusmedia.com
 watchanimeworld.net
 watchf1full.com
 watchflix.to
-watchflixad.com
-watchflx.tv
 watchfooty.st
 watchmmafull.com
 watchorbit.me
@@ -1480,7 +1478,6 @@ www.animecharactersdatabase.com
 www.animechiby.com
 www.animeclick.it
 www.animeclipse.com
-www.animeddl.xyz
 www.animefillerguide.com
 www.animefillerlist.com
 www.animeguess.moe
@@ -1683,6 +1680,7 @@ www.nautiljon.com
 www.newznab.com
 www.nextpvr.com
 www.ngprovider.com
+www.notion.so
 www.novelupdates.com
 www.nsaneforums.com
 www.nzbindex.com
@@ -1814,8 +1812,6 @@ xprime.stream
 xprime.su
 xyzstreams.shop
 yadg.cc
-yatoon232.com
-yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net
