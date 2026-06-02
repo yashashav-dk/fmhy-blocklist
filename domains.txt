@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1845 domains | updated 2026-06-01T08:37:39Z
+# 1843 domains | updated 2026-06-02T07:26:50Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -89,7 +89,6 @@ anifox.club
 anify.to
 aniguessr.com
 anihq.org
-anihq.to
 anikototv.to
 anikuro.ru
 anikuro.site
@@ -323,12 +322,10 @@ cli.club
 clients.md
 cmro.travis-starnes.com
 cocoleech.com
-code.name.monkey.retromusic
 com.aimp.player
 com.deezus.pchan
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
-com.maxmpz.audioplayer.unlock
 com.maxmpz.equalizer
 com.pittvandewitt.wavelet
 com.piyush.music
@@ -849,6 +846,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
+namee100.com
 namu.wiki
 nanaone.net
 nanasubs.com.pl
@@ -870,7 +868,6 @@ news.tokunation.com
 news.xml
 newstream.html
 nextnovels.com
-nf.watchott.ru
 nfl-replays.com
 nfl-video.com
 nflhunter.com
@@ -1012,7 +1009,6 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
-raw-cans.net
 raw.senmanga.com
 raw1001.net
 rawbaka.com
@@ -1401,6 +1397,7 @@ watchflix.to
 watchfooty.st
 watchmmafull.com
 watchorbit.me
+watchott.ru
 watchprowrestlings.live
 watchreplay.net
 watchsports.to
@@ -1503,6 +1500,7 @@ www.animu.com.br
 www.animu.moe
 www.anisaturn.com
 www.anisil.com
+www.anisurge.lol
 www.anmosugoi.com
 www.anniversaryjump.com
 www.antbyw.com
