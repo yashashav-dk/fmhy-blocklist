@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1843 domains)
-! Last updated: 2026-06-02T07:26:50Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1853 domains)
+! Last updated: 2026-06-03T08:21:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -239,6 +239,7 @@
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
 ||audiovault.net^
+||av1encodes.com^
 ||avac.moe^
 ||avistaz.to^
 ||awardstreams.link^
@@ -361,7 +362,6 @@
 ||corsflix.net^
 ||couchmoney.tv^
 ||countdown.tv^
-||countries.html^
 ||crackstreams.ms^
 ||cracksurl.com^
 ||crafty.moe^
@@ -410,6 +410,7 @@
 ||docs.squidify.org^
 ||docs.wyzie.ru^
 ||dokiraw.tech^
+||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
 ||doubledouble.top^
@@ -558,7 +559,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
-||hdhd502.net^
+||hdhd507.net^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -633,6 +634,7 @@
 ||justsubtitles.com^
 ||kaa.lt^
 ||kagane.org^
+||kagane.to^
 ||kajzu.com^
 ||kara.moe^
 ||kartoons.me^
@@ -802,6 +804,7 @@
 ||mitsukeru.timschneeberger.me^
 ||mixdebrid.com^
 ||mixmoose.com^
+||mkissa.to^
 ||mkvdrama.net^
 ||mlbgamepass.com^
 ||mlblive.net^
@@ -1013,6 +1016,7 @@
 ||rar.to^
 ||rarefilmm.com^
 ||ravencentric.cc^
+||raw-cans.net^
 ||raw.senmanga.com^
 ||raw1001.net^
 ||rawbaka.com^
@@ -1096,6 +1100,7 @@
 ||scenenzbs.com^
 ||schedule.html^
 ||scnlog.me^
+||score808hd.tv^
 ||screenscape.me^
 ||scripts-onscreen.com^
 ||scripts.com^
@@ -1171,7 +1176,8 @@
 ||store.rg^
 ||stream.gensokyoradio.net^
 ||stream192.mp^
-||streamcorner.cc^
+||streamcorner.fyi^
+||streamcorner.io^
 ||streamcorner.site^
 ||streameast.ga^
 ||streameast.ph^
@@ -1184,8 +1190,8 @@
 ||streami.click^
 ||streami.su^
 ||streaming-integrale.com^
-||streamninja.cc^
-||streamninja.site^
+||streamninja.online^
+||streamninja.xyz^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1307,6 +1313,7 @@
 ||tsquareplaza.blogspot.com^
 ||tundra.moe^
 ||tv.filmu.in^
+||tv.html^
 ||tv.jest^
 ||tv.jest.one^
 ||tv247us.vip^
@@ -1653,7 +1660,6 @@
 ||www.manga-zone.org^
 ||www.mangacodex.com^
 ||www.mangadraft.com^
-||www.mangakakalot.gg^
 ||www.mangakawaii.io^
 ||www.mangasplaining.com^
 ||www.mangaworld.ac^
@@ -1799,7 +1805,9 @@
 ||www.yfanefa.com^
 ||www.yinhuadm.cc^
 ||www.yomu-reader.com^
+||www.zazamanga.com^
 ||www.zimmerit.moe^
+||www.zinmanga.net^
 ||www.zophar.net^
 ||www4.animeflv.net^
 ||x27.html^
@@ -1814,6 +1822,8 @@
 ||xprime.su^
 ||xyzstreams.shop^
 ||yadg.cc^
+||yatoon234.com^
+||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -2085,6 +2095,7 @@
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
+! 0.0.0.0 av1encodes.com
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 avistaz.to
 ! 0.0.0.0 awardstreams.link
@@ -2207,7 +2218,6 @@
 ! 0.0.0.0 corsflix.net
 ! 0.0.0.0 couchmoney.tv
 ! 0.0.0.0 countdown.tv
-! 0.0.0.0 countries.html
 ! 0.0.0.0 crackstreams.ms
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
@@ -2256,6 +2266,7 @@
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
 ! 0.0.0.0 dokiraw.tech
+! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
 ! 0.0.0.0 doubledouble.top
@@ -2404,7 +2415,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
-! 0.0.0.0 hdhd502.net
+! 0.0.0.0 hdhd507.net
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2479,6 +2490,7 @@
 ! 0.0.0.0 justsubtitles.com
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
+! 0.0.0.0 kagane.to
 ! 0.0.0.0 kajzu.com
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.me
@@ -2648,6 +2660,7 @@
 ! 0.0.0.0 mitsukeru.timschneeberger.me
 ! 0.0.0.0 mixdebrid.com
 ! 0.0.0.0 mixmoose.com
+! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvdrama.net
 ! 0.0.0.0 mlbgamepass.com
 ! 0.0.0.0 mlblive.net
@@ -2859,6 +2872,7 @@
 ! 0.0.0.0 rar.to
 ! 0.0.0.0 rarefilmm.com
 ! 0.0.0.0 ravencentric.cc
+! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw.senmanga.com
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
@@ -2942,6 +2956,7 @@
 ! 0.0.0.0 scenenzbs.com
 ! 0.0.0.0 schedule.html
 ! 0.0.0.0 scnlog.me
+! 0.0.0.0 score808hd.tv
 ! 0.0.0.0 screenscape.me
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
@@ -3017,7 +3032,8 @@
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream192.mp
-! 0.0.0.0 streamcorner.cc
+! 0.0.0.0 streamcorner.fyi
+! 0.0.0.0 streamcorner.io
 ! 0.0.0.0 streamcorner.site
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
@@ -3030,8 +3046,8 @@
 ! 0.0.0.0 streami.click
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streaming-integrale.com
-! 0.0.0.0 streamninja.cc
-! 0.0.0.0 streamninja.site
+! 0.0.0.0 streamninja.online
+! 0.0.0.0 streamninja.xyz
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3153,6 +3169,7 @@
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tv.filmu.in
+! 0.0.0.0 tv.html
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
 ! 0.0.0.0 tv247us.vip
@@ -3499,7 +3516,6 @@
 ! 0.0.0.0 www.manga-zone.org
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
-! 0.0.0.0 www.mangakakalot.gg
 ! 0.0.0.0 www.mangakawaii.io
 ! 0.0.0.0 www.mangasplaining.com
 ! 0.0.0.0 www.mangaworld.ac
@@ -3645,7 +3661,9 @@
 ! 0.0.0.0 www.yfanefa.com
 ! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomu-reader.com
+! 0.0.0.0 www.zazamanga.com
 ! 0.0.0.0 www.zimmerit.moe
+! 0.0.0.0 www.zinmanga.net
 ! 0.0.0.0 www.zophar.net
 ! 0.0.0.0 www4.animeflv.net
 ! 0.0.0.0 x27.html
@@ -3660,6 +3678,8 @@
 ! 0.0.0.0 xprime.su
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
+! 0.0.0.0 yatoon234.com
+! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

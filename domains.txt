@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1843 domains | updated 2026-06-02T07:26:50Z
+# 1853 domains | updated 2026-06-03T08:21:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -235,6 +235,7 @@ at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
 audiovault.net
+av1encodes.com
 avac.moe
 avistaz.to
 awardstreams.link
@@ -357,7 +358,6 @@ coreflix.tv
 corsflix.net
 couchmoney.tv
 countdown.tv
-countries.html
 crackstreams.ms
 cracksurl.com
 crafty.moe
@@ -406,6 +406,7 @@ docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
 dokiraw.tech
+donghua.site
 donghuastream.org
 dorabash.in
 doubledouble.top
@@ -554,7 +555,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhd502.net
+hdhd507.net
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -629,6 +630,7 @@ justanime.to
 justsubtitles.com
 kaa.lt
 kagane.org
+kagane.to
 kajzu.com
 kara.moe
 kartoons.me
@@ -798,6 +800,7 @@ miruro.tv
 mitsukeru.timschneeberger.me
 mixdebrid.com
 mixmoose.com
+mkissa.to
 mkvdrama.net
 mlbgamepass.com
 mlblive.net
@@ -1009,6 +1012,7 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
+raw-cans.net
 raw.senmanga.com
 raw1001.net
 rawbaka.com
@@ -1092,6 +1096,7 @@ scenelist.org
 scenenzbs.com
 schedule.html
 scnlog.me
+score808hd.tv
 screenscape.me
 scripts-onscreen.com
 scripts.com
@@ -1167,7 +1172,8 @@ stigstream.ru
 store.rg
 stream.gensokyoradio.net
 stream192.mp
-streamcorner.cc
+streamcorner.fyi
+streamcorner.io
 streamcorner.site
 streameast.ga
 streameast.ph
@@ -1180,8 +1186,8 @@ streamgoblin.com
 streami.click
 streami.su
 streaming-integrale.com
-streamninja.cc
-streamninja.site
+streamninja.online
+streamninja.xyz
 streamsports99.su
 streamsports99.website
 streamtim.com
@@ -1303,6 +1309,7 @@ truyenqqko.com
 tsquareplaza.blogspot.com
 tundra.moe
 tv.filmu.in
+tv.html
 tv.jest
 tv.jest.one
 tv247us.vip
@@ -1649,7 +1656,6 @@ www.manga-passion.de
 www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
-www.mangakakalot.gg
 www.mangakawaii.io
 www.mangasplaining.com
 www.mangaworld.ac
@@ -1795,7 +1801,9 @@ www.xmanagerapp.com
 www.yfanefa.com
 www.yinhuadm.cc
 www.yomu-reader.com
+www.zazamanga.com
 www.zimmerit.moe
+www.zinmanga.net
 www.zophar.net
 www4.animeflv.net
 x27.html
@@ -1810,6 +1818,8 @@ xprime.stream
 xprime.su
 xyzstreams.shop
 yadg.cc
+yatoon234.com
+yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net
