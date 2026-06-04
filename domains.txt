@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1853 domains | updated 2026-06-03T08:21:23Z
+# 1855 domains | updated 2026-06-04T07:26:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -212,6 +212,7 @@ annas-archive.gl
 annict.com
 anoboye.com
 anonops.com
+apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
 arabshentai.com
@@ -252,6 +253,7 @@ bangumi.moe
 bangumi.tv
 baozimh.com
 baozimh.org
+basementx.xyz
 basic.pp.ua
 basketball-video.com
 basketballreplays.net
@@ -822,6 +824,7 @@ moviebox.pk
 movieboxapp.in
 movieboxonline.net
 movielens.org
+movienestbd.pics
 movieo.me
 movieparadise-code.md
 movieparadise.org
@@ -1158,10 +1161,9 @@ sphinxanime.com
 spin.moe
 split-tv.co.il
 sportontv.biz
-sportsbite.cv
+sportsbite.online
 sportsbite.sbs
 sportsurge.pk
-sportyhunter.space
 squid.wtf
 srstop.link
 ssrmovies.com

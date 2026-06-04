@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1853 domains)
-! Last updated: 2026-06-03T08:21:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1855 domains)
+! Last updated: 2026-06-04T07:26:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -216,6 +216,7 @@
 ||annict.com^
 ||anoboye.com^
 ||anonops.com^
+||apexmovies.net^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
 ||arabshentai.com^
@@ -256,6 +257,7 @@
 ||bangumi.tv^
 ||baozimh.com^
 ||baozimh.org^
+||basementx.xyz^
 ||basic.pp.ua^
 ||basketball-video.com^
 ||basketballreplays.net^
@@ -826,6 +828,7 @@
 ||movieboxapp.in^
 ||movieboxonline.net^
 ||movielens.org^
+||movienestbd.pics^
 ||movieo.me^
 ||movieparadise-code.md^
 ||movieparadise.org^
@@ -1162,10 +1165,9 @@
 ||spin.moe^
 ||split-tv.co.il^
 ||sportontv.biz^
-||sportsbite.cv^
+||sportsbite.online^
 ||sportsbite.sbs^
 ||sportsurge.pk^
-||sportyhunter.space^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -2072,6 +2074,7 @@
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anoboye.com
 ! 0.0.0.0 anonops.com
+! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
 ! 0.0.0.0 arabshentai.com
@@ -2112,6 +2115,7 @@
 ! 0.0.0.0 bangumi.tv
 ! 0.0.0.0 baozimh.com
 ! 0.0.0.0 baozimh.org
+! 0.0.0.0 basementx.xyz
 ! 0.0.0.0 basic.pp.ua
 ! 0.0.0.0 basketball-video.com
 ! 0.0.0.0 basketballreplays.net
@@ -2682,6 +2686,7 @@
 ! 0.0.0.0 movieboxapp.in
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
+! 0.0.0.0 movienestbd.pics
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise-code.md
 ! 0.0.0.0 movieparadise.org
@@ -3018,10 +3023,9 @@
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportontv.biz
-! 0.0.0.0 sportsbite.cv
+! 0.0.0.0 sportsbite.online
 ! 0.0.0.0 sportsbite.sbs
 ! 0.0.0.0 sportsurge.pk
-! 0.0.0.0 sportyhunter.space
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
