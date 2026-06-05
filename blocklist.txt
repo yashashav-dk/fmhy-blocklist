@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1855 domains)
-! Last updated: 2026-06-04T07:26:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1850 domains)
+! Last updated: 2026-06-05T07:11:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -84,7 +84,6 @@
 ||anica.jp^
 ||anichart.net^
 ||anicheck.moe^
-||anichin.bio^
 ||anidap.se^
 ||anidoor.me^
 ||anidub.pro^
@@ -214,7 +213,6 @@
 ||anizone.to^
 ||annas-archive.gl^
 ||annict.com^
-||anoboye.com^
 ||anonops.com^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
@@ -492,7 +490,6 @@
 ||flixtrz.com^
 ||flixvo.fun^
 ||flixvo.live^
-||flixwatch.online^
 ||flixway.ru^
 ||fluxtv.qzz.io^
 ||flyflix.net^
@@ -554,7 +551,6 @@
 ||guides.htm^
 ||guides.viren070.me^
 ||guzes.surge.sh^
-||guzesqdro.surge.sh^
 ||halcyonrealms.com^
 ||hanime1.me^
 ||harmony.pulsewidth.org.uk^
@@ -843,6 +839,7 @@
 ||msft-store.tplant.com.au^
 ||mtoon140.com^
 ||mugen.karaokes.moe^
+||multishows.top^
 ||musicalyst.com^
 ||musichoarders.xyz^
 ||musicorumapp.com^
@@ -864,7 +861,6 @@
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
-||nekomitai.net^
 ||nelvix.xyz^
 ||neoapo.com^
 ||nepchan.org^
@@ -903,7 +899,7 @@
 ||ntvs.cx^
 ||nukkard.com^
 ||nunflix.li^
-||nuvioapp.space^
+||nuvio.tv^
 ||nxxhentai.net^
 ||nyaa.iss.ink^
 ||nyaa.iss.one^
@@ -992,6 +988,7 @@
 ||proxy.cubari.moe^
 ||psa.wf^
 ||pstream.net^
+||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
 ||puretoons.in^
@@ -1081,7 +1078,6 @@
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
-||s25.anichin.blog^
 ||s7-tv.blogspot.com^
 ||sadscans.net^
 ||sakuhindb.com^
@@ -1360,6 +1356,7 @@
 ||vaughn.live^
 ||vavoo.to^
 ||vegamovies.market^
+||vegetatv.duckdns.org^
 ||ver.animeonline.ninja^
 ||vgm.hcs64.com^
 ||vgm.impulseinformatica.com.br^
@@ -1474,6 +1471,7 @@
 ||www.aiowares.com^
 ||www.akross.ru^
 ||www.allthebestfights.com^
+||www.amberflix.xyz^
 ||www.amvhell.com^
 ||www.androidtv-guide.com^
 ||www.anianimals.moe^
@@ -1532,8 +1530,6 @@
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
-||www.bimiacg.icu^
-||www.bimiacg14.net^
 ||www.bingeclock.com^
 ||www.bitcine.tv^
 ||www.bitview.net^
@@ -1659,7 +1655,6 @@
 ||www.m-zone.org^
 ||www.mal-badges.com^
 ||www.manga-passion.de^
-||www.manga-zone.org^
 ||www.mangacodex.com^
 ||www.mangadraft.com^
 ||www.mangakawaii.io^
@@ -1820,7 +1815,6 @@
 ||xn--9t4b31dr7o.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
-||xprime.stream^
 ||xprime.su^
 ||xyzstreams.shop^
 ||yadg.cc^
@@ -1851,6 +1845,7 @@
 ||yurionair.top^
 ||yuumanga.blogspot.com^
 ||z-lib.sk^
+||z1.anichin.blog^
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
 ||zenko.online^
@@ -1942,7 +1937,6 @@
 ! 0.0.0.0 anica.jp
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
-! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anidap.se
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anidub.pro
@@ -2072,7 +2066,6 @@
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 annict.com
-! 0.0.0.0 anoboye.com
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
@@ -2350,7 +2343,6 @@
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
-! 0.0.0.0 flixwatch.online
 ! 0.0.0.0 flixway.ru
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
@@ -2412,7 +2404,6 @@
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
 ! 0.0.0.0 guzes.surge.sh
-! 0.0.0.0 guzesqdro.surge.sh
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
 ! 0.0.0.0 harmony.pulsewidth.org.uk
@@ -2701,6 +2692,7 @@
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mtoon140.com
 ! 0.0.0.0 mugen.karaokes.moe
+! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
 ! 0.0.0.0 musicorumapp.com
@@ -2722,7 +2714,6 @@
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
-! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepchan.org
@@ -2761,7 +2752,7 @@
 ! 0.0.0.0 ntvs.cx
 ! 0.0.0.0 nukkard.com
 ! 0.0.0.0 nunflix.li
-! 0.0.0.0 nuvioapp.space
+! 0.0.0.0 nuvio.tv
 ! 0.0.0.0 nxxhentai.net
 ! 0.0.0.0 nyaa.iss.ink
 ! 0.0.0.0 nyaa.iss.one
@@ -2850,6 +2841,7 @@
 ! 0.0.0.0 proxy.cubari.moe
 ! 0.0.0.0 psa.wf
 ! 0.0.0.0 pstream.net
+! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
@@ -2939,7 +2931,6 @@
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
-! 0.0.0.0 s25.anichin.blog
 ! 0.0.0.0 s7-tv.blogspot.com
 ! 0.0.0.0 sadscans.net
 ! 0.0.0.0 sakuhindb.com
@@ -3218,6 +3209,7 @@
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegamovies.market
+! 0.0.0.0 vegetatv.duckdns.org
 ! 0.0.0.0 ver.animeonline.ninja
 ! 0.0.0.0 vgm.hcs64.com
 ! 0.0.0.0 vgm.impulseinformatica.com.br
@@ -3332,6 +3324,7 @@
 ! 0.0.0.0 www.aiowares.com
 ! 0.0.0.0 www.akross.ru
 ! 0.0.0.0 www.allthebestfights.com
+! 0.0.0.0 www.amberflix.xyz
 ! 0.0.0.0 www.amvhell.com
 ! 0.0.0.0 www.androidtv-guide.com
 ! 0.0.0.0 www.anianimals.moe
@@ -3390,8 +3383,6 @@
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
-! 0.0.0.0 www.bimiacg.icu
-! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bitcine.tv
 ! 0.0.0.0 www.bitview.net
@@ -3517,7 +3508,6 @@
 ! 0.0.0.0 www.m-zone.org
 ! 0.0.0.0 www.mal-badges.com
 ! 0.0.0.0 www.manga-passion.de
-! 0.0.0.0 www.manga-zone.org
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
 ! 0.0.0.0 www.mangakawaii.io
@@ -3678,7 +3668,6 @@
 ! 0.0.0.0 xn--9t4b31dr7o.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
-! 0.0.0.0 xprime.stream
 ! 0.0.0.0 xprime.su
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
@@ -3709,6 +3698,7 @@
 ! 0.0.0.0 yurionair.top
 ! 0.0.0.0 yuumanga.blogspot.com
 ! 0.0.0.0 z-lib.sk
+! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
 ! 0.0.0.0 zenko.online

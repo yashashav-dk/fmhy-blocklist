@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1855 domains | updated 2026-06-04T07:26:23Z
+# 1850 domains | updated 2026-06-05T07:11:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -80,7 +80,6 @@ anibridge.eliasbenb.dev
 anica.jp
 anichart.net
 anicheck.moe
-anichin.bio
 anidap.se
 anidoor.me
 anidub.pro
@@ -210,7 +209,6 @@ anizm.net
 anizone.to
 annas-archive.gl
 annict.com
-anoboye.com
 anonops.com
 apexmovies.net
 app.animevsub.eu.org
@@ -488,7 +486,6 @@ flixhouse.com
 flixtrz.com
 flixvo.fun
 flixvo.live
-flixwatch.online
 flixway.ru
 fluxtv.qzz.io
 flyflix.net
@@ -550,7 +547,6 @@ guide.encode.moe
 guides.htm
 guides.viren070.me
 guzes.surge.sh
-guzesqdro.surge.sh
 halcyonrealms.com
 hanime1.me
 harmony.pulsewidth.org.uk
@@ -839,6 +835,7 @@ mrgamingstreams.org
 msft-store.tplant.com.au
 mtoon140.com
 mugen.karaokes.moe
+multishows.top
 musicalyst.com
 musichoarders.xyz
 musicorumapp.com
@@ -860,7 +857,6 @@ narjomusic.com
 navic.app
 nbamonster.com
 nekobt.to
-nekomitai.net
 nelvix.xyz
 neoapo.com
 nepchan.org
@@ -899,7 +895,7 @@ ntv.direct
 ntvs.cx
 nukkard.com
 nunflix.li
-nuvioapp.space
+nuvio.tv
 nxxhentai.net
 nyaa.iss.ink
 nyaa.iss.one
@@ -988,6 +984,7 @@ proxer.me
 proxy.cubari.moe
 psa.wf
 pstream.net
+pstream.site
 psychodownloads.com
 pulsedmedia.com
 puretoons.in
@@ -1077,7 +1074,6 @@ rugby24.net
 russianfilmhub.com
 rutracker.org
 rutube.ru
-s25.anichin.blog
 s7-tv.blogspot.com
 sadscans.net
 sakuhindb.com
@@ -1356,6 +1352,7 @@ v2.sportsurge.net
 vaughn.live
 vavoo.to
 vegamovies.market
+vegetatv.duckdns.org
 ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
@@ -1470,6 +1467,7 @@ www.aimp.ru
 www.aiowares.com
 www.akross.ru
 www.allthebestfights.com
+www.amberflix.xyz
 www.amvhell.com
 www.androidtv-guide.com
 www.anianimals.moe
@@ -1528,8 +1526,6 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
-www.bimiacg.icu
-www.bimiacg14.net
 www.bingeclock.com
 www.bitcine.tv
 www.bitview.net
@@ -1655,7 +1651,6 @@ www.lyrical-nonsense.com
 www.m-zone.org
 www.mal-badges.com
 www.manga-passion.de
-www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
 www.mangakawaii.io
@@ -1816,7 +1811,6 @@ xmanhua.com
 xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
-xprime.stream
 xprime.su
 xyzstreams.shop
 yadg.cc
@@ -1847,6 +1841,7 @@ yumicoradio.net
 yurionair.top
 yuumanga.blogspot.com
 z-lib.sk
+z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
 zenko.online
