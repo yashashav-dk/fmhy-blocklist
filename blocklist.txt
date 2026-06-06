@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1850 domains)
-! Last updated: 2026-06-05T07:11:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1844 domains)
+! Last updated: 2026-06-06T06:32:35Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -302,11 +302,11 @@
 ||chikianimation.online^
 ||chillflix.to^
 ||cinebolt.net^
+||cineby.at^
 ||cinebytv.com^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
-||cinehub.one^
 ||cinelove.live^
 ||cinema.bz^
 ||cinemacity.cc^
@@ -481,7 +481,6 @@
 ||fireani.me^
 ||flicker-proxy.md^
 ||flickmetrix.com^
-||flickystream.ru^
 ||flickystream.su^
 ||flix.smashystream.xyz^
 ||flixer.su^
@@ -804,7 +803,6 @@
 ||mixmoose.com^
 ||mkissa.to^
 ||mkvdrama.net^
-||mlbgamepass.com^
 ||mlblive.net^
 ||mobilism-ranks.md^
 ||modlist.in^
@@ -876,7 +874,6 @@
 ||nextnovels.com^
 ||nfl-replays.com^
 ||nfl-video.com^
-||nflhunter.com^
 ||nhattruyenqq.com^
 ||nibl.co.uk^
 ||nicelink51.com^
@@ -976,8 +973,8 @@
 ||portapps.io^
 ||potamanime.rs^
 ||powder.media^
-||ppv.cx^
 ||ppv.domains^
+||ppv.is^
 ||ppv.to^
 ||primewire.nexus^
 ||primewire.zip^
@@ -1037,7 +1034,6 @@
 ||realfight.top^
 ||realityripple.com^
 ||reanime.to^
-||redflix.club^
 ||redflix.co^
 ||redsquirrel87.com^
 ||relatedanime.com^
@@ -1542,7 +1538,6 @@
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
-||www.cineby.gd^
 ||www.cineby.sc^
 ||www.cinezo.net^
 ||www.classreal.com^
@@ -1815,7 +1810,6 @@
 ||xn--9t4b31dr7o.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
-||xprime.su^
 ||xyzstreams.shop^
 ||yadg.cc^
 ||yatoon234.com^
@@ -2155,11 +2149,11 @@
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.to
 ! 0.0.0.0 cinebolt.net
+! 0.0.0.0 cineby.at
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
-! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
@@ -2334,7 +2328,6 @@
 ! 0.0.0.0 fireani.me
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
-! 0.0.0.0 flickystream.ru
 ! 0.0.0.0 flickystream.su
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
@@ -2657,7 +2650,6 @@
 ! 0.0.0.0 mixmoose.com
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvdrama.net
-! 0.0.0.0 mlbgamepass.com
 ! 0.0.0.0 mlblive.net
 ! 0.0.0.0 mobilism-ranks.md
 ! 0.0.0.0 modlist.in
@@ -2729,7 +2721,6 @@
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
-! 0.0.0.0 nflhunter.com
 ! 0.0.0.0 nhattruyenqq.com
 ! 0.0.0.0 nibl.co.uk
 ! 0.0.0.0 nicelink51.com
@@ -2829,8 +2820,8 @@
 ! 0.0.0.0 portapps.io
 ! 0.0.0.0 potamanime.rs
 ! 0.0.0.0 powder.media
-! 0.0.0.0 ppv.cx
 ! 0.0.0.0 ppv.domains
+! 0.0.0.0 ppv.is
 ! 0.0.0.0 ppv.to
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
@@ -2890,7 +2881,6 @@
 ! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 reanime.to
-! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.co
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 relatedanime.com
@@ -3395,7 +3385,6 @@
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
-! 0.0.0.0 www.cineby.gd
 ! 0.0.0.0 www.cineby.sc
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
@@ -3668,7 +3657,6 @@
 ! 0.0.0.0 xn--9t4b31dr7o.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
-! 0.0.0.0 xprime.su
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yatoon234.com

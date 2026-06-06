@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1850 domains | updated 2026-06-05T07:11:28Z
+# 1844 domains | updated 2026-06-06T06:32:35Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -298,11 +298,11 @@ chikianimation.com
 chikianimation.online
 chillflix.to
 cinebolt.net
+cineby.at
 cinebytv.com
 cinego.co
 cinegram.tv
 cinehd.app
-cinehub.one
 cinelove.live
 cinema.bz
 cinemacity.cc
@@ -477,7 +477,6 @@ find-movie.info
 fireani.me
 flicker-proxy.md
 flickmetrix.com
-flickystream.ru
 flickystream.su
 flix.smashystream.xyz
 flixer.su
@@ -800,7 +799,6 @@ mixdebrid.com
 mixmoose.com
 mkissa.to
 mkvdrama.net
-mlbgamepass.com
 mlblive.net
 mobilism-ranks.md
 modlist.in
@@ -872,7 +870,6 @@ newstream.html
 nextnovels.com
 nfl-replays.com
 nfl-video.com
-nflhunter.com
 nhattruyenqq.com
 nibl.co.uk
 nicelink51.com
@@ -972,8 +969,8 @@ portableappz.blogspot.com
 portapps.io
 potamanime.rs
 powder.media
-ppv.cx
 ppv.domains
+ppv.is
 ppv.to
 primewire.nexus
 primewire.zip
@@ -1033,7 +1030,6 @@ real-debrid.com
 realfight.top
 realityripple.com
 reanime.to
-redflix.club
 redflix.co
 redsquirrel87.com
 relatedanime.com
@@ -1538,7 +1534,6 @@ www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
-www.cineby.gd
 www.cineby.sc
 www.cinezo.net
 www.classreal.com
@@ -1811,7 +1806,6 @@ xmanhua.com
 xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
-xprime.su
 xyzstreams.shop
 yadg.cc
 yatoon234.com
