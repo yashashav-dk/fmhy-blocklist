@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1844 domains | updated 2026-06-06T06:32:35Z
+# 1846 domains | updated 2026-06-07T07:07:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -42,6 +42,7 @@
 7reels.cc
 80s-ova.com
 888dl.ps
+aaronperris.com
 absorbiendomangas2.blogspot.com
 acestreamid.com
 acg.rip
@@ -552,7 +553,6 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhd507.net
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -829,7 +829,6 @@ moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
 movish.net
-mrgamingstreams.org
 msft-store.tplant.com.au
 mtoon140.com
 mugen.karaokes.moe
@@ -1156,6 +1155,7 @@ sportontv.biz
 sportsbite.online
 sportsbite.sbs
 sportsurge.pk
+sportyhunter.com
 squid.wtf
 srstop.link
 ssrmovies.com
@@ -1523,11 +1523,11 @@ www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
 www.bingeclock.com
-www.bitcine.tv
 www.bitview.net
 www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com
+www.byutv.org
 www.cagematch.net
 www.catsuka.com
 www.cclm.cl
@@ -1535,6 +1535,7 @@ www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
 www.cineby.sc
+www.cineplay.to
 www.cinezo.net
 www.classreal.com
 www.colamanga.com
@@ -1579,7 +1580,7 @@ www.filmgo.live
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
-www.fmovies.gd
+www.fmovies.nz
 www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com
@@ -1588,6 +1589,7 @@ www.forgottenworlds.net
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
+www.fzmovies.live
 www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com

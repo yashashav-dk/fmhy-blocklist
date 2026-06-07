@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1844 domains)
-! Last updated: 2026-06-06T06:32:35Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1846 domains)
+! Last updated: 2026-06-07T07:07:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -46,6 +46,7 @@
 ||7reels.cc^
 ||80s-ova.com^
 ||888dl.ps^
+||aaronperris.com^
 ||absorbiendomangas2.blogspot.com^
 ||acestreamid.com^
 ||acg.rip^
@@ -556,7 +557,6 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
-||hdhd507.net^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -833,7 +833,6 @@
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
 ||movish.net^
-||mrgamingstreams.org^
 ||msft-store.tplant.com.au^
 ||mtoon140.com^
 ||mugen.karaokes.moe^
@@ -1160,6 +1159,7 @@
 ||sportsbite.online^
 ||sportsbite.sbs^
 ||sportsurge.pk^
+||sportyhunter.com^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -1527,11 +1527,11 @@
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
 ||www.bingeclock.com^
-||www.bitcine.tv^
 ||www.bitview.net^
 ||www.boredflix.tv^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
+||www.byutv.org^
 ||www.cagematch.net^
 ||www.catsuka.com^
 ||www.cclm.cl^
@@ -1539,6 +1539,7 @@
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineby.sc^
+||www.cineplay.to^
 ||www.cinezo.net^
 ||www.classreal.com^
 ||www.colamanga.com^
@@ -1583,7 +1584,7 @@
 ||www.flickchart.com^
 ||www.flikhub.net^
 ||www.flixwatch.co^
-||www.fmovies.gd^
+||www.fmovies.nz^
 ||www.fontspring.com^
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
@@ -1592,6 +1593,7 @@
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
 ||www.funniermoments.net^
+||www.fzmovies.live^
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
@@ -1893,6 +1895,7 @@
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 888dl.ps
+! 0.0.0.0 aaronperris.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
 ! 0.0.0.0 acestreamid.com
 ! 0.0.0.0 acg.rip
@@ -2403,7 +2406,6 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
-! 0.0.0.0 hdhd507.net
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2680,7 +2682,6 @@
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.net
-! 0.0.0.0 mrgamingstreams.org
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mtoon140.com
 ! 0.0.0.0 mugen.karaokes.moe
@@ -3007,6 +3008,7 @@
 ! 0.0.0.0 sportsbite.online
 ! 0.0.0.0 sportsbite.sbs
 ! 0.0.0.0 sportsurge.pk
+! 0.0.0.0 sportyhunter.com
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
@@ -3374,11 +3376,11 @@
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
 ! 0.0.0.0 www.bingeclock.com
-! 0.0.0.0 www.bitcine.tv
 ! 0.0.0.0 www.bitview.net
 ! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
+! 0.0.0.0 www.byutv.org
 ! 0.0.0.0 www.cagematch.net
 ! 0.0.0.0 www.catsuka.com
 ! 0.0.0.0 www.cclm.cl
@@ -3386,6 +3388,7 @@
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineby.sc
+! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
 ! 0.0.0.0 www.colamanga.com
@@ -3430,7 +3433,7 @@
 ! 0.0.0.0 www.flickchart.com
 ! 0.0.0.0 www.flikhub.net
 ! 0.0.0.0 www.flixwatch.co
-! 0.0.0.0 www.fmovies.gd
+! 0.0.0.0 www.fmovies.nz
 ! 0.0.0.0 www.fontspring.com
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
@@ -3439,6 +3442,7 @@
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
+! 0.0.0.0 www.fzmovies.live
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
