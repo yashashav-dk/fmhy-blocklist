@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1846 domains)
-! Last updated: 2026-06-07T07:07:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1858 domains)
+! Last updated: 2026-06-08T08:12:53Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -316,6 +316,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
+||cinestream.kje.us^
 ||cinetaro.tv^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -372,7 +373,10 @@
 ||cringemdb.com^
 ||cubeflix.org^
 ||cubiktv.com^
+||daddylive.eu^
+||daddylive.lat^
 ||daddylive.li^
+||daddylive.nl^
 ||daddylive.org^
 ||daddylive.pk^
 ||dailycommercials.com^
@@ -469,6 +473,7 @@
 ||fansubs.cat^
 ||fansubs.ru^
 ||fauux.neocities.org^
+||fbstream.cc^
 ||fcast.org^
 ||filmcave.ru^
 ||filmex.to^
@@ -652,7 +657,6 @@
 ||kindlemodding.org^
 ||kingofshojo.com^
 ||kinozal.tv^
-||kiroku.my^
 ||kissanime.com.ru^
 ||kissanime.help^
 ||kissasian.video^
@@ -809,9 +813,9 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
-||monochrome.tf^
 ||monoschinos2.com^
 ||moonflix.com^
+||moonflix.site^
 ||moriyashrine.org^
 ||morphinlegacy.com^
 ||moum.top^
@@ -834,7 +838,7 @@
 ||moviesnipipay.me^
 ||movish.net^
 ||msft-store.tplant.com.au^
-||mtoon140.com^
+||mtoon141.com^
 ||mugen.karaokes.moe^
 ||multishows.top^
 ||musicalyst.com^
@@ -881,6 +885,8 @@
 ||nmovies.cc^
 ||noirx.live^
 ||noirx.me^
+||nomorflix.com^
+||nomorflix.icu^
 ||note.com^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
@@ -1141,6 +1147,7 @@
 ||sneedex.moe^
 ||soccerfull.net^
 ||soft.ac^
+||soft98.ir^
 ||softarchive.download^
 ||softarchive.is^
 ||softkomik.com^
@@ -1186,6 +1193,7 @@
 ||streaming-integrale.com^
 ||streamninja.online^
 ||streamninja.xyz^
+||streamo.pro^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1418,6 +1426,7 @@
 ||webdramaturkey2.com^
 ||weblinhtinh1.net^
 ||weebcentral.com^
+||wfs.lol^
 ||wfty.link^
 ||wfwf454.com^
 ||whatsatmovie.com^
@@ -1505,6 +1514,7 @@
 ||www.animotvslash.org^
 ||www.animu.com.br^
 ||www.animu.moe^
+||www.anirena.com^
 ||www.anisaturn.com^
 ||www.anisil.com^
 ||www.anisurge.lol^
@@ -1561,6 +1571,7 @@
 ||www.desidubanime.me^
 ||www.dojin-music.info^
 ||www.dongsub.net^
+||www.downloadha.com^
 ||www.downloads-anymovies.co^
 ||www.downturk.net^
 ||www.dozaanimata.net^
@@ -1652,6 +1663,7 @@
 ||www.m-zone.org^
 ||www.mal-badges.com^
 ||www.manga-passion.de^
+||www.manga-zone.org^
 ||www.mangacodex.com^
 ||www.mangadraft.com^
 ||www.mangakawaii.io^
@@ -2165,6 +2177,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
+! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2221,7 +2234,10 @@
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
+! 0.0.0.0 daddylive.eu
+! 0.0.0.0 daddylive.lat
 ! 0.0.0.0 daddylive.li
+! 0.0.0.0 daddylive.nl
 ! 0.0.0.0 daddylive.org
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
@@ -2318,6 +2334,7 @@
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru
 ! 0.0.0.0 fauux.neocities.org
+! 0.0.0.0 fbstream.cc
 ! 0.0.0.0 fcast.org
 ! 0.0.0.0 filmcave.ru
 ! 0.0.0.0 filmex.to
@@ -2501,7 +2518,6 @@
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kingofshojo.com
 ! 0.0.0.0 kinozal.tv
-! 0.0.0.0 kiroku.my
 ! 0.0.0.0 kissanime.com.ru
 ! 0.0.0.0 kissanime.help
 ! 0.0.0.0 kissasian.video
@@ -2658,9 +2674,9 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
-! 0.0.0.0 monochrome.tf
 ! 0.0.0.0 monoschinos2.com
 ! 0.0.0.0 moonflix.com
+! 0.0.0.0 moonflix.site
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
 ! 0.0.0.0 moum.top
@@ -2683,7 +2699,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.net
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon140.com
+! 0.0.0.0 mtoon141.com
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
@@ -2730,6 +2746,8 @@
 ! 0.0.0.0 nmovies.cc
 ! 0.0.0.0 noirx.live
 ! 0.0.0.0 noirx.me
+! 0.0.0.0 nomorflix.com
+! 0.0.0.0 nomorflix.icu
 ! 0.0.0.0 note.com
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
@@ -2990,6 +3008,7 @@
 ! 0.0.0.0 sneedex.moe
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
+! 0.0.0.0 soft98.ir
 ! 0.0.0.0 softarchive.download
 ! 0.0.0.0 softarchive.is
 ! 0.0.0.0 softkomik.com
@@ -3035,6 +3054,7 @@
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamninja.online
 ! 0.0.0.0 streamninja.xyz
+! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3267,6 +3287,7 @@
 ! 0.0.0.0 webdramaturkey2.com
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
+! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wfty.link
 ! 0.0.0.0 wfwf454.com
 ! 0.0.0.0 whatsatmovie.com
@@ -3354,6 +3375,7 @@
 ! 0.0.0.0 www.animotvslash.org
 ! 0.0.0.0 www.animu.com.br
 ! 0.0.0.0 www.animu.moe
+! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisaturn.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
@@ -3410,6 +3432,7 @@
 ! 0.0.0.0 www.desidubanime.me
 ! 0.0.0.0 www.dojin-music.info
 ! 0.0.0.0 www.dongsub.net
+! 0.0.0.0 www.downloadha.com
 ! 0.0.0.0 www.downloads-anymovies.co
 ! 0.0.0.0 www.downturk.net
 ! 0.0.0.0 www.dozaanimata.net
@@ -3501,6 +3524,7 @@
 ! 0.0.0.0 www.m-zone.org
 ! 0.0.0.0 www.mal-badges.com
 ! 0.0.0.0 www.manga-passion.de
+! 0.0.0.0 www.manga-zone.org
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
 ! 0.0.0.0 www.mangakawaii.io

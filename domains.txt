@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1846 domains | updated 2026-06-07T07:07:47Z
+# 1858 domains | updated 2026-06-08T08:12:53Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -312,6 +312,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
+cinestream.kje.us
 cinetaro.tv
 cinetimes.org
 cinetrii.com
@@ -368,7 +369,10 @@ crimsonfansubs.com
 cringemdb.com
 cubeflix.org
 cubiktv.com
+daddylive.eu
+daddylive.lat
 daddylive.li
+daddylive.nl
 daddylive.org
 daddylive.pk
 dailycommercials.com
@@ -465,6 +469,7 @@ fansubdb.it
 fansubs.cat
 fansubs.ru
 fauux.neocities.org
+fbstream.cc
 fcast.org
 filmcave.ru
 filmex.to
@@ -648,7 +653,6 @@ kimoitv.com
 kindlemodding.org
 kingofshojo.com
 kinozal.tv
-kiroku.my
 kissanime.com.ru
 kissanime.help
 kissasian.video
@@ -805,9 +809,9 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
-monochrome.tf
 monoschinos2.com
 moonflix.com
+moonflix.site
 moriyashrine.org
 morphinlegacy.com
 moum.top
@@ -830,7 +834,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.net
 msft-store.tplant.com.au
-mtoon140.com
+mtoon141.com
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -877,6 +881,8 @@ nkiri.ink
 nmovies.cc
 noirx.live
 noirx.me
+nomorflix.com
+nomorflix.icu
 note.com
 nothing-to-watch.port80.ch
 notscare.me
@@ -1137,6 +1143,7 @@ smoores.gitlab.io
 sneedex.moe
 soccerfull.net
 soft.ac
+soft98.ir
 softarchive.download
 softarchive.is
 softkomik.com
@@ -1182,6 +1189,7 @@ streami.su
 streaming-integrale.com
 streamninja.online
 streamninja.xyz
+streamo.pro
 streamsports99.su
 streamsports99.website
 streamtim.com
@@ -1414,6 +1422,7 @@ webcomicsapp.com
 webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
+wfs.lol
 wfty.link
 wfwf454.com
 whatsatmovie.com
@@ -1501,6 +1510,7 @@ www.animezone.pl
 www.animotvslash.org
 www.animu.com.br
 www.animu.moe
+www.anirena.com
 www.anisaturn.com
 www.anisil.com
 www.anisurge.lol
@@ -1557,6 +1567,7 @@ www.deafvideo.tv
 www.desidubanime.me
 www.dojin-music.info
 www.dongsub.net
+www.downloadha.com
 www.downloads-anymovies.co
 www.downturk.net
 www.dozaanimata.net
@@ -1648,6 +1659,7 @@ www.lyrical-nonsense.com
 www.m-zone.org
 www.mal-badges.com
 www.manga-passion.de
+www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
 www.mangakawaii.io
