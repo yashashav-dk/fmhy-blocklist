@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1858 domains | updated 2026-06-08T08:12:53Z
+# 1856 domains | updated 2026-06-09T06:52:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -96,6 +96,7 @@ anikuro.to
 anilib.me
 anilibria.top
 anilife.live
+anilight.live
 anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animagarchive.com
@@ -182,7 +183,6 @@ animeverse.to
 animevilla.in
 animevost.org
 animevsub.eu.org
-animewat.ch
 animex.one
 animexin.dev
 animotvslash.nl
@@ -235,7 +235,6 @@ at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
 audiovault.net
-av1encodes.com
 avac.moe
 avistaz.to
 awardstreams.link
@@ -558,6 +557,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
+hdhd508.net
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -817,9 +817,6 @@ morphinlegacy.com
 moum.top
 movie-web-sources.md
 moviebite.cc
-moviebox.ph
-moviebox.pk
-movieboxapp.in
 movieboxonline.net
 movielens.org
 movienestbd.pics
@@ -1054,6 +1051,7 @@ rips.cc
 ristohentai.com
 rivestream.ru
 rivestream.top
+rivestream.vip
 rlsbb.cc
 rlsbb.in
 rlsbb.ru

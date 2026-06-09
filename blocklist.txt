@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1858 domains)
-! Last updated: 2026-06-08T08:12:53Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1856 domains)
+! Last updated: 2026-06-09T06:52:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -100,6 +100,7 @@
 ||anilib.me^
 ||anilibria.top^
 ||anilife.live^
+||anilight.live^
 ||anilinks.neocities.org^
 ||anilist-adaptations.timschneeberger.me^
 ||animagarchive.com^
@@ -186,7 +187,6 @@
 ||animevilla.in^
 ||animevost.org^
 ||animevsub.eu.org^
-||animewat.ch^
 ||animex.one^
 ||animexin.dev^
 ||animotvslash.nl^
@@ -239,7 +239,6 @@
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
 ||audiovault.net^
-||av1encodes.com^
 ||avac.moe^
 ||avistaz.to^
 ||awardstreams.link^
@@ -562,6 +561,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
+||hdhd508.net^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -821,9 +821,6 @@
 ||moum.top^
 ||movie-web-sources.md^
 ||moviebite.cc^
-||moviebox.ph^
-||moviebox.pk^
-||movieboxapp.in^
 ||movieboxonline.net^
 ||movielens.org^
 ||movienestbd.pics^
@@ -1058,6 +1055,7 @@
 ||ristohentai.com^
 ||rivestream.ru^
 ||rivestream.top^
+||rivestream.vip^
 ||rlsbb.cc^
 ||rlsbb.in^
 ||rlsbb.ru^
@@ -1961,6 +1959,7 @@
 ! 0.0.0.0 anilib.me
 ! 0.0.0.0 anilibria.top
 ! 0.0.0.0 anilife.live
+! 0.0.0.0 anilight.live
 ! 0.0.0.0 anilinks.neocities.org
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
 ! 0.0.0.0 animagarchive.com
@@ -2047,7 +2046,6 @@
 ! 0.0.0.0 animevilla.in
 ! 0.0.0.0 animevost.org
 ! 0.0.0.0 animevsub.eu.org
-! 0.0.0.0 animewat.ch
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
 ! 0.0.0.0 animotvslash.nl
@@ -2100,7 +2098,6 @@
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
-! 0.0.0.0 av1encodes.com
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 avistaz.to
 ! 0.0.0.0 awardstreams.link
@@ -2423,6 +2420,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
+! 0.0.0.0 hdhd508.net
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2682,9 +2680,6 @@
 ! 0.0.0.0 moum.top
 ! 0.0.0.0 movie-web-sources.md
 ! 0.0.0.0 moviebite.cc
-! 0.0.0.0 moviebox.ph
-! 0.0.0.0 moviebox.pk
-! 0.0.0.0 movieboxapp.in
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movienestbd.pics
@@ -2919,6 +2914,7 @@
 ! 0.0.0.0 ristohentai.com
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rivestream.top
+! 0.0.0.0 rivestream.vip
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
 ! 0.0.0.0 rlsbb.ru
