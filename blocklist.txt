@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1856 domains)
-! Last updated: 2026-06-09T06:52:26Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1854 domains)
+! Last updated: 2026-06-10T07:11:42Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -307,6 +307,7 @@
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
+||cinehub.one^
 ||cinelove.live^
 ||cinema.bz^
 ||cinemacity.cc^
@@ -986,7 +987,6 @@
 ||proxer.me^
 ||proxy.cubari.moe^
 ||psa.wf^
-||pstream.net^
 ||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
@@ -1036,6 +1036,7 @@
 ||realfight.top^
 ||realityripple.com^
 ||reanime.to^
+||redflix.club^
 ||redflix.co^
 ||redsquirrel87.com^
 ||relatedanime.com^
@@ -1077,7 +1078,6 @@
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
-||s7-tv.blogspot.com^
 ||sadscans.net^
 ||sakuhindb.com^
 ||sakuranovel.id^
@@ -1161,8 +1161,9 @@
 ||spin.moe^
 ||split-tv.co.il^
 ||sportontv.biz^
-||sportsbite.online^
+||sportsbite.lol^
 ||sportsbite.sbs^
+||sportsbite.xyz^
 ||sportsurge.pk^
 ||sportyhunter.com^
 ||squid.wtf^
@@ -1191,7 +1192,6 @@
 ||streaming-integrale.com^
 ||streamninja.online^
 ||streamninja.xyz^
-||streamo.pro^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1226,7 +1226,6 @@
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.info^
-||t.html^
 ||t3.xtoon365.com^
 ||t4tsa.cc^
 ||tachiyomiaz.apk^
@@ -1255,7 +1254,6 @@
 ||thepiratebay.org^
 ||theshowgrid.com^
 ||thesilentlibrary.com^
-||thetvapp.to^
 ||thewiki.moe^
 ||theyshootzombies.com^
 ||thwiki.cc^
@@ -1328,7 +1326,6 @@
 ||tvids.me^
 ||tvids.tv^
 ||tvmirror.surge.sh^
-||tvpass.org^
 ||tvsboy.com^
 ||tvshows.ac^
 ||tvshows4mobile.org^
@@ -1860,6 +1857,7 @@
 ||zeta.animerco.org^
 ||zetmoon.live^
 ||zokaj.com^
+||zstream.mov^
 ||zxcprime.icu^
 ||zxpinstaller.com^
 !
@@ -2166,6 +2164,7 @@
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
+! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
@@ -2845,7 +2844,6 @@
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 proxy.cubari.moe
 ! 0.0.0.0 psa.wf
-! 0.0.0.0 pstream.net
 ! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
@@ -2895,6 +2893,7 @@
 ! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 reanime.to
+! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.co
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 relatedanime.com
@@ -2936,7 +2935,6 @@
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
-! 0.0.0.0 s7-tv.blogspot.com
 ! 0.0.0.0 sadscans.net
 ! 0.0.0.0 sakuhindb.com
 ! 0.0.0.0 sakuranovel.id
@@ -3020,8 +3018,9 @@
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportontv.biz
-! 0.0.0.0 sportsbite.online
+! 0.0.0.0 sportsbite.lol
 ! 0.0.0.0 sportsbite.sbs
+! 0.0.0.0 sportsbite.xyz
 ! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.com
 ! 0.0.0.0 squid.wtf
@@ -3050,7 +3049,6 @@
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamninja.online
 ! 0.0.0.0 streamninja.xyz
-! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3085,7 +3083,6 @@
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
-! 0.0.0.0 t.html
 ! 0.0.0.0 t3.xtoon365.com
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
@@ -3114,7 +3111,6 @@
 ! 0.0.0.0 thepiratebay.org
 ! 0.0.0.0 theshowgrid.com
 ! 0.0.0.0 thesilentlibrary.com
-! 0.0.0.0 thetvapp.to
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thwiki.cc
@@ -3187,7 +3183,6 @@
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvids.tv
 ! 0.0.0.0 tvmirror.surge.sh
-! 0.0.0.0 tvpass.org
 ! 0.0.0.0 tvsboy.com
 ! 0.0.0.0 tvshows.ac
 ! 0.0.0.0 tvshows4mobile.org
@@ -3719,5 +3714,6 @@
 ! 0.0.0.0 zeta.animerco.org
 ! 0.0.0.0 zetmoon.live
 ! 0.0.0.0 zokaj.com
+! 0.0.0.0 zstream.mov
 ! 0.0.0.0 zxcprime.icu
 ! 0.0.0.0 zxpinstaller.com
