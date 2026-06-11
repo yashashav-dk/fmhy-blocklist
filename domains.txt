@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1854 domains | updated 2026-06-10T07:11:42Z
+# 1854 domains | updated 2026-06-11T08:06:39Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -188,6 +188,7 @@ animexin.dev
 animotvslash.nl
 animoye.com
 animusic.moe
+aninzb.moe
 anipiece.net
 aniplaylist.com
 anison.fm
@@ -200,7 +201,6 @@ anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
-aniverse.watch
 aniworld.to
 anixtv.in
 anixtv.pro
@@ -520,7 +520,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe637.com
+funbe642.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 gadgeteer.co.za
@@ -558,7 +558,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhd508.net
+hdhd509.net
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -805,6 +805,7 @@ mixmoose.com
 mkissa.to
 mkvdrama.net
 mlblive.net
+mmareplayfull.com
 mobilism-ranks.md
 modlist.in
 moe.emi.aluminium
@@ -1263,7 +1264,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
-tkor119.com
+tkor125.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1419,7 +1420,7 @@ weblinhtinh1.net
 weebcentral.com
 wfs.lol
 wfty.link
-wfwf454.com
+wfwf464.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1442,7 +1443,7 @@ worldnews24.tv
 worldsports.st
 wotaku.wiki
 wowtopix.com
-wtwt327.com
+wtwt329.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1.goojara.to
@@ -1762,7 +1763,6 @@ www.treasuretv.org
 www.turkanime.tv
 www.turnipsoft.com
 www.tuxedounmasked.com
-www.tvbsmh.com
 www.tvchannellists.com
 www.tvdrama-db.com
 www.tvids.net
@@ -1817,7 +1817,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xyzstreams.shop
 yadg.cc
-yatoon234.com
+yatoon235.com
 yatoonlink.com
 yattatachi.com
 yenime.net

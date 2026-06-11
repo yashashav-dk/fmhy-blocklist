@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1854 domains)
-! Last updated: 2026-06-10T07:11:42Z
+! Last updated: 2026-06-11T08:06:39Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -192,6 +192,7 @@
 ||animotvslash.nl^
 ||animoye.com^
 ||animusic.moe^
+||aninzb.moe^
 ||anipiece.net^
 ||aniplaylist.com^
 ||anison.fm^
@@ -204,7 +205,6 @@
 ||anitrakt.huere.net^
 ||anitrendz.net^
 ||anitube.in.ua^
-||aniverse.watch^
 ||aniworld.to^
 ||anixtv.in^
 ||anixtv.pro^
@@ -524,7 +524,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe637.com^
+||funbe642.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||gadgeteer.co.za^
@@ -562,7 +562,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
-||hdhd508.net^
+||hdhd509.net^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -809,6 +809,7 @@
 ||mkissa.to^
 ||mkvdrama.net^
 ||mlblive.net^
+||mmareplayfull.com^
 ||mobilism-ranks.md^
 ||modlist.in^
 ||moe.emi.aluminium^
@@ -1267,7 +1268,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
-||tkor119.com^
+||tkor125.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1423,7 +1424,7 @@
 ||weebcentral.com^
 ||wfs.lol^
 ||wfty.link^
-||wfwf454.com^
+||wfwf464.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1446,7 +1447,7 @@
 ||worldsports.st^
 ||wotaku.wiki^
 ||wowtopix.com^
-||wtwt327.com^
+||wtwt329.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1.goojara.to^
@@ -1766,7 +1767,6 @@
 ||www.turkanime.tv^
 ||www.turnipsoft.com^
 ||www.tuxedounmasked.com^
-||www.tvbsmh.com^
 ||www.tvchannellists.com^
 ||www.tvdrama-db.com^
 ||www.tvids.net^
@@ -1821,7 +1821,7 @@
 ||xoxocomic.com^
 ||xyzstreams.shop^
 ||yadg.cc^
-||yatoon234.com^
+||yatoon235.com^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -2049,6 +2049,7 @@
 ! 0.0.0.0 animotvslash.nl
 ! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
+! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 anipiece.net
 ! 0.0.0.0 aniplaylist.com
 ! 0.0.0.0 anison.fm
@@ -2061,7 +2062,6 @@
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
-! 0.0.0.0 aniverse.watch
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
 ! 0.0.0.0 anixtv.pro
@@ -2381,7 +2381,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe637.com
+! 0.0.0.0 funbe642.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 gadgeteer.co.za
@@ -2419,7 +2419,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
-! 0.0.0.0 hdhd508.net
+! 0.0.0.0 hdhd509.net
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2666,6 +2666,7 @@
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvdrama.net
 ! 0.0.0.0 mlblive.net
+! 0.0.0.0 mmareplayfull.com
 ! 0.0.0.0 mobilism-ranks.md
 ! 0.0.0.0 modlist.in
 ! 0.0.0.0 moe.emi.aluminium
@@ -3124,7 +3125,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
-! 0.0.0.0 tkor119.com
+! 0.0.0.0 tkor125.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3280,7 +3281,7 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf454.com
+! 0.0.0.0 wfwf464.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3303,7 +3304,7 @@
 ! 0.0.0.0 worldsports.st
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
-! 0.0.0.0 wtwt327.com
+! 0.0.0.0 wtwt329.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1.goojara.to
@@ -3623,7 +3624,6 @@
 ! 0.0.0.0 www.turkanime.tv
 ! 0.0.0.0 www.turnipsoft.com
 ! 0.0.0.0 www.tuxedounmasked.com
-! 0.0.0.0 www.tvbsmh.com
 ! 0.0.0.0 www.tvchannellists.com
 ! 0.0.0.0 www.tvdrama-db.com
 ! 0.0.0.0 www.tvids.net
@@ -3678,7 +3678,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xyzstreams.shop
 ! 0.0.0.0 yadg.cc
-! 0.0.0.0 yatoon234.com
+! 0.0.0.0 yatoon235.com
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
