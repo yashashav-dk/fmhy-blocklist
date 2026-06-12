@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1854 domains | updated 2026-06-11T08:06:39Z
+# 1855 domains | updated 2026-06-12T07:25:08Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -223,6 +223,7 @@ archived.moe
 archiveofsins.com
 argoscomics.online
 arise.aniflix.uno
+arrowtv.net
 article.olduse.net
 arvio.tv
 ascii2d.net
@@ -1529,7 +1530,6 @@ www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
 www.bingeclock.com
-www.bitview.net
 www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com
@@ -1664,6 +1664,7 @@ www.mangaworld.ac
 www.mangaworldadult.net
 www.manhuagui.com
 www.mau2.com
+www.megacartoons.net
 www.miobt.com
 www.miruro.com
 www.miruro.to

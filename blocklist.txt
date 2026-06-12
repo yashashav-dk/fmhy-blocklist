@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1854 domains)
-! Last updated: 2026-06-11T08:06:39Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1855 domains)
+! Last updated: 2026-06-12T07:25:08Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -227,6 +227,7 @@
 ||archiveofsins.com^
 ||argoscomics.online^
 ||arise.aniflix.uno^
+||arrowtv.net^
 ||article.olduse.net^
 ||arvio.tv^
 ||ascii2d.net^
@@ -1533,7 +1534,6 @@
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
 ||www.bingeclock.com^
-||www.bitview.net^
 ||www.boredflix.tv^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
@@ -1668,6 +1668,7 @@
 ||www.mangaworldadult.net^
 ||www.manhuagui.com^
 ||www.mau2.com^
+||www.megacartoons.net^
 ||www.miobt.com^
 ||www.miruro.com^
 ||www.miruro.to^
@@ -2084,6 +2085,7 @@
 ! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 arise.aniflix.uno
+! 0.0.0.0 arrowtv.net
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 arvio.tv
 ! 0.0.0.0 ascii2d.net
@@ -3390,7 +3392,6 @@
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
 ! 0.0.0.0 www.bingeclock.com
-! 0.0.0.0 www.bitview.net
 ! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
@@ -3525,6 +3526,7 @@
 ! 0.0.0.0 www.mangaworldadult.net
 ! 0.0.0.0 www.manhuagui.com
 ! 0.0.0.0 www.mau2.com
+! 0.0.0.0 www.megacartoons.net
 ! 0.0.0.0 www.miobt.com
 ! 0.0.0.0 www.miruro.com
 ! 0.0.0.0 www.miruro.to
