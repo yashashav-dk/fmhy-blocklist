@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1855 domains | updated 2026-06-12T07:25:08Z
+# 1848 domains | updated 2026-06-13T07:00:39Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -211,7 +211,6 @@ anizone.to
 annas-archive.gl
 annict.com
 anonops.com
-apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
 arabshentai.com
@@ -321,6 +320,7 @@ cinevibe.asia
 cinevibe.icu
 cinevibe.site
 cinevibe.to
+circle.ms
 cksub.org
 cli.club
 clients.md
@@ -359,7 +359,6 @@ cooljapanportal.com
 coolmic.me
 coreflix.tv
 corsflix.net
-couchmoney.tv
 countdown.tv
 crackstreams.ms
 cracksurl.com
@@ -448,8 +447,6 @@ english-dubbed.com
 english.html
 episodehive.com
 epub.moe
-erogamescape.dyndns.org
-erogamescape.org
 erogemusicquiz.com
 esp32.nontonx.com
 estrenosanime.net
@@ -498,10 +495,8 @@ flyflix.net
 fmstream.org
 footballia.eu
 footballia.net
-footfast.cc
 footfast.link
 footfast.us
-footstreams.xyz
 fooyin.org
 foro.unionfansub.com
 forum.dirtywarez.com
@@ -645,6 +640,7 @@ kayoanime.com
 kazemakase.wjg.jp
 kcnawatch.us
 kesifasya.com
+ketto.com
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
@@ -860,7 +856,6 @@ nbamonster.com
 nekobt.to
 nelvix.xyz
 neoapo.com
-nepchan.org
 nepu.to
 netnaija.film
 netplayz.live
@@ -965,12 +960,12 @@ playlist.pls
 playlists.at
 playtorrio.xyz
 plaza.one
-plexmovies.online
 plugin.audio.navidrome
 plugin.audio.subsonic
 popcornflix.com
 popcornmovies.org
 portableappz.blogspot.com
+portal.circle.ms
 portapps.io
 potamanime.rs
 powder.media
@@ -1124,6 +1119,7 @@ sharemania.us
 sharkstreams.net
 shikimori.io
 shikimori.rip
+shimeken.com
 shinden.pl
 shokoanime.com
 shosekiranking.blog.fc2.com
@@ -1195,7 +1191,6 @@ streamsports99.website
 streamtim.com
 streamvaults.ru
 streamwatch.online
-streamwatch.youplex.site
 stremio-addons.net
 strexoplayer.onrender.com
 strims24.pl
@@ -1405,13 +1400,11 @@ watchfooty.st
 watchmmafull.com
 watchorbit.me
 watchott.ru
-watchprowrestlings.live
 watchreplay.net
 watchsports.to
 watchsurface.stream
 watchtvs.live
 watchwrestling.ae
-watchwrestling.st
 way2movies.live
 web.nxsha.app
 web.watchargo.com

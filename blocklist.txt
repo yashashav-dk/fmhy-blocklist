@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1855 domains)
-! Last updated: 2026-06-12T07:25:08Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1848 domains)
+! Last updated: 2026-06-13T07:00:39Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -215,7 +215,6 @@
 ||annas-archive.gl^
 ||annict.com^
 ||anonops.com^
-||apexmovies.net^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
 ||arabshentai.com^
@@ -325,6 +324,7 @@
 ||cinevibe.icu^
 ||cinevibe.site^
 ||cinevibe.to^
+||circle.ms^
 ||cksub.org^
 ||cli.club^
 ||clients.md^
@@ -363,7 +363,6 @@
 ||coolmic.me^
 ||coreflix.tv^
 ||corsflix.net^
-||couchmoney.tv^
 ||countdown.tv^
 ||crackstreams.ms^
 ||cracksurl.com^
@@ -452,8 +451,6 @@
 ||english.html^
 ||episodehive.com^
 ||epub.moe^
-||erogamescape.dyndns.org^
-||erogamescape.org^
 ||erogemusicquiz.com^
 ||esp32.nontonx.com^
 ||estrenosanime.net^
@@ -502,10 +499,8 @@
 ||fmstream.org^
 ||footballia.eu^
 ||footballia.net^
-||footfast.cc^
 ||footfast.link^
 ||footfast.us^
-||footstreams.xyz^
 ||fooyin.org^
 ||foro.unionfansub.com^
 ||forum.dirtywarez.com^
@@ -649,6 +644,7 @@
 ||kazemakase.wjg.jp^
 ||kcnawatch.us^
 ||kesifasya.com^
+||ketto.com^
 ||keyframe-staff-list.com^
 ||keygenmusic.tk^
 ||kibo.fm^
@@ -864,7 +860,6 @@
 ||nekobt.to^
 ||nelvix.xyz^
 ||neoapo.com^
-||nepchan.org^
 ||nepu.to^
 ||netnaija.film^
 ||netplayz.live^
@@ -969,12 +964,12 @@
 ||playlists.at^
 ||playtorrio.xyz^
 ||plaza.one^
-||plexmovies.online^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
 ||popcornflix.com^
 ||popcornmovies.org^
 ||portableappz.blogspot.com^
+||portal.circle.ms^
 ||portapps.io^
 ||potamanime.rs^
 ||powder.media^
@@ -1128,6 +1123,7 @@
 ||sharkstreams.net^
 ||shikimori.io^
 ||shikimori.rip^
+||shimeken.com^
 ||shinden.pl^
 ||shokoanime.com^
 ||shosekiranking.blog.fc2.com^
@@ -1199,7 +1195,6 @@
 ||streamtim.com^
 ||streamvaults.ru^
 ||streamwatch.online^
-||streamwatch.youplex.site^
 ||stremio-addons.net^
 ||strexoplayer.onrender.com^
 ||strims24.pl^
@@ -1409,13 +1404,11 @@
 ||watchmmafull.com^
 ||watchorbit.me^
 ||watchott.ru^
-||watchprowrestlings.live^
 ||watchreplay.net^
 ||watchsports.to^
 ||watchsurface.stream^
 ||watchtvs.live^
 ||watchwrestling.ae^
-||watchwrestling.st^
 ||way2movies.live^
 ||web.nxsha.app^
 ||web.watchargo.com^
@@ -2073,7 +2066,6 @@
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
-! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
 ! 0.0.0.0 arabshentai.com
@@ -2183,6 +2175,7 @@
 ! 0.0.0.0 cinevibe.icu
 ! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
+! 0.0.0.0 circle.ms
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2221,7 +2214,6 @@
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 coreflix.tv
 ! 0.0.0.0 corsflix.net
-! 0.0.0.0 couchmoney.tv
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 crackstreams.ms
 ! 0.0.0.0 cracksurl.com
@@ -2310,8 +2302,6 @@
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
 ! 0.0.0.0 epub.moe
-! 0.0.0.0 erogamescape.dyndns.org
-! 0.0.0.0 erogamescape.org
 ! 0.0.0.0 erogemusicquiz.com
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
@@ -2360,10 +2350,8 @@
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
-! 0.0.0.0 footfast.cc
 ! 0.0.0.0 footfast.link
 ! 0.0.0.0 footfast.us
-! 0.0.0.0 footstreams.xyz
 ! 0.0.0.0 fooyin.org
 ! 0.0.0.0 foro.unionfansub.com
 ! 0.0.0.0 forum.dirtywarez.com
@@ -2507,6 +2495,7 @@
 ! 0.0.0.0 kazemakase.wjg.jp
 ! 0.0.0.0 kcnawatch.us
 ! 0.0.0.0 kesifasya.com
+! 0.0.0.0 ketto.com
 ! 0.0.0.0 keyframe-staff-list.com
 ! 0.0.0.0 keygenmusic.tk
 ! 0.0.0.0 kibo.fm
@@ -2722,7 +2711,6 @@
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
-! 0.0.0.0 nepchan.org
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.live
@@ -2827,12 +2815,12 @@
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 playtorrio.xyz
 ! 0.0.0.0 plaza.one
-! 0.0.0.0 plexmovies.online
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.org
 ! 0.0.0.0 portableappz.blogspot.com
+! 0.0.0.0 portal.circle.ms
 ! 0.0.0.0 portapps.io
 ! 0.0.0.0 potamanime.rs
 ! 0.0.0.0 powder.media
@@ -2986,6 +2974,7 @@
 ! 0.0.0.0 sharkstreams.net
 ! 0.0.0.0 shikimori.io
 ! 0.0.0.0 shikimori.rip
+! 0.0.0.0 shimeken.com
 ! 0.0.0.0 shinden.pl
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shosekiranking.blog.fc2.com
@@ -3057,7 +3046,6 @@
 ! 0.0.0.0 streamtim.com
 ! 0.0.0.0 streamvaults.ru
 ! 0.0.0.0 streamwatch.online
-! 0.0.0.0 streamwatch.youplex.site
 ! 0.0.0.0 stremio-addons.net
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.pl
@@ -3267,13 +3255,11 @@
 ! 0.0.0.0 watchmmafull.com
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.ru
-! 0.0.0.0 watchprowrestlings.live
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchsports.to
 ! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
-! 0.0.0.0 watchwrestling.st
 ! 0.0.0.0 way2movies.live
 ! 0.0.0.0 web.nxsha.app
 ! 0.0.0.0 web.watchargo.com
