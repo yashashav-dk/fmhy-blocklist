@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1848 domains | updated 2026-06-13T07:00:39Z
+# 1848 domains | updated 2026-06-14T07:25:11Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -554,7 +554,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhd509.net
+hdhd510.net
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -709,6 +709,7 @@ lrepacks.net
 lucida.to
 luciferdonghua.in
 lumotv.co.uk
+luna-stream.me
 lunara.watch
 lunaranime.ru
 lunastream.fun
@@ -808,6 +809,7 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
+monochrome.tf
 monoschinos2.com
 moonflix.com
 moonflix.site
@@ -1299,7 +1301,6 @@ trueharem.carrd.co
 truyendex.cc
 truyenfull.io
 truyenfull.vision
-truyenhentaivn.club
 truyenqqko.com
 tsquareplaza.blogspot.com
 tundra.moe
@@ -1394,10 +1395,8 @@ watch.mometu.com
 watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.net
-watchf1full.com
 watchflix.to
 watchfooty.st
-watchmmafull.com
 watchorbit.me
 watchott.ru
 watchreplay.net
@@ -1619,6 +1618,7 @@ www.instafest.app
 www.iptvsmarters.com
 www.ivanime.com
 www.izicomics.com
+www.j-magazine.or.jp
 www.j1fm.tokyo
 www.jajanken.net
 www.jam-cons.net

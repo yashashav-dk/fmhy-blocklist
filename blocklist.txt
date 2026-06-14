@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1848 domains)
-! Last updated: 2026-06-13T07:00:39Z
+! Last updated: 2026-06-14T07:25:11Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -558,7 +558,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
-||hdhd509.net^
+||hdhd510.net^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -713,6 +713,7 @@
 ||lucida.to^
 ||luciferdonghua.in^
 ||lumotv.co.uk^
+||luna-stream.me^
 ||lunara.watch^
 ||lunaranime.ru^
 ||lunastream.fun^
@@ -812,6 +813,7 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
+||monochrome.tf^
 ||monoschinos2.com^
 ||moonflix.com^
 ||moonflix.site^
@@ -1303,7 +1305,6 @@
 ||truyendex.cc^
 ||truyenfull.io^
 ||truyenfull.vision^
-||truyenhentaivn.club^
 ||truyenqqko.com^
 ||tsquareplaza.blogspot.com^
 ||tundra.moe^
@@ -1398,10 +1399,8 @@
 ||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.net^
-||watchf1full.com^
 ||watchflix.to^
 ||watchfooty.st^
-||watchmmafull.com^
 ||watchorbit.me^
 ||watchott.ru^
 ||watchreplay.net^
@@ -1623,6 +1622,7 @@
 ||www.iptvsmarters.com^
 ||www.ivanime.com^
 ||www.izicomics.com^
+||www.j-magazine.or.jp^
 ||www.j1fm.tokyo^
 ||www.jajanken.net^
 ||www.jam-cons.net^
@@ -2409,7 +2409,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
-! 0.0.0.0 hdhd509.net
+! 0.0.0.0 hdhd510.net
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2564,6 +2564,7 @@
 ! 0.0.0.0 lucida.to
 ! 0.0.0.0 luciferdonghua.in
 ! 0.0.0.0 lumotv.co.uk
+! 0.0.0.0 luna-stream.me
 ! 0.0.0.0 lunara.watch
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
@@ -2663,6 +2664,7 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
+! 0.0.0.0 monochrome.tf
 ! 0.0.0.0 monoschinos2.com
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moonflix.site
@@ -3154,7 +3156,6 @@
 ! 0.0.0.0 truyendex.cc
 ! 0.0.0.0 truyenfull.io
 ! 0.0.0.0 truyenfull.vision
-! 0.0.0.0 truyenhentaivn.club
 ! 0.0.0.0 truyenqqko.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tundra.moe
@@ -3249,10 +3250,8 @@
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.net
-! 0.0.0.0 watchf1full.com
 ! 0.0.0.0 watchflix.to
 ! 0.0.0.0 watchfooty.st
-! 0.0.0.0 watchmmafull.com
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.ru
 ! 0.0.0.0 watchreplay.net
@@ -3474,6 +3473,7 @@
 ! 0.0.0.0 www.iptvsmarters.com
 ! 0.0.0.0 www.ivanime.com
 ! 0.0.0.0 www.izicomics.com
+! 0.0.0.0 www.j-magazine.or.jp
 ! 0.0.0.0 www.j1fm.tokyo
 ! 0.0.0.0 www.jajanken.net
 ! 0.0.0.0 www.jam-cons.net
