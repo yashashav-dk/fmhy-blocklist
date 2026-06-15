@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1848 domains | updated 2026-06-14T07:25:11Z
+# 1851 domains | updated 2026-06-15T09:26:05Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -83,7 +83,6 @@ anichart.net
 anicheck.moe
 anidap.se
 anidoor.me
-anidub.pro
 anifilm.pro
 anifox.club
 anify.to
@@ -107,7 +106,6 @@ anime-bingo.aikats.us
 anime-community-germany.de
 anime-dunya.com
 anime-fansubs.de
-anime-kami.com
 anime-odcinki.pl
 anime-sama.pw
 anime-sama.to
@@ -369,6 +367,7 @@ crimsonfansubs.com
 cringemdb.com
 cubeflix.org
 cubiktv.com
+cyrisia.com
 daddylive.eu
 daddylive.lat
 daddylive.li
@@ -666,7 +665,6 @@ kitsunekko.net
 komiic.com
 komikcast03.com
 komikindo.ch
-komiku.id
 kontrast.top
 kool.to
 korsite.net
@@ -725,7 +723,7 @@ mainportal66.com
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
-managall.com
+managall1.com
 manba.co.jp
 manga-oni.com
 manga-tr.com
@@ -751,7 +749,6 @@ mangakatana.com
 mangakuro.net
 mangalib.me
 mangamirai.com
-mangapoisk.live
 mangaraw.ac
 mangaraw.best
 mangarawad.bid
@@ -964,6 +961,7 @@ playtorrio.xyz
 plaza.one
 plugin.audio.navidrome
 plugin.audio.subsonic
+pop.dnslc.net
 popcornflix.com
 popcornmovies.org
 portableappz.blogspot.com
@@ -1114,6 +1112,7 @@ senshi.live
 seriesgraph.com
 seriesvault.org
 seriesvault.win
+server.elsci.one
 server.elscione.com
 share.acgnx.se
 sharebb.me
@@ -1166,6 +1165,7 @@ squid.wtf
 srstop.link
 ssrmovies.com
 staff.iklone.org
+staging.ranobe.app
 static.sneedex.moe
 status.miruro.com
 stigstream.ru
@@ -1238,6 +1238,7 @@ tfpdl.to
 the-tv.app
 thebarchive.com
 thecinefy.site
+thedigitaltheater.com
 theindex.moe
 theintrodb.org
 thejadednetwork.com
@@ -1343,6 +1344,7 @@ usenet.rexum.space
 utaite-key.info
 utaitedb.net
 utaten.com
+v11.anidub.digital
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
@@ -1588,6 +1590,7 @@ www.forgottenworlds.net
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
+www.furinkan.com
 www.fzmovies.live
 www.gamingalexandria.com
 www.gestdown.info

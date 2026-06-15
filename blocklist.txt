@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1848 domains)
-! Last updated: 2026-06-14T07:25:11Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1851 domains)
+! Last updated: 2026-06-15T09:26:05Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -87,7 +87,6 @@
 ||anicheck.moe^
 ||anidap.se^
 ||anidoor.me^
-||anidub.pro^
 ||anifilm.pro^
 ||anifox.club^
 ||anify.to^
@@ -111,7 +110,6 @@
 ||anime-community-germany.de^
 ||anime-dunya.com^
 ||anime-fansubs.de^
-||anime-kami.com^
 ||anime-odcinki.pl^
 ||anime-sama.pw^
 ||anime-sama.to^
@@ -373,6 +371,7 @@
 ||cringemdb.com^
 ||cubeflix.org^
 ||cubiktv.com^
+||cyrisia.com^
 ||daddylive.eu^
 ||daddylive.lat^
 ||daddylive.li^
@@ -670,7 +669,6 @@
 ||komiic.com^
 ||komikcast03.com^
 ||komikindo.ch^
-||komiku.id^
 ||kontrast.top^
 ||kool.to^
 ||korsite.net^
@@ -729,7 +727,7 @@
 ||malscraper.azurewebsites.net^
 ||malsync.moe^
 ||malupdaterosx.moe^
-||managall.com^
+||managall1.com^
 ||manba.co.jp^
 ||manga-oni.com^
 ||manga-tr.com^
@@ -755,7 +753,6 @@
 ||mangakuro.net^
 ||mangalib.me^
 ||mangamirai.com^
-||mangapoisk.live^
 ||mangaraw.ac^
 ||mangaraw.best^
 ||mangarawad.bid^
@@ -968,6 +965,7 @@
 ||plaza.one^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
+||pop.dnslc.net^
 ||popcornflix.com^
 ||popcornmovies.org^
 ||portableappz.blogspot.com^
@@ -1118,6 +1116,7 @@
 ||seriesgraph.com^
 ||seriesvault.org^
 ||seriesvault.win^
+||server.elsci.one^
 ||server.elscione.com^
 ||share.acgnx.se^
 ||sharebb.me^
@@ -1170,6 +1169,7 @@
 ||srstop.link^
 ||ssrmovies.com^
 ||staff.iklone.org^
+||staging.ranobe.app^
 ||static.sneedex.moe^
 ||status.miruro.com^
 ||stigstream.ru^
@@ -1242,6 +1242,7 @@
 ||the-tv.app^
 ||thebarchive.com^
 ||thecinefy.site^
+||thedigitaltheater.com^
 ||theindex.moe^
 ||theintrodb.org^
 ||thejadednetwork.com^
@@ -1347,6 +1348,7 @@
 ||utaite-key.info^
 ||utaitedb.net^
 ||utaten.com^
+||v11.anidub.digital^
 ||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
@@ -1592,6 +1594,7 @@
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
 ||www.funniermoments.net^
+||www.furinkan.com^
 ||www.fzmovies.live^
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
@@ -1938,7 +1941,6 @@
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anidap.se
 ! 0.0.0.0 anidoor.me
-! 0.0.0.0 anidub.pro
 ! 0.0.0.0 anifilm.pro
 ! 0.0.0.0 anifox.club
 ! 0.0.0.0 anify.to
@@ -1962,7 +1964,6 @@
 ! 0.0.0.0 anime-community-germany.de
 ! 0.0.0.0 anime-dunya.com
 ! 0.0.0.0 anime-fansubs.de
-! 0.0.0.0 anime-kami.com
 ! 0.0.0.0 anime-odcinki.pl
 ! 0.0.0.0 anime-sama.pw
 ! 0.0.0.0 anime-sama.to
@@ -2224,6 +2225,7 @@
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
+! 0.0.0.0 cyrisia.com
 ! 0.0.0.0 daddylive.eu
 ! 0.0.0.0 daddylive.lat
 ! 0.0.0.0 daddylive.li
@@ -2521,7 +2523,6 @@
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikcast03.com
 ! 0.0.0.0 komikindo.ch
-! 0.0.0.0 komiku.id
 ! 0.0.0.0 kontrast.top
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 korsite.net
@@ -2580,7 +2581,7 @@
 ! 0.0.0.0 malscraper.azurewebsites.net
 ! 0.0.0.0 malsync.moe
 ! 0.0.0.0 malupdaterosx.moe
-! 0.0.0.0 managall.com
+! 0.0.0.0 managall1.com
 ! 0.0.0.0 manba.co.jp
 ! 0.0.0.0 manga-oni.com
 ! 0.0.0.0 manga-tr.com
@@ -2606,7 +2607,6 @@
 ! 0.0.0.0 mangakuro.net
 ! 0.0.0.0 mangalib.me
 ! 0.0.0.0 mangamirai.com
-! 0.0.0.0 mangapoisk.live
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangarawad.bid
@@ -2819,6 +2819,7 @@
 ! 0.0.0.0 plaza.one
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
+! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.org
 ! 0.0.0.0 portableappz.blogspot.com
@@ -2969,6 +2970,7 @@
 ! 0.0.0.0 seriesgraph.com
 ! 0.0.0.0 seriesvault.org
 ! 0.0.0.0 seriesvault.win
+! 0.0.0.0 server.elsci.one
 ! 0.0.0.0 server.elscione.com
 ! 0.0.0.0 share.acgnx.se
 ! 0.0.0.0 sharebb.me
@@ -3021,6 +3023,7 @@
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
 ! 0.0.0.0 staff.iklone.org
+! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 stigstream.ru
@@ -3093,6 +3096,7 @@
 ! 0.0.0.0 the-tv.app
 ! 0.0.0.0 thebarchive.com
 ! 0.0.0.0 thecinefy.site
+! 0.0.0.0 thedigitaltheater.com
 ! 0.0.0.0 theindex.moe
 ! 0.0.0.0 theintrodb.org
 ! 0.0.0.0 thejadednetwork.com
@@ -3198,6 +3202,7 @@
 ! 0.0.0.0 utaite-key.info
 ! 0.0.0.0 utaitedb.net
 ! 0.0.0.0 utaten.com
+! 0.0.0.0 v11.anidub.digital
 ! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
@@ -3443,6 +3448,7 @@
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
+! 0.0.0.0 www.furinkan.com
 ! 0.0.0.0 www.fzmovies.live
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
