@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1851 domains)
-! Last updated: 2026-06-15T09:26:05Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1850 domains)
+! Last updated: 2026-06-16T08:48:34Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -150,7 +150,6 @@
 ||animelek.top^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
-||animelistesi.com^
 ||animelok.online^
 ||animelok.to^
 ||animelok.xyz^
@@ -2004,7 +2003,6 @@
 ! 0.0.0.0 animelek.top
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
-! 0.0.0.0 animelistesi.com
 ! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
