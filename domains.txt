@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1850 domains | updated 2026-06-16T08:48:34Z
+# 1840 domains | updated 2026-06-17T08:30:31Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -57,7 +57,6 @@ afterstream.org
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
-akarimanga.dpdns.org
 alienflix.net
 alist.thdisc.tk
 allcomic.noor.jp
@@ -82,6 +81,7 @@ anica.jp
 anichart.net
 anicheck.moe
 anidap.se
+anidb.app
 anidoor.me
 anifilm.pro
 anifox.club
@@ -141,7 +141,6 @@ animejoker.com
 animejoy.ru
 animekarmalist.com
 animekhor.org
-animeko.ws
 animelayer.ru
 animelek.top
 animelib.org
@@ -294,7 +293,7 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 chillflix.to
-cinebolt.net
+cinebolt.org
 cineby.at
 cinebytv.com
 cinego.co
@@ -347,7 +346,6 @@ comichubfree.com
 comicmafia.to
 comics.codes
 comicskingdom.com
-comikuro.to
 comix.to
 commodore.software
 commons.wikimedia
@@ -368,7 +366,6 @@ cubeflix.org
 cubiktv.com
 cyrisia.com
 daddylive.eu
-daddylive.lat
 daddylive.li
 daddylive.nl
 daddylive.org
@@ -381,7 +378,7 @@ dd12streams.com
 ddlbase.com
 deaffestonlinecinema.eventive.org
 deafmovie.org
-debrid.downloader.zone
+debrid-link.com
 debridmediamanager.com
 debridvault.elfhosted.com
 desu-online.pl
@@ -488,13 +485,13 @@ flixtrz.com
 flixvo.fun
 flixvo.live
 flixway.ru
+fluxtv.cc
+fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
 footballia.eu
 footballia.net
-footfast.link
-footfast.us
 fooyin.org
 foro.unionfansub.com
 forum.dirtywarez.com
@@ -570,7 +567,6 @@ hikka.io
 hindmoviez.cafe
 hizomanga.net
 hkmdb.com
-hollymoviehd-official.com
 hollymoviehd.cc
 home.html
 home.php
@@ -642,7 +638,6 @@ ketto.com
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
-kickassanime.cx
 kids-in-mind.com
 kimcartoon.si
 kimoitv.com
@@ -662,8 +657,8 @@ kisskh.ovh
 kisskh.red
 kitsunekko.net
 komiic.com
-komikcast03.com
 komikindo.ch
+komiku.org
 kontrast.top
 kool.to
 korsite.net
@@ -828,7 +823,6 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.net
 msft-store.tplant.com.au
-mtoon141.com
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -977,7 +971,6 @@ privatemoviez.help
 prodlist.php
 projectfreetv.sx
 proxer.me
-proxy.cubari.moe
 psa.wf
 pstream.site
 psychodownloads.com
@@ -1103,7 +1096,6 @@ search.bgmss.fun
 search.extto.com
 search.php
 seed.musichoarders.xyz
-seiyuu.moe
 sekai.one
 sekai.rl404.com
 senpuu.com.br
@@ -1156,7 +1148,6 @@ spin.moe
 split-tv.co.il
 sportontv.biz
 sportsbite.lol
-sportsbite.sbs
 sportsbite.xyz
 sportsurge.pk
 sportyhunter.com
@@ -1177,7 +1168,6 @@ streamcorner.site
 streameast.ga
 streameast.ph
 streamed.pk
-streamed.st
 streamex.sh
 streamfree.app
 streamfree.link
@@ -1227,6 +1217,9 @@ tagger.site
 taiga.moe
 tana.moe
 taosect.com
+tap4sport.cc
+tap4sport.link
+tap4sport.nl
 tape.xyz
 tauonmusicbox.rocks
 telev.tv
@@ -1313,12 +1306,10 @@ tvalt.surge.sh
 tvchart.benmiz.com
 tvcharts.co
 tvforfree.surge.sh
-tvfredom.surge.sh
 tvfree.surge.sh
 tvfreedom.surge.sh
 tvhub.surge.sh
 tvids.me
-tvids.tv
 tvmirror.surge.sh
 tvsboy.com
 tvshows.ac
@@ -1345,8 +1336,10 @@ utaitedb.net
 utaten.com
 v11.anidub.digital
 v2.gostreameast.link
+v2.komikcast.fit
 v2.samehadaku.how
 v2.sportsurge.net
+v3.animeko.ws
 vaughn.live
 vavoo.to
 vegamovies.market
@@ -1434,7 +1427,6 @@ wiztorrent.com
 wjungle.net
 worldfree4u.moe
 worldnews24.tv
-worldsports.st
 wotaku.wiki
 wowtopix.com
 wtwt329.com
@@ -1451,7 +1443,6 @@ www.2025copy.com
 www.23qb.net
 www.3cat.cat
 www.55comic.com
-www.90minutes.xyz
 www.a-zmanga.net
 www.addic7ed.com
 www.adit-hd.com
@@ -1542,7 +1533,6 @@ www.comicabc.com
 www.comicbookherald.com
 www.comicbooktreasury.com
 www.comichron.com
-www.comicshoplocator.com
 www.continuityguide.net
 www.copy20.com
 www.crossinfworld.com
