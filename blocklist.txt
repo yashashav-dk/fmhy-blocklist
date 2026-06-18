@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
-! Last updated: 2026-06-17T08:30:31Z
+! Last updated: 2026-06-18T08:10:36Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -251,6 +251,7 @@
 ||bangumi.tv^
 ||baozimh.com^
 ||baozimh.org^
+||basementx.pro^
 ||basementx.xyz^
 ||basic.pp.ua^
 ||basketball-video.com^
@@ -289,7 +290,6 @@
 ||canibinge.com^
 ||caps-a-holic.com^
 ||cartooncartoons.thatsoretro.com^
-||cc.edatribe.com^
 ||cd.textfiles^
 ||channelsurfer.tv^
 ||chauthanh.info^
@@ -2094,6 +2094,7 @@
 ! 0.0.0.0 bangumi.tv
 ! 0.0.0.0 baozimh.com
 ! 0.0.0.0 baozimh.org
+! 0.0.0.0 basementx.pro
 ! 0.0.0.0 basementx.xyz
 ! 0.0.0.0 basic.pp.ua
 ! 0.0.0.0 basketball-video.com
@@ -2132,7 +2133,6 @@
 ! 0.0.0.0 canibinge.com
 ! 0.0.0.0 caps-a-holic.com
 ! 0.0.0.0 cartooncartoons.thatsoretro.com
-! 0.0.0.0 cc.edatribe.com
 ! 0.0.0.0 cd.textfiles
 ! 0.0.0.0 channelsurfer.tv
 ! 0.0.0.0 chauthanh.info

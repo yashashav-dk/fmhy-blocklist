@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-06-17T08:30:31Z
+# 1840 domains | updated 2026-06-18T08:10:36Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -247,6 +247,7 @@ bangumi.moe
 bangumi.tv
 baozimh.com
 baozimh.org
+basementx.pro
 basementx.xyz
 basic.pp.ua
 basketball-video.com
@@ -285,7 +286,6 @@ candlestream.xyz
 canibinge.com
 caps-a-holic.com
 cartooncartoons.thatsoretro.com
-cc.edatribe.com
 cd.textfiles
 channelsurfer.tv
 chauthanh.info
