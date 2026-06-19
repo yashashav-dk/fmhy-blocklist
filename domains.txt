@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1840 domains | updated 2026-06-18T08:10:36Z
+# 1843 domains | updated 2026-06-19T08:34:16Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -850,7 +850,7 @@ nelvix.xyz
 neoapo.com
 nepu.to
 netnaija.film
-netplayz.live
+netplayz.top
 netshows.xyz
 new.anidl.org
 news.animenomics.com
@@ -883,6 +883,7 @@ ntv.cx
 ntv.direct
 ntvs.cx
 nukkard.com
+numb3rs.stream
 nunflix.li
 nuvio.tv
 nxxhentai.net
@@ -1138,6 +1139,7 @@ softkomik.com
 some-guy.org
 song-bottle.app
 songle.jp
+songstats.com
 soniczone.net
 sora.ich
 soundbound.app
@@ -1659,6 +1661,7 @@ www.modsyndicate.com
 www.movie-censorship.com
 www.movie-locations.com
 www.movieloci.com
+www.moviemistakes.com
 www.mrqe.com
 www.mundodonghua.com
 www.music-map.com

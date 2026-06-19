@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1840 domains)
-! Last updated: 2026-06-18T08:10:36Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1843 domains)
+! Last updated: 2026-06-19T08:34:16Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -854,7 +854,7 @@
 ||neoapo.com^
 ||nepu.to^
 ||netnaija.film^
-||netplayz.live^
+||netplayz.top^
 ||netshows.xyz^
 ||new.anidl.org^
 ||news.animenomics.com^
@@ -887,6 +887,7 @@
 ||ntv.direct^
 ||ntvs.cx^
 ||nukkard.com^
+||numb3rs.stream^
 ||nunflix.li^
 ||nuvio.tv^
 ||nxxhentai.net^
@@ -1142,6 +1143,7 @@
 ||some-guy.org^
 ||song-bottle.app^
 ||songle.jp^
+||songstats.com^
 ||soniczone.net^
 ||sora.ich^
 ||soundbound.app^
@@ -1663,6 +1665,7 @@
 ||www.movie-censorship.com^
 ||www.movie-locations.com^
 ||www.movieloci.com^
+||www.moviemistakes.com^
 ||www.mrqe.com^
 ||www.mundodonghua.com^
 ||www.music-map.com^
@@ -2697,7 +2700,7 @@
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
-! 0.0.0.0 netplayz.live
+! 0.0.0.0 netplayz.top
 ! 0.0.0.0 netshows.xyz
 ! 0.0.0.0 new.anidl.org
 ! 0.0.0.0 news.animenomics.com
@@ -2730,6 +2733,7 @@
 ! 0.0.0.0 ntv.direct
 ! 0.0.0.0 ntvs.cx
 ! 0.0.0.0 nukkard.com
+! 0.0.0.0 numb3rs.stream
 ! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvio.tv
 ! 0.0.0.0 nxxhentai.net
@@ -2985,6 +2989,7 @@
 ! 0.0.0.0 some-guy.org
 ! 0.0.0.0 song-bottle.app
 ! 0.0.0.0 songle.jp
+! 0.0.0.0 songstats.com
 ! 0.0.0.0 soniczone.net
 ! 0.0.0.0 sora.ich
 ! 0.0.0.0 soundbound.app
@@ -3506,6 +3511,7 @@
 ! 0.0.0.0 www.movie-censorship.com
 ! 0.0.0.0 www.movie-locations.com
 ! 0.0.0.0 www.movieloci.com
+! 0.0.0.0 www.moviemistakes.com
 ! 0.0.0.0 www.mrqe.com
 ! 0.0.0.0 www.mundodonghua.com
 ! 0.0.0.0 www.music-map.com
