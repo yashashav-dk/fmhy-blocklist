@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1843 domains | updated 2026-06-19T08:34:16Z
+# 1857 domains | updated 2026-06-20T07:03:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -207,6 +207,7 @@ anizone.to
 annas-archive.gl
 annict.com
 anonops.com
+apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
 arabshentai.com
@@ -362,6 +363,7 @@ crichd.at
 crichd.com.co
 crimsonfansubs.com
 cringemdb.com
+cs.rin.ru
 cubeflix.org
 cubiktv.com
 cyrisia.com
@@ -373,6 +375,7 @@ daddylive.pk
 dailycommercials.com
 dami-tv.pro
 damitvsports.com
+damovies.net
 db.silveryasha.id
 dd12streams.com
 ddlbase.com
@@ -468,6 +471,7 @@ filmcave.ru
 filmex.to
 filmfans.org
 filmo.platfo.es
+filmora.qzz.io
 filmpolski.pl
 films.waploaded.com
 filmvault.xyz
@@ -490,6 +494,7 @@ fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
+foc113.com
 footballia.eu
 footballia.net
 fooyin.org
@@ -511,9 +516,10 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe642.com
+funbe644.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
+fxfx328.com
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -545,6 +551,7 @@ guides.viren070.me
 guzes.surge.sh
 halcyonrealms.com
 hanime1.me
+happytoon02.com
 harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
@@ -644,6 +651,7 @@ kimoitv.com
 kindlemodding.org
 kingofshojo.com
 kinozal.tv
+kirastreams.onlykirastreams.workers.dev
 kissanime.com.ru
 kissanime.help
 kissasian.video
@@ -804,6 +812,7 @@ monochrome.tf
 monoschinos2.com
 moonflix.com
 moonflix.site
+moovie.fun
 moriyashrine.org
 morphinlegacy.com
 moum.top
@@ -823,6 +832,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.net
 msft-store.tplant.com.au
+mtoon142.asia
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -1129,6 +1139,7 @@ skiley.net
 slow.pics
 smashystream.xyz
 smoores.gitlab.io
+smovies.co
 sneedex.moe
 soccerfull.net
 soft.ac
@@ -1142,13 +1153,14 @@ songle.jp
 songstats.com
 soniczone.net
 sora.ich
+sotproxy.ext.io
 soundbound.app
 sozo.azamov.me
 space.olamovies.dad
 sphinxanime.com
 spin.moe
 split-tv.co.il
-sportontv.biz
+sportontv.space
 sportsbite.lol
 sportsbite.xyz
 sportsurge.pk
@@ -1171,6 +1183,7 @@ streameast.ga
 streameast.ph
 streamed.pk
 streamex.sh
+streamex.ws
 streamfree.app
 streamfree.link
 streamgoblin.com
@@ -1257,7 +1270,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
-tkor125.com
+tkor127.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1317,7 +1330,6 @@ tvsboy.com
 tvshows.ac
 tvshows4mobile.org
 twcclassics.com
-twicomi.com
 typer.hayasaku.fr
 ubu.com
 ufreetv.com
@@ -1358,6 +1370,7 @@ vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
 vidplay.to
+viewtopic.php
 vipotv.com
 virgil.samidy.com
 vknext.net
@@ -1409,7 +1422,7 @@ weblinhtinh1.net
 weebcentral.com
 wfs.lol
 wfty.link
-wfwf464.com
+wfwf471.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1431,7 +1444,7 @@ worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
-wtwt329.com
+wtwt331.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1.goojara.to
@@ -1445,6 +1458,7 @@ www.2025copy.com
 www.23qb.net
 www.3cat.cat
 www.55comic.com
+www.90minutes.pro
 www.a-zmanga.net
 www.addic7ed.com
 www.adit-hd.com
@@ -1795,18 +1809,18 @@ www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net
 www.zophar.net
-www4.animeflv.net
 x27.html
 x3dl.net
 xalosach.com
 xdcc.eu
 xmanhua.com
+xn--9r2b17bn28a.com
 xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
 xyzstreams.shop
 yadg.cc
-yatoon235.com
+yatoon236.com
 yatoonlink.com
 yattatachi.com
 yenime.net
