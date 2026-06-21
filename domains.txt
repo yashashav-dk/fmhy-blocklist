@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1857 domains | updated 2026-06-20T07:03:00Z
+# 1867 domains | updated 2026-06-21T08:02:53Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -138,13 +138,13 @@ animefire.plus
 animehay.in
 animehub.ac
 animejoker.com
-animejoy.ru
 animekarmalist.com
 animekhor.org
 animelayer.ru
 animelek.top
 animelib.org
 animelistdiff.zerolabs.fyi
+animelistesi.com
 animelok.online
 animelok.to
 animelok.xyz
@@ -197,6 +197,7 @@ anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
+aniwaves.ru
 aniworld.to
 anixtv.in
 anixtv.pro
@@ -267,6 +268,7 @@ bgmx.mysxl.cn
 bilibili.tv
 bingebox.to
 bingeflix.tv
+bingr.live
 binsearch.info
 bintv.net
 bleh.katelyn.moe
@@ -293,6 +295,7 @@ chauthanh.info
 chiaki.site
 chikianimation.com
 chikianimation.online
+chillflix.lol
 chillflix.to
 cinebolt.org
 cineby.at
@@ -468,7 +471,6 @@ fauux.neocities.org
 fbstream.cc
 fcast.org
 filmcave.ru
-filmex.to
 filmfans.org
 filmo.platfo.es
 filmora.qzz.io
@@ -513,6 +515,7 @@ french-anime.com
 frixysubs.pl
 frtoon2.com
 fsharetv.co
+fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
@@ -818,6 +821,7 @@ morphinlegacy.com
 moum.top
 movie-web-sources.md
 moviebite.cc
+moviebox.co
 movieboxonline.net
 movielens.org
 movienestbd.pics
@@ -867,6 +871,7 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
+nextbox.uno
 nextnovels.com
 nfl-replays.com
 nfl-video.com
@@ -944,6 +949,7 @@ otakucalendar.com
 otakudesu.cloud
 otcs.minuspoint.com
 ouo.si
+overlook.to
 overtakefans.com
 pahe.ink
 palanq.win
@@ -959,6 +965,7 @@ pixeldrain-bypass.gamedrive.to
 placeit.fun
 planete-bd.org
 plappa.me
+play.onlinetz.app
 playlist.pls
 playlists.at
 playtorrio.xyz
@@ -1136,6 +1143,7 @@ silent-hall-of-fame.org
 silentaperture.gitlab.io
 siptv.eu
 skiley.net
+skip-and-loafer.mikeblocky.com
 slow.pics
 smashystream.xyz
 smoores.gitlab.io
@@ -1311,6 +1319,7 @@ truyenfull.io
 truyenfull.vision
 truyenqqko.com
 tsquareplaza.blogspot.com
+tsukihime.org
 tundra.moe
 tv.filmu.in
 tv.html
@@ -1369,6 +1378,7 @@ vidbox.dev
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
+vidflix.site
 vidplay.to
 viewtopic.php
 vipotv.com
@@ -1447,6 +1457,7 @@ wowtopix.com
 wtwt331.com
 wv.dramacool.com.tr
 ww.animesultra.org
+ww1-fmovies.com
 ww1.goojara.to
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
@@ -1703,7 +1714,6 @@ www.panix.com
 www.pirateboard.net
 www.playary.com
 www.playimdb.com
-www.popr.ink
 www.pracdev.org
 www.primeshows.uk
 www.primewire.mov

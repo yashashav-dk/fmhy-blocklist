@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1857 domains)
-! Last updated: 2026-06-20T07:03:00Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1867 domains)
+! Last updated: 2026-06-21T08:02:53Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -142,13 +142,13 @@
 ||animehay.in^
 ||animehub.ac^
 ||animejoker.com^
-||animejoy.ru^
 ||animekarmalist.com^
 ||animekhor.org^
 ||animelayer.ru^
 ||animelek.top^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
+||animelistesi.com^
 ||animelok.online^
 ||animelok.to^
 ||animelok.xyz^
@@ -201,6 +201,7 @@
 ||anitrakt.huere.net^
 ||anitrendz.net^
 ||anitube.in.ua^
+||aniwaves.ru^
 ||aniworld.to^
 ||anixtv.in^
 ||anixtv.pro^
@@ -271,6 +272,7 @@
 ||bilibili.tv^
 ||bingebox.to^
 ||bingeflix.tv^
+||bingr.live^
 ||binsearch.info^
 ||bintv.net^
 ||bleh.katelyn.moe^
@@ -297,6 +299,7 @@
 ||chiaki.site^
 ||chikianimation.com^
 ||chikianimation.online^
+||chillflix.lol^
 ||chillflix.to^
 ||cinebolt.org^
 ||cineby.at^
@@ -472,7 +475,6 @@
 ||fbstream.cc^
 ||fcast.org^
 ||filmcave.ru^
-||filmex.to^
 ||filmfans.org^
 ||filmo.platfo.es^
 ||filmora.qzz.io^
@@ -517,6 +519,7 @@
 ||frixysubs.pl^
 ||frtoon2.com^
 ||fsharetv.co^
+||fstream.app^
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
@@ -822,6 +825,7 @@
 ||moum.top^
 ||movie-web-sources.md^
 ||moviebite.cc^
+||moviebox.co^
 ||movieboxonline.net^
 ||movielens.org^
 ||movienestbd.pics^
@@ -871,6 +875,7 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
+||nextbox.uno^
 ||nextnovels.com^
 ||nfl-replays.com^
 ||nfl-video.com^
@@ -948,6 +953,7 @@
 ||otakudesu.cloud^
 ||otcs.minuspoint.com^
 ||ouo.si^
+||overlook.to^
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
@@ -963,6 +969,7 @@
 ||placeit.fun^
 ||planete-bd.org^
 ||plappa.me^
+||play.onlinetz.app^
 ||playlist.pls^
 ||playlists.at^
 ||playtorrio.xyz^
@@ -1140,6 +1147,7 @@
 ||silentaperture.gitlab.io^
 ||siptv.eu^
 ||skiley.net^
+||skip-and-loafer.mikeblocky.com^
 ||slow.pics^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
@@ -1315,6 +1323,7 @@
 ||truyenfull.vision^
 ||truyenqqko.com^
 ||tsquareplaza.blogspot.com^
+||tsukihime.org^
 ||tundra.moe^
 ||tv.filmu.in^
 ||tv.html^
@@ -1373,6 +1382,7 @@
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
+||vidflix.site^
 ||vidplay.to^
 ||viewtopic.php^
 ||vipotv.com^
@@ -1451,6 +1461,7 @@
 ||wtwt331.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
+||ww1-fmovies.com^
 ||ww1.goojara.to^
 ||ww1.yesmovies.ag^
 ||ww14.kissasian.com.lv^
@@ -1707,7 +1718,6 @@
 ||www.pirateboard.net^
 ||www.playary.com^
 ||www.playimdb.com^
-||www.popr.ink^
 ||www.pracdev.org^
 ||www.primeshows.uk^
 ||www.primewire.mov^
@@ -2002,13 +2012,13 @@
 ! 0.0.0.0 animehay.in
 ! 0.0.0.0 animehub.ac
 ! 0.0.0.0 animejoker.com
-! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
 ! 0.0.0.0 animelayer.ru
 ! 0.0.0.0 animelek.top
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
+! 0.0.0.0 animelistesi.com
 ! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animelok.xyz
@@ -2061,6 +2071,7 @@
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
+! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
 ! 0.0.0.0 anixtv.pro
@@ -2131,6 +2142,7 @@
 ! 0.0.0.0 bilibili.tv
 ! 0.0.0.0 bingebox.to
 ! 0.0.0.0 bingeflix.tv
+! 0.0.0.0 bingr.live
 ! 0.0.0.0 binsearch.info
 ! 0.0.0.0 bintv.net
 ! 0.0.0.0 bleh.katelyn.moe
@@ -2157,6 +2169,7 @@
 ! 0.0.0.0 chiaki.site
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
+! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 chillflix.to
 ! 0.0.0.0 cinebolt.org
 ! 0.0.0.0 cineby.at
@@ -2332,7 +2345,6 @@
 ! 0.0.0.0 fbstream.cc
 ! 0.0.0.0 fcast.org
 ! 0.0.0.0 filmcave.ru
-! 0.0.0.0 filmex.to
 ! 0.0.0.0 filmfans.org
 ! 0.0.0.0 filmo.platfo.es
 ! 0.0.0.0 filmora.qzz.io
@@ -2377,6 +2389,7 @@
 ! 0.0.0.0 frixysubs.pl
 ! 0.0.0.0 frtoon2.com
 ! 0.0.0.0 fsharetv.co
+! 0.0.0.0 fstream.app
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
@@ -2682,6 +2695,7 @@
 ! 0.0.0.0 moum.top
 ! 0.0.0.0 movie-web-sources.md
 ! 0.0.0.0 moviebite.cc
+! 0.0.0.0 moviebox.co
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movienestbd.pics
@@ -2731,6 +2745,7 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
+! 0.0.0.0 nextbox.uno
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
@@ -2808,6 +2823,7 @@
 ! 0.0.0.0 otakudesu.cloud
 ! 0.0.0.0 otcs.minuspoint.com
 ! 0.0.0.0 ouo.si
+! 0.0.0.0 overlook.to
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
@@ -2823,6 +2839,7 @@
 ! 0.0.0.0 placeit.fun
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
+! 0.0.0.0 play.onlinetz.app
 ! 0.0.0.0 playlist.pls
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 playtorrio.xyz
@@ -3000,6 +3017,7 @@
 ! 0.0.0.0 silentaperture.gitlab.io
 ! 0.0.0.0 siptv.eu
 ! 0.0.0.0 skiley.net
+! 0.0.0.0 skip-and-loafer.mikeblocky.com
 ! 0.0.0.0 slow.pics
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
@@ -3175,6 +3193,7 @@
 ! 0.0.0.0 truyenfull.vision
 ! 0.0.0.0 truyenqqko.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
+! 0.0.0.0 tsukihime.org
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.html
@@ -3233,6 +3252,7 @@
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
+! 0.0.0.0 vidflix.site
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
 ! 0.0.0.0 vipotv.com
@@ -3311,6 +3331,7 @@
 ! 0.0.0.0 wtwt331.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
+! 0.0.0.0 ww1-fmovies.com
 ! 0.0.0.0 ww1.goojara.to
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww14.kissasian.com.lv
@@ -3567,7 +3588,6 @@
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
 ! 0.0.0.0 www.playimdb.com
-! 0.0.0.0 www.popr.ink
 ! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.uk
 ! 0.0.0.0 www.primewire.mov
