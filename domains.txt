@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1867 domains | updated 2026-06-21T08:02:53Z
+# 1873 domains | updated 2026-06-22T09:13:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -80,6 +80,7 @@ anibridge.eliasbenb.dev
 anica.jp
 anichart.net
 anicheck.moe
+anichin.bio
 anidap.se
 anidb.app
 anidoor.me
@@ -138,6 +139,7 @@ animefire.plus
 animehay.in
 animehub.ac
 animejoker.com
+animejoy.ru
 animekarmalist.com
 animekhor.org
 animelayer.ru
@@ -860,6 +862,7 @@ narjomusic.com
 navic.app
 nbamonster.com
 nekobt.to
+nekomitai.net
 nelvix.xyz
 neoapo.com
 nepu.to
@@ -1002,6 +1005,7 @@ r-a-d.io
 radio-anime24.pls
 radio.animebits.moe
 radio.animenexus.net
+radio.nogi46.me
 radio.wapchan.org
 raijinscan.co
 rainwave.cc
@@ -1540,6 +1544,8 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
+www.bimiacg.icu
+www.bimiacg14.net
 www.bingeclock.com
 www.boredflix.tv
 www.brokensilenze.net

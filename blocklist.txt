@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1867 domains)
-! Last updated: 2026-06-21T08:02:53Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1873 domains)
+! Last updated: 2026-06-22T09:13:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -84,6 +84,7 @@
 ||anica.jp^
 ||anichart.net^
 ||anicheck.moe^
+||anichin.bio^
 ||anidap.se^
 ||anidb.app^
 ||anidoor.me^
@@ -142,6 +143,7 @@
 ||animehay.in^
 ||animehub.ac^
 ||animejoker.com^
+||animejoy.ru^
 ||animekarmalist.com^
 ||animekhor.org^
 ||animelayer.ru^
@@ -864,6 +866,7 @@
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
+||nekomitai.net^
 ||nelvix.xyz^
 ||neoapo.com^
 ||nepu.to^
@@ -1006,6 +1009,7 @@
 ||radio-anime24.pls^
 ||radio.animebits.moe^
 ||radio.animenexus.net^
+||radio.nogi46.me^
 ||radio.wapchan.org^
 ||raijinscan.co^
 ||rainwave.cc^
@@ -1544,6 +1548,8 @@
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
+||www.bimiacg.icu^
+||www.bimiacg14.net^
 ||www.bingeclock.com^
 ||www.boredflix.tv^
 ||www.brokensilenze.net^
@@ -1954,6 +1960,7 @@
 ! 0.0.0.0 anica.jp
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
+! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anidap.se
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
@@ -2012,6 +2019,7 @@
 ! 0.0.0.0 animehay.in
 ! 0.0.0.0 animehub.ac
 ! 0.0.0.0 animejoker.com
+! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
 ! 0.0.0.0 animelayer.ru
@@ -2734,6 +2742,7 @@
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
+! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepu.to
@@ -2876,6 +2885,7 @@
 ! 0.0.0.0 radio-anime24.pls
 ! 0.0.0.0 radio.animebits.moe
 ! 0.0.0.0 radio.animenexus.net
+! 0.0.0.0 radio.nogi46.me
 ! 0.0.0.0 radio.wapchan.org
 ! 0.0.0.0 raijinscan.co
 ! 0.0.0.0 rainwave.cc
@@ -3414,6 +3424,8 @@
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
+! 0.0.0.0 www.bimiacg.icu
+! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
