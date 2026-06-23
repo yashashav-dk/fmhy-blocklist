@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1873 domains | updated 2026-06-22T09:13:03Z
+# 1876 domains | updated 2026-06-23T06:53:34Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -210,6 +210,7 @@ anizone.to
 annas-archive.gl
 annict.com
 anonops.com
+antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
@@ -231,6 +232,7 @@ asiaflix.in
 asiaflix.net
 asiamediablog.com
 asiansubs.com
+aside-manga.news
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
@@ -314,6 +316,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
+cinepro.fstream.app
 cinestream.kje.us
 cinetaro.tv
 cinetimes.org
@@ -701,6 +704,7 @@ listen.moe
 lists.fun
 livepush.io
 livetv.sx
+livextv.hybrows.workers.dev
 lmanime.com
 lnbmange.com
 lnori.com
@@ -1130,7 +1134,6 @@ server.elscione.com
 share.acgnx.se
 sharebb.me
 sharemania.us
-sharkstreams.net
 shikimori.io
 shikimori.rip
 shimeken.com
@@ -1199,8 +1202,8 @@ streamex.ws
 streamfree.app
 streamfree.link
 streamgoblin.com
-streami.click
 streami.su
+streamic.ru
 streaming-integrale.com
 streamninja.online
 streamninja.xyz

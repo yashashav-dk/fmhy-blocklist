@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1873 domains)
-! Last updated: 2026-06-22T09:13:03Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1876 domains)
+! Last updated: 2026-06-23T06:53:34Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -214,6 +214,7 @@
 ||annas-archive.gl^
 ||annict.com^
 ||anonops.com^
+||antra.hoshi.cfd^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
@@ -235,6 +236,7 @@
 ||asiaflix.net^
 ||asiamediablog.com^
 ||asiansubs.com^
+||aside-manga.news^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
@@ -318,6 +320,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
+||cinepro.fstream.app^
 ||cinestream.kje.us^
 ||cinetaro.tv^
 ||cinetimes.org^
@@ -705,6 +708,7 @@
 ||lists.fun^
 ||livepush.io^
 ||livetv.sx^
+||livextv.hybrows.workers.dev^
 ||lmanime.com^
 ||lnbmange.com^
 ||lnori.com^
@@ -1134,7 +1138,6 @@
 ||share.acgnx.se^
 ||sharebb.me^
 ||sharemania.us^
-||sharkstreams.net^
 ||shikimori.io^
 ||shikimori.rip^
 ||shimeken.com^
@@ -1203,8 +1206,8 @@
 ||streamfree.app^
 ||streamfree.link^
 ||streamgoblin.com^
-||streami.click^
 ||streami.su^
+||streamic.ru^
 ||streaming-integrale.com^
 ||streamninja.online^
 ||streamninja.xyz^
@@ -2090,6 +2093,7 @@
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
+! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
@@ -2111,6 +2115,7 @@
 ! 0.0.0.0 asiaflix.net
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
+! 0.0.0.0 aside-manga.news
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
@@ -2194,6 +2199,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
+! 0.0.0.0 cinepro.fstream.app
 ! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
@@ -2581,6 +2587,7 @@
 ! 0.0.0.0 lists.fun
 ! 0.0.0.0 livepush.io
 ! 0.0.0.0 livetv.sx
+! 0.0.0.0 livextv.hybrows.workers.dev
 ! 0.0.0.0 lmanime.com
 ! 0.0.0.0 lnbmange.com
 ! 0.0.0.0 lnori.com
@@ -3010,7 +3017,6 @@
 ! 0.0.0.0 share.acgnx.se
 ! 0.0.0.0 sharebb.me
 ! 0.0.0.0 sharemania.us
-! 0.0.0.0 sharkstreams.net
 ! 0.0.0.0 shikimori.io
 ! 0.0.0.0 shikimori.rip
 ! 0.0.0.0 shimeken.com
@@ -3079,8 +3085,8 @@
 ! 0.0.0.0 streamfree.app
 ! 0.0.0.0 streamfree.link
 ! 0.0.0.0 streamgoblin.com
-! 0.0.0.0 streami.click
 ! 0.0.0.0 streami.su
+! 0.0.0.0 streamic.ru
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamninja.online
 ! 0.0.0.0 streamninja.xyz
