@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1876 domains)
-! Last updated: 2026-06-23T06:53:34Z
+! Last updated: 2026-06-24T06:51:22Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -329,6 +329,7 @@
 ||cinevibe.icu^
 ||cinevibe.site^
 ||cinevibe.to^
+||ciniverse.site^
 ||circle.ms^
 ||cksub.org^
 ||cli.club^
@@ -389,7 +390,6 @@
 ||damitvsports.com^
 ||damovies.net^
 ||db.silveryasha.id^
-||dd12streams.com^
 ||ddlbase.com^
 ||deaffestonlinecinema.eventive.org^
 ||deafmovie.org^
@@ -546,6 +546,7 @@
 ||globetv.app^
 ||go.aftvnews.com^
 ||goatapi.imreallydagoatt.workers.dev^
+||goated.cx^
 ||goctruyentranh.net^
 ||goplay.ml^
 ||goplay.su^
@@ -600,7 +601,6 @@
 ||i.wotaku.wiki^
 ||iamscum.wordpress.com^
 ||icefy.top^
-||id.shinigami.asia^
 ||igmdb.com^
 ||iklone.org^
 ||in.krosbits.musicolet^
@@ -695,6 +695,7 @@
 ||last.timer^
 ||lastfmstats.com^
 ||latanime.org^
+||latestmovies.net^
 ||leemiau.com^
 ||lermangas.me^
 ||letsanime.blogspot.com^
@@ -815,7 +816,6 @@
 ||mkissa.to^
 ||mkvdrama.net^
 ||mlblive.net^
-||mmareplayfull.com^
 ||mobilism-ranks.md^
 ||modlist.in^
 ||moe.emi.aluminium^
@@ -871,6 +871,7 @@
 ||nbamonster.com^
 ||nekobt.to^
 ||nekomitai.net^
+||nekopoi.care^
 ||nelvix.xyz^
 ||neoapo.com^
 ||nepu.to^
@@ -1171,7 +1172,6 @@
 ||songle.jp^
 ||songstats.com^
 ||soniczone.net^
-||sora.ich^
 ||sotproxy.ext.io^
 ||soundbound.app^
 ||sozo.azamov.me^
@@ -2208,6 +2208,7 @@
 ! 0.0.0.0 cinevibe.icu
 ! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
+! 0.0.0.0 ciniverse.site
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
@@ -2268,7 +2269,6 @@
 ! 0.0.0.0 damitvsports.com
 ! 0.0.0.0 damovies.net
 ! 0.0.0.0 db.silveryasha.id
-! 0.0.0.0 dd12streams.com
 ! 0.0.0.0 ddlbase.com
 ! 0.0.0.0 deaffestonlinecinema.eventive.org
 ! 0.0.0.0 deafmovie.org
@@ -2425,6 +2425,7 @@
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goatapi.imreallydagoatt.workers.dev
+! 0.0.0.0 goated.cx
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
@@ -2479,7 +2480,6 @@
 ! 0.0.0.0 i.wotaku.wiki
 ! 0.0.0.0 iamscum.wordpress.com
 ! 0.0.0.0 icefy.top
-! 0.0.0.0 id.shinigami.asia
 ! 0.0.0.0 igmdb.com
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
@@ -2574,6 +2574,7 @@
 ! 0.0.0.0 last.timer
 ! 0.0.0.0 lastfmstats.com
 ! 0.0.0.0 latanime.org
+! 0.0.0.0 latestmovies.net
 ! 0.0.0.0 leemiau.com
 ! 0.0.0.0 lermangas.me
 ! 0.0.0.0 letsanime.blogspot.com
@@ -2694,7 +2695,6 @@
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvdrama.net
 ! 0.0.0.0 mlblive.net
-! 0.0.0.0 mmareplayfull.com
 ! 0.0.0.0 mobilism-ranks.md
 ! 0.0.0.0 modlist.in
 ! 0.0.0.0 moe.emi.aluminium
@@ -2750,6 +2750,7 @@
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
+! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepu.to
@@ -3050,7 +3051,6 @@
 ! 0.0.0.0 songle.jp
 ! 0.0.0.0 songstats.com
 ! 0.0.0.0 soniczone.net
-! 0.0.0.0 sora.ich
 ! 0.0.0.0 sotproxy.ext.io
 ! 0.0.0.0 soundbound.app
 ! 0.0.0.0 sozo.azamov.me

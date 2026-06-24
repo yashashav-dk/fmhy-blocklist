@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1876 domains | updated 2026-06-23T06:53:34Z
+# 1876 domains | updated 2026-06-24T06:51:22Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -325,6 +325,7 @@ cinevibe.asia
 cinevibe.icu
 cinevibe.site
 cinevibe.to
+ciniverse.site
 circle.ms
 cksub.org
 cli.club
@@ -385,7 +386,6 @@ dami-tv.pro
 damitvsports.com
 damovies.net
 db.silveryasha.id
-dd12streams.com
 ddlbase.com
 deaffestonlinecinema.eventive.org
 deafmovie.org
@@ -542,6 +542,7 @@ globeradio.app
 globetv.app
 go.aftvnews.com
 goatapi.imreallydagoatt.workers.dev
+goated.cx
 goctruyentranh.net
 goplay.ml
 goplay.su
@@ -596,7 +597,6 @@ hydrahd.ru
 i.wotaku.wiki
 iamscum.wordpress.com
 icefy.top
-id.shinigami.asia
 igmdb.com
 iklone.org
 in.krosbits.musicolet
@@ -691,6 +691,7 @@ lama.watch
 last.timer
 lastfmstats.com
 latanime.org
+latestmovies.net
 leemiau.com
 lermangas.me
 letsanime.blogspot.com
@@ -811,7 +812,6 @@ mixmoose.com
 mkissa.to
 mkvdrama.net
 mlblive.net
-mmareplayfull.com
 mobilism-ranks.md
 modlist.in
 moe.emi.aluminium
@@ -867,6 +867,7 @@ navic.app
 nbamonster.com
 nekobt.to
 nekomitai.net
+nekopoi.care
 nelvix.xyz
 neoapo.com
 nepu.to
@@ -1167,7 +1168,6 @@ song-bottle.app
 songle.jp
 songstats.com
 soniczone.net
-sora.ich
 sotproxy.ext.io
 soundbound.app
 sozo.azamov.me
