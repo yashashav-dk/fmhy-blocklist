@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1876 domains | updated 2026-06-25T06:50:54Z
+# 1873 domains | updated 2026-06-26T06:57:07Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -85,6 +85,7 @@ anidap.se
 anidb.app
 anidoor.me
 anifilm.pro
+aniflix.uno
 anifox.club
 anify.to
 aniguessr.com
@@ -222,7 +223,6 @@ archive.palanq.win
 archived.moe
 archiveofsins.com
 argoscomics.online
-arise.aniflix.uno
 arrowtv.net
 article.olduse.net
 arvio.tv
@@ -300,7 +300,6 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 chillflix.lol
-chillflix.to
 cinebolt.org
 cineby.at
 cinebytv.com
@@ -316,7 +315,6 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
-cinepro.fstream.app
 cinestream.kje.us
 cinetaro.tv
 cinetimes.org
@@ -520,7 +518,6 @@ french-anime.com
 frixysubs.pl
 frtoon2.com
 fsharetv.co
-fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
@@ -993,7 +990,6 @@ ppv.is
 ppv.to
 primewire.nexus
 primewire.zip
-privatemoviez.help
 prodlist.php
 projectfreetv.sx
 proxer.me
@@ -1279,7 +1275,7 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timstreams.net
+timstreams.st
 tioanime.com
 tiodonghua.com
 tivimate.com
@@ -1606,7 +1602,7 @@ www.filmgo.live
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
-www.fmovies.nz
+www.fmovies.gd
 www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com
@@ -1723,6 +1719,7 @@ www.panix.com
 www.pirateboard.net
 www.playary.com
 www.playimdb.com
+www.popr.ink
 www.pracdev.org
 www.primeshows.uk
 www.primewire.mov
@@ -1837,7 +1834,7 @@ xn--9r2b17bn28a.com
 xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
-xyzstreams.shop
+xyzstreams.st
 yadg.cc
 yatoon236.com
 yatoonlink.com
@@ -1857,7 +1854,7 @@ youtube-music.app
 ytch.tv
 yts-subs.com
 yts-yify-note.md
-yts.bz
+yts.gg
 ytsproxies.com
 ytsubdl.com
 yukisubs.wordpress.com

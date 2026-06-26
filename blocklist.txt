@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1876 domains)
-! Last updated: 2026-06-25T06:50:54Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1873 domains)
+! Last updated: 2026-06-26T06:57:07Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -89,6 +89,7 @@
 ||anidb.app^
 ||anidoor.me^
 ||anifilm.pro^
+||aniflix.uno^
 ||anifox.club^
 ||anify.to^
 ||aniguessr.com^
@@ -226,7 +227,6 @@
 ||archived.moe^
 ||archiveofsins.com^
 ||argoscomics.online^
-||arise.aniflix.uno^
 ||arrowtv.net^
 ||article.olduse.net^
 ||arvio.tv^
@@ -304,7 +304,6 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||chillflix.lol^
-||chillflix.to^
 ||cinebolt.org^
 ||cineby.at^
 ||cinebytv.com^
@@ -320,7 +319,6 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
-||cinepro.fstream.app^
 ||cinestream.kje.us^
 ||cinetaro.tv^
 ||cinetimes.org^
@@ -524,7 +522,6 @@
 ||frixysubs.pl^
 ||frtoon2.com^
 ||fsharetv.co^
-||fstream.app^
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
@@ -997,7 +994,6 @@
 ||ppv.to^
 ||primewire.nexus^
 ||primewire.zip^
-||privatemoviez.help^
 ||prodlist.php^
 ||projectfreetv.sx^
 ||proxer.me^
@@ -1283,7 +1279,7 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
-||timstreams.net^
+||timstreams.st^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
@@ -1610,7 +1606,7 @@
 ||www.flickchart.com^
 ||www.flikhub.net^
 ||www.flixwatch.co^
-||www.fmovies.nz^
+||www.fmovies.gd^
 ||www.fontspring.com^
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
@@ -1727,6 +1723,7 @@
 ||www.pirateboard.net^
 ||www.playary.com^
 ||www.playimdb.com^
+||www.popr.ink^
 ||www.pracdev.org^
 ||www.primeshows.uk^
 ||www.primewire.mov^
@@ -1841,7 +1838,7 @@
 ||xn--9t4b31dr7o.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
-||xyzstreams.shop^
+||xyzstreams.st^
 ||yadg.cc^
 ||yatoon236.com^
 ||yatoonlink.com^
@@ -1861,7 +1858,7 @@
 ||ytch.tv^
 ||yts-subs.com^
 ||yts-yify-note.md^
-||yts.bz^
+||yts.gg^
 ||ytsproxies.com^
 ||ytsubdl.com^
 ||yukisubs.wordpress.com^
@@ -1968,6 +1965,7 @@
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anifilm.pro
+! 0.0.0.0 aniflix.uno
 ! 0.0.0.0 anifox.club
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
@@ -2105,7 +2103,6 @@
 ! 0.0.0.0 archived.moe
 ! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 argoscomics.online
-! 0.0.0.0 arise.aniflix.uno
 ! 0.0.0.0 arrowtv.net
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 arvio.tv
@@ -2183,7 +2180,6 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
-! 0.0.0.0 chillflix.to
 ! 0.0.0.0 cinebolt.org
 ! 0.0.0.0 cineby.at
 ! 0.0.0.0 cinebytv.com
@@ -2199,7 +2195,6 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
-! 0.0.0.0 cinepro.fstream.app
 ! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
@@ -2403,7 +2398,6 @@
 ! 0.0.0.0 frixysubs.pl
 ! 0.0.0.0 frtoon2.com
 ! 0.0.0.0 fsharetv.co
-! 0.0.0.0 fstream.app
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
@@ -2876,7 +2870,6 @@
 ! 0.0.0.0 ppv.to
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
-! 0.0.0.0 privatemoviez.help
 ! 0.0.0.0 prodlist.php
 ! 0.0.0.0 projectfreetv.sx
 ! 0.0.0.0 proxer.me
@@ -3162,7 +3155,7 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
-! 0.0.0.0 timstreams.net
+! 0.0.0.0 timstreams.st
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
@@ -3489,7 +3482,7 @@
 ! 0.0.0.0 www.flickchart.com
 ! 0.0.0.0 www.flikhub.net
 ! 0.0.0.0 www.flixwatch.co
-! 0.0.0.0 www.fmovies.nz
+! 0.0.0.0 www.fmovies.gd
 ! 0.0.0.0 www.fontspring.com
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
@@ -3606,6 +3599,7 @@
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
 ! 0.0.0.0 www.playimdb.com
+! 0.0.0.0 www.popr.ink
 ! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.uk
 ! 0.0.0.0 www.primewire.mov
@@ -3720,7 +3714,7 @@
 ! 0.0.0.0 xn--9t4b31dr7o.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
-! 0.0.0.0 xyzstreams.shop
+! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yadg.cc
 ! 0.0.0.0 yatoon236.com
 ! 0.0.0.0 yatoonlink.com
@@ -3740,7 +3734,7 @@
 ! 0.0.0.0 ytch.tv
 ! 0.0.0.0 yts-subs.com
 ! 0.0.0.0 yts-yify-note.md
-! 0.0.0.0 yts.bz
+! 0.0.0.0 yts.gg
 ! 0.0.0.0 ytsproxies.com
 ! 0.0.0.0 ytsubdl.com
 ! 0.0.0.0 yukisubs.wordpress.com
