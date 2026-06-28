@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1873 domains)
-! Last updated: 2026-06-27T06:31:38Z
+! Last updated: 2026-06-28T07:04:35Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -38,6 +38,7 @@
 ||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
 ||67movies.net^
+||67movies.nl^
 ||69shuba.cx^
 ||720pier.ru^
 ||735ee7b.html^
@@ -445,6 +446,7 @@
 ||ee3.me^
 ||einthusan.tv^
 ||emmau680.driveraudiencej2zeu49.sbs^
+||emnexmovies.tech^
 ||en.anison.fm^
 ||en.gundam-official.com^
 ||en.kinorium.com^
@@ -958,7 +960,7 @@
 ||otakudesu.cloud^
 ||otcs.minuspoint.com^
 ||ouo.si^
-||overlook.to^
+||overlook.cx^
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
@@ -1179,7 +1181,6 @@
 ||sportsbite.lol^
 ||sportsbite.xyz^
 ||sportsurge.pk^
-||sportyhunter.com^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -1199,14 +1200,15 @@
 ||streamed.pk^
 ||streamex.sh^
 ||streamex.ws^
-||streamfree.app^
 ||streamfree.link^
+||streamfree.top^
 ||streamgoblin.com^
 ||streami.su^
 ||streamic.ru^
 ||streaming-integrale.com^
 ||streamninja.online^
 ||streamninja.xyz^
+||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1216,7 +1218,6 @@
 ||strexoplayer.onrender.com^
 ||strims24.pl^
 ||strmd.link^
-||strumyk.net^
 ||studio-one.html^
 ||sub-scene.com^
 ||sub.wyzie.ru^
@@ -1385,7 +1386,6 @@
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
-||vidflix.site^
 ||vidplay.to^
 ||viewtopic.php^
 ||vipotv.com^
@@ -1914,6 +1914,7 @@
 ! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
 ! 0.0.0.0 67movies.net
+! 0.0.0.0 67movies.nl
 ! 0.0.0.0 69shuba.cx
 ! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
@@ -2321,6 +2322,7 @@
 ! 0.0.0.0 ee3.me
 ! 0.0.0.0 einthusan.tv
 ! 0.0.0.0 emmau680.driveraudiencej2zeu49.sbs
+! 0.0.0.0 emnexmovies.tech
 ! 0.0.0.0 en.anison.fm
 ! 0.0.0.0 en.gundam-official.com
 ! 0.0.0.0 en.kinorium.com
@@ -2834,7 +2836,7 @@
 ! 0.0.0.0 otakudesu.cloud
 ! 0.0.0.0 otcs.minuspoint.com
 ! 0.0.0.0 ouo.si
-! 0.0.0.0 overlook.to
+! 0.0.0.0 overlook.cx
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
@@ -3055,7 +3057,6 @@
 ! 0.0.0.0 sportsbite.lol
 ! 0.0.0.0 sportsbite.xyz
 ! 0.0.0.0 sportsurge.pk
-! 0.0.0.0 sportyhunter.com
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
@@ -3075,14 +3076,15 @@
 ! 0.0.0.0 streamed.pk
 ! 0.0.0.0 streamex.sh
 ! 0.0.0.0 streamex.ws
-! 0.0.0.0 streamfree.app
 ! 0.0.0.0 streamfree.link
+! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamgoblin.com
 ! 0.0.0.0 streami.su
 ! 0.0.0.0 streamic.ru
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamninja.online
 ! 0.0.0.0 streamninja.xyz
+! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -3092,7 +3094,6 @@
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.pl
 ! 0.0.0.0 strmd.link
-! 0.0.0.0 strumyk.net
 ! 0.0.0.0 studio-one.html
 ! 0.0.0.0 sub-scene.com
 ! 0.0.0.0 sub.wyzie.ru
@@ -3261,7 +3262,6 @@
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
-! 0.0.0.0 vidflix.site
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
 ! 0.0.0.0 vipotv.com

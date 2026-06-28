@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1873 domains | updated 2026-06-27T06:31:38Z
+# 1873 domains | updated 2026-06-28T07:04:35Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -34,6 +34,7 @@
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
 67movies.net
+67movies.nl
 69shuba.cx
 720pier.ru
 735ee7b.html
@@ -441,6 +442,7 @@ eddvault.notion.site
 ee3.me
 einthusan.tv
 emmau680.driveraudiencej2zeu49.sbs
+emnexmovies.tech
 en.anison.fm
 en.gundam-official.com
 en.kinorium.com
@@ -954,7 +956,7 @@ otakucalendar.com
 otakudesu.cloud
 otcs.minuspoint.com
 ouo.si
-overlook.to
+overlook.cx
 overtakefans.com
 pahe.ink
 palanq.win
@@ -1175,7 +1177,6 @@ sportontv.space
 sportsbite.lol
 sportsbite.xyz
 sportsurge.pk
-sportyhunter.com
 squid.wtf
 srstop.link
 ssrmovies.com
@@ -1195,14 +1196,15 @@ streameast.ph
 streamed.pk
 streamex.sh
 streamex.ws
-streamfree.app
 streamfree.link
+streamfree.top
 streamgoblin.com
 streami.su
 streamic.ru
 streaming-integrale.com
 streamninja.online
 streamninja.xyz
+streamsports99.ru
 streamsports99.su
 streamsports99.website
 streamtim.com
@@ -1212,7 +1214,6 @@ stremio-addons.net
 strexoplayer.onrender.com
 strims24.pl
 strmd.link
-strumyk.net
 studio-one.html
 sub-scene.com
 sub.wyzie.ru
@@ -1381,7 +1382,6 @@ vidbox.dev
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
-vidflix.site
 vidplay.to
 viewtopic.php
 vipotv.com
