@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1873 domains)
-! Last updated: 2026-06-28T07:04:35Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1877 domains)
+! Last updated: 2026-06-29T08:16:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -217,6 +217,7 @@
 ||annict.com^
 ||anonops.com^
 ||antra.hoshi.cfd^
+||anyembed.xyz^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
@@ -308,6 +309,7 @@
 ||cinebolt.org^
 ||cineby.at^
 ||cinebytv.com^
+||cineflix.fstream.app^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
@@ -320,6 +322,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
+||cinepro.fstream.app^
 ||cinestream.kje.us^
 ||cinetaro.tv^
 ||cinetimes.org^
@@ -544,7 +547,6 @@
 ||globeradio.app^
 ||globetv.app^
 ||go.aftvnews.com^
-||goatapi.imreallydagoatt.workers.dev^
 ||goated.cx^
 ||goctruyentranh.net^
 ||goplay.ml^
@@ -569,6 +571,7 @@
 ||hdclump.com^
 ||hdencode.org^
 ||hdhd510.net^
+||hdmovieshub.fyi^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
 ||hentai-time.com^
@@ -783,7 +786,6 @@
 ||max-rls.com^
 ||mdblist.com^
 ||me.timschneeberger.jdsp^
-||me.webcric.com^
 ||medeberiya.net^
 ||mediafiretrend.com^
 ||mega.archive^
@@ -1181,6 +1183,8 @@
 ||sportsbite.lol^
 ||sportsbite.xyz^
 ||sportsurge.pk^
+||sportyhunter.site^
+||sportyhunter.xyz^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -1198,12 +1202,12 @@
 ||streameast.ga^
 ||streameast.ph^
 ||streamed.pk^
+||streamed.st^
 ||streamex.sh^
 ||streamex.ws^
 ||streamfree.link^
 ||streamfree.top^
 ||streamgoblin.com^
-||streami.su^
 ||streamic.ru^
 ||streaming-integrale.com^
 ||streamninja.online^
@@ -1287,10 +1291,10 @@
 ||tiz-cycling.tv^
 ||tizentube.6513006.xyz^
 ||tkor127.com^
+||tkzl.net^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
-||toku555.com^
 ||toku8.com^
 ||tokusatsunetwork.com^
 ||tokuzilla.net^
@@ -1328,6 +1332,7 @@
 ||truyenqqko.com^
 ||tsquareplaza.blogspot.com^
 ||tsukihime.org^
+||tukoz.com^
 ||tundra.moe^
 ||tv.filmu.in^
 ||tv.html^
@@ -1403,6 +1408,7 @@
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuen.link^
+||vyla.qzz.io^
 ||warezforums.com^
 ||warezload.net^
 ||warezomen.com^
@@ -1723,7 +1729,6 @@
 ||www.pirateboard.net^
 ||www.playary.com^
 ||www.playimdb.com^
-||www.popr.ink^
 ||www.pracdev.org^
 ||www.primeshows.uk^
 ||www.primewire.mov^
@@ -1851,7 +1856,6 @@
 ||yifysubtitles.ch^
 ||yinhuadm.one^
 ||yomi.to^
-||yomiraw.com^
 ||youflex.top^
 ||yourcountdown.to^
 ||youtube-music.app^
@@ -2093,6 +2097,7 @@
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 antra.hoshi.cfd
+! 0.0.0.0 anyembed.xyz
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
@@ -2184,6 +2189,7 @@
 ! 0.0.0.0 cinebolt.org
 ! 0.0.0.0 cineby.at
 ! 0.0.0.0 cinebytv.com
+! 0.0.0.0 cineflix.fstream.app
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
@@ -2196,6 +2202,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
+! 0.0.0.0 cinepro.fstream.app
 ! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
@@ -2420,7 +2427,6 @@
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
-! 0.0.0.0 goatapi.imreallydagoatt.workers.dev
 ! 0.0.0.0 goated.cx
 ! 0.0.0.0 goctruyentranh.net
 ! 0.0.0.0 goplay.ml
@@ -2445,6 +2451,7 @@
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
 ! 0.0.0.0 hdhd510.net
+! 0.0.0.0 hdmovieshub.fyi
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hentai-time.com
@@ -2659,7 +2666,6 @@
 ! 0.0.0.0 max-rls.com
 ! 0.0.0.0 mdblist.com
 ! 0.0.0.0 me.timschneeberger.jdsp
-! 0.0.0.0 me.webcric.com
 ! 0.0.0.0 medeberiya.net
 ! 0.0.0.0 mediafiretrend.com
 ! 0.0.0.0 mega.archive
@@ -3057,6 +3063,8 @@
 ! 0.0.0.0 sportsbite.lol
 ! 0.0.0.0 sportsbite.xyz
 ! 0.0.0.0 sportsurge.pk
+! 0.0.0.0 sportyhunter.site
+! 0.0.0.0 sportyhunter.xyz
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
@@ -3074,12 +3082,12 @@
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamed.pk
+! 0.0.0.0 streamed.st
 ! 0.0.0.0 streamex.sh
 ! 0.0.0.0 streamex.ws
 ! 0.0.0.0 streamfree.link
 ! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamgoblin.com
-! 0.0.0.0 streami.su
 ! 0.0.0.0 streamic.ru
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamninja.online
@@ -3163,10 +3171,10 @@
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.6513006.xyz
 ! 0.0.0.0 tkor127.com
+! 0.0.0.0 tkzl.net
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
-! 0.0.0.0 toku555.com
 ! 0.0.0.0 toku8.com
 ! 0.0.0.0 tokusatsunetwork.com
 ! 0.0.0.0 tokuzilla.net
@@ -3204,6 +3212,7 @@
 ! 0.0.0.0 truyenqqko.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tsukihime.org
+! 0.0.0.0 tukoz.com
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.html
@@ -3279,6 +3288,7 @@
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuen.link
+! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 warezforums.com
 ! 0.0.0.0 warezload.net
 ! 0.0.0.0 warezomen.com
@@ -3599,7 +3609,6 @@
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
 ! 0.0.0.0 www.playimdb.com
-! 0.0.0.0 www.popr.ink
 ! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.uk
 ! 0.0.0.0 www.primewire.mov
@@ -3727,7 +3736,6 @@
 ! 0.0.0.0 yifysubtitles.ch
 ! 0.0.0.0 yinhuadm.one
 ! 0.0.0.0 yomi.to
-! 0.0.0.0 yomiraw.com
 ! 0.0.0.0 youflex.top
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youtube-music.app

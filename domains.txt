@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1873 domains | updated 2026-06-28T07:04:35Z
+# 1877 domains | updated 2026-06-29T08:16:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -213,6 +213,7 @@ annas-archive.gl
 annict.com
 anonops.com
 antra.hoshi.cfd
+anyembed.xyz
 apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
@@ -304,6 +305,7 @@ chillflix.lol
 cinebolt.org
 cineby.at
 cinebytv.com
+cineflix.fstream.app
 cinego.co
 cinegram.tv
 cinehd.app
@@ -316,6 +318,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
+cinepro.fstream.app
 cinestream.kje.us
 cinetaro.tv
 cinetimes.org
@@ -540,7 +543,6 @@ global.toptoon.com
 globeradio.app
 globetv.app
 go.aftvnews.com
-goatapi.imreallydagoatt.workers.dev
 goated.cx
 goctruyentranh.net
 goplay.ml
@@ -565,6 +567,7 @@ hayase.watch
 hdclump.com
 hdencode.org
 hdhd510.net
+hdmovieshub.fyi
 heavenmanga.com
 henshingrid.blogspot.com
 hentai-time.com
@@ -779,7 +782,6 @@ marvelguides.com
 max-rls.com
 mdblist.com
 me.timschneeberger.jdsp
-me.webcric.com
 medeberiya.net
 mediafiretrend.com
 mega.archive
@@ -1177,6 +1179,8 @@ sportontv.space
 sportsbite.lol
 sportsbite.xyz
 sportsurge.pk
+sportyhunter.site
+sportyhunter.xyz
 squid.wtf
 srstop.link
 ssrmovies.com
@@ -1194,12 +1198,12 @@ streamcorner.site
 streameast.ga
 streameast.ph
 streamed.pk
+streamed.st
 streamex.sh
 streamex.ws
 streamfree.link
 streamfree.top
 streamgoblin.com
-streami.su
 streamic.ru
 streaming-integrale.com
 streamninja.online
@@ -1283,10 +1287,10 @@ tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
 tkor127.com
+tkzl.net
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
-toku555.com
 toku8.com
 tokusatsunetwork.com
 tokuzilla.net
@@ -1324,6 +1328,7 @@ truyenfull.vision
 truyenqqko.com
 tsquareplaza.blogspot.com
 tsukihime.org
+tukoz.com
 tundra.moe
 tv.filmu.in
 tv.html
@@ -1399,6 +1404,7 @@ vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
+vyla.qzz.io
 warezforums.com
 warezload.net
 warezomen.com
@@ -1719,7 +1725,6 @@ www.panix.com
 www.pirateboard.net
 www.playary.com
 www.playimdb.com
-www.popr.ink
 www.pracdev.org
 www.primeshows.uk
 www.primewire.mov
@@ -1847,7 +1852,6 @@ yifystatus.com
 yifysubtitles.ch
 yinhuadm.one
 yomi.to
-yomiraw.com
 youflex.top
 yourcountdown.to
 youtube-music.app
