@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1885 domains | updated 2026-06-30T06:57:57Z
+# 1891 domains | updated 2026-07-01T07:14:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -74,6 +74,7 @@ andlibria.qt
 ani.lol
 ani4u.org
 anianimals.moe
+anianimax.dpdns.org
 anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
@@ -102,6 +103,7 @@ anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animagarchive.com
 animan.ru
+animaxanime.dpdns.org
 anime-archive.com
 anime-base.net
 anime-bingo.aikats.us
@@ -189,9 +191,12 @@ animexin.dev
 animotvslash.nl
 animoye.com
 animusic.moe
+aninami.site
 aninzb.moe
 anipiece.net
 aniplaylist.com
+anisnatch.p1y.top
+anisnatch.top
 anison.fm
 anisongdb.com
 anissia.net
@@ -266,7 +271,6 @@ bcine.ru
 bechdeltest.com
 berekescrubs.wordpress.com
 bestsimilar.com
-beta.otaku-streamers.com
 better-lyrics.boidu.dev
 bflix.sh
 bgmd.bytex.space
@@ -369,6 +373,7 @@ corsflix.net
 cosectv.com
 countdown.tv
 crackstreams.ms
+crackstreams.mx
 cracksurl.com
 crafty.moe
 crichd.at
@@ -516,7 +521,6 @@ forum.mobilism.org
 foundfootagecritic.com
 franime.fr
 free-movies.to
-free-usenet-trials.php
 freepopular.htm
 freestreams-live1a.pk
 freesub.live
@@ -874,6 +878,7 @@ nbamonster.com
 nekobt.to
 nekomitai.net
 nekopoi.care
+nekowatch.xyz
 nelvix.xyz
 neoapo.com
 nepu.to
@@ -980,6 +985,7 @@ placeit.fun
 planete-bd.org
 plappa.me
 play.onlinetz.app
+playimdb.domains
 playlist.pls
 playlists.at
 playtorrio.xyz
@@ -988,7 +994,7 @@ plugin.audio.navidrome
 plugin.audio.subsonic
 pop.dnslc.net
 popcornflix.com
-popcornmovies.org
+popcornmovies.io
 portableappz.blogspot.com
 portal.circle.ms
 portapps.io
@@ -1191,6 +1197,7 @@ ssrmovies.com
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
+status.animaxanime.dpdns.org
 status.miruro.com
 stigstream.ru
 store.rg
@@ -1312,6 +1319,7 @@ topsrs.day
 topsters.org
 torbox.app
 torrents.youplex.site
+torrentsurf.to
 tortuga-ceviri.com
 totalsportek.tips
 touhou-memories.com
@@ -1339,7 +1347,6 @@ tv.filmu.in
 tv.html
 tv.jest
 tv.jest.one
-tv247us.vip
 tvalt.surge.sh
 tvatlas.app
 tvchart.benmiz.com
@@ -1350,6 +1357,7 @@ tvfreedom.surge.sh
 tvhub.surge.sh
 tvids.me
 tvmirror.surge.sh
+tvnow247.today
 tvsboy.com
 tvshows.ac
 tvshows4mobile.org
@@ -1410,6 +1418,7 @@ vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
+vyla.cc
 vyla.qzz.io
 w1.anime4up.rest
 warezforums.com
@@ -1718,7 +1727,6 @@ www.naijavault.com
 www.nautiljon.com
 www.newznab.com
 www.nextpvr.com
-www.ngprovider.com
 www.notion.so
 www.novelupdates.com
 www.nsaneforums.com
@@ -1732,7 +1740,6 @@ www.ourstarblazers.com
 www.panix.com
 www.pirateboard.net
 www.playary.com
-www.playimdb.com
 www.pracdev.org
 www.primeshows.uk
 www.primewire.mov
@@ -1751,7 +1758,6 @@ www.scenesource.me
 www.scnsrc.me
 www.scripts.com
 www.scriptslug.com
-www.searchftps.net
 www.seriezloaded.com.ng
 www.shanaproject.com
 www.shortverse.com

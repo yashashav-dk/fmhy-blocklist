@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1885 domains)
-! Last updated: 2026-06-30T06:57:57Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1891 domains)
+! Last updated: 2026-07-01T07:14:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -78,6 +78,7 @@
 ||ani.lol^
 ||ani4u.org^
 ||anianimals.moe^
+||anianimax.dpdns.org^
 ||anibd.app^
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
@@ -106,6 +107,7 @@
 ||anilist-adaptations.timschneeberger.me^
 ||animagarchive.com^
 ||animan.ru^
+||animaxanime.dpdns.org^
 ||anime-archive.com^
 ||anime-base.net^
 ||anime-bingo.aikats.us^
@@ -193,9 +195,12 @@
 ||animotvslash.nl^
 ||animoye.com^
 ||animusic.moe^
+||aninami.site^
 ||aninzb.moe^
 ||anipiece.net^
 ||aniplaylist.com^
+||anisnatch.p1y.top^
+||anisnatch.top^
 ||anison.fm^
 ||anisongdb.com^
 ||anissia.net^
@@ -270,7 +275,6 @@
 ||bechdeltest.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
-||beta.otaku-streamers.com^
 ||better-lyrics.boidu.dev^
 ||bflix.sh^
 ||bgmd.bytex.space^
@@ -373,6 +377,7 @@
 ||cosectv.com^
 ||countdown.tv^
 ||crackstreams.ms^
+||crackstreams.mx^
 ||cracksurl.com^
 ||crafty.moe^
 ||crichd.at^
@@ -520,7 +525,6 @@
 ||foundfootagecritic.com^
 ||franime.fr^
 ||free-movies.to^
-||free-usenet-trials.php^
 ||freepopular.htm^
 ||freestreams-live1a.pk^
 ||freesub.live^
@@ -878,6 +882,7 @@
 ||nekobt.to^
 ||nekomitai.net^
 ||nekopoi.care^
+||nekowatch.xyz^
 ||nelvix.xyz^
 ||neoapo.com^
 ||nepu.to^
@@ -984,6 +989,7 @@
 ||planete-bd.org^
 ||plappa.me^
 ||play.onlinetz.app^
+||playimdb.domains^
 ||playlist.pls^
 ||playlists.at^
 ||playtorrio.xyz^
@@ -992,7 +998,7 @@
 ||plugin.audio.subsonic^
 ||pop.dnslc.net^
 ||popcornflix.com^
-||popcornmovies.org^
+||popcornmovies.io^
 ||portableappz.blogspot.com^
 ||portal.circle.ms^
 ||portapps.io^
@@ -1195,6 +1201,7 @@
 ||staff.iklone.org^
 ||staging.ranobe.app^
 ||static.sneedex.moe^
+||status.animaxanime.dpdns.org^
 ||status.miruro.com^
 ||stigstream.ru^
 ||store.rg^
@@ -1316,6 +1323,7 @@
 ||topsters.org^
 ||torbox.app^
 ||torrents.youplex.site^
+||torrentsurf.to^
 ||tortuga-ceviri.com^
 ||totalsportek.tips^
 ||touhou-memories.com^
@@ -1343,7 +1351,6 @@
 ||tv.html^
 ||tv.jest^
 ||tv.jest.one^
-||tv247us.vip^
 ||tvalt.surge.sh^
 ||tvatlas.app^
 ||tvchart.benmiz.com^
@@ -1354,6 +1361,7 @@
 ||tvhub.surge.sh^
 ||tvids.me^
 ||tvmirror.surge.sh^
+||tvnow247.today^
 ||tvsboy.com^
 ||tvshows.ac^
 ||tvshows4mobile.org^
@@ -1414,6 +1422,7 @@
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuen.link^
+||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
 ||warezforums.com^
@@ -1722,7 +1731,6 @@
 ||www.nautiljon.com^
 ||www.newznab.com^
 ||www.nextpvr.com^
-||www.ngprovider.com^
 ||www.notion.so^
 ||www.novelupdates.com^
 ||www.nsaneforums.com^
@@ -1736,7 +1744,6 @@
 ||www.panix.com^
 ||www.pirateboard.net^
 ||www.playary.com^
-||www.playimdb.com^
 ||www.pracdev.org^
 ||www.primeshows.uk^
 ||www.primewire.mov^
@@ -1755,7 +1762,6 @@
 ||www.scnsrc.me^
 ||www.scripts.com^
 ||www.scriptslug.com^
-||www.searchftps.net^
 ||www.seriezloaded.com.ng^
 ||www.shanaproject.com^
 ||www.shortverse.com^
@@ -1966,6 +1972,7 @@
 ! 0.0.0.0 ani.lol
 ! 0.0.0.0 ani4u.org
 ! 0.0.0.0 anianimals.moe
+! 0.0.0.0 anianimax.dpdns.org
 ! 0.0.0.0 anibd.app
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
@@ -1994,6 +2001,7 @@
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
 ! 0.0.0.0 animagarchive.com
 ! 0.0.0.0 animan.ru
+! 0.0.0.0 animaxanime.dpdns.org
 ! 0.0.0.0 anime-archive.com
 ! 0.0.0.0 anime-base.net
 ! 0.0.0.0 anime-bingo.aikats.us
@@ -2081,9 +2089,12 @@
 ! 0.0.0.0 animotvslash.nl
 ! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
+! 0.0.0.0 aninami.site
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 anipiece.net
 ! 0.0.0.0 aniplaylist.com
+! 0.0.0.0 anisnatch.p1y.top
+! 0.0.0.0 anisnatch.top
 ! 0.0.0.0 anison.fm
 ! 0.0.0.0 anisongdb.com
 ! 0.0.0.0 anissia.net
@@ -2158,7 +2169,6 @@
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
-! 0.0.0.0 beta.otaku-streamers.com
 ! 0.0.0.0 better-lyrics.boidu.dev
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
@@ -2261,6 +2271,7 @@
 ! 0.0.0.0 cosectv.com
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 crackstreams.ms
+! 0.0.0.0 crackstreams.mx
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
 ! 0.0.0.0 crichd.at
@@ -2408,7 +2419,6 @@
 ! 0.0.0.0 foundfootagecritic.com
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
-! 0.0.0.0 free-usenet-trials.php
 ! 0.0.0.0 freepopular.htm
 ! 0.0.0.0 freestreams-live1a.pk
 ! 0.0.0.0 freesub.live
@@ -2766,6 +2776,7 @@
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nekopoi.care
+! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepu.to
@@ -2872,6 +2883,7 @@
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 play.onlinetz.app
+! 0.0.0.0 playimdb.domains
 ! 0.0.0.0 playlist.pls
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 playtorrio.xyz
@@ -2880,7 +2892,7 @@
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
-! 0.0.0.0 popcornmovies.org
+! 0.0.0.0 popcornmovies.io
 ! 0.0.0.0 portableappz.blogspot.com
 ! 0.0.0.0 portal.circle.ms
 ! 0.0.0.0 portapps.io
@@ -3083,6 +3095,7 @@
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
+! 0.0.0.0 status.animaxanime.dpdns.org
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.rg
@@ -3204,6 +3217,7 @@
 ! 0.0.0.0 topsters.org
 ! 0.0.0.0 torbox.app
 ! 0.0.0.0 torrents.youplex.site
+! 0.0.0.0 torrentsurf.to
 ! 0.0.0.0 tortuga-ceviri.com
 ! 0.0.0.0 totalsportek.tips
 ! 0.0.0.0 touhou-memories.com
@@ -3231,7 +3245,6 @@
 ! 0.0.0.0 tv.html
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
-! 0.0.0.0 tv247us.vip
 ! 0.0.0.0 tvalt.surge.sh
 ! 0.0.0.0 tvatlas.app
 ! 0.0.0.0 tvchart.benmiz.com
@@ -3242,6 +3255,7 @@
 ! 0.0.0.0 tvhub.surge.sh
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvmirror.surge.sh
+! 0.0.0.0 tvnow247.today
 ! 0.0.0.0 tvsboy.com
 ! 0.0.0.0 tvshows.ac
 ! 0.0.0.0 tvshows4mobile.org
@@ -3302,6 +3316,7 @@
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuen.link
+! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
 ! 0.0.0.0 warezforums.com
@@ -3610,7 +3625,6 @@
 ! 0.0.0.0 www.nautiljon.com
 ! 0.0.0.0 www.newznab.com
 ! 0.0.0.0 www.nextpvr.com
-! 0.0.0.0 www.ngprovider.com
 ! 0.0.0.0 www.notion.so
 ! 0.0.0.0 www.novelupdates.com
 ! 0.0.0.0 www.nsaneforums.com
@@ -3624,7 +3638,6 @@
 ! 0.0.0.0 www.panix.com
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
-! 0.0.0.0 www.playimdb.com
 ! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.uk
 ! 0.0.0.0 www.primewire.mov
@@ -3643,7 +3656,6 @@
 ! 0.0.0.0 www.scnsrc.me
 ! 0.0.0.0 www.scripts.com
 ! 0.0.0.0 www.scriptslug.com
-! 0.0.0.0 www.searchftps.net
 ! 0.0.0.0 www.seriezloaded.com.ng
 ! 0.0.0.0 www.shanaproject.com
 ! 0.0.0.0 www.shortverse.com
