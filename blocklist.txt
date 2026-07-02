@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1891 domains)
-! Last updated: 2026-07-01T07:14:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1888 domains)
+! Last updated: 2026-07-02T06:43:01Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -31,7 +31,7 @@
 ||321movies.xyz^
 ||345movie.nl^
 ||35mm.online^
-||3asq.org^
+||3asq.pro^
 ||456movie.nl^
 ||4khdhub.link^
 ||4search.neocities.org^
@@ -150,7 +150,6 @@
 ||animekarmalist.com^
 ||animekhor.org^
 ||animelayer.ru^
-||animelek.top^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
@@ -539,7 +538,7 @@
 ||funbe653.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
-||fxfx328.com^
+||fxfx329.com^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||geekdot.live^
@@ -631,6 +630,7 @@
 ||iptv.surf^
 ||iptv.watchott.ru^
 ||iptvplayer.stream^
+||ipv4.vostfree.ws^
 ||iqdb.org^
 ||ishowmovies.org^
 ||iteraplay.com^
@@ -874,7 +874,6 @@
 ||naikamu.com^
 ||namee101.com^
 ||namu.wiki^
-||nanaone.net^
 ||nanasubs.com.pl^
 ||narjomusic.com^
 ||navic.app^
@@ -1418,7 +1417,6 @@
 ||voir-anime.to^
 ||voirdrama.to^
 ||vole.wtf^
-||vostfree.ws^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuen.link^
@@ -1461,7 +1459,7 @@
 ||weebcentral.com^
 ||wfs.lol^
 ||wfty.link^
-||wfwf471.com^
+||wfwf478.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1483,7 +1481,7 @@
 ||worldnews24.tv^
 ||wotaku.wiki^
 ||wowtopix.com^
-||wtwt331.com^
+||wtwt332.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1-fmovies.com^
@@ -1540,6 +1538,7 @@
 ||www.animeradio.de^
 ||www.animerdle.com^
 ||www.animesaturn.me^
+||www.animesaturn.net^
 ||www.animesonglyrics.com^
 ||www.animesrbija.com^
 ||www.animeunity.to^
@@ -1547,10 +1546,8 @@
 ||www.animexx.de^
 ||www.animezone.pl^
 ||www.animotvslash.org^
-||www.animu.com.br^
 ||www.animu.moe^
 ||www.anirena.com^
-||www.anisaturn.net^
 ||www.anisil.com^
 ||www.anisurge.lol^
 ||www.anmosugoi.com^
@@ -1859,7 +1856,7 @@
 ||xoxocomic.com^
 ||xyzstreams.st^
 ||yadg.cc^
-||yatoon238.com^
+||yatoon239.com^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -1925,7 +1922,7 @@
 ! 0.0.0.0 321movies.xyz
 ! 0.0.0.0 345movie.nl
 ! 0.0.0.0 35mm.online
-! 0.0.0.0 3asq.org
+! 0.0.0.0 3asq.pro
 ! 0.0.0.0 456movie.nl
 ! 0.0.0.0 4khdhub.link
 ! 0.0.0.0 4search.neocities.org
@@ -2044,7 +2041,6 @@
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
 ! 0.0.0.0 animelayer.ru
-! 0.0.0.0 animelek.top
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
@@ -2433,7 +2429,7 @@
 ! 0.0.0.0 funbe653.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
-! 0.0.0.0 fxfx328.com
+! 0.0.0.0 fxfx329.com
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 geekdot.live
@@ -2525,6 +2521,7 @@
 ! 0.0.0.0 iptv.surf
 ! 0.0.0.0 iptv.watchott.ru
 ! 0.0.0.0 iptvplayer.stream
+! 0.0.0.0 ipv4.vostfree.ws
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 ishowmovies.org
 ! 0.0.0.0 iteraplay.com
@@ -2768,7 +2765,6 @@
 ! 0.0.0.0 naikamu.com
 ! 0.0.0.0 namee101.com
 ! 0.0.0.0 namu.wiki
-! 0.0.0.0 nanaone.net
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 navic.app
@@ -3312,7 +3308,6 @@
 ! 0.0.0.0 voir-anime.to
 ! 0.0.0.0 voirdrama.to
 ! 0.0.0.0 vole.wtf
-! 0.0.0.0 vostfree.ws
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuen.link
@@ -3355,7 +3350,7 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf471.com
+! 0.0.0.0 wfwf478.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3377,7 +3372,7 @@
 ! 0.0.0.0 worldnews24.tv
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
-! 0.0.0.0 wtwt331.com
+! 0.0.0.0 wtwt332.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1-fmovies.com
@@ -3434,6 +3429,7 @@
 ! 0.0.0.0 www.animeradio.de
 ! 0.0.0.0 www.animerdle.com
 ! 0.0.0.0 www.animesaturn.me
+! 0.0.0.0 www.animesaturn.net
 ! 0.0.0.0 www.animesonglyrics.com
 ! 0.0.0.0 www.animesrbija.com
 ! 0.0.0.0 www.animeunity.to
@@ -3441,10 +3437,8 @@
 ! 0.0.0.0 www.animexx.de
 ! 0.0.0.0 www.animezone.pl
 ! 0.0.0.0 www.animotvslash.org
-! 0.0.0.0 www.animu.com.br
 ! 0.0.0.0 www.animu.moe
 ! 0.0.0.0 www.anirena.com
-! 0.0.0.0 www.anisaturn.net
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
 ! 0.0.0.0 www.anmosugoi.com
@@ -3753,7 +3747,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yadg.cc
-! 0.0.0.0 yatoon238.com
+! 0.0.0.0 yatoon239.com
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net

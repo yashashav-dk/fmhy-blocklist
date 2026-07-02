@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1891 domains | updated 2026-07-01T07:14:23Z
+# 1888 domains | updated 2026-07-02T06:43:01Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -27,7 +27,7 @@
 321movies.xyz
 345movie.nl
 35mm.online
-3asq.org
+3asq.pro
 456movie.nl
 4khdhub.link
 4search.neocities.org
@@ -146,7 +146,6 @@ animejoy.ru
 animekarmalist.com
 animekhor.org
 animelayer.ru
-animelek.top
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
@@ -535,7 +534,7 @@ fullraces.com
 funbe653.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
-fxfx328.com
+fxfx329.com
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -627,6 +626,7 @@ iptv.community
 iptv.surf
 iptv.watchott.ru
 iptvplayer.stream
+ipv4.vostfree.ws
 iqdb.org
 ishowmovies.org
 iteraplay.com
@@ -870,7 +870,6 @@ mysoccerpulse.com
 naikamu.com
 namee101.com
 namu.wiki
-nanaone.net
 nanasubs.com.pl
 narjomusic.com
 navic.app
@@ -1414,7 +1413,6 @@ vocasphere.net
 voir-anime.to
 voirdrama.to
 vole.wtf
-vostfree.ws
 vrx.piro.moe
 vsedoramy.ru
 vuen.link
@@ -1457,7 +1455,7 @@ weblinhtinh1.net
 weebcentral.com
 wfs.lol
 wfty.link
-wfwf471.com
+wfwf478.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1479,7 +1477,7 @@ worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
-wtwt331.com
+wtwt332.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1-fmovies.com
@@ -1536,6 +1534,7 @@ www.animeparadise.moe
 www.animeradio.de
 www.animerdle.com
 www.animesaturn.me
+www.animesaturn.net
 www.animesonglyrics.com
 www.animesrbija.com
 www.animeunity.to
@@ -1543,10 +1542,8 @@ www.animeworld.ac
 www.animexx.de
 www.animezone.pl
 www.animotvslash.org
-www.animu.com.br
 www.animu.moe
 www.anirena.com
-www.anisaturn.net
 www.anisil.com
 www.anisurge.lol
 www.anmosugoi.com
@@ -1855,7 +1852,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xyzstreams.st
 yadg.cc
-yatoon238.com
+yatoon239.com
 yatoonlink.com
 yattatachi.com
 yenime.net
