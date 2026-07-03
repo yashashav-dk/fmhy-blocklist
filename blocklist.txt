@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1888 domains)
-! Last updated: 2026-07-02T06:43:01Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-07-03T06:35:02Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -282,7 +282,7 @@
 ||bilibili.tv^
 ||bingebox.to^
 ||bingeflix.tv^
-||bingr.live^
+||bingr.one^
 ||binsearch.info^
 ||bintv.net^
 ||bleh.katelyn.moe^
@@ -443,7 +443,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyendc.com^
+||dualeotruyenhn.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.tv^
@@ -514,7 +514,7 @@
 ||fluxtv.qzz.io^
 ||flyflix.net^
 ||fmstream.org^
-||foc114.com^
+||foc115.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -571,6 +571,7 @@
 ||halcyonrealms.com^
 ||hanime1.me^
 ||happytoon02.com^
+||hardcover.app^
 ||harmony.pulsewidth.org.uk^
 ||hayase.watch^
 ||hdclump.com^
@@ -750,6 +751,7 @@
 ||malupdaterosx.moe^
 ||managall1.com^
 ||manba.co.jp^
+||manga-bookshelf.com^
 ||manga-oni.com^
 ||manga-tr.com^
 ||manga-tube.me^
@@ -845,6 +847,7 @@
 ||movieboxonline.net^
 ||movielens.org^
 ||movienestbd.pics^
+||movienig.ht^
 ||movieo.me^
 ||movieparadise-code.md^
 ||movieparadise.org^
@@ -872,7 +875,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee101.com^
+||namee102.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -893,8 +896,10 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
+||next-box.su^
 ||nextbox.uno^
 ||nextnovels.com^
+||nextwork.cc^
 ||nfl-replays.com^
 ||nfl-video.com^
 ||nhattruyenqq.com^
@@ -923,6 +928,7 @@
 ||numb3rs.stream^
 ||nunflix.li^
 ||nuvio.tv^
+||nuvio.wiki^
 ||nxxhentai.net^
 ||nyaa.iss.ink^
 ||nyaa.iss.one^
@@ -960,6 +966,7 @@
 ||onoflix.ru^
 ||openscrobbler.com^
 ||opensourcealternative.to^
+||opstream.fun^
 ||org.readera^
 ||orga.cat^
 ||orionoid.com^
@@ -993,6 +1000,7 @@
 ||playlists.at^
 ||playtorrio.xyz^
 ||plaza.one^
+||plezy.app^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
 ||pop.dnslc.net^
@@ -1003,8 +1011,11 @@
 ||portapps.io^
 ||potamanime.rs^
 ||powder.media^
+||ppv.cx^
 ||ppv.domains^
 ||ppv.is^
+||ppv.lc^
+||ppv.st^
 ||ppv.to^
 ||primewire.nexus^
 ||primewire.zip^
@@ -1181,6 +1192,7 @@
 ||songle.jp^
 ||songstats.com^
 ||soniczone.net^
+||soraraw.com^
 ||sotproxy.ext.io^
 ||soundbound.app^
 ||sozo.azamov.me^
@@ -1206,9 +1218,10 @@
 ||store.rg^
 ||stream.gensokyoradio.net^
 ||stream192.mp^
+||streamcorner.cloud^
+||streamcorner.foo^
+||streamcorner.fun^
 ||streamcorner.fyi^
-||streamcorner.io^
-||streamcorner.site^
 ||streameast.ga^
 ||streameast.ph^
 ||streamed.pk^
@@ -1419,7 +1432,6 @@
 ||vole.wtf^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
-||vuen.link^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
@@ -1445,6 +1457,7 @@
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.ru^
+||watchprowrestling.store^
 ||watchreplay.net^
 ||watchsports.to^
 ||watchsurface.stream^
@@ -1809,6 +1822,7 @@
 ||www.tvseries.in^
 ||www.tvsubtitles.net^
 ||www.ultimedia.com^
+||www.unrealircd.org^
 ||www.uruworks.net^
 ||www.usagi.org^
 ||www.usenet-crawler.com^
@@ -1854,9 +1868,10 @@
 ||xn--9t4b31dr7o.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
+||xyra.stream^
 ||xyzstreams.st^
 ||yadg.cc^
-||yatoon239.com^
+||yatoon240.com^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -1891,6 +1906,7 @@
 ||zerostream.alwaysdata.net^
 ||zeta.animerco.org^
 ||zetmoon.live^
+||zlive.st^
 ||zstream.mov^
 ||zxcprime.icu^
 ||zxpinstaller.com^
@@ -2173,7 +2189,7 @@
 ! 0.0.0.0 bilibili.tv
 ! 0.0.0.0 bingebox.to
 ! 0.0.0.0 bingeflix.tv
-! 0.0.0.0 bingr.live
+! 0.0.0.0 bingr.one
 ! 0.0.0.0 binsearch.info
 ! 0.0.0.0 bintv.net
 ! 0.0.0.0 bleh.katelyn.moe
@@ -2334,7 +2350,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyendc.com
+! 0.0.0.0 dualeotruyenhn.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.tv
@@ -2405,7 +2421,7 @@
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc114.com
+! 0.0.0.0 foc115.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2462,6 +2478,7 @@
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
 ! 0.0.0.0 happytoon02.com
+! 0.0.0.0 hardcover.app
 ! 0.0.0.0 harmony.pulsewidth.org.uk
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
@@ -2641,6 +2658,7 @@
 ! 0.0.0.0 malupdaterosx.moe
 ! 0.0.0.0 managall1.com
 ! 0.0.0.0 manba.co.jp
+! 0.0.0.0 manga-bookshelf.com
 ! 0.0.0.0 manga-oni.com
 ! 0.0.0.0 manga-tr.com
 ! 0.0.0.0 manga-tube.me
@@ -2736,6 +2754,7 @@
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movienestbd.pics
+! 0.0.0.0 movienig.ht
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise-code.md
 ! 0.0.0.0 movieparadise.org
@@ -2763,7 +2782,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee101.com
+! 0.0.0.0 namee102.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2784,8 +2803,10 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
+! 0.0.0.0 next-box.su
 ! 0.0.0.0 nextbox.uno
 ! 0.0.0.0 nextnovels.com
+! 0.0.0.0 nextwork.cc
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nhattruyenqq.com
@@ -2814,6 +2835,7 @@
 ! 0.0.0.0 numb3rs.stream
 ! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvio.tv
+! 0.0.0.0 nuvio.wiki
 ! 0.0.0.0 nxxhentai.net
 ! 0.0.0.0 nyaa.iss.ink
 ! 0.0.0.0 nyaa.iss.one
@@ -2851,6 +2873,7 @@
 ! 0.0.0.0 onoflix.ru
 ! 0.0.0.0 openscrobbler.com
 ! 0.0.0.0 opensourcealternative.to
+! 0.0.0.0 opstream.fun
 ! 0.0.0.0 org.readera
 ! 0.0.0.0 orga.cat
 ! 0.0.0.0 orionoid.com
@@ -2884,6 +2907,7 @@
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 playtorrio.xyz
 ! 0.0.0.0 plaza.one
+! 0.0.0.0 plezy.app
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 pop.dnslc.net
@@ -2894,8 +2918,11 @@
 ! 0.0.0.0 portapps.io
 ! 0.0.0.0 potamanime.rs
 ! 0.0.0.0 powder.media
+! 0.0.0.0 ppv.cx
 ! 0.0.0.0 ppv.domains
 ! 0.0.0.0 ppv.is
+! 0.0.0.0 ppv.lc
+! 0.0.0.0 ppv.st
 ! 0.0.0.0 ppv.to
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
@@ -3072,6 +3099,7 @@
 ! 0.0.0.0 songle.jp
 ! 0.0.0.0 songstats.com
 ! 0.0.0.0 soniczone.net
+! 0.0.0.0 soraraw.com
 ! 0.0.0.0 sotproxy.ext.io
 ! 0.0.0.0 soundbound.app
 ! 0.0.0.0 sozo.azamov.me
@@ -3097,9 +3125,10 @@
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream192.mp
+! 0.0.0.0 streamcorner.cloud
+! 0.0.0.0 streamcorner.foo
+! 0.0.0.0 streamcorner.fun
 ! 0.0.0.0 streamcorner.fyi
-! 0.0.0.0 streamcorner.io
-! 0.0.0.0 streamcorner.site
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamed.pk
@@ -3310,7 +3339,6 @@
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
-! 0.0.0.0 vuen.link
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
@@ -3336,6 +3364,7 @@
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.ru
+! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchsports.to
 ! 0.0.0.0 watchsurface.stream
@@ -3700,6 +3729,7 @@
 ! 0.0.0.0 www.tvseries.in
 ! 0.0.0.0 www.tvsubtitles.net
 ! 0.0.0.0 www.ultimedia.com
+! 0.0.0.0 www.unrealircd.org
 ! 0.0.0.0 www.uruworks.net
 ! 0.0.0.0 www.usagi.org
 ! 0.0.0.0 www.usenet-crawler.com
@@ -3745,9 +3775,10 @@
 ! 0.0.0.0 xn--9t4b31dr7o.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
+! 0.0.0.0 xyra.stream
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yadg.cc
-! 0.0.0.0 yatoon239.com
+! 0.0.0.0 yatoon240.com
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
@@ -3782,6 +3813,7 @@
 ! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zeta.animerco.org
 ! 0.0.0.0 zetmoon.live
+! 0.0.0.0 zlive.st
 ! 0.0.0.0 zstream.mov
 ! 0.0.0.0 zxcprime.icu
 ! 0.0.0.0 zxpinstaller.com
