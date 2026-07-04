@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-07-03T06:35:02Z
+# 1901 domains | updated 2026-07-04T06:22:45Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -21,7 +21,6 @@
 1primeshow.online
 1shows-note.md
 24-7-channels.php
-24hnovel.com
 2ecbbd610840-trakt.baby-beamup.club
 30.html
 321movies.xyz
@@ -308,6 +307,7 @@ chikianimation.online
 chillflix.lol
 cinebolt.org
 cineby.at
+cinebytv-note.md
 cinebytv.com
 cineflix.fstream.app
 cinego.co
@@ -481,6 +481,7 @@ fankai.fr
 fansubdb.it
 fansubs.cat
 fansubs.ru
+fantasticsoda.com
 fauux.neocities.org
 fbstream.cc
 fcast.org
@@ -531,10 +532,10 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe653.com
+funbe654.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
-fxfx329.com
+fxfx330.com
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -667,7 +668,6 @@ kids-in-mind.com
 kimcartoon.si
 kimoitv.com
 kindlemodding.org
-kingofshojo.com
 kinozal.tv
 kirastreams.onlykirastreams.workers.dev
 kissanime.com.ru
@@ -692,11 +692,13 @@ koryo.tv
 krdl.moe
 kudos.wiki
 kuramanime.red
+kuroanime.lol
 kuroiru.co
 kurotoshiro.dev
 kurozora.app
 kusonime.com
 kuudere.ru
+kyren.moe
 lama.watch
 last.timer
 lastfmstats.com
@@ -763,7 +765,6 @@ mangacrab.org
 mangadot.net
 mangafire.to
 mangafonts.carrd.co
-mangafox.la
 mangaguide.de
 mangahub.io
 mangahub.ru
@@ -779,10 +780,6 @@ mangarawjp.me
 mangashelf.co.il
 mangataro.org
 manhuabika.com
-manhuafast.com
-manhuatop.org
-manhwatop.com
-manhwazone.com
 manta.net
 mappl.tv
 mapple.tv
@@ -1265,6 +1262,7 @@ swimrewind.com
 sync.coconono.org
 syncler.net
 synthv.info
+t2tunes.site
 t3.xtoon365.com
 t4tsa.cc
 tachiyomiaz.apk
@@ -1311,7 +1309,6 @@ tivimate.com
 tiz-cycling.tv
 tizentube.6513006.xyz
 tkor127.com
-tkzl.net
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1353,7 +1350,6 @@ truyenfull.today
 truyenqqko.com
 tsquareplaza.blogspot.com
 tsukihime.org
-tukoz.com
 tundra.moe
 tv.filmu.in
 tv.html
@@ -1490,7 +1486,7 @@ worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
-wtwt332.com
+wtwt333.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1-fmovies.com
@@ -1864,10 +1860,11 @@ xn--9r2b17bn28a.com
 xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
+xtreme-wrestling-downloads.com
 xyra.stream
 xyzstreams.st
 yadg.cc
-yatoon240.com
+yatoon238.asia
 yatoonlink.com
 yattatachi.com
 yenime.net
