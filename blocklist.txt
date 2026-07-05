@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1901 domains)
-! Last updated: 2026-07-04T06:22:45Z
+! Last updated: 2026-07-05T06:43:18Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -340,7 +340,6 @@
 ||cksub.org^
 ||cli.club^
 ||clients.md^
-||cocoleech.com^
 ||com.aimp.player^
 ||com.deezus.pchan^
 ||com.extreamsd.usbaudioplayerpro^
@@ -403,6 +402,7 @@
 ||deafmovie.org^
 ||debrid-link.com^
 ||debridmediamanager.com^
+||debridr.com^
 ||debridvault.elfhosted.com^
 ||desu-online.pl^
 ||desu.me^
@@ -1129,7 +1129,6 @@
 ||scatter.fm^
 ||scatterfm.markhansen.co.nz^
 ||scenelist.org^
-||scenenzbs.com^
 ||schedule.html^
 ||scnlog.me^
 ||score808hd.tv^
@@ -1311,7 +1310,7 @@
 ||tiodonghua.com^
 ||tivimate.com^
 ||tiz-cycling.tv^
-||tizentube.6513006.xyz^
+||tizentube.app^
 ||tkor127.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
@@ -1345,6 +1344,7 @@
 ||translatesubtitles.co^
 ||translatesubtitles.com^
 ||travelfilmarchive.com^
+||treasure-maps.com^
 ||tria.ge^
 ||troypoint.com^
 ||trueharem.carrd.co^
@@ -2244,7 +2244,6 @@
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
-! 0.0.0.0 cocoleech.com
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.deezus.pchan
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
@@ -2307,6 +2306,7 @@
 ! 0.0.0.0 deafmovie.org
 ! 0.0.0.0 debrid-link.com
 ! 0.0.0.0 debridmediamanager.com
+! 0.0.0.0 debridr.com
 ! 0.0.0.0 debridvault.elfhosted.com
 ! 0.0.0.0 desu-online.pl
 ! 0.0.0.0 desu.me
@@ -3033,7 +3033,6 @@
 ! 0.0.0.0 scatter.fm
 ! 0.0.0.0 scatterfm.markhansen.co.nz
 ! 0.0.0.0 scenelist.org
-! 0.0.0.0 scenenzbs.com
 ! 0.0.0.0 schedule.html
 ! 0.0.0.0 scnlog.me
 ! 0.0.0.0 score808hd.tv
@@ -3215,7 +3214,7 @@
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
-! 0.0.0.0 tizentube.6513006.xyz
+! 0.0.0.0 tizentube.app
 ! 0.0.0.0 tkor127.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
@@ -3249,6 +3248,7 @@
 ! 0.0.0.0 translatesubtitles.co
 ! 0.0.0.0 translatesubtitles.com
 ! 0.0.0.0 travelfilmarchive.com
+! 0.0.0.0 treasure-maps.com
 ! 0.0.0.0 tria.ge
 ! 0.0.0.0 troypoint.com
 ! 0.0.0.0 trueharem.carrd.co
