@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1901 domains)
-! Last updated: 2026-07-05T06:43:18Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
+! Last updated: 2026-07-06T07:15:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -166,7 +166,6 @@
 ||animesalt.ac^
 ||animesalt.top^
 ||animeschedule.net^
-||animeshrine.xyz^
 ||animesilo.cc^
 ||animesongs.org^
 ||animestars.org^
@@ -183,7 +182,6 @@
 ||animetv-jp.net^
 ||animeua.club^
 ||animeuknews.net^
-||animeverse.to^
 ||animevilla.in^
 ||animevilla.org^
 ||animevost.org^
@@ -394,7 +392,6 @@
 ||dailycommercials.com^
 ||dami-tv.pro^
 ||damitvsports.com^
-||damovies.net^
 ||db.silveryasha.id^
 ||db.trakt.anitrakt^
 ||ddlbase.com^
@@ -907,6 +904,7 @@
 ||nmovies.cc^
 ||noirx.live^
 ||noirx.me^
+||nomorflix.cc^
 ||nomorflix.com^
 ||nomorflix.icu^
 ||note.com^
@@ -1315,8 +1313,8 @@
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
-||toku8.com^
 ||tokusatsunetwork.com^
+||tokuvn.com^
 ||tokuzilla.net^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
@@ -1449,7 +1447,7 @@
 ||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.net^
-||watchflix.to^
+||watchflux.tv^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.ru^
@@ -1855,6 +1853,7 @@
 ||www.zimmerit.moe^
 ||www.zinmanga.net^
 ||www.zophar.net^
+||www.zynema.co^
 ||x27.html^
 ||x3dl.net^
 ||xalosach.com^
@@ -2070,7 +2069,6 @@
 ! 0.0.0.0 animesalt.ac
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
-! 0.0.0.0 animeshrine.xyz
 ! 0.0.0.0 animesilo.cc
 ! 0.0.0.0 animesongs.org
 ! 0.0.0.0 animestars.org
@@ -2087,7 +2085,6 @@
 ! 0.0.0.0 animetv-jp.net
 ! 0.0.0.0 animeua.club
 ! 0.0.0.0 animeuknews.net
-! 0.0.0.0 animeverse.to
 ! 0.0.0.0 animevilla.in
 ! 0.0.0.0 animevilla.org
 ! 0.0.0.0 animevost.org
@@ -2298,7 +2295,6 @@
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 dami-tv.pro
 ! 0.0.0.0 damitvsports.com
-! 0.0.0.0 damovies.net
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 db.trakt.anitrakt
 ! 0.0.0.0 ddlbase.com
@@ -2811,6 +2807,7 @@
 ! 0.0.0.0 nmovies.cc
 ! 0.0.0.0 noirx.live
 ! 0.0.0.0 noirx.me
+! 0.0.0.0 nomorflix.cc
 ! 0.0.0.0 nomorflix.com
 ! 0.0.0.0 nomorflix.icu
 ! 0.0.0.0 note.com
@@ -3219,8 +3216,8 @@
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
-! 0.0.0.0 toku8.com
 ! 0.0.0.0 tokusatsunetwork.com
+! 0.0.0.0 tokuvn.com
 ! 0.0.0.0 tokuzilla.net
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
@@ -3353,7 +3350,7 @@
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.net
-! 0.0.0.0 watchflix.to
+! 0.0.0.0 watchflux.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.ru
@@ -3759,6 +3756,7 @@
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zinmanga.net
 ! 0.0.0.0 www.zophar.net
+! 0.0.0.0 www.zynema.co
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 x3dl.net
 ! 0.0.0.0 xalosach.com

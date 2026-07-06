@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1901 domains | updated 2026-07-05T06:43:18Z
+# 1900 domains | updated 2026-07-06T07:15:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -162,7 +162,6 @@ animes.garden
 animesalt.ac
 animesalt.top
 animeschedule.net
-animeshrine.xyz
 animesilo.cc
 animesongs.org
 animestars.org
@@ -179,7 +178,6 @@ animetudes.com
 animetv-jp.net
 animeua.club
 animeuknews.net
-animeverse.to
 animevilla.in
 animevilla.org
 animevost.org
@@ -390,7 +388,6 @@ daddylive.pk
 dailycommercials.com
 dami-tv.pro
 damitvsports.com
-damovies.net
 db.silveryasha.id
 db.trakt.anitrakt
 ddlbase.com
@@ -903,6 +900,7 @@ nkiri.ink
 nmovies.cc
 noirx.live
 noirx.me
+nomorflix.cc
 nomorflix.com
 nomorflix.icu
 note.com
@@ -1311,8 +1309,8 @@ tkor127.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
-toku8.com
 tokusatsunetwork.com
+tokuvn.com
 tokuzilla.net
 tokyo-tosho.net
 tokyodross.blogspot.com
@@ -1445,7 +1443,7 @@ watch.mometu.com
 watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.net
-watchflix.to
+watchflux.tv
 watchfooty.st
 watchorbit.me
 watchott.ru
@@ -1851,6 +1849,7 @@ www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net
 www.zophar.net
+www.zynema.co
 x27.html
 x3dl.net
 xalosach.com
