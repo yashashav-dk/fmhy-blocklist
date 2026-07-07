@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
-! Last updated: 2026-07-06T07:15:43Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1897 domains)
+! Last updated: 2026-07-07T06:49:27Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -166,6 +166,7 @@
 ||animesalt.ac^
 ||animesalt.top^
 ||animeschedule.net^
+||animeshrine.xyz^
 ||animesilo.cc^
 ||animesongs.org^
 ||animestars.org^
@@ -588,7 +589,6 @@
 ||hexawatch.cc^
 ||hhtq1.xyz^
 ||hi10anime.com^
-||hicartoon.to^
 ||hikka.io^
 ||hindmoviez.cafe^
 ||hizomanga.net^
@@ -733,7 +733,6 @@
 ||luciferdonghua.in^
 ||lumotv.co.uk^
 ||luna-stream.me^
-||lunara.watch^
 ||lunaranime.ru^
 ||lunastream.fun^
 ||m-p.sakura.ne.jp^
@@ -917,7 +916,6 @@
 ||noxx.to^
 ||nsk.sh^
 ||ntv.cx^
-||ntv.direct^
 ||ntvs.cx^
 ||nukkard.com^
 ||numb3rs.stream^
@@ -1444,7 +1442,6 @@
 ||watch.filmu.in^
 ||watch.foundtv.com^
 ||watch.mometu.com^
-||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.net^
 ||watchflux.tv^
@@ -1749,7 +1746,7 @@
 ||www.pirateboard.net^
 ||www.playary.com^
 ||www.pracdev.org^
-||www.primeshows.uk^
+||www.primeshows.org^
 ||www.primewire.mov^
 ||www.publicdomaintorrents.info^
 ||www.quodb.com^
@@ -2069,6 +2066,7 @@
 ! 0.0.0.0 animesalt.ac
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
+! 0.0.0.0 animeshrine.xyz
 ! 0.0.0.0 animesilo.cc
 ! 0.0.0.0 animesongs.org
 ! 0.0.0.0 animestars.org
@@ -2491,7 +2489,6 @@
 ! 0.0.0.0 hexawatch.cc
 ! 0.0.0.0 hhtq1.xyz
 ! 0.0.0.0 hi10anime.com
-! 0.0.0.0 hicartoon.to
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
 ! 0.0.0.0 hizomanga.net
@@ -2636,7 +2633,6 @@
 ! 0.0.0.0 luciferdonghua.in
 ! 0.0.0.0 lumotv.co.uk
 ! 0.0.0.0 luna-stream.me
-! 0.0.0.0 lunara.watch
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
@@ -2820,7 +2816,6 @@
 ! 0.0.0.0 noxx.to
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
-! 0.0.0.0 ntv.direct
 ! 0.0.0.0 ntvs.cx
 ! 0.0.0.0 nukkard.com
 ! 0.0.0.0 numb3rs.stream
@@ -3347,7 +3342,6 @@
 ! 0.0.0.0 watch.filmu.in
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
-! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.net
 ! 0.0.0.0 watchflux.tv
@@ -3652,7 +3646,7 @@
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
 ! 0.0.0.0 www.pracdev.org
-! 0.0.0.0 www.primeshows.uk
+! 0.0.0.0 www.primeshows.org
 ! 0.0.0.0 www.primewire.mov
 ! 0.0.0.0 www.publicdomaintorrents.info
 ! 0.0.0.0 www.quodb.com

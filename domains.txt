@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1900 domains | updated 2026-07-06T07:15:43Z
+# 1897 domains | updated 2026-07-07T06:49:27Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -162,6 +162,7 @@ animes.garden
 animesalt.ac
 animesalt.top
 animeschedule.net
+animeshrine.xyz
 animesilo.cc
 animesongs.org
 animestars.org
@@ -584,7 +585,6 @@ hexa.su
 hexawatch.cc
 hhtq1.xyz
 hi10anime.com
-hicartoon.to
 hikka.io
 hindmoviez.cafe
 hizomanga.net
@@ -729,7 +729,6 @@ lucida.to
 luciferdonghua.in
 lumotv.co.uk
 luna-stream.me
-lunara.watch
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
@@ -913,7 +912,6 @@ novelasligeras.net
 noxx.to
 nsk.sh
 ntv.cx
-ntv.direct
 ntvs.cx
 nukkard.com
 numb3rs.stream
@@ -1440,7 +1438,6 @@ watch.corsflix.net
 watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
-watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.net
 watchflux.tv
@@ -1745,7 +1742,7 @@ www.panix.com
 www.pirateboard.net
 www.playary.com
 www.pracdev.org
-www.primeshows.uk
+www.primeshows.org
 www.primewire.mov
 www.publicdomaintorrents.info
 www.quodb.com
