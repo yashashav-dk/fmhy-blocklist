@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1897 domains | updated 2026-07-07T06:49:27Z
+# 1905 domains | updated 2026-07-08T05:55:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -81,6 +81,7 @@ anica.jp
 anichart.net
 anicheck.moe
 anichin.bio
+anicine.xyz
 anidap.se
 anidb.app
 anidoor.me
@@ -90,6 +91,7 @@ anifox.club
 anify.to
 aniguessr.com
 anihq.cc
+anikitty.moe
 anikototv.to
 anikuro.ru
 anikuro.site
@@ -331,6 +333,7 @@ cinevibe.icu
 cinevibe.site
 cinevibe.to
 ciniverse.site
+cinrift.me
 circle.ms
 cksub.org
 cli.club
@@ -496,6 +499,7 @@ fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.su
+fliker.freebuff.app
 flix.smashystream.xyz
 flixer.su
 flixhop.com
@@ -530,7 +534,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe654.com
+funbe655.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 fxfx330.com
@@ -545,7 +549,6 @@ ggflix.live
 git.rebelonion.dev
 global.toptoon.com
 globeradio.app
-globetv.app
 go.aftvnews.com
 goated.cx
 goctruyentranh.com
@@ -583,7 +586,6 @@ hentaila.com
 hentaiukr.com
 hexa.su
 hexawatch.cc
-hhtq1.xyz
 hi10anime.com
 hikka.io
 hindmoviez.cafe
@@ -679,6 +681,7 @@ kisskh.id
 kisskh.ovh
 kisskh.red
 kitsunekko.net
+kmmovies.shop
 komiic.com
 komikindo.ch
 komiku.org
@@ -1221,8 +1224,10 @@ streamfree.top
 streamgoblin.com
 streamic.ru
 streaming-integrale.com
+streamingunity.dog
 streamninja.online
 streamninja.xyz
+streamo.pro
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1347,6 +1352,7 @@ truyenqqko.com
 tsquareplaza.blogspot.com
 tsukihime.org
 tundra.moe
+tuoverse.com
 tv.filmu.in
 tv.html
 tv.jest
@@ -1384,10 +1390,11 @@ usenet.rexum.space
 utaite-key.info
 utaitedb.net
 utaten.com
-v12.anidub.digital
+v13.anidub.digital
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
+v2.way2movies.live
 v3.animeko.ws
 v3.komikcast.fit
 vaughn.live
@@ -1459,7 +1466,7 @@ weblinhtinh1.net
 weebcentral.com
 wfs.lol
 wfty.link
-wfwf478.com
+wfwf413.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1716,6 +1723,7 @@ www.movie-censorship.com
 www.movie-locations.com
 www.movieloci.com
 www.moviemistakes.com
+www.moviestowatch.top
 www.mrqe.com
 www.mundodonghua.com
 www.music-map.com

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1897 domains)
-! Last updated: 2026-07-07T06:49:27Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
+! Last updated: 2026-07-08T05:55:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -85,6 +85,7 @@
 ||anichart.net^
 ||anicheck.moe^
 ||anichin.bio^
+||anicine.xyz^
 ||anidap.se^
 ||anidb.app^
 ||anidoor.me^
@@ -94,6 +95,7 @@
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
+||anikitty.moe^
 ||anikototv.to^
 ||anikuro.ru^
 ||anikuro.site^
@@ -335,6 +337,7 @@
 ||cinevibe.site^
 ||cinevibe.to^
 ||ciniverse.site^
+||cinrift.me^
 ||circle.ms^
 ||cksub.org^
 ||cli.club^
@@ -500,6 +503,7 @@
 ||flicker-proxy.md^
 ||flickmetrix.com^
 ||flickystream.su^
+||fliker.freebuff.app^
 ||flix.smashystream.xyz^
 ||flixer.su^
 ||flixhop.com^
@@ -534,7 +538,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe654.com^
+||funbe655.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||fxfx330.com^
@@ -549,7 +553,6 @@
 ||git.rebelonion.dev^
 ||global.toptoon.com^
 ||globeradio.app^
-||globetv.app^
 ||go.aftvnews.com^
 ||goated.cx^
 ||goctruyentranh.com^
@@ -587,7 +590,6 @@
 ||hentaiukr.com^
 ||hexa.su^
 ||hexawatch.cc^
-||hhtq1.xyz^
 ||hi10anime.com^
 ||hikka.io^
 ||hindmoviez.cafe^
@@ -683,6 +685,7 @@
 ||kisskh.ovh^
 ||kisskh.red^
 ||kitsunekko.net^
+||kmmovies.shop^
 ||komiic.com^
 ||komikindo.ch^
 ||komiku.org^
@@ -1225,8 +1228,10 @@
 ||streamgoblin.com^
 ||streamic.ru^
 ||streaming-integrale.com^
+||streamingunity.dog^
 ||streamninja.online^
 ||streamninja.xyz^
+||streamo.pro^
 ||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
@@ -1351,6 +1356,7 @@
 ||tsquareplaza.blogspot.com^
 ||tsukihime.org^
 ||tundra.moe^
+||tuoverse.com^
 ||tv.filmu.in^
 ||tv.html^
 ||tv.jest^
@@ -1388,10 +1394,11 @@
 ||utaite-key.info^
 ||utaitedb.net^
 ||utaten.com^
-||v12.anidub.digital^
+||v13.anidub.digital^
 ||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
+||v2.way2movies.live^
 ||v3.animeko.ws^
 ||v3.komikcast.fit^
 ||vaughn.live^
@@ -1463,7 +1470,7 @@
 ||weebcentral.com^
 ||wfs.lol^
 ||wfty.link^
-||wfwf478.com^
+||wfwf413.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1720,6 +1727,7 @@
 ||www.movie-locations.com^
 ||www.movieloci.com^
 ||www.moviemistakes.com^
+||www.moviestowatch.top^
 ||www.mrqe.com^
 ||www.mundodonghua.com^
 ||www.music-map.com^
@@ -1985,6 +1993,7 @@
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
+! 0.0.0.0 anicine.xyz
 ! 0.0.0.0 anidap.se
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
@@ -1994,6 +2003,7 @@
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
+! 0.0.0.0 anikitty.moe
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikuro.ru
 ! 0.0.0.0 anikuro.site
@@ -2235,6 +2245,7 @@
 ! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
 ! 0.0.0.0 ciniverse.site
+! 0.0.0.0 cinrift.me
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
@@ -2400,6 +2411,7 @@
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.su
+! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
@@ -2434,7 +2446,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe654.com
+! 0.0.0.0 funbe655.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 fxfx330.com
@@ -2449,7 +2461,6 @@
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 globeradio.app
-! 0.0.0.0 globetv.app
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goated.cx
 ! 0.0.0.0 goctruyentranh.com
@@ -2487,7 +2498,6 @@
 ! 0.0.0.0 hentaiukr.com
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hexawatch.cc
-! 0.0.0.0 hhtq1.xyz
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
@@ -2583,6 +2593,7 @@
 ! 0.0.0.0 kisskh.ovh
 ! 0.0.0.0 kisskh.red
 ! 0.0.0.0 kitsunekko.net
+! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
 ! 0.0.0.0 komiku.org
@@ -3125,8 +3136,10 @@
 ! 0.0.0.0 streamgoblin.com
 ! 0.0.0.0 streamic.ru
 ! 0.0.0.0 streaming-integrale.com
+! 0.0.0.0 streamingunity.dog
 ! 0.0.0.0 streamninja.online
 ! 0.0.0.0 streamninja.xyz
+! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
@@ -3251,6 +3264,7 @@
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tsukihime.org
 ! 0.0.0.0 tundra.moe
+! 0.0.0.0 tuoverse.com
 ! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.html
 ! 0.0.0.0 tv.jest
@@ -3288,10 +3302,11 @@
 ! 0.0.0.0 utaite-key.info
 ! 0.0.0.0 utaitedb.net
 ! 0.0.0.0 utaten.com
-! 0.0.0.0 v12.anidub.digital
+! 0.0.0.0 v13.anidub.digital
 ! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
+! 0.0.0.0 v2.way2movies.live
 ! 0.0.0.0 v3.animeko.ws
 ! 0.0.0.0 v3.komikcast.fit
 ! 0.0.0.0 vaughn.live
@@ -3363,7 +3378,7 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf478.com
+! 0.0.0.0 wfwf413.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3620,6 +3635,7 @@
 ! 0.0.0.0 www.movie-locations.com
 ! 0.0.0.0 www.movieloci.com
 ! 0.0.0.0 www.moviemistakes.com
+! 0.0.0.0 www.moviestowatch.top
 ! 0.0.0.0 www.mrqe.com
 ! 0.0.0.0 www.mundodonghua.com
 ! 0.0.0.0 www.music-map.com
