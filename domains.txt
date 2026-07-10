@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1906 domains | updated 2026-07-09T06:53:17Z
+# 1904 domains | updated 2026-07-10T06:48:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -425,7 +425,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.win
+dokiraw.biz
 donghua.site
 donghuastream.org
 dorabash.in
@@ -715,6 +715,7 @@ likemanga.ink
 listen-to-euterpe.eu
 listen.moe
 lists.fun
+livelive24.com
 livepush.io
 livetv.sx
 livextv.hybrows.workers.dev
@@ -1057,9 +1058,7 @@ rawlazy.io
 rawotaku.com
 rawsmanga.com
 rawuwu.net
-rcostation.xyz
 react.tv
-readallcomics.com
 readcomicsonline.ru
 readme.en.md
 real-debrid.com
@@ -1346,7 +1345,6 @@ treasure-maps.com
 tria.ge
 troypoint.com
 trueharem.carrd.co
-truyendex.cc
 truyenfull.io
 truyenfull.today
 truyenqqko.com
@@ -1593,7 +1591,6 @@ www.cineby.at
 www.cineplay.to
 www.cinezo.net
 www.classreal.com
-www.colamanga.com
 www.comicbookherald.com
 www.comicbooktreasury.com
 www.comichron.com
@@ -1851,6 +1848,7 @@ www.xmanagerapp.com
 www.yfanefa.com
 www.yinhuadm.cc
 www.yomu-reader.com
+www.yoyomanga.com
 www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net

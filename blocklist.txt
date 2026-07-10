@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1906 domains)
-! Last updated: 2026-07-09T06:53:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-07-10T06:48:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -429,7 +429,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.win^
+||dokiraw.biz^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -719,6 +719,7 @@
 ||listen-to-euterpe.eu^
 ||listen.moe^
 ||lists.fun^
+||livelive24.com^
 ||livepush.io^
 ||livetv.sx^
 ||livextv.hybrows.workers.dev^
@@ -1061,9 +1062,7 @@
 ||rawotaku.com^
 ||rawsmanga.com^
 ||rawuwu.net^
-||rcostation.xyz^
 ||react.tv^
-||readallcomics.com^
 ||readcomicsonline.ru^
 ||readme.en.md^
 ||real-debrid.com^
@@ -1350,7 +1349,6 @@
 ||tria.ge^
 ||troypoint.com^
 ||trueharem.carrd.co^
-||truyendex.cc^
 ||truyenfull.io^
 ||truyenfull.today^
 ||truyenqqko.com^
@@ -1597,7 +1595,6 @@
 ||www.cineplay.to^
 ||www.cinezo.net^
 ||www.classreal.com^
-||www.colamanga.com^
 ||www.comicbookherald.com^
 ||www.comicbooktreasury.com^
 ||www.comichron.com^
@@ -1855,6 +1852,7 @@
 ||www.yfanefa.com^
 ||www.yinhuadm.cc^
 ||www.yomu-reader.com^
+||www.yoyomanga.com^
 ||www.zazamanga.com^
 ||www.zimmerit.moe^
 ||www.zinmanga.net^
@@ -2338,7 +2336,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.win
+! 0.0.0.0 dokiraw.biz
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2628,6 +2626,7 @@
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
 ! 0.0.0.0 lists.fun
+! 0.0.0.0 livelive24.com
 ! 0.0.0.0 livepush.io
 ! 0.0.0.0 livetv.sx
 ! 0.0.0.0 livextv.hybrows.workers.dev
@@ -2970,9 +2969,7 @@
 ! 0.0.0.0 rawotaku.com
 ! 0.0.0.0 rawsmanga.com
 ! 0.0.0.0 rawuwu.net
-! 0.0.0.0 rcostation.xyz
 ! 0.0.0.0 react.tv
-! 0.0.0.0 readallcomics.com
 ! 0.0.0.0 readcomicsonline.ru
 ! 0.0.0.0 readme.en.md
 ! 0.0.0.0 real-debrid.com
@@ -3259,7 +3256,6 @@
 ! 0.0.0.0 tria.ge
 ! 0.0.0.0 troypoint.com
 ! 0.0.0.0 trueharem.carrd.co
-! 0.0.0.0 truyendex.cc
 ! 0.0.0.0 truyenfull.io
 ! 0.0.0.0 truyenfull.today
 ! 0.0.0.0 truyenqqko.com
@@ -3506,7 +3502,6 @@
 ! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
-! 0.0.0.0 www.colamanga.com
 ! 0.0.0.0 www.comicbookherald.com
 ! 0.0.0.0 www.comicbooktreasury.com
 ! 0.0.0.0 www.comichron.com
@@ -3764,6 +3759,7 @@
 ! 0.0.0.0 www.yfanefa.com
 ! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomu-reader.com
+! 0.0.0.0 www.yoyomanga.com
 ! 0.0.0.0 www.zazamanga.com
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zinmanga.net
