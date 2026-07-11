@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-07-10T06:48:44Z
+# 1900 domains | updated 2026-07-11T05:43:25Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -141,7 +141,6 @@ animedex.fun
 animedrive.hu
 animefire.plus
 animehay.in
-animehub.ac
 animejoker.com
 animejoy.ru
 animekarmalist.com
@@ -534,10 +533,10 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe655.com
+funbe656.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
-fxfx330.com
+fxfx331.com
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -664,7 +663,6 @@ keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
 kids-in-mind.com
-kimcartoon.si
 kimoitv.com
 kindlemodding.org
 kinozal.tv
@@ -672,8 +670,6 @@ kirastreams.onlykirastreams.workers.dev
 kissanime.com.ru
 kissanime.help
 kissasian.video
-kisscartoon.nz
-kisscartoon.sh
 kisskh.co
 kisskh.dk
 kisskh.fr
@@ -898,7 +894,6 @@ nfl-replays.com
 nfl-video.com
 nhattruyenqq.com
 nibl.co.uk
-nicelink51.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
@@ -918,6 +913,7 @@ noxx.to
 nsk.sh
 ntv.cx
 ntvs.cx
+ntvx.link
 nukkard.com
 numb3rs.stream
 nunflix.li
@@ -1394,8 +1390,8 @@ v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
 v2.way2movies.live
-v3.animeko.ws
 v3.komikcast.fit
+v4.animeko.ws
 vaughn.live
 vavoo.to
 vegamovies.market
@@ -1465,7 +1461,7 @@ weblinhtinh1.net
 weebcentral.com
 wfs.lol
 wfty.link
-wfwf413.com
+wfwf416.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1487,7 +1483,7 @@ worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
-wtwt333.com
+wtwt334.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1-fmovies.com

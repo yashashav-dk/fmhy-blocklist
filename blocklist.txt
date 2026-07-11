@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
-! Last updated: 2026-07-10T06:48:44Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
+! Last updated: 2026-07-11T05:43:25Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -145,7 +145,6 @@
 ||animedrive.hu^
 ||animefire.plus^
 ||animehay.in^
-||animehub.ac^
 ||animejoker.com^
 ||animejoy.ru^
 ||animekarmalist.com^
@@ -538,10 +537,10 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe655.com^
+||funbe656.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
-||fxfx330.com^
+||fxfx331.com^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||geekdot.live^
@@ -668,7 +667,6 @@
 ||keygenmusic.tk^
 ||kibo.fm^
 ||kids-in-mind.com^
-||kimcartoon.si^
 ||kimoitv.com^
 ||kindlemodding.org^
 ||kinozal.tv^
@@ -676,8 +674,6 @@
 ||kissanime.com.ru^
 ||kissanime.help^
 ||kissasian.video^
-||kisscartoon.nz^
-||kisscartoon.sh^
 ||kisskh.co^
 ||kisskh.dk^
 ||kisskh.fr^
@@ -902,7 +898,6 @@
 ||nfl-video.com^
 ||nhattruyenqq.com^
 ||nibl.co.uk^
-||nicelink51.com^
 ||nipponsei.minglong.org^
 ||nkiri.ink^
 ||nmovies.cc^
@@ -922,6 +917,7 @@
 ||nsk.sh^
 ||ntv.cx^
 ||ntvs.cx^
+||ntvx.link^
 ||nukkard.com^
 ||numb3rs.stream^
 ||nunflix.li^
@@ -1398,8 +1394,8 @@
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
 ||v2.way2movies.live^
-||v3.animeko.ws^
 ||v3.komikcast.fit^
+||v4.animeko.ws^
 ||vaughn.live^
 ||vavoo.to^
 ||vegamovies.market^
@@ -1469,7 +1465,7 @@
 ||weebcentral.com^
 ||wfs.lol^
 ||wfty.link^
-||wfwf413.com^
+||wfwf416.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1491,7 +1487,7 @@
 ||worldnews24.tv^
 ||wotaku.wiki^
 ||wowtopix.com^
-||wtwt333.com^
+||wtwt334.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1-fmovies.com^
@@ -2052,7 +2048,6 @@
 ! 0.0.0.0 animedrive.hu
 ! 0.0.0.0 animefire.plus
 ! 0.0.0.0 animehay.in
-! 0.0.0.0 animehub.ac
 ! 0.0.0.0 animejoker.com
 ! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekarmalist.com
@@ -2445,10 +2440,10 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe655.com
+! 0.0.0.0 funbe656.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
-! 0.0.0.0 fxfx330.com
+! 0.0.0.0 fxfx331.com
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 geekdot.live
@@ -2575,7 +2570,6 @@
 ! 0.0.0.0 keygenmusic.tk
 ! 0.0.0.0 kibo.fm
 ! 0.0.0.0 kids-in-mind.com
-! 0.0.0.0 kimcartoon.si
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kinozal.tv
@@ -2583,8 +2577,6 @@
 ! 0.0.0.0 kissanime.com.ru
 ! 0.0.0.0 kissanime.help
 ! 0.0.0.0 kissasian.video
-! 0.0.0.0 kisscartoon.nz
-! 0.0.0.0 kisscartoon.sh
 ! 0.0.0.0 kisskh.co
 ! 0.0.0.0 kisskh.dk
 ! 0.0.0.0 kisskh.fr
@@ -2809,7 +2801,6 @@
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nhattruyenqq.com
 ! 0.0.0.0 nibl.co.uk
-! 0.0.0.0 nicelink51.com
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nkiri.ink
 ! 0.0.0.0 nmovies.cc
@@ -2829,6 +2820,7 @@
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
 ! 0.0.0.0 ntvs.cx
+! 0.0.0.0 ntvx.link
 ! 0.0.0.0 nukkard.com
 ! 0.0.0.0 numb3rs.stream
 ! 0.0.0.0 nunflix.li
@@ -3305,8 +3297,8 @@
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
 ! 0.0.0.0 v2.way2movies.live
-! 0.0.0.0 v3.animeko.ws
 ! 0.0.0.0 v3.komikcast.fit
+! 0.0.0.0 v4.animeko.ws
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegamovies.market
@@ -3376,7 +3368,7 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf413.com
+! 0.0.0.0 wfwf416.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3398,7 +3390,7 @@
 ! 0.0.0.0 worldnews24.tv
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
-! 0.0.0.0 wtwt333.com
+! 0.0.0.0 wtwt334.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1-fmovies.com
