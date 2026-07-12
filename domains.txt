@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1900 domains | updated 2026-07-11T05:43:25Z
+# 1901 domains | updated 2026-07-12T06:06:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -74,6 +74,7 @@ ani.lol
 ani4u.org
 anianimals.moe
 anianimax.dpdns.org
+anibase.net
 anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
@@ -279,7 +280,6 @@ bingebox.to
 bingeflix.tv
 bingr.one
 binsearch.info
-bintv.net
 bleh.katelyn.moe
 blkom.com
 blog.decryption.net.au
@@ -298,6 +298,7 @@ candlestream.xyz
 canibinge.com
 caps-a-holic.com
 cartooncartoons.thatsoretro.com
+cc.edatribe.com
 cd.textfiles
 channelsurfer.tv
 chauthanh.info
@@ -389,7 +390,7 @@ daddylive.nl
 daddylive.org
 daddylive.pk
 dailycommercials.com
-dami-tv.pro
+damitv.st
 damitvsports.com
 db.silveryasha.id
 db.trakt.anitrakt
@@ -528,7 +529,7 @@ freesub.live
 freetvz.com
 french-anime.com
 frixysubs.pl
-frtoon2.com
+frtoon4.com
 fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
@@ -573,7 +574,6 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhd510.net
 hdmovieshub.fyi
 heavenmanga.com
 henshingrid.blogspot.com
@@ -1304,7 +1304,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor127.com
+tkor134.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1341,8 +1341,7 @@ treasure-maps.com
 tria.ge
 troypoint.com
 trueharem.carrd.co
-truyenfull.io
-truyenfull.today
+truyenfull.live
 truyenqqko.com
 tsquareplaza.blogspot.com
 tsukihime.org
@@ -1460,6 +1459,7 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wfs.lol
+wftoon219.com
 wfty.link
 wfwf416.com
 whatsatmovie.com
@@ -1573,6 +1573,7 @@ www.best-moviez.ws
 www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
+www.bintv.cc
 www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com
