@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1901 domains | updated 2026-07-12T06:06:46Z
+# 1902 domains | updated 2026-07-13T06:22:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -137,7 +137,6 @@ animecons.com
 animecorner.me
 animecountdown.com
 animedb.jp
-animedesu.pl
 animedex.fun
 animedrive.hu
 animefire.plus
@@ -513,7 +512,7 @@ fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
-foc115.asia
+foc116.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -591,7 +590,6 @@ hindmoviez.cafe
 hizomanga.net
 hkmdb.com
 hollymoviehd.cc
-home.bintv.online
 home.html
 home.php
 hoofoot.com
@@ -848,6 +846,7 @@ moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
 movish.net
+movish.to
 msft-store.tplant.com.au
 mtoon144.asia
 mugen.karaokes.moe
@@ -865,7 +864,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee102.asia
+namee103.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1098,6 +1097,7 @@ roxiestreams.su
 rreelstream.live
 rss.php
 rss.xml
+rstream.app
 ru.com-x.life
 rugby24.net
 russianfilmhub.com
@@ -1208,14 +1208,13 @@ stream192.mp
 streamcorner.cloud
 streamcorner.foo
 streamcorner.fun
-streamcorner.fyi
+streamcorner.st
 streameast.ga
 streameast.ph
 streamed.pk
 streamed.st
 streamex.sh
 streamex.ws
-streamfree.link
 streamfree.top
 streamgoblin.com
 streamic.ru
@@ -1234,6 +1233,7 @@ stremio-addons.net
 strexoplayer.onrender.com
 strims24.pl
 strmd.link
+strmfree.link
 strumyk.domains
 strumyk.pk
 sub-scene.com
@@ -1271,7 +1271,6 @@ tap4sport.link
 tap4sport.nl
 tape.xyz
 tauonmusicbox.rocks
-telev.tv
 tennojim.xyz
 terabox.hnn.workers.dev
 tfpdl.se
@@ -1323,6 +1322,7 @@ top.xdmovies.wtf
 topsrs.day
 topsters.org
 torbox.app
+torlink.bairon.dev
 torrents.youplex.site
 torrentsurf.to
 tortuga-ceviri.com
@@ -1574,6 +1574,7 @@ www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
 www.bintv.cc
+www.bintv.link
 www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com

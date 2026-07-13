@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1901 domains)
-! Last updated: 2026-07-12T06:06:46Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
+! Last updated: 2026-07-13T06:22:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -141,7 +141,6 @@
 ||animecorner.me^
 ||animecountdown.com^
 ||animedb.jp^
-||animedesu.pl^
 ||animedex.fun^
 ||animedrive.hu^
 ||animefire.plus^
@@ -517,7 +516,7 @@
 ||fluxtv.qzz.io^
 ||flyflix.net^
 ||fmstream.org^
-||foc115.asia^
+||foc116.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -595,7 +594,6 @@
 ||hizomanga.net^
 ||hkmdb.com^
 ||hollymoviehd.cc^
-||home.bintv.online^
 ||home.html^
 ||home.php^
 ||hoofoot.com^
@@ -852,6 +850,7 @@
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
 ||movish.net^
+||movish.to^
 ||msft-store.tplant.com.au^
 ||mtoon144.asia^
 ||mugen.karaokes.moe^
@@ -869,7 +868,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee102.asia^
+||namee103.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1102,6 +1101,7 @@
 ||rreelstream.live^
 ||rss.php^
 ||rss.xml^
+||rstream.app^
 ||ru.com-x.life^
 ||rugby24.net^
 ||russianfilmhub.com^
@@ -1212,14 +1212,13 @@
 ||streamcorner.cloud^
 ||streamcorner.foo^
 ||streamcorner.fun^
-||streamcorner.fyi^
+||streamcorner.st^
 ||streameast.ga^
 ||streameast.ph^
 ||streamed.pk^
 ||streamed.st^
 ||streamex.sh^
 ||streamex.ws^
-||streamfree.link^
 ||streamfree.top^
 ||streamgoblin.com^
 ||streamic.ru^
@@ -1238,6 +1237,7 @@
 ||strexoplayer.onrender.com^
 ||strims24.pl^
 ||strmd.link^
+||strmfree.link^
 ||strumyk.domains^
 ||strumyk.pk^
 ||sub-scene.com^
@@ -1275,7 +1275,6 @@
 ||tap4sport.nl^
 ||tape.xyz^
 ||tauonmusicbox.rocks^
-||telev.tv^
 ||tennojim.xyz^
 ||terabox.hnn.workers.dev^
 ||tfpdl.se^
@@ -1327,6 +1326,7 @@
 ||topsrs.day^
 ||topsters.org^
 ||torbox.app^
+||torlink.bairon.dev^
 ||torrents.youplex.site^
 ||torrentsurf.to^
 ||tortuga-ceviri.com^
@@ -1578,6 +1578,7 @@
 ||www.bimiacg14.net^
 ||www.bingeclock.com^
 ||www.bintv.cc^
+||www.bintv.link^
 ||www.boredflix.tv^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
@@ -2045,7 +2046,6 @@
 ! 0.0.0.0 animecorner.me
 ! 0.0.0.0 animecountdown.com
 ! 0.0.0.0 animedb.jp
-! 0.0.0.0 animedesu.pl
 ! 0.0.0.0 animedex.fun
 ! 0.0.0.0 animedrive.hu
 ! 0.0.0.0 animefire.plus
@@ -2421,7 +2421,7 @@
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc115.asia
+! 0.0.0.0 foc116.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2499,7 +2499,6 @@
 ! 0.0.0.0 hizomanga.net
 ! 0.0.0.0 hkmdb.com
 ! 0.0.0.0 hollymoviehd.cc
-! 0.0.0.0 home.bintv.online
 ! 0.0.0.0 home.html
 ! 0.0.0.0 home.php
 ! 0.0.0.0 hoofoot.com
@@ -2756,6 +2755,7 @@
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.net
+! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mtoon144.asia
 ! 0.0.0.0 mugen.karaokes.moe
@@ -2773,7 +2773,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee102.asia
+! 0.0.0.0 namee103.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3006,6 +3006,7 @@
 ! 0.0.0.0 rreelstream.live
 ! 0.0.0.0 rss.php
 ! 0.0.0.0 rss.xml
+! 0.0.0.0 rstream.app
 ! 0.0.0.0 ru.com-x.life
 ! 0.0.0.0 rugby24.net
 ! 0.0.0.0 russianfilmhub.com
@@ -3116,14 +3117,13 @@
 ! 0.0.0.0 streamcorner.cloud
 ! 0.0.0.0 streamcorner.foo
 ! 0.0.0.0 streamcorner.fun
-! 0.0.0.0 streamcorner.fyi
+! 0.0.0.0 streamcorner.st
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamed.pk
 ! 0.0.0.0 streamed.st
 ! 0.0.0.0 streamex.sh
 ! 0.0.0.0 streamex.ws
-! 0.0.0.0 streamfree.link
 ! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamgoblin.com
 ! 0.0.0.0 streamic.ru
@@ -3142,6 +3142,7 @@
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.pl
 ! 0.0.0.0 strmd.link
+! 0.0.0.0 strmfree.link
 ! 0.0.0.0 strumyk.domains
 ! 0.0.0.0 strumyk.pk
 ! 0.0.0.0 sub-scene.com
@@ -3179,7 +3180,6 @@
 ! 0.0.0.0 tap4sport.nl
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
-! 0.0.0.0 telev.tv
 ! 0.0.0.0 tennojim.xyz
 ! 0.0.0.0 terabox.hnn.workers.dev
 ! 0.0.0.0 tfpdl.se
@@ -3231,6 +3231,7 @@
 ! 0.0.0.0 topsrs.day
 ! 0.0.0.0 topsters.org
 ! 0.0.0.0 torbox.app
+! 0.0.0.0 torlink.bairon.dev
 ! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 torrentsurf.to
 ! 0.0.0.0 tortuga-ceviri.com
@@ -3482,6 +3483,7 @@
 ! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bintv.cc
+! 0.0.0.0 www.bintv.link
 ! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
