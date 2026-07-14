@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1902 domains | updated 2026-07-13T06:22:43Z
+# 1903 domains | updated 2026-07-14T05:34:19Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -482,7 +482,6 @@ fansubdb.it
 fansubs.cat
 fansubs.ru
 fantasticsoda.com
-fauux.neocities.org
 fbstream.cc
 fcast.org
 filmcave.ru
@@ -533,7 +532,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe656.com
+funbe657.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 fxfx331.com
@@ -720,7 +719,7 @@ log.rlsbb.ru
 logs.musichoarders.xyz
 lookmovie2.la
 lookmovie2.to
-lordflix.org
+lordflix.su
 lrclib.net
 lrepacks.net
 lucida.to
@@ -1266,9 +1265,11 @@ tagger.site
 taiga.moe
 tana.moe
 taosect.com
-tap4sport.cc
+tap4sport.bz
+tap4sport.ci
 tap4sport.link
 tap4sport.nl
+tap4sport.pw
 tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
@@ -1303,7 +1304,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor134.com
+tkor135.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
