@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1903 domains)
-! Last updated: 2026-07-14T05:34:19Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1901 domains)
+! Last updated: 2026-07-15T05:35:07Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -87,7 +87,7 @@
 ||anicheck.moe^
 ||anichin.bio^
 ||anicine.xyz^
-||anidap.se^
+||anidap.lol^
 ||anidb.app^
 ||anidoor.me^
 ||anifilm.pro^
@@ -723,7 +723,6 @@
 ||logs.musichoarders.xyz^
 ||lookmovie2.la^
 ||lookmovie2.to^
-||lordflix.su^
 ||lrclib.net^
 ||lrepacks.net^
 ||lucida.to^
@@ -1191,8 +1190,7 @@
 ||spin.moe^
 ||split-tv.co.il^
 ||sportontv.space^
-||sportsbite.lol^
-||sportsbite.xyz^
+||sportsbite.org^
 ||sportsurge.pk^
 ||sportyhunter.site^
 ||sportyhunter.xyz^
@@ -1993,7 +1991,7 @@
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anicine.xyz
-! 0.0.0.0 anidap.se
+! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anifilm.pro
@@ -2629,7 +2627,6 @@
 ! 0.0.0.0 logs.musichoarders.xyz
 ! 0.0.0.0 lookmovie2.la
 ! 0.0.0.0 lookmovie2.to
-! 0.0.0.0 lordflix.su
 ! 0.0.0.0 lrclib.net
 ! 0.0.0.0 lrepacks.net
 ! 0.0.0.0 lucida.to
@@ -3097,8 +3094,7 @@
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportontv.space
-! 0.0.0.0 sportsbite.lol
-! 0.0.0.0 sportsbite.xyz
+! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.site
 ! 0.0.0.0 sportyhunter.xyz

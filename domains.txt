@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1903 domains | updated 2026-07-14T05:34:19Z
+# 1901 domains | updated 2026-07-15T05:35:07Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -83,7 +83,7 @@ anichart.net
 anicheck.moe
 anichin.bio
 anicine.xyz
-anidap.se
+anidap.lol
 anidb.app
 anidoor.me
 anifilm.pro
@@ -719,7 +719,6 @@ log.rlsbb.ru
 logs.musichoarders.xyz
 lookmovie2.la
 lookmovie2.to
-lordflix.su
 lrclib.net
 lrepacks.net
 lucida.to
@@ -1187,8 +1186,7 @@ sphinxanime.com
 spin.moe
 split-tv.co.il
 sportontv.space
-sportsbite.lol
-sportsbite.xyz
+sportsbite.org
 sportsurge.pk
 sportyhunter.site
 sportyhunter.xyz
