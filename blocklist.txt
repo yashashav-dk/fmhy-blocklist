@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1901 domains)
-! Last updated: 2026-07-15T05:35:07Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1896 domains)
+! Last updated: 2026-07-16T05:43:05Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -503,8 +503,7 @@
 ||flickystream.su^
 ||fliker.freebuff.app^
 ||flix.smashystream.xyz^
-||flixer.su^
-||flixhop.com^
+||flixer.gd^
 ||flixhouse.com^
 ||flixtrz.com^
 ||flixvo.fun^
@@ -866,7 +865,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee103.asia^
+||namee104.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1221,8 +1220,6 @@
 ||streamic.ru^
 ||streaming-integrale.com^
 ||streamingunity.dog^
-||streamninja.online^
-||streamninja.xyz^
 ||streamo.pro^
 ||streamsports99.ru^
 ||streamsports99.su^
@@ -1278,7 +1275,6 @@
 ||terabox.hnn.workers.dev^
 ||tfpdl.se^
 ||tfpdl.to^
-||the-tv.app^
 ||thebarchive.com^
 ||thecinefy.site^
 ||thedigitaltheater.com^
@@ -1450,7 +1446,6 @@
 ||watchott.ru^
 ||watchprowrestling.store^
 ||watchreplay.net^
-||watchsports.to^
 ||watchsurface.stream^
 ||watchtvs.live^
 ||watchwrestling.ae^
@@ -2407,8 +2402,7 @@
 ! 0.0.0.0 flickystream.su
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flix.smashystream.xyz
-! 0.0.0.0 flixer.su
-! 0.0.0.0 flixhop.com
+! 0.0.0.0 flixer.gd
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
@@ -2770,7 +2764,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee103.asia
+! 0.0.0.0 namee104.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3125,8 +3119,6 @@
 ! 0.0.0.0 streamic.ru
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamingunity.dog
-! 0.0.0.0 streamninja.online
-! 0.0.0.0 streamninja.xyz
 ! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
@@ -3182,7 +3174,6 @@
 ! 0.0.0.0 terabox.hnn.workers.dev
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
-! 0.0.0.0 the-tv.app
 ! 0.0.0.0 thebarchive.com
 ! 0.0.0.0 thecinefy.site
 ! 0.0.0.0 thedigitaltheater.com
@@ -3354,7 +3345,6 @@
 ! 0.0.0.0 watchott.ru
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
-! 0.0.0.0 watchsports.to
 ! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae

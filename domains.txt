@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1901 domains | updated 2026-07-15T05:35:07Z
+# 1896 domains | updated 2026-07-16T05:43:05Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -499,8 +499,7 @@ flickmetrix.com
 flickystream.su
 fliker.freebuff.app
 flix.smashystream.xyz
-flixer.su
-flixhop.com
+flixer.gd
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -862,7 +861,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee103.asia
+namee104.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1217,8 +1216,6 @@ streamgoblin.com
 streamic.ru
 streaming-integrale.com
 streamingunity.dog
-streamninja.online
-streamninja.xyz
 streamo.pro
 streamsports99.ru
 streamsports99.su
@@ -1274,7 +1271,6 @@ tennojim.xyz
 terabox.hnn.workers.dev
 tfpdl.se
 tfpdl.to
-the-tv.app
 thebarchive.com
 thecinefy.site
 thedigitaltheater.com
@@ -1446,7 +1442,6 @@ watchorbit.me
 watchott.ru
 watchprowrestling.store
 watchreplay.net
-watchsports.to
 watchsurface.stream
 watchtvs.live
 watchwrestling.ae
