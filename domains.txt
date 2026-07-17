@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1896 domains | updated 2026-07-16T05:43:05Z
+# 1898 domains | updated 2026-07-17T05:44:40Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -290,7 +290,6 @@ bszip.com
 btorrent.xyz
 bunko.sumikko.info
 bunkoranoberanking.blog.fc2.com
-bye.undi.rest
 cal.syoboi.jp
 calendar.html
 candlestream.xyz
@@ -424,7 +423,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.biz
+dokiraw.vip
 donghua.site
 donghuastream.org
 dorabash.in
@@ -631,7 +630,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.beer
+jmanga.bike
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -644,7 +643,6 @@ justsubtitles.com
 kaa.lt
 kagane.org
 kagane.to
-kajzu.com
 kara.moe
 kartoons.me
 katworld.net
@@ -842,7 +840,6 @@ movies.php
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
-movish.net
 movish.to
 msft-store.tplant.com.au
 mtoon144.asia
@@ -1043,7 +1040,7 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.li
+rawfree.men
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1058,8 +1055,9 @@ realfight.top
 realityripple.com
 reanime.to
 redflix.club
-redflix.co
+redflix.one
 redsquirrel87.com
+refooty.com
 relatedanime.com
 releasefeed.elomatreb.eu
 releases.com
@@ -1213,9 +1211,11 @@ streamex.sh
 streamex.ws
 streamfree.top
 streamgoblin.com
-streamic.ru
+streamic.st
 streaming-integrale.com
 streamingunity.dog
+streamninja.cloud
+streamninja.fun
 streamo.pro
 streamsports99.ru
 streamsports99.su
@@ -1224,6 +1224,7 @@ streamtim.com
 streamvaults.ru
 streamwatch.online
 stremio-addons.net
+stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.pl
 strmd.link
@@ -1442,6 +1443,7 @@ watchorbit.me
 watchott.ru
 watchprowrestling.store
 watchreplay.net
+watchsports.my
 watchsurface.stream
 watchtvs.live
 watchwrestling.ae
@@ -1455,7 +1457,7 @@ weebcentral.com
 wfs.lol
 wftoon219.com
 wfty.link
-wfwf416.com
+wfwf421.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com

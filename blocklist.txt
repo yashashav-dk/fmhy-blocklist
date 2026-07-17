@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1896 domains)
-! Last updated: 2026-07-16T05:43:05Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
+! Last updated: 2026-07-17T05:44:40Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -294,7 +294,6 @@
 ||btorrent.xyz^
 ||bunko.sumikko.info^
 ||bunkoranoberanking.blog.fc2.com^
-||bye.undi.rest^
 ||cal.syoboi.jp^
 ||calendar.html^
 ||candlestream.xyz^
@@ -428,7 +427,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.biz^
+||dokiraw.vip^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -635,7 +634,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.beer^
+||jmanga.bike^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -648,7 +647,6 @@
 ||kaa.lt^
 ||kagane.org^
 ||kagane.to^
-||kajzu.com^
 ||kara.moe^
 ||kartoons.me^
 ||katworld.net^
@@ -846,7 +844,6 @@
 ||moviescountdown.com^
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
-||movish.net^
 ||movish.to^
 ||msft-store.tplant.com.au^
 ||mtoon144.asia^
@@ -1047,7 +1044,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.li^
+||rawfree.men^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1062,8 +1059,9 @@
 ||realityripple.com^
 ||reanime.to^
 ||redflix.club^
-||redflix.co^
+||redflix.one^
 ||redsquirrel87.com^
+||refooty.com^
 ||relatedanime.com^
 ||releasefeed.elomatreb.eu^
 ||releases.com^
@@ -1217,9 +1215,11 @@
 ||streamex.ws^
 ||streamfree.top^
 ||streamgoblin.com^
-||streamic.ru^
+||streamic.st^
 ||streaming-integrale.com^
 ||streamingunity.dog^
+||streamninja.cloud^
+||streamninja.fun^
 ||streamo.pro^
 ||streamsports99.ru^
 ||streamsports99.su^
@@ -1228,6 +1228,7 @@
 ||streamvaults.ru^
 ||streamwatch.online^
 ||stremio-addons.net^
+||stremio.ar0.eu^
 ||strexoplayer.onrender.com^
 ||strims24.pl^
 ||strmd.link^
@@ -1446,6 +1447,7 @@
 ||watchott.ru^
 ||watchprowrestling.store^
 ||watchreplay.net^
+||watchsports.my^
 ||watchsurface.stream^
 ||watchtvs.live^
 ||watchwrestling.ae^
@@ -1459,7 +1461,7 @@
 ||wfs.lol^
 ||wftoon219.com^
 ||wfty.link^
-||wfwf416.com^
+||wfwf421.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -2193,7 +2195,6 @@
 ! 0.0.0.0 btorrent.xyz
 ! 0.0.0.0 bunko.sumikko.info
 ! 0.0.0.0 bunkoranoberanking.blog.fc2.com
-! 0.0.0.0 bye.undi.rest
 ! 0.0.0.0 cal.syoboi.jp
 ! 0.0.0.0 calendar.html
 ! 0.0.0.0 candlestream.xyz
@@ -2327,7 +2328,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.biz
+! 0.0.0.0 dokiraw.vip
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2534,7 +2535,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.beer
+! 0.0.0.0 jmanga.bike
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2547,7 +2548,6 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kagane.to
-! 0.0.0.0 kajzu.com
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.me
 ! 0.0.0.0 katworld.net
@@ -2745,7 +2745,6 @@
 ! 0.0.0.0 moviescountdown.com
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
-! 0.0.0.0 movish.net
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mtoon144.asia
@@ -2946,7 +2945,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.li
+! 0.0.0.0 rawfree.men
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -2961,8 +2960,9 @@
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 reanime.to
 ! 0.0.0.0 redflix.club
-! 0.0.0.0 redflix.co
+! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
+! 0.0.0.0 refooty.com
 ! 0.0.0.0 relatedanime.com
 ! 0.0.0.0 releasefeed.elomatreb.eu
 ! 0.0.0.0 releases.com
@@ -3116,9 +3116,11 @@
 ! 0.0.0.0 streamex.ws
 ! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamgoblin.com
-! 0.0.0.0 streamic.ru
+! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamingunity.dog
+! 0.0.0.0 streamninja.cloud
+! 0.0.0.0 streamninja.fun
 ! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
@@ -3127,6 +3129,7 @@
 ! 0.0.0.0 streamvaults.ru
 ! 0.0.0.0 streamwatch.online
 ! 0.0.0.0 stremio-addons.net
+! 0.0.0.0 stremio.ar0.eu
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.pl
 ! 0.0.0.0 strmd.link
@@ -3345,6 +3348,7 @@
 ! 0.0.0.0 watchott.ru
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
+! 0.0.0.0 watchsports.my
 ! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
@@ -3358,7 +3362,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon219.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf416.com
+! 0.0.0.0 wfwf421.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
