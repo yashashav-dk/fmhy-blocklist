@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1898 domains | updated 2026-07-17T05:44:40Z
+# 1899 domains | updated 2026-07-18T05:29:48Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -88,7 +88,6 @@ anidb.app
 anidoor.me
 anifilm.pro
 aniflix.uno
-anifox.club
 anify.to
 aniguessr.com
 anihq.cc
@@ -385,7 +384,6 @@ cyrisia.com
 daddylive.eu
 daddylive.li
 daddylive.nl
-daddylive.org
 daddylive.pk
 dailycommercials.com
 damitv.st
@@ -411,7 +409,7 @@ digitalworldarchive.wordpress.com
 directory.html
 dl-raw.si
 dl-zip.com
-dlhd.pk
+dlhd.st
 dlraw.app
 dlraw.net
 dmhy.org
@@ -495,7 +493,7 @@ find-movie.info
 fireani.me
 flicker-proxy.md
 flickmetrix.com
-flickystream.su
+flickystream.dad
 fliker.freebuff.app
 flix.smashystream.xyz
 flixer.gd
@@ -965,8 +963,10 @@ overlook.cx
 overtakefans.com
 pahe.ink
 palanq.win
+partitioned-cookies.md
 pawflix.foo.ng
 pdftoshokan.com
+peestream.in
 phate.io
 phi-phenomenon.org
 piratexplay.cc
@@ -1146,6 +1146,7 @@ shikimori.io
 shikimori.rip
 shimeken.com
 shinden.pl
+shiopa.com
 shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
@@ -1322,7 +1323,7 @@ torlink.bairon.dev
 torrents.youplex.site
 torrentsurf.to
 tortuga-ceviri.com
-totalsportek.tips
+totalsportek.st
 touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
@@ -1687,7 +1688,6 @@ www.lightnovel.fun
 www.limetorrents.fun
 www.listal.com
 www.littleakiba.ch
-www.livehdtv.com
 www.lo4d.com
 www.lpebk.com
 www.lycoris.cafe
@@ -1874,6 +1874,7 @@ yinhuadm.one
 yomi.to
 youflex.top
 yourcountdown.to
+youshows.org
 youtube-music.app
 ytch.tv
 yts-subs.com

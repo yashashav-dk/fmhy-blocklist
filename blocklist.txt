@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
-! Last updated: 2026-07-17T05:44:40Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
+! Last updated: 2026-07-18T05:29:48Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -92,7 +92,6 @@
 ||anidoor.me^
 ||anifilm.pro^
 ||aniflix.uno^
-||anifox.club^
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
@@ -389,7 +388,6 @@
 ||daddylive.eu^
 ||daddylive.li^
 ||daddylive.nl^
-||daddylive.org^
 ||daddylive.pk^
 ||dailycommercials.com^
 ||damitv.st^
@@ -415,7 +413,7 @@
 ||directory.html^
 ||dl-raw.si^
 ||dl-zip.com^
-||dlhd.pk^
+||dlhd.st^
 ||dlraw.app^
 ||dlraw.net^
 ||dmhy.org^
@@ -499,7 +497,7 @@
 ||fireani.me^
 ||flicker-proxy.md^
 ||flickmetrix.com^
-||flickystream.su^
+||flickystream.dad^
 ||fliker.freebuff.app^
 ||flix.smashystream.xyz^
 ||flixer.gd^
@@ -969,8 +967,10 @@
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
+||partitioned-cookies.md^
 ||pawflix.foo.ng^
 ||pdftoshokan.com^
+||peestream.in^
 ||phate.io^
 ||phi-phenomenon.org^
 ||piratexplay.cc^
@@ -1150,6 +1150,7 @@
 ||shikimori.rip^
 ||shimeken.com^
 ||shinden.pl^
+||shiopa.com^
 ||shokoanime.com^
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
@@ -1326,7 +1327,7 @@
 ||torrents.youplex.site^
 ||torrentsurf.to^
 ||tortuga-ceviri.com^
-||totalsportek.tips^
+||totalsportek.st^
 ||touhou-memories.com^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
@@ -1691,7 +1692,6 @@
 ||www.limetorrents.fun^
 ||www.listal.com^
 ||www.littleakiba.ch^
-||www.livehdtv.com^
 ||www.lo4d.com^
 ||www.lpebk.com^
 ||www.lycoris.cafe^
@@ -1878,6 +1878,7 @@
 ||yomi.to^
 ||youflex.top^
 ||yourcountdown.to^
+||youshows.org^
 ||youtube-music.app^
 ||ytch.tv^
 ||yts-subs.com^
@@ -1993,7 +1994,6 @@
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anifilm.pro
 ! 0.0.0.0 aniflix.uno
-! 0.0.0.0 anifox.club
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
@@ -2290,7 +2290,6 @@
 ! 0.0.0.0 daddylive.eu
 ! 0.0.0.0 daddylive.li
 ! 0.0.0.0 daddylive.nl
-! 0.0.0.0 daddylive.org
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.st
@@ -2316,7 +2315,7 @@
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.si
 ! 0.0.0.0 dl-zip.com
-! 0.0.0.0 dlhd.pk
+! 0.0.0.0 dlhd.st
 ! 0.0.0.0 dlraw.app
 ! 0.0.0.0 dlraw.net
 ! 0.0.0.0 dmhy.org
@@ -2400,7 +2399,7 @@
 ! 0.0.0.0 fireani.me
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
-! 0.0.0.0 flickystream.su
+! 0.0.0.0 flickystream.dad
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.gd
@@ -2870,8 +2869,10 @@
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
+! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 pawflix.foo.ng
 ! 0.0.0.0 pdftoshokan.com
+! 0.0.0.0 peestream.in
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 piratexplay.cc
@@ -3051,6 +3052,7 @@
 ! 0.0.0.0 shikimori.rip
 ! 0.0.0.0 shimeken.com
 ! 0.0.0.0 shinden.pl
+! 0.0.0.0 shiopa.com
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
@@ -3227,7 +3229,7 @@
 ! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 torrentsurf.to
 ! 0.0.0.0 tortuga-ceviri.com
-! 0.0.0.0 totalsportek.tips
+! 0.0.0.0 totalsportek.st
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
@@ -3592,7 +3594,6 @@
 ! 0.0.0.0 www.limetorrents.fun
 ! 0.0.0.0 www.listal.com
 ! 0.0.0.0 www.littleakiba.ch
-! 0.0.0.0 www.livehdtv.com
 ! 0.0.0.0 www.lo4d.com
 ! 0.0.0.0 www.lpebk.com
 ! 0.0.0.0 www.lycoris.cafe
@@ -3779,6 +3780,7 @@
 ! 0.0.0.0 yomi.to
 ! 0.0.0.0 youflex.top
 ! 0.0.0.0 yourcountdown.to
+! 0.0.0.0 youshows.org
 ! 0.0.0.0 youtube-music.app
 ! 0.0.0.0 ytch.tv
 ! 0.0.0.0 yts-subs.com
