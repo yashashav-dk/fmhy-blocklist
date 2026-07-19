@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
-! Last updated: 2026-07-18T05:29:48Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-07-19T05:56:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -278,6 +278,7 @@
 ||bgmlist.com^
 ||bgmx.mysxl.cn^
 ||bilibili.tv^
+||bingebang.tv^
 ||bingebox.to^
 ||bingeflix.tv^
 ||bingr.one^
@@ -329,6 +330,7 @@
 ||cinetaro.tv^
 ||cinetimes.org^
 ||cinetrii.com^
+||cinevaro.app^
 ||cinevibe.asia^
 ||cinevibe.icu^
 ||cinevibe.site^
@@ -463,6 +465,7 @@
 ||english.html^
 ||episodehive.com^
 ||epub.moe^
+||ernax.pro^
 ||erogemusicquiz.com^
 ||esp32.nontonx.com^
 ||estrenosanime.net^
@@ -501,6 +504,7 @@
 ||fliker.freebuff.app^
 ||flix.smashystream.xyz^
 ||flixer.gd^
+||flixhop.com^
 ||flixhouse.com^
 ||flixtrz.com^
 ||flixvo.fun^
@@ -532,10 +536,10 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe657.com^
+||funbe658.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
-||fxfx331.com^
+||fxfx332.com^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||geekdot.live^
@@ -967,6 +971,7 @@
 ||overtakefans.com^
 ||pahe.ink^
 ||palanq.win^
+||palco.wtf^
 ||partitioned-cookies.md^
 ||pawflix.foo.ng^
 ||pdftoshokan.com^
@@ -1187,7 +1192,7 @@
 ||sphinxanime.com^
 ||spin.moe^
 ||split-tv.co.il^
-||sportontv.space^
+||sportontv.click^
 ||sportsbite.org^
 ||sportsurge.pk^
 ||sportyhunter.site^
@@ -1304,12 +1309,11 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor135.com^
+||tkor136.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
 ||tokusatsunetwork.com^
-||tokuvn.com^
 ||tokuzilla.net^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
@@ -1369,7 +1373,6 @@
 ||twcclassics.com^
 ||typer.hayasaku.fr^
 ||ubu.com^
-||ufreetv.com^
 ||ukiku.app^
 ||ultra.cc^
 ||ultrasonic.gitlab.io^
@@ -1393,6 +1396,7 @@
 ||v3.komikcast.fit^
 ||v4.animeko.ws^
 ||vaughn.live^
+||vaultplayer.co.uk^
 ||vavoo.to^
 ||vegamovies.market^
 ||vegetatv.duckdns.org^
@@ -1460,7 +1464,7 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wfs.lol^
-||wftoon219.com^
+||wftoon220.com^
 ||wfty.link^
 ||wfwf421.com^
 ||whatsatmovie.com^
@@ -1484,7 +1488,7 @@
 ||worldnews24.tv^
 ||wotaku.wiki^
 ||wowtopix.com^
-||wtwt334.com^
+||wtwt335.com^
 ||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1-fmovies.com^
@@ -1895,6 +1899,7 @@
 ||z1.anichin.blog^
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
+||zencine.org^
 ||zenkaj.com^
 ||zenko.online^
 ||zero1cine.com^
@@ -2180,6 +2185,7 @@
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bgmx.mysxl.cn
 ! 0.0.0.0 bilibili.tv
+! 0.0.0.0 bingebang.tv
 ! 0.0.0.0 bingebox.to
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
@@ -2231,6 +2237,7 @@
 ! 0.0.0.0 cinetaro.tv
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
+! 0.0.0.0 cinevaro.app
 ! 0.0.0.0 cinevibe.asia
 ! 0.0.0.0 cinevibe.icu
 ! 0.0.0.0 cinevibe.site
@@ -2365,6 +2372,7 @@
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
 ! 0.0.0.0 epub.moe
+! 0.0.0.0 ernax.pro
 ! 0.0.0.0 erogemusicquiz.com
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
@@ -2403,6 +2411,7 @@
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.gd
+! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
@@ -2434,10 +2443,10 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe657.com
+! 0.0.0.0 funbe658.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
-! 0.0.0.0 fxfx331.com
+! 0.0.0.0 fxfx332.com
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 geekdot.live
@@ -2869,6 +2878,7 @@
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
+! 0.0.0.0 palco.wtf
 ! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 pawflix.foo.ng
 ! 0.0.0.0 pdftoshokan.com
@@ -3089,7 +3099,7 @@
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
-! 0.0.0.0 sportontv.space
+! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsurge.pk
 ! 0.0.0.0 sportyhunter.site
@@ -3206,12 +3216,11 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor135.com
+! 0.0.0.0 tkor136.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsunetwork.com
-! 0.0.0.0 tokuvn.com
 ! 0.0.0.0 tokuzilla.net
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
@@ -3271,7 +3280,6 @@
 ! 0.0.0.0 twcclassics.com
 ! 0.0.0.0 typer.hayasaku.fr
 ! 0.0.0.0 ubu.com
-! 0.0.0.0 ufreetv.com
 ! 0.0.0.0 ukiku.app
 ! 0.0.0.0 ultra.cc
 ! 0.0.0.0 ultrasonic.gitlab.io
@@ -3295,6 +3303,7 @@
 ! 0.0.0.0 v3.komikcast.fit
 ! 0.0.0.0 v4.animeko.ws
 ! 0.0.0.0 vaughn.live
+! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegamovies.market
 ! 0.0.0.0 vegetatv.duckdns.org
@@ -3362,7 +3371,7 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
-! 0.0.0.0 wftoon219.com
+! 0.0.0.0 wftoon220.com
 ! 0.0.0.0 wfty.link
 ! 0.0.0.0 wfwf421.com
 ! 0.0.0.0 whatsatmovie.com
@@ -3386,7 +3395,7 @@
 ! 0.0.0.0 worldnews24.tv
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
-! 0.0.0.0 wtwt334.com
+! 0.0.0.0 wtwt335.com
 ! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1-fmovies.com
@@ -3797,6 +3806,7 @@
 ! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
+! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenkaj.com
 ! 0.0.0.0 zenko.online
 ! 0.0.0.0 zero1cine.com

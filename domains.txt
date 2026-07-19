@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1899 domains | updated 2026-07-18T05:29:48Z
+# 1904 domains | updated 2026-07-19T05:56:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -274,6 +274,7 @@ bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
 bilibili.tv
+bingebang.tv
 bingebox.to
 bingeflix.tv
 bingr.one
@@ -325,6 +326,7 @@ cinestream.kje.us
 cinetaro.tv
 cinetimes.org
 cinetrii.com
+cinevaro.app
 cinevibe.asia
 cinevibe.icu
 cinevibe.site
@@ -459,6 +461,7 @@ english-dubbed.com
 english.html
 episodehive.com
 epub.moe
+ernax.pro
 erogemusicquiz.com
 esp32.nontonx.com
 estrenosanime.net
@@ -497,6 +500,7 @@ flickystream.dad
 fliker.freebuff.app
 flix.smashystream.xyz
 flixer.gd
+flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -528,10 +532,10 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe657.com
+funbe658.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
-fxfx331.com
+fxfx332.com
 gadgeteer.co.za
 gaiaflix.live
 geekdot.live
@@ -963,6 +967,7 @@ overlook.cx
 overtakefans.com
 pahe.ink
 palanq.win
+palco.wtf
 partitioned-cookies.md
 pawflix.foo.ng
 pdftoshokan.com
@@ -1183,7 +1188,7 @@ space.olamovies.dad
 sphinxanime.com
 spin.moe
 split-tv.co.il
-sportontv.space
+sportontv.click
 sportsbite.org
 sportsurge.pk
 sportyhunter.site
@@ -1300,12 +1305,11 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor135.com
+tkor136.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
 tokusatsunetwork.com
-tokuvn.com
 tokuzilla.net
 tokyo-tosho.net
 tokyodross.blogspot.com
@@ -1365,7 +1369,6 @@ tvshows4mobile.org
 twcclassics.com
 typer.hayasaku.fr
 ubu.com
-ufreetv.com
 ukiku.app
 ultra.cc
 ultrasonic.gitlab.io
@@ -1389,6 +1392,7 @@ v2.way2movies.live
 v3.komikcast.fit
 v4.animeko.ws
 vaughn.live
+vaultplayer.co.uk
 vavoo.to
 vegamovies.market
 vegetatv.duckdns.org
@@ -1456,7 +1460,7 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wfs.lol
-wftoon219.com
+wftoon220.com
 wfty.link
 wfwf421.com
 whatsatmovie.com
@@ -1480,7 +1484,7 @@ worldfree4u.moe
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
-wtwt334.com
+wtwt335.com
 wv.dramacool.com.tr
 ww.animesultra.org
 ww1-fmovies.com
@@ -1891,6 +1895,7 @@ z-lib.sk
 z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
+zencine.org
 zenkaj.com
 zenko.online
 zero1cine.com
