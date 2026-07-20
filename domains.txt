@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-07-19T05:56:43Z
+# 1902 domains | updated 2026-07-20T06:20:22Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -249,7 +249,6 @@ azmovies.to
 azorafly.com
 azseries.org
 bacalightnovel.co
-backup.mihon.tools
 baechusquad.download
 bakabt.me
 baked.live
@@ -438,7 +437,7 @@ dramaday.me
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenhn.com
+dualeotruyenvt.com
 dubolt.com
 due.moe
 dulo.tv
@@ -1448,7 +1447,7 @@ watchorbit.me
 watchott.ru
 watchprowrestling.store
 watchreplay.net
-watchsports.my
+watchsports.su
 watchsurface.stream
 watchtvs.live
 watchwrestling.ae
@@ -1895,7 +1894,6 @@ z-lib.sk
 z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
-zencine.org
 zenkaj.com
 zenko.online
 zero1cine.com

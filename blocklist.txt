@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
-! Last updated: 2026-07-19T05:56:43Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
+! Last updated: 2026-07-20T06:20:22Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -253,7 +253,6 @@
 ||azorafly.com^
 ||azseries.org^
 ||bacalightnovel.co^
-||backup.mihon.tools^
 ||baechusquad.download^
 ||bakabt.me^
 ||baked.live^
@@ -442,7 +441,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenhn.com^
+||dualeotruyenvt.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.tv^
@@ -1452,7 +1451,7 @@
 ||watchott.ru^
 ||watchprowrestling.store^
 ||watchreplay.net^
-||watchsports.my^
+||watchsports.su^
 ||watchsurface.stream^
 ||watchtvs.live^
 ||watchwrestling.ae^
@@ -1899,7 +1898,6 @@
 ||z1.anichin.blog^
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
-||zencine.org^
 ||zenkaj.com^
 ||zenko.online^
 ||zero1cine.com^
@@ -2160,7 +2158,6 @@
 ! 0.0.0.0 azorafly.com
 ! 0.0.0.0 azseries.org
 ! 0.0.0.0 bacalightnovel.co
-! 0.0.0.0 backup.mihon.tools
 ! 0.0.0.0 baechusquad.download
 ! 0.0.0.0 bakabt.me
 ! 0.0.0.0 baked.live
@@ -2349,7 +2346,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenhn.com
+! 0.0.0.0 dualeotruyenvt.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.tv
@@ -3359,7 +3356,7 @@
 ! 0.0.0.0 watchott.ru
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
-! 0.0.0.0 watchsports.my
+! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
@@ -3806,7 +3803,6 @@
 ! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
-! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenkaj.com
 ! 0.0.0.0 zenko.online
 ! 0.0.0.0 zero1cine.com
