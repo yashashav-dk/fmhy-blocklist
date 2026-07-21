@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1902 domains | updated 2026-07-20T06:20:22Z
+# 1900 domains | updated 2026-07-21T05:54:08Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -171,10 +171,6 @@ animesub.lt
 animesuge.bid
 animesuge.cz
 animethemes.moe
-animetsu.bz
-animetsu.cc
-animetsu.live
-animetsu.net
 animetudes.com
 animetv-jp.net
 animeua.club
@@ -660,7 +656,6 @@ kibo.fm
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
-kinozal.tv
 kirastreams.onlykirastreams.workers.dev
 kissanime.com.ru
 kissanime.help
@@ -1275,6 +1270,7 @@ tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
 terabox.hnn.workers.dev
+terafetch.com
 tfpdl.se
 tfpdl.to
 thebarchive.com
@@ -1352,6 +1348,7 @@ tv.html
 tv.jest
 tv.jest.one
 tvalt.surge.sh
+tvapp.ws
 tvatlas.app
 tvchart.benmiz.com
 tvcharts.co
@@ -1894,6 +1891,7 @@ z-lib.sk
 z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
+zencine.org
 zenkaj.com
 zenko.online
 zero1cine.com

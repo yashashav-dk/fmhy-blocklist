@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
-! Last updated: 2026-07-20T06:20:22Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
+! Last updated: 2026-07-21T05:54:08Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -175,10 +175,6 @@
 ||animesuge.bid^
 ||animesuge.cz^
 ||animethemes.moe^
-||animetsu.bz^
-||animetsu.cc^
-||animetsu.live^
-||animetsu.net^
 ||animetudes.com^
 ||animetv-jp.net^
 ||animeua.club^
@@ -664,7 +660,6 @@
 ||kids-in-mind.com^
 ||kimoitv.com^
 ||kindlemodding.org^
-||kinozal.tv^
 ||kirastreams.onlykirastreams.workers.dev^
 ||kissanime.com.ru^
 ||kissanime.help^
@@ -1279,6 +1274,7 @@
 ||tauonmusicbox.rocks^
 ||tennojim.xyz^
 ||terabox.hnn.workers.dev^
+||terafetch.com^
 ||tfpdl.se^
 ||tfpdl.to^
 ||thebarchive.com^
@@ -1356,6 +1352,7 @@
 ||tv.jest^
 ||tv.jest.one^
 ||tvalt.surge.sh^
+||tvapp.ws^
 ||tvatlas.app^
 ||tvchart.benmiz.com^
 ||tvcharts.co^
@@ -1898,6 +1895,7 @@
 ||z1.anichin.blog^
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
+||zencine.org^
 ||zenkaj.com^
 ||zenko.online^
 ||zero1cine.com^
@@ -2080,10 +2078,6 @@
 ! 0.0.0.0 animesuge.bid
 ! 0.0.0.0 animesuge.cz
 ! 0.0.0.0 animethemes.moe
-! 0.0.0.0 animetsu.bz
-! 0.0.0.0 animetsu.cc
-! 0.0.0.0 animetsu.live
-! 0.0.0.0 animetsu.net
 ! 0.0.0.0 animetudes.com
 ! 0.0.0.0 animetv-jp.net
 ! 0.0.0.0 animeua.club
@@ -2569,7 +2563,6 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
-! 0.0.0.0 kinozal.tv
 ! 0.0.0.0 kirastreams.onlykirastreams.workers.dev
 ! 0.0.0.0 kissanime.com.ru
 ! 0.0.0.0 kissanime.help
@@ -3184,6 +3177,7 @@
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 tennojim.xyz
 ! 0.0.0.0 terabox.hnn.workers.dev
+! 0.0.0.0 terafetch.com
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 thebarchive.com
@@ -3261,6 +3255,7 @@
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
 ! 0.0.0.0 tvalt.surge.sh
+! 0.0.0.0 tvapp.ws
 ! 0.0.0.0 tvatlas.app
 ! 0.0.0.0 tvchart.benmiz.com
 ! 0.0.0.0 tvcharts.co
@@ -3803,6 +3798,7 @@
 ! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
+! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenkaj.com
 ! 0.0.0.0 zenko.online
 ! 0.0.0.0 zero1cine.com
