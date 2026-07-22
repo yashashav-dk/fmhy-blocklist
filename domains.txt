@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1900 domains | updated 2026-07-21T05:54:08Z
+# 1900 domains | updated 2026-07-22T05:53:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -159,7 +159,7 @@ animeradio.de
 animerank.top
 animerss.com
 animes.garden
-animesalt.ac
+animesalt.link
 animesalt.top
 animeschedule.net
 animeshrine.xyz
@@ -527,7 +527,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe658.com
+funbe659.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 fxfx332.com
@@ -815,7 +815,7 @@ momovod.app
 monochrome.tf
 monoschinos.st
 moonflix.com
-moonflix.site
+moonflix.website
 moovie.fun
 moriyashrine.org
 morphinlegacy.com
@@ -838,7 +838,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon144.asia
+mtoon145.asia
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -1300,7 +1300,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor136.com
+tkor137.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun

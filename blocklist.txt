@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
-! Last updated: 2026-07-21T05:54:08Z
+! Last updated: 2026-07-22T05:53:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -163,7 +163,7 @@
 ||animerank.top^
 ||animerss.com^
 ||animes.garden^
-||animesalt.ac^
+||animesalt.link^
 ||animesalt.top^
 ||animeschedule.net^
 ||animeshrine.xyz^
@@ -531,7 +531,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe658.com^
+||funbe659.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||fxfx332.com^
@@ -819,7 +819,7 @@
 ||monochrome.tf^
 ||monoschinos.st^
 ||moonflix.com^
-||moonflix.site^
+||moonflix.website^
 ||moovie.fun^
 ||moriyashrine.org^
 ||morphinlegacy.com^
@@ -842,7 +842,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon144.asia^
+||mtoon145.asia^
 ||mugen.karaokes.moe^
 ||multishows.top^
 ||musicalyst.com^
@@ -1304,7 +1304,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor136.com^
+||tkor137.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -2066,7 +2066,7 @@
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animes.garden
-! 0.0.0.0 animesalt.ac
+! 0.0.0.0 animesalt.link
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
 ! 0.0.0.0 animeshrine.xyz
@@ -2434,7 +2434,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe658.com
+! 0.0.0.0 funbe659.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 fxfx332.com
@@ -2722,7 +2722,7 @@
 ! 0.0.0.0 monochrome.tf
 ! 0.0.0.0 monoschinos.st
 ! 0.0.0.0 moonflix.com
-! 0.0.0.0 moonflix.site
+! 0.0.0.0 moonflix.website
 ! 0.0.0.0 moovie.fun
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
@@ -2745,7 +2745,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon144.asia
+! 0.0.0.0 mtoon145.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
@@ -3207,7 +3207,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor136.com
+! 0.0.0.0 tkor137.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
