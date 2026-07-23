@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
-! Last updated: 2026-07-22T05:53:00Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
+! Last updated: 2026-07-23T05:57:33Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -198,7 +198,6 @@
 ||anisongdb.com^
 ||anissia.net^
 ||anistream.one^
-||anisub.tv^
 ||anitabi.cn^
 ||anitools.koopz.rocks^
 ||anitrakt.huere.net^
@@ -235,6 +234,7 @@
 ||asiadreamradio.torontocast.stream^
 ||asiaflix.in^
 ||asiaflix.net^
+||asiaflix.xyz^
 ||asiamediablog.com^
 ||asiansubs.com^
 ||aside-manga.news^
@@ -510,7 +510,7 @@
 ||fluxtv.qzz.io^
 ||flyflix.net^
 ||fmstream.org^
-||foc116.asia^
+||foc117.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -858,7 +858,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee104.asia^
+||namee105.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1441,7 +1441,7 @@
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.versusmedia.com^
-||watchanimeworld.net^
+||watchanimeworld.top^
 ||watchflux.tv^
 ||watchfooty.st^
 ||watchorbit.me^
@@ -1462,7 +1462,7 @@
 ||wfs.lol^
 ||wftoon220.com^
 ||wfty.link^
-||wfwf421.com^
+||wfwf424.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1586,7 +1586,6 @@
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
-||www.cineby.at^
 ||www.cineplay.to^
 ||www.cinezo.net^
 ||www.classreal.com^
@@ -1896,7 +1895,6 @@
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
 ||zencine.org^
-||zenkaj.com^
 ||zenko.online^
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
@@ -2101,7 +2099,6 @@
 ! 0.0.0.0 anisongdb.com
 ! 0.0.0.0 anissia.net
 ! 0.0.0.0 anistream.one
-! 0.0.0.0 anisub.tv
 ! 0.0.0.0 anitabi.cn
 ! 0.0.0.0 anitools.koopz.rocks
 ! 0.0.0.0 anitrakt.huere.net
@@ -2138,6 +2135,7 @@
 ! 0.0.0.0 asiadreamradio.torontocast.stream
 ! 0.0.0.0 asiaflix.in
 ! 0.0.0.0 asiaflix.net
+! 0.0.0.0 asiaflix.xyz
 ! 0.0.0.0 asiamediablog.com
 ! 0.0.0.0 asiansubs.com
 ! 0.0.0.0 aside-manga.news
@@ -2413,7 +2411,7 @@
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc116.asia
+! 0.0.0.0 foc117.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2761,7 +2759,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee104.asia
+! 0.0.0.0 namee105.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3344,7 +3342,7 @@
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.versusmedia.com
-! 0.0.0.0 watchanimeworld.net
+! 0.0.0.0 watchanimeworld.top
 ! 0.0.0.0 watchflux.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
@@ -3365,7 +3363,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon220.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf421.com
+! 0.0.0.0 wfwf424.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3489,7 +3487,6 @@
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
-! 0.0.0.0 www.cineby.at
 ! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
@@ -3799,7 +3796,6 @@
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
 ! 0.0.0.0 zencine.org
-! 0.0.0.0 zenkaj.com
 ! 0.0.0.0 zenko.online
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net

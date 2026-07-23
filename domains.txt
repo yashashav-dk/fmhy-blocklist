@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1900 domains | updated 2026-07-22T05:53:00Z
+# 1898 domains | updated 2026-07-23T05:57:33Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -194,7 +194,6 @@ anison.fm
 anisongdb.com
 anissia.net
 anistream.one
-anisub.tv
 anitabi.cn
 anitools.koopz.rocks
 anitrakt.huere.net
@@ -231,6 +230,7 @@ ascii2d.net
 asiadreamradio.torontocast.stream
 asiaflix.in
 asiaflix.net
+asiaflix.xyz
 asiamediablog.com
 asiansubs.com
 aside-manga.news
@@ -506,7 +506,7 @@ fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
-foc116.asia
+foc117.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -854,7 +854,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee104.asia
+namee105.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1437,7 +1437,7 @@ watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
 watch.versusmedia.com
-watchanimeworld.net
+watchanimeworld.top
 watchflux.tv
 watchfooty.st
 watchorbit.me
@@ -1458,7 +1458,7 @@ weebcentral.com
 wfs.lol
 wftoon220.com
 wfty.link
-wfwf421.com
+wfwf424.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1582,7 +1582,6 @@ www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
-www.cineby.at
 www.cineplay.to
 www.cinezo.net
 www.classreal.com
@@ -1892,7 +1891,6 @@ z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
 zencine.org
-zenkaj.com
 zenko.online
 zero1cine.com
 zerostream.alwaysdata.net
