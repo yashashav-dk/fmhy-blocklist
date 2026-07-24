@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
-! Last updated: 2026-07-23T05:57:33Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
+! Last updated: 2026-07-24T05:52:31Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -440,7 +440,6 @@
 ||dualeotruyenvt.com^
 ||dubolt.com^
 ||due.moe^
-||dulo.tv^
 ||dw-anime.net^
 ||e.html^
 ||e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion^
@@ -497,7 +496,6 @@
 ||flickmetrix.com^
 ||flickystream.dad^
 ||fliker.freebuff.app^
-||flix.smashystream.xyz^
 ||flixer.gd^
 ||flixhop.com^
 ||flixhouse.com^
@@ -534,6 +532,7 @@
 ||funbe659.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
+||futon.wtf^
 ||fxfx332.com^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
@@ -725,6 +724,7 @@
 ||lunaranime.ru^
 ||lunastream.fun^
 ||m-p.sakura.ne.jp^
+||m2box.org^
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.vip^
@@ -791,6 +791,7 @@
 ||meshmanga.com^
 ||metallicsubs.wordpress.com^
 ||metrolist.meowery.eu^
+||metron.cloud^
 ||metruyenhotvn.com^
 ||mgdb.himitsukichi.com^
 ||michaelsapps.dk^
@@ -1258,7 +1259,7 @@
 ||syncler.net^
 ||synthv.info^
 ||t2tunes.site^
-||t3.xtoon365.com^
+||t4.xtoon365.com^
 ||t4tsa.cc^
 ||tachiyomiaz.apk^
 ||tagger.site^
@@ -1347,7 +1348,6 @@
 ||tsukihime.org^
 ||tundra.moe^
 ||tuoverse.com^
-||tv.filmu.in^
 ||tv.html^
 ||tv.jest^
 ||tv.jest.one^
@@ -1411,6 +1411,7 @@
 ||viewtopic.php^
 ||vipotv.com^
 ||virgil.samidy.com^
+||vk.ru^
 ||vknext.net^
 ||vkvideo.ru^
 ||vnkeyfc.com^
@@ -1509,7 +1510,6 @@
 ||www.agedm.io^
 ||www.ageratingjuju.com^
 ||www.aimp.ru^
-||www.aiowares.com^
 ||www.akross.ru^
 ||www.allthebestfights.com^
 ||www.amberflix.xyz^
@@ -1586,6 +1586,7 @@
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
+||www.cineby.at^
 ||www.cineplay.to^
 ||www.cinezo.net^
 ||www.classreal.com^
@@ -1819,6 +1820,7 @@
 ||www.uta-net.com^
 ||www.uwe-sieber.de^
 ||www.vgmpf.com^
+||www.viki.com^
 ||www.viprow.co^
 ||www.vipvgm.net^
 ||www.vn-meido.com^
@@ -2341,7 +2343,6 @@
 ! 0.0.0.0 dualeotruyenvt.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
-! 0.0.0.0 dulo.tv
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
 ! 0.0.0.0 e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
@@ -2398,7 +2399,6 @@
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.dad
 ! 0.0.0.0 fliker.freebuff.app
-! 0.0.0.0 flix.smashystream.xyz
 ! 0.0.0.0 flixer.gd
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
@@ -2435,6 +2435,7 @@
 ! 0.0.0.0 funbe659.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
+! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
@@ -2626,6 +2627,7 @@
 ! 0.0.0.0 lunaranime.ru
 ! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
+! 0.0.0.0 m2box.org
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.vip
@@ -2692,6 +2694,7 @@
 ! 0.0.0.0 meshmanga.com
 ! 0.0.0.0 metallicsubs.wordpress.com
 ! 0.0.0.0 metrolist.meowery.eu
+! 0.0.0.0 metron.cloud
 ! 0.0.0.0 metruyenhotvn.com
 ! 0.0.0.0 mgdb.himitsukichi.com
 ! 0.0.0.0 michaelsapps.dk
@@ -3159,7 +3162,7 @@
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t2tunes.site
-! 0.0.0.0 t3.xtoon365.com
+! 0.0.0.0 t4.xtoon365.com
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
@@ -3248,7 +3251,6 @@
 ! 0.0.0.0 tsukihime.org
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tuoverse.com
-! 0.0.0.0 tv.filmu.in
 ! 0.0.0.0 tv.html
 ! 0.0.0.0 tv.jest
 ! 0.0.0.0 tv.jest.one
@@ -3312,6 +3314,7 @@
 ! 0.0.0.0 viewtopic.php
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
+! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru
 ! 0.0.0.0 vnkeyfc.com
@@ -3410,7 +3413,6 @@
 ! 0.0.0.0 www.agedm.io
 ! 0.0.0.0 www.ageratingjuju.com
 ! 0.0.0.0 www.aimp.ru
-! 0.0.0.0 www.aiowares.com
 ! 0.0.0.0 www.akross.ru
 ! 0.0.0.0 www.allthebestfights.com
 ! 0.0.0.0 www.amberflix.xyz
@@ -3487,6 +3489,7 @@
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
+! 0.0.0.0 www.cineby.at
 ! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.net
 ! 0.0.0.0 www.classreal.com
@@ -3720,6 +3723,7 @@
 ! 0.0.0.0 www.uta-net.com
 ! 0.0.0.0 www.uwe-sieber.de
 ! 0.0.0.0 www.vgmpf.com
+! 0.0.0.0 www.viki.com
 ! 0.0.0.0 www.viprow.co
 ! 0.0.0.0 www.vipvgm.net
 ! 0.0.0.0 www.vn-meido.com

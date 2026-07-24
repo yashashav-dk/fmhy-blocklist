@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1898 domains | updated 2026-07-23T05:57:33Z
+# 1900 domains | updated 2026-07-24T05:52:31Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -436,7 +436,6 @@ duafile.net
 dualeotruyenvt.com
 dubolt.com
 due.moe
-dulo.tv
 dw-anime.net
 e.html
 e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
@@ -493,7 +492,6 @@ flicker-proxy.md
 flickmetrix.com
 flickystream.dad
 fliker.freebuff.app
-flix.smashystream.xyz
 flixer.gd
 flixhop.com
 flixhouse.com
@@ -530,6 +528,7 @@ fullraces.com
 funbe659.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
+futon.wtf
 fxfx332.com
 gadgeteer.co.za
 gaiaflix.live
@@ -721,6 +720,7 @@ luna-stream.me
 lunaranime.ru
 lunastream.fun
 m-p.sakura.ne.jp
+m2box.org
 m3u-ip.tv
 m3u4u.com
 m4uhd.vip
@@ -787,6 +787,7 @@ merlinwz.com
 meshmanga.com
 metallicsubs.wordpress.com
 metrolist.meowery.eu
+metron.cloud
 metruyenhotvn.com
 mgdb.himitsukichi.com
 michaelsapps.dk
@@ -1254,7 +1255,7 @@ sync.coconono.org
 syncler.net
 synthv.info
 t2tunes.site
-t3.xtoon365.com
+t4.xtoon365.com
 t4tsa.cc
 tachiyomiaz.apk
 tagger.site
@@ -1343,7 +1344,6 @@ tsquareplaza.blogspot.com
 tsukihime.org
 tundra.moe
 tuoverse.com
-tv.filmu.in
 tv.html
 tv.jest
 tv.jest.one
@@ -1407,6 +1407,7 @@ vidplay.to
 viewtopic.php
 vipotv.com
 virgil.samidy.com
+vk.ru
 vknext.net
 vkvideo.ru
 vnkeyfc.com
@@ -1505,7 +1506,6 @@ www.aftvnews.com
 www.agedm.io
 www.ageratingjuju.com
 www.aimp.ru
-www.aiowares.com
 www.akross.ru
 www.allthebestfights.com
 www.amberflix.xyz
@@ -1582,6 +1582,7 @@ www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
+www.cineby.at
 www.cineplay.to
 www.cinezo.net
 www.classreal.com
@@ -1815,6 +1816,7 @@ www.usenet-crawler.com
 www.uta-net.com
 www.uwe-sieber.de
 www.vgmpf.com
+www.viki.com
 www.viprow.co
 www.vipvgm.net
 www.vn-meido.com
