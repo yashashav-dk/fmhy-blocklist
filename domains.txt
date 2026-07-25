@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1900 domains | updated 2026-07-24T05:52:31Z
+# 1896 domains | updated 2026-07-25T05:45:15Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -24,10 +24,8 @@
 2ecbbd610840-trakt.baby-beamup.club
 30.html
 321movies.xyz
-345movie.nl
 35mm.online
 3asq.online
-456movie.nl
 4khdhub.link
 4search.neocities.org
 4stats.io
@@ -232,7 +230,6 @@ asiaflix.in
 asiaflix.net
 asiaflix.xyz
 asiamediablog.com
-asiansubs.com
 aside-manga.news
 at4klauncher.com
 atisket.pulsewidth.org.uk
@@ -433,7 +430,7 @@ dramaday.me
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenvt.com
+dualeotruyendl.com
 dubolt.com
 due.moe
 dw-anime.net
@@ -909,6 +906,7 @@ numb3rs.stream
 nunflix.li
 nuvio.tv
 nuvio.wiki
+nuviosync.com
 nxxhentai.net
 nyaa.iss.ink
 nyaa.iss.one
@@ -1122,7 +1120,6 @@ screenscape.me
 scripts-onscreen.com
 scripts.com
 sdtoons.com
-sdtoons.in
 seanime.app
 search-22.com
 search-ace.stream
@@ -1306,7 +1303,6 @@ tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
 tokusatsunetwork.com
-tokuzilla.net
 tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
@@ -1457,7 +1453,7 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wfs.lol
-wftoon220.com
+wftoon221.com
 wfty.link
 wfwf424.com
 whatsatmovie.com

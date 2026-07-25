@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1900 domains)
-! Last updated: 2026-07-24T05:52:31Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1896 domains)
+! Last updated: 2026-07-25T05:45:15Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -28,10 +28,8 @@
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||30.html^
 ||321movies.xyz^
-||345movie.nl^
 ||35mm.online^
 ||3asq.online^
-||456movie.nl^
 ||4khdhub.link^
 ||4search.neocities.org^
 ||4stats.io^
@@ -236,7 +234,6 @@
 ||asiaflix.net^
 ||asiaflix.xyz^
 ||asiamediablog.com^
-||asiansubs.com^
 ||aside-manga.news^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
@@ -437,7 +434,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenvt.com^
+||dualeotruyendl.com^
 ||dubolt.com^
 ||due.moe^
 ||dw-anime.net^
@@ -913,6 +910,7 @@
 ||nunflix.li^
 ||nuvio.tv^
 ||nuvio.wiki^
+||nuviosync.com^
 ||nxxhentai.net^
 ||nyaa.iss.ink^
 ||nyaa.iss.one^
@@ -1126,7 +1124,6 @@
 ||scripts-onscreen.com^
 ||scripts.com^
 ||sdtoons.com^
-||sdtoons.in^
 ||seanime.app^
 ||search-22.com^
 ||search-ace.stream^
@@ -1310,7 +1307,6 @@
 ||tmkk.undo.jp^
 ||toku.fun^
 ||tokusatsunetwork.com^
-||tokuzilla.net^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
@@ -1461,7 +1457,7 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wfs.lol^
-||wftoon220.com^
+||wftoon221.com^
 ||wfty.link^
 ||wfwf424.com^
 ||whatsatmovie.com^
@@ -1931,10 +1927,8 @@
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 30.html
 ! 0.0.0.0 321movies.xyz
-! 0.0.0.0 345movie.nl
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3asq.online
-! 0.0.0.0 456movie.nl
 ! 0.0.0.0 4khdhub.link
 ! 0.0.0.0 4search.neocities.org
 ! 0.0.0.0 4stats.io
@@ -2139,7 +2133,6 @@
 ! 0.0.0.0 asiaflix.net
 ! 0.0.0.0 asiaflix.xyz
 ! 0.0.0.0 asiamediablog.com
-! 0.0.0.0 asiansubs.com
 ! 0.0.0.0 aside-manga.news
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
@@ -2340,7 +2333,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenvt.com
+! 0.0.0.0 dualeotruyendl.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dw-anime.net
@@ -2816,6 +2809,7 @@
 ! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvio.tv
 ! 0.0.0.0 nuvio.wiki
+! 0.0.0.0 nuviosync.com
 ! 0.0.0.0 nxxhentai.net
 ! 0.0.0.0 nyaa.iss.ink
 ! 0.0.0.0 nyaa.iss.one
@@ -3029,7 +3023,6 @@
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
 ! 0.0.0.0 sdtoons.com
-! 0.0.0.0 sdtoons.in
 ! 0.0.0.0 seanime.app
 ! 0.0.0.0 search-22.com
 ! 0.0.0.0 search-ace.stream
@@ -3213,7 +3206,6 @@
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsunetwork.com
-! 0.0.0.0 tokuzilla.net
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
@@ -3364,7 +3356,7 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wfs.lol
-! 0.0.0.0 wftoon220.com
+! 0.0.0.0 wftoon221.com
 ! 0.0.0.0 wfty.link
 ! 0.0.0.0 wfwf424.com
 ! 0.0.0.0 whatsatmovie.com
