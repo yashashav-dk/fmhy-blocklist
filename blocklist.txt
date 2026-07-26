@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1896 domains)
-! Last updated: 2026-07-25T05:45:15Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
+! Last updated: 2026-07-26T06:08:17Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -89,7 +89,7 @@
 ||anidb.app^
 ||anidoor.me^
 ||anifilm.pro^
-||aniflix.uno^
+||aniflix.us^
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
@@ -99,7 +99,7 @@
 ||anikuro.site^
 ||anikuro.to^
 ||anilib.me^
-||anilibria.top^
+||aniliberty.top^
 ||anilife.live^
 ||anilight.live^
 ||anilinks.neocities.org^
@@ -419,7 +419,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.vip^
+||dokiraw.lol^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -616,18 +616,17 @@
 ||iptv-web.app^
 ||iptv.community^
 ||iptv.surf^
-||iptv.watchott.ru^
+||iptv.watchott.org^
 ||iptvplayer.stream^
 ||ipv4.vostfree.ws^
 ||iqdb.org^
-||ishowmovies.org^
 ||iteraplay.com^
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.bike^
+||jmanga.care^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -752,6 +751,7 @@
 ||mangafire.to^
 ||mangafonts.carrd.co^
 ||mangaguide.de^
+||mangaheya.net^
 ||mangahub.io^
 ||mangahub.ru^
 ||mangak.io^
@@ -761,7 +761,7 @@
 ||mangamirai.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.cc^
+||mangarawad.vip^
 ||mangarawjp.me^
 ||mangashelf.co.il^
 ||mangataro.org^
@@ -980,7 +980,6 @@
 ||planete-bd.org^
 ||plappa.me^
 ||play.onlinetz.app^
-||playimdb.domains^
 ||playlist.pls^
 ||playlists.at^
 ||playtorrio.xyz^
@@ -1042,7 +1041,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.men^
+||rawfree.md^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1184,6 +1183,7 @@
 ||sphinxanime.com^
 ||spin.moe^
 ||split-tv.co.il^
+||sportera.fans^
 ||sportontv.click^
 ||sportsbite.org^
 ||sportsurge.pk^
@@ -1302,7 +1302,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor137.com^
+||tkor138.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1352,6 +1352,7 @@
 ||tvatlas.app^
 ||tvchart.benmiz.com^
 ||tvcharts.co^
+||tvexplorer.live^
 ||tvforfree.surge.sh^
 ||tvfree.surge.sh^
 ||tvfreedom.surge.sh^
@@ -1442,7 +1443,7 @@
 ||watchflux.tv^
 ||watchfooty.st^
 ||watchorbit.me^
-||watchott.ru^
+||watchott.org^
 ||watchprowrestling.store^
 ||watchreplay.net^
 ||watchsports.su^
@@ -1459,7 +1460,7 @@
 ||wfs.lol^
 ||wftoon221.com^
 ||wfty.link^
-||wfwf424.com^
+||wfwf426.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1717,6 +1718,7 @@
 ||www.moviemistakes.com^
 ||www.moviestowatch.top^
 ||www.mrqe.com^
+||www.muitohentai.com^
 ||www.mundodonghua.com^
 ||www.music-map.com^
 ||www.musicbutler.io^
@@ -1988,7 +1990,7 @@
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anifilm.pro
-! 0.0.0.0 aniflix.uno
+! 0.0.0.0 aniflix.us
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
@@ -1998,7 +2000,7 @@
 ! 0.0.0.0 anikuro.site
 ! 0.0.0.0 anikuro.to
 ! 0.0.0.0 anilib.me
-! 0.0.0.0 anilibria.top
+! 0.0.0.0 aniliberty.top
 ! 0.0.0.0 anilife.live
 ! 0.0.0.0 anilight.live
 ! 0.0.0.0 anilinks.neocities.org
@@ -2318,7 +2320,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.vip
+! 0.0.0.0 dokiraw.lol
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2515,18 +2517,17 @@
 ! 0.0.0.0 iptv-web.app
 ! 0.0.0.0 iptv.community
 ! 0.0.0.0 iptv.surf
-! 0.0.0.0 iptv.watchott.ru
+! 0.0.0.0 iptv.watchott.org
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 ipv4.vostfree.ws
 ! 0.0.0.0 iqdb.org
-! 0.0.0.0 ishowmovies.org
 ! 0.0.0.0 iteraplay.com
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.bike
+! 0.0.0.0 jmanga.care
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2651,6 +2652,7 @@
 ! 0.0.0.0 mangafire.to
 ! 0.0.0.0 mangafonts.carrd.co
 ! 0.0.0.0 mangaguide.de
+! 0.0.0.0 mangaheya.net
 ! 0.0.0.0 mangahub.io
 ! 0.0.0.0 mangahub.ru
 ! 0.0.0.0 mangak.io
@@ -2660,7 +2662,7 @@
 ! 0.0.0.0 mangamirai.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.cc
+! 0.0.0.0 mangarawad.vip
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangataro.org
@@ -2879,7 +2881,6 @@
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 play.onlinetz.app
-! 0.0.0.0 playimdb.domains
 ! 0.0.0.0 playlist.pls
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 playtorrio.xyz
@@ -2941,7 +2942,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.men
+! 0.0.0.0 rawfree.md
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3083,6 +3084,7 @@
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
+! 0.0.0.0 sportera.fans
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsurge.pk
@@ -3201,7 +3203,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor137.com
+! 0.0.0.0 tkor138.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3251,6 +3253,7 @@
 ! 0.0.0.0 tvatlas.app
 ! 0.0.0.0 tvchart.benmiz.com
 ! 0.0.0.0 tvcharts.co
+! 0.0.0.0 tvexplorer.live
 ! 0.0.0.0 tvforfree.surge.sh
 ! 0.0.0.0 tvfree.surge.sh
 ! 0.0.0.0 tvfreedom.surge.sh
@@ -3341,7 +3344,7 @@
 ! 0.0.0.0 watchflux.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
-! 0.0.0.0 watchott.ru
+! 0.0.0.0 watchott.org
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchsports.su
@@ -3358,7 +3361,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon221.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf424.com
+! 0.0.0.0 wfwf426.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3616,6 +3619,7 @@
 ! 0.0.0.0 www.moviemistakes.com
 ! 0.0.0.0 www.moviestowatch.top
 ! 0.0.0.0 www.mrqe.com
+! 0.0.0.0 www.muitohentai.com
 ! 0.0.0.0 www.mundodonghua.com
 ! 0.0.0.0 www.music-map.com
 ! 0.0.0.0 www.musicbutler.io

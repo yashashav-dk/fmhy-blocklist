@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1896 domains | updated 2026-07-25T05:45:15Z
+# 1898 domains | updated 2026-07-26T06:08:17Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -85,7 +85,7 @@ anidap.lol
 anidb.app
 anidoor.me
 anifilm.pro
-aniflix.uno
+aniflix.us
 anify.to
 aniguessr.com
 anihq.cc
@@ -95,7 +95,7 @@ anikuro.ru
 anikuro.site
 anikuro.to
 anilib.me
-anilibria.top
+aniliberty.top
 anilife.live
 anilight.live
 anilinks.neocities.org
@@ -415,7 +415,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.vip
+dokiraw.lol
 donghua.site
 donghuastream.org
 dorabash.in
@@ -612,18 +612,17 @@ iptv-player.me
 iptv-web.app
 iptv.community
 iptv.surf
-iptv.watchott.ru
+iptv.watchott.org
 iptvplayer.stream
 ipv4.vostfree.ws
 iqdb.org
-ishowmovies.org
 iteraplay.com
 japanesetorrents.wordpress.com
 japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.bike
+jmanga.care
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -748,6 +747,7 @@ mangadot.net
 mangafire.to
 mangafonts.carrd.co
 mangaguide.de
+mangaheya.net
 mangahub.io
 mangahub.ru
 mangak.io
@@ -757,7 +757,7 @@ mangalib.me
 mangamirai.com
 mangaraw.ac
 mangaraw.best
-mangarawad.cc
+mangarawad.vip
 mangarawjp.me
 mangashelf.co.il
 mangataro.org
@@ -976,7 +976,6 @@ placeit.fun
 planete-bd.org
 plappa.me
 play.onlinetz.app
-playimdb.domains
 playlist.pls
 playlists.at
 playtorrio.xyz
@@ -1038,7 +1037,7 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.men
+rawfree.md
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1180,6 +1179,7 @@ space.olamovies.dad
 sphinxanime.com
 spin.moe
 split-tv.co.il
+sportera.fans
 sportontv.click
 sportsbite.org
 sportsurge.pk
@@ -1298,7 +1298,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor137.com
+tkor138.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1348,6 +1348,7 @@ tvapp.ws
 tvatlas.app
 tvchart.benmiz.com
 tvcharts.co
+tvexplorer.live
 tvforfree.surge.sh
 tvfree.surge.sh
 tvfreedom.surge.sh
@@ -1438,7 +1439,7 @@ watchanimeworld.top
 watchflux.tv
 watchfooty.st
 watchorbit.me
-watchott.ru
+watchott.org
 watchprowrestling.store
 watchreplay.net
 watchsports.su
@@ -1455,7 +1456,7 @@ weebcentral.com
 wfs.lol
 wftoon221.com
 wfty.link
-wfwf424.com
+wfwf426.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1713,6 +1714,7 @@ www.movieloci.com
 www.moviemistakes.com
 www.moviestowatch.top
 www.mrqe.com
+www.muitohentai.com
 www.mundodonghua.com
 www.music-map.com
 www.musicbutler.io
