@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1898 domains | updated 2026-07-26T06:08:17Z
+# 1902 domains | updated 2026-07-27T06:33:01Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -146,7 +146,7 @@ animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
-animelok.net
+animelok.live
 animelok.online
 animelok.to
 animemusicquiz.com
@@ -169,6 +169,7 @@ animesub.lt
 animesuge.bid
 animesuge.cz
 animethemes.moe
+animetosho.xyz
 animetudes.com
 animetv-jp.net
 animeua.club
@@ -209,7 +210,6 @@ annas-archive.gl
 annict.com
 anonops.com
 antra.hoshi.cfd
-anyembed.xyz
 apexmovies.net
 app.animevsub.eu.org
 app.buffstream.io
@@ -305,6 +305,7 @@ cinego.co
 cinegram.tv
 cinehd.app
 cinehub.one
+cinejoy.to
 cinelove.live
 cinema.bz
 cinemacity.cc
@@ -464,7 +465,7 @@ extranet.torrentbay.st
 eztvx.to
 f1fullraces.com
 f1live.dpdns.org
-falconstreams.net
+falconstreams.app
 famelack.com
 fancons.com
 fanedit.org
@@ -759,9 +760,11 @@ mangaraw.ac
 mangaraw.best
 mangarawad.vip
 mangarawjp.me
+mangaseek.net
 mangashelf.co.il
 mangataro.org
 manhuabika.com
+mannavi.net
 manta.net
 mappl.tv
 mapple.tv
@@ -799,7 +802,6 @@ miruro.ru
 miruro.to
 miruro.tv
 mitsukeru.timschneeberger.me
-mixdebrid.com
 mixmoose.com
 mkissa.to
 mkvbase.site
@@ -892,6 +894,7 @@ nomorflix.icu
 note.com
 nothing-to-watch.port80.ch
 notscare.me
+novahd.cc
 novamovie.net
 novanon.net
 novel.sumikko.info
@@ -1194,6 +1197,7 @@ static.sneedex.moe
 status.animaxanime.dpdns.org
 status.miruro.com
 stigstream.ru
+store.mangamavericks.com
 store.rg
 stream.gensokyoradio.net
 stream192.mp

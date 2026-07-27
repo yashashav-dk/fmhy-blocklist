@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1898 domains)
-! Last updated: 2026-07-26T06:08:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
+! Last updated: 2026-07-27T06:33:01Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -150,7 +150,7 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
-||animelok.net^
+||animelok.live^
 ||animelok.online^
 ||animelok.to^
 ||animemusicquiz.com^
@@ -173,6 +173,7 @@
 ||animesuge.bid^
 ||animesuge.cz^
 ||animethemes.moe^
+||animetosho.xyz^
 ||animetudes.com^
 ||animetv-jp.net^
 ||animeua.club^
@@ -213,7 +214,6 @@
 ||annict.com^
 ||anonops.com^
 ||antra.hoshi.cfd^
-||anyembed.xyz^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
 ||app.buffstream.io^
@@ -309,6 +309,7 @@
 ||cinegram.tv^
 ||cinehd.app^
 ||cinehub.one^
+||cinejoy.to^
 ||cinelove.live^
 ||cinema.bz^
 ||cinemacity.cc^
@@ -468,7 +469,7 @@
 ||eztvx.to^
 ||f1fullraces.com^
 ||f1live.dpdns.org^
-||falconstreams.net^
+||falconstreams.app^
 ||famelack.com^
 ||fancons.com^
 ||fanedit.org^
@@ -763,9 +764,11 @@
 ||mangaraw.best^
 ||mangarawad.vip^
 ||mangarawjp.me^
+||mangaseek.net^
 ||mangashelf.co.il^
 ||mangataro.org^
 ||manhuabika.com^
+||mannavi.net^
 ||manta.net^
 ||mappl.tv^
 ||mapple.tv^
@@ -803,7 +806,6 @@
 ||miruro.to^
 ||miruro.tv^
 ||mitsukeru.timschneeberger.me^
-||mixdebrid.com^
 ||mixmoose.com^
 ||mkissa.to^
 ||mkvbase.site^
@@ -896,6 +898,7 @@
 ||note.com^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
+||novahd.cc^
 ||novamovie.net^
 ||novanon.net^
 ||novel.sumikko.info^
@@ -1198,6 +1201,7 @@
 ||status.animaxanime.dpdns.org^
 ||status.miruro.com^
 ||stigstream.ru^
+||store.mangamavericks.com^
 ||store.rg^
 ||stream.gensokyoradio.net^
 ||stream192.mp^
@@ -2051,7 +2055,7 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
-! 0.0.0.0 animelok.net
+! 0.0.0.0 animelok.live
 ! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animemusicquiz.com
@@ -2074,6 +2078,7 @@
 ! 0.0.0.0 animesuge.bid
 ! 0.0.0.0 animesuge.cz
 ! 0.0.0.0 animethemes.moe
+! 0.0.0.0 animetosho.xyz
 ! 0.0.0.0 animetudes.com
 ! 0.0.0.0 animetv-jp.net
 ! 0.0.0.0 animeua.club
@@ -2114,7 +2119,6 @@
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 antra.hoshi.cfd
-! 0.0.0.0 anyembed.xyz
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.buffstream.io
@@ -2210,6 +2214,7 @@
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
 ! 0.0.0.0 cinehub.one
+! 0.0.0.0 cinejoy.to
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
@@ -2369,7 +2374,7 @@
 ! 0.0.0.0 eztvx.to
 ! 0.0.0.0 f1fullraces.com
 ! 0.0.0.0 f1live.dpdns.org
-! 0.0.0.0 falconstreams.net
+! 0.0.0.0 falconstreams.app
 ! 0.0.0.0 famelack.com
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
@@ -2664,9 +2669,11 @@
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangarawad.vip
 ! 0.0.0.0 mangarawjp.me
+! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangataro.org
 ! 0.0.0.0 manhuabika.com
+! 0.0.0.0 mannavi.net
 ! 0.0.0.0 manta.net
 ! 0.0.0.0 mappl.tv
 ! 0.0.0.0 mapple.tv
@@ -2704,7 +2711,6 @@
 ! 0.0.0.0 miruro.to
 ! 0.0.0.0 miruro.tv
 ! 0.0.0.0 mitsukeru.timschneeberger.me
-! 0.0.0.0 mixdebrid.com
 ! 0.0.0.0 mixmoose.com
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvbase.site
@@ -2797,6 +2803,7 @@
 ! 0.0.0.0 note.com
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
+! 0.0.0.0 novahd.cc
 ! 0.0.0.0 novamovie.net
 ! 0.0.0.0 novanon.net
 ! 0.0.0.0 novel.sumikko.info
@@ -3099,6 +3106,7 @@
 ! 0.0.0.0 status.animaxanime.dpdns.org
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 stigstream.ru
+! 0.0.0.0 store.mangamavericks.com
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 stream192.mp
