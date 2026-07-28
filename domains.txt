@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1902 domains | updated 2026-07-27T06:33:01Z
+# 1899 domains | updated 2026-07-28T05:49:17Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -32,7 +32,6 @@
 56bca7d190fc-syncribullet.baby-beamup.club
 67movies.net
 67movies.nl
-720pier.ru
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7plus.com.au
@@ -376,8 +375,7 @@ cs.rin.ru
 cubeflix.org
 cubiktv.com
 cyrisia.com
-daddylive.eu
-daddylive.li
+daddylive.mov
 daddylive.nl
 daddylive.pk
 dailycommercials.com
@@ -479,7 +477,6 @@ fcast.org
 filmcave.ru
 filmfans.org
 filmo.platfo.es
-filmora.qzz.io
 filmpolski.pl
 films.waploaded.com
 filmvault.xyz
@@ -518,7 +515,7 @@ freesub.live
 freetvz.com
 french-anime.com
 frixysubs.pl
-frtoon4.com
+frtoon5.com
 fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
@@ -643,6 +640,7 @@ katzddl.net
 kawaii-anime.com
 kayoanime.com
 kazemakase.wjg.jp
+kazora.cc
 kcnawatch.us
 kesifasya.com
 ketto.com
@@ -1563,7 +1561,6 @@ www.aurorascreen.org
 www.az-animex.com
 www.b98.tv
 www.baka-tsuki.org
-www.balkanflix.com
 www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com

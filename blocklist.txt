@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
-! Last updated: 2026-07-27T06:33:01Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
+! Last updated: 2026-07-28T05:49:17Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -36,7 +36,6 @@
 ||56bca7d190fc-syncribullet.baby-beamup.club^
 ||67movies.net^
 ||67movies.nl^
-||720pier.ru^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7plus.com.au^
@@ -380,8 +379,7 @@
 ||cubeflix.org^
 ||cubiktv.com^
 ||cyrisia.com^
-||daddylive.eu^
-||daddylive.li^
+||daddylive.mov^
 ||daddylive.nl^
 ||daddylive.pk^
 ||dailycommercials.com^
@@ -483,7 +481,6 @@
 ||filmcave.ru^
 ||filmfans.org^
 ||filmo.platfo.es^
-||filmora.qzz.io^
 ||filmpolski.pl^
 ||films.waploaded.com^
 ||filmvault.xyz^
@@ -522,7 +519,7 @@
 ||freetvz.com^
 ||french-anime.com^
 ||frixysubs.pl^
-||frtoon4.com^
+||frtoon5.com^
 ||fsharetv.co^
 ||fullfrontal.moe^
 ||fullmatchshows.com^
@@ -647,6 +644,7 @@
 ||kawaii-anime.com^
 ||kayoanime.com^
 ||kazemakase.wjg.jp^
+||kazora.cc^
 ||kcnawatch.us^
 ||kesifasya.com^
 ||ketto.com^
@@ -1567,7 +1565,6 @@
 ||www.az-animex.com^
 ||www.b98.tv^
 ||www.baka-tsuki.org^
-||www.balkanflix.com^
 ||www.baozimh.com^
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
@@ -1941,7 +1938,6 @@
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
 ! 0.0.0.0 67movies.net
 ! 0.0.0.0 67movies.nl
-! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7plus.com.au
@@ -2285,8 +2281,7 @@
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cyrisia.com
-! 0.0.0.0 daddylive.eu
-! 0.0.0.0 daddylive.li
+! 0.0.0.0 daddylive.mov
 ! 0.0.0.0 daddylive.nl
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
@@ -2388,7 +2383,6 @@
 ! 0.0.0.0 filmcave.ru
 ! 0.0.0.0 filmfans.org
 ! 0.0.0.0 filmo.platfo.es
-! 0.0.0.0 filmora.qzz.io
 ! 0.0.0.0 filmpolski.pl
 ! 0.0.0.0 films.waploaded.com
 ! 0.0.0.0 filmvault.xyz
@@ -2427,7 +2421,7 @@
 ! 0.0.0.0 freetvz.com
 ! 0.0.0.0 french-anime.com
 ! 0.0.0.0 frixysubs.pl
-! 0.0.0.0 frtoon4.com
+! 0.0.0.0 frtoon5.com
 ! 0.0.0.0 fsharetv.co
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
@@ -2552,6 +2546,7 @@
 ! 0.0.0.0 kawaii-anime.com
 ! 0.0.0.0 kayoanime.com
 ! 0.0.0.0 kazemakase.wjg.jp
+! 0.0.0.0 kazora.cc
 ! 0.0.0.0 kcnawatch.us
 ! 0.0.0.0 kesifasya.com
 ! 0.0.0.0 ketto.com
@@ -3472,7 +3467,6 @@
 ! 0.0.0.0 www.az-animex.com
 ! 0.0.0.0 www.b98.tv
 ! 0.0.0.0 www.baka-tsuki.org
-! 0.0.0.0 www.balkanflix.com
 ! 0.0.0.0 www.baozimh.com
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
