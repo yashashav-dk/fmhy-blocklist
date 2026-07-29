@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1899 domains | updated 2026-07-28T05:49:17Z
+# 1891 domains | updated 2026-07-29T05:55:05Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -34,6 +34,7 @@
 67movies.nl
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
+7movies.in
 7plus.com.au
 7reels.cc
 80s-ova.com
@@ -63,6 +64,7 @@ allwrestling24.com
 allyoucanwatch.net
 althub.co.za
 amalgam-fansubs.moe
+amenzb.moe
 amvenfer.fr
 amvnews.ru
 an1me.to
@@ -127,7 +129,6 @@ animeawards.moe
 animebalkan.org
 animebashindia.me
 animebathscenewiki.com
-animebuff.ru
 animeco.link
 animecons.com
 animecorner.me
@@ -219,7 +220,6 @@ archive.gamehistory.org
 archive.palanq.win
 archived.moe
 archiveofsins.com
-argoscomics.online
 arrowtv.net
 article.olduse.net
 arvio.tv
@@ -324,7 +324,6 @@ cinevibe.icu
 cinevibe.site
 cinevibe.to
 ciniverse.site
-cinrift.me
 circle.ms
 cksub.org
 cli.club
@@ -422,7 +421,6 @@ doubledouble.top
 doujindownloader.com
 doujinstyle.com
 download.duafile.com
-downloader2.com
 dpan.tv
 dramacountdown.com
 dramaday.me
@@ -445,8 +443,6 @@ en.anison.fm
 en.gundam-official.com
 en.kinorium.com
 en.whakoom.com
-en12.sportplus.live
-en84.sportplus.live
 english-dubbed.com
 english.html
 episodehive.com
@@ -520,7 +516,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe659.com
+funbe661.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 futon.wtf
@@ -862,7 +858,6 @@ nekobt.to
 nekomitai.net
 nekopoi.care
 nekowatch.xyz
-nelvix.xyz
 neoapo.com
 nepu.to
 netnaija.film
@@ -971,7 +966,6 @@ phi-phenomenon.org
 piratexplay.cc
 piratexplay.com
 pitsport.live
-pixeldrain-bypass.gamedrive.org
 pixeldrain-bypass.gamedrive.to
 placeit.fun
 planete-bd.org
@@ -1018,7 +1012,7 @@ radio.animebits.moe
 radio.animenexus.net
 radio.nogi46.me
 radio.wapchan.org
-raijinscan.co
+raijin-scans.fr
 rainwave.cc
 ramenparados.com
 randime.moe
@@ -1300,7 +1294,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor138.com
+tkor139.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1391,6 +1385,7 @@ vaultplayer.co.uk
 vavoo.to
 vegamovies.market
 vegetatv.duckdns.org
+venuevault.live
 ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
@@ -1458,7 +1453,7 @@ weebcentral.com
 wfs.lol
 wftoon221.com
 wfty.link
-wfwf426.com
+wfwf428.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1860,9 +1855,6 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyra.stream
 xyzstreams.st
-yadg.cc
-yatoon238.asia
-yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net

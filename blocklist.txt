@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
-! Last updated: 2026-07-28T05:49:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1891 domains)
+! Last updated: 2026-07-29T05:55:05Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -38,6 +38,7 @@
 ||67movies.nl^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
+||7movies.in^
 ||7plus.com.au^
 ||7reels.cc^
 ||80s-ova.com^
@@ -67,6 +68,7 @@
 ||allyoucanwatch.net^
 ||althub.co.za^
 ||amalgam-fansubs.moe^
+||amenzb.moe^
 ||amvenfer.fr^
 ||amvnews.ru^
 ||an1me.to^
@@ -131,7 +133,6 @@
 ||animebalkan.org^
 ||animebashindia.me^
 ||animebathscenewiki.com^
-||animebuff.ru^
 ||animeco.link^
 ||animecons.com^
 ||animecorner.me^
@@ -223,7 +224,6 @@
 ||archive.palanq.win^
 ||archived.moe^
 ||archiveofsins.com^
-||argoscomics.online^
 ||arrowtv.net^
 ||article.olduse.net^
 ||arvio.tv^
@@ -328,7 +328,6 @@
 ||cinevibe.site^
 ||cinevibe.to^
 ||ciniverse.site^
-||cinrift.me^
 ||circle.ms^
 ||cksub.org^
 ||cli.club^
@@ -426,7 +425,6 @@
 ||doujindownloader.com^
 ||doujinstyle.com^
 ||download.duafile.com^
-||downloader2.com^
 ||dpan.tv^
 ||dramacountdown.com^
 ||dramaday.me^
@@ -449,8 +447,6 @@
 ||en.gundam-official.com^
 ||en.kinorium.com^
 ||en.whakoom.com^
-||en12.sportplus.live^
-||en84.sportplus.live^
 ||english-dubbed.com^
 ||english.html^
 ||episodehive.com^
@@ -524,7 +520,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe659.com^
+||funbe661.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||futon.wtf^
@@ -866,7 +862,6 @@
 ||nekomitai.net^
 ||nekopoi.care^
 ||nekowatch.xyz^
-||nelvix.xyz^
 ||neoapo.com^
 ||nepu.to^
 ||netnaija.film^
@@ -975,7 +970,6 @@
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.live^
-||pixeldrain-bypass.gamedrive.org^
 ||pixeldrain-bypass.gamedrive.to^
 ||placeit.fun^
 ||planete-bd.org^
@@ -1022,7 +1016,7 @@
 ||radio.animenexus.net^
 ||radio.nogi46.me^
 ||radio.wapchan.org^
-||raijinscan.co^
+||raijin-scans.fr^
 ||rainwave.cc^
 ||ramenparados.com^
 ||randime.moe^
@@ -1304,7 +1298,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor138.com^
+||tkor139.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1395,6 +1389,7 @@
 ||vavoo.to^
 ||vegamovies.market^
 ||vegetatv.duckdns.org^
+||venuevault.live^
 ||ver.animeonline.ninja^
 ||vgm.hcs64.com^
 ||vgm.impulseinformatica.com.br^
@@ -1462,7 +1457,7 @@
 ||wfs.lol^
 ||wftoon221.com^
 ||wfty.link^
-||wfwf426.com^
+||wfwf428.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1864,9 +1859,6 @@
 ||xtreme-wrestling-downloads.com^
 ||xyra.stream^
 ||xyzstreams.st^
-||yadg.cc^
-||yatoon238.asia^
-||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1940,6 +1932,7 @@
 ! 0.0.0.0 67movies.nl
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
+! 0.0.0.0 7movies.in
 ! 0.0.0.0 7plus.com.au
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
@@ -1969,6 +1962,7 @@
 ! 0.0.0.0 allyoucanwatch.net
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amalgam-fansubs.moe
+! 0.0.0.0 amenzb.moe
 ! 0.0.0.0 amvenfer.fr
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
@@ -2033,7 +2027,6 @@
 ! 0.0.0.0 animebalkan.org
 ! 0.0.0.0 animebashindia.me
 ! 0.0.0.0 animebathscenewiki.com
-! 0.0.0.0 animebuff.ru
 ! 0.0.0.0 animeco.link
 ! 0.0.0.0 animecons.com
 ! 0.0.0.0 animecorner.me
@@ -2125,7 +2118,6 @@
 ! 0.0.0.0 archive.palanq.win
 ! 0.0.0.0 archived.moe
 ! 0.0.0.0 archiveofsins.com
-! 0.0.0.0 argoscomics.online
 ! 0.0.0.0 arrowtv.net
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 arvio.tv
@@ -2230,7 +2222,6 @@
 ! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
 ! 0.0.0.0 ciniverse.site
-! 0.0.0.0 cinrift.me
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
@@ -2328,7 +2319,6 @@
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
 ! 0.0.0.0 download.duafile.com
-! 0.0.0.0 downloader2.com
 ! 0.0.0.0 dpan.tv
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
@@ -2351,8 +2341,6 @@
 ! 0.0.0.0 en.gundam-official.com
 ! 0.0.0.0 en.kinorium.com
 ! 0.0.0.0 en.whakoom.com
-! 0.0.0.0 en12.sportplus.live
-! 0.0.0.0 en84.sportplus.live
 ! 0.0.0.0 english-dubbed.com
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
@@ -2426,7 +2414,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe659.com
+! 0.0.0.0 funbe661.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 futon.wtf
@@ -2768,7 +2756,6 @@
 ! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
-! 0.0.0.0 nelvix.xyz
 ! 0.0.0.0 neoapo.com
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
@@ -2877,7 +2864,6 @@
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.live
-! 0.0.0.0 pixeldrain-bypass.gamedrive.org
 ! 0.0.0.0 pixeldrain-bypass.gamedrive.to
 ! 0.0.0.0 placeit.fun
 ! 0.0.0.0 planete-bd.org
@@ -2924,7 +2910,7 @@
 ! 0.0.0.0 radio.animenexus.net
 ! 0.0.0.0 radio.nogi46.me
 ! 0.0.0.0 radio.wapchan.org
-! 0.0.0.0 raijinscan.co
+! 0.0.0.0 raijin-scans.fr
 ! 0.0.0.0 rainwave.cc
 ! 0.0.0.0 ramenparados.com
 ! 0.0.0.0 randime.moe
@@ -3206,7 +3192,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor138.com
+! 0.0.0.0 tkor139.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3297,6 +3283,7 @@
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegamovies.market
 ! 0.0.0.0 vegetatv.duckdns.org
+! 0.0.0.0 venuevault.live
 ! 0.0.0.0 ver.animeonline.ninja
 ! 0.0.0.0 vgm.hcs64.com
 ! 0.0.0.0 vgm.impulseinformatica.com.br
@@ -3364,7 +3351,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon221.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf426.com
+! 0.0.0.0 wfwf428.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3766,9 +3753,6 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyra.stream
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yadg.cc
-! 0.0.0.0 yatoon238.asia
-! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
