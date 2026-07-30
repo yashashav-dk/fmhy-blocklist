@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1891 domains)
-! Last updated: 2026-07-29T05:55:05Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
+! Last updated: 2026-07-30T05:43:55Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -150,7 +150,6 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
-||animelok.live^
 ||animelok.online^
 ||animelok.to^
 ||animemusicquiz.com^
@@ -226,6 +225,7 @@
 ||archiveofsins.com^
 ||arrowtv.net^
 ||article.olduse.net^
+||artwork.thekvt.eu.org^
 ||arvio.tv^
 ||ascii2d.net^
 ||asiadreamradio.torontocast.stream^
@@ -261,6 +261,7 @@
 ||batcave.biz^
 ||bcine.ru^
 ||bechdeltest.com^
+||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
 ||better-lyrics.boidu.dev^
@@ -366,6 +367,7 @@
 ||corsflix.net^
 ||cosectv.com^
 ||countdown.tv^
+||covers.musichoarders.xyz^
 ||crackstreams.ms^
 ||crackstreams.mx^
 ||cracksurl.com^
@@ -499,7 +501,7 @@
 ||fluxtv.qzz.io^
 ||flyflix.net^
 ||fmstream.org^
-||foc117.asia^
+||foc118.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -800,6 +802,7 @@
 ||miruro.to^
 ||miruro.tv^
 ||mitsukeru.timschneeberger.me^
+||mixdebrid.com^
 ||mixmoose.com^
 ||mkissa.to^
 ||mkvbase.site^
@@ -818,6 +821,7 @@
 ||moriyashrine.org^
 ||morphinlegacy.com^
 ||moum.top^
+||movie-home.html^
 ||movie-web-sources.md^
 ||moviebite.cc^
 ||moviebox.co^
@@ -852,7 +856,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee105.asia^
+||namee106.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -863,6 +867,10 @@
 ||nekopoi.care^
 ||nekowatch.xyz^
 ||neoapo.com^
+||nepu.app^
+||nepu.io^
+||nepu.is^
+||nepu.net^
 ||nepu.to^
 ||netnaija.film^
 ||netplayz.top^
@@ -2044,7 +2052,6 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
-! 0.0.0.0 animelok.live
 ! 0.0.0.0 animelok.online
 ! 0.0.0.0 animelok.to
 ! 0.0.0.0 animemusicquiz.com
@@ -2120,6 +2127,7 @@
 ! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 arrowtv.net
 ! 0.0.0.0 article.olduse.net
+! 0.0.0.0 artwork.thekvt.eu.org
 ! 0.0.0.0 arvio.tv
 ! 0.0.0.0 ascii2d.net
 ! 0.0.0.0 asiadreamradio.torontocast.stream
@@ -2155,6 +2163,7 @@
 ! 0.0.0.0 batcave.biz
 ! 0.0.0.0 bcine.ru
 ! 0.0.0.0 bechdeltest.com
+! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
 ! 0.0.0.0 better-lyrics.boidu.dev
@@ -2260,6 +2269,7 @@
 ! 0.0.0.0 corsflix.net
 ! 0.0.0.0 cosectv.com
 ! 0.0.0.0 countdown.tv
+! 0.0.0.0 covers.musichoarders.xyz
 ! 0.0.0.0 crackstreams.ms
 ! 0.0.0.0 crackstreams.mx
 ! 0.0.0.0 cracksurl.com
@@ -2393,7 +2403,7 @@
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc117.asia
+! 0.0.0.0 foc118.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2694,6 +2704,7 @@
 ! 0.0.0.0 miruro.to
 ! 0.0.0.0 miruro.tv
 ! 0.0.0.0 mitsukeru.timschneeberger.me
+! 0.0.0.0 mixdebrid.com
 ! 0.0.0.0 mixmoose.com
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvbase.site
@@ -2712,6 +2723,7 @@
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
 ! 0.0.0.0 moum.top
+! 0.0.0.0 movie-home.html
 ! 0.0.0.0 movie-web-sources.md
 ! 0.0.0.0 moviebite.cc
 ! 0.0.0.0 moviebox.co
@@ -2746,7 +2758,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee105.asia
+! 0.0.0.0 namee106.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2757,6 +2769,10 @@
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
+! 0.0.0.0 nepu.app
+! 0.0.0.0 nepu.io
+! 0.0.0.0 nepu.is
+! 0.0.0.0 nepu.net
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.top

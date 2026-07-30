@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1891 domains | updated 2026-07-29T05:55:05Z
+# 1899 domains | updated 2026-07-30T05:43:55Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -146,7 +146,6 @@ animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
-animelok.live
 animelok.online
 animelok.to
 animemusicquiz.com
@@ -222,6 +221,7 @@ archived.moe
 archiveofsins.com
 arrowtv.net
 article.olduse.net
+artwork.thekvt.eu.org
 arvio.tv
 ascii2d.net
 asiadreamradio.torontocast.stream
@@ -257,6 +257,7 @@ basketballreplays.net
 batcave.biz
 bcine.ru
 bechdeltest.com
+bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
 better-lyrics.boidu.dev
@@ -362,6 +363,7 @@ coreflix.tv
 corsflix.net
 cosectv.com
 countdown.tv
+covers.musichoarders.xyz
 crackstreams.ms
 crackstreams.mx
 cracksurl.com
@@ -495,7 +497,7 @@ fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
-foc117.asia
+foc118.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -796,6 +798,7 @@ miruro.ru
 miruro.to
 miruro.tv
 mitsukeru.timschneeberger.me
+mixdebrid.com
 mixmoose.com
 mkissa.to
 mkvbase.site
@@ -814,6 +817,7 @@ moovie.fun
 moriyashrine.org
 morphinlegacy.com
 moum.top
+movie-home.html
 movie-web-sources.md
 moviebite.cc
 moviebox.co
@@ -848,7 +852,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee105.asia
+namee106.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -859,6 +863,10 @@ nekomitai.net
 nekopoi.care
 nekowatch.xyz
 neoapo.com
+nepu.app
+nepu.io
+nepu.is
+nepu.net
 nepu.to
 netnaija.film
 netplayz.top
