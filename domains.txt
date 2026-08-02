@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1906 domains | updated 2026-08-01T05:57:16Z
+# 1908 domains | updated 2026-08-02T06:05:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -402,6 +402,8 @@ digitalcomicmuseum.com
 digitaldreamdoor.com
 digitalfilmarchive.net
 digitalworldarchive.wordpress.com
+diostream.cc
+diostream.com
 directory.html
 dl-raw.si
 dl-zip.com
@@ -762,7 +764,6 @@ mangarawad.biz
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
-mangataro.org
 manhuabika.com
 mannavi.net
 manta.net
@@ -871,7 +872,6 @@ nepu.app
 nepu.io
 nepu.is
 nepu.net
-nepu.to
 netnaija.film
 netplayz.top
 netshows.xyz
@@ -1314,6 +1314,8 @@ tokusatsunetwork.com
 tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
+tonkacine.watch
+tonkacine.xyz
 toomics.com
 toon-stream.site
 toonamisquad.com
@@ -1554,7 +1556,6 @@ www.animezone.pl
 www.animotvslash.org
 www.animu.moe
 www.anirena.com
-www.anisil.com
 www.anisurge.lol
 www.anmosugoi.com
 www.anniversaryjump.com
@@ -1588,6 +1589,7 @@ www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
+www.cineapse.net
 www.cineby.at
 www.cineplay.to
 www.cinezo.org
@@ -1857,7 +1859,6 @@ www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net
 www.zophar.net
-www.zynema.co
 x27.html
 x3dl.net
 xalosach.com
@@ -1868,6 +1869,7 @@ xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
+xullys.xyz
 xyzstreams.st
 yatoon243.asia
 yatoonlink.com

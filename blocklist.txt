@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1906 domains)
-! Last updated: 2026-08-01T05:57:16Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1908 domains)
+! Last updated: 2026-08-02T06:05:24Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -406,6 +406,8 @@
 ||digitaldreamdoor.com^
 ||digitalfilmarchive.net^
 ||digitalworldarchive.wordpress.com^
+||diostream.cc^
+||diostream.com^
 ||directory.html^
 ||dl-raw.si^
 ||dl-zip.com^
@@ -766,7 +768,6 @@
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
-||mangataro.org^
 ||manhuabika.com^
 ||mannavi.net^
 ||manta.net^
@@ -875,7 +876,6 @@
 ||nepu.io^
 ||nepu.is^
 ||nepu.net^
-||nepu.to^
 ||netnaija.film^
 ||netplayz.top^
 ||netshows.xyz^
@@ -1318,6 +1318,8 @@
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
+||tonkacine.watch^
+||tonkacine.xyz^
 ||toomics.com^
 ||toon-stream.site^
 ||toonamisquad.com^
@@ -1558,7 +1560,6 @@
 ||www.animotvslash.org^
 ||www.animu.moe^
 ||www.anirena.com^
-||www.anisil.com^
 ||www.anisurge.lol^
 ||www.anmosugoi.com^
 ||www.anniversaryjump.com^
@@ -1592,6 +1593,7 @@
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
+||www.cineapse.net^
 ||www.cineby.at^
 ||www.cineplay.to^
 ||www.cinezo.org^
@@ -1861,7 +1863,6 @@
 ||www.zimmerit.moe^
 ||www.zinmanga.net^
 ||www.zophar.net^
-||www.zynema.co^
 ||x27.html^
 ||x3dl.net^
 ||xalosach.com^
@@ -1872,6 +1873,7 @@
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
+||xullys.xyz^
 ||xyzstreams.st^
 ||yatoon243.asia^
 ||yatoonlink.com^
@@ -2315,6 +2317,8 @@
 ! 0.0.0.0 digitaldreamdoor.com
 ! 0.0.0.0 digitalfilmarchive.net
 ! 0.0.0.0 digitalworldarchive.wordpress.com
+! 0.0.0.0 diostream.cc
+! 0.0.0.0 diostream.com
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.si
 ! 0.0.0.0 dl-zip.com
@@ -2675,7 +2679,6 @@
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
-! 0.0.0.0 mangataro.org
 ! 0.0.0.0 manhuabika.com
 ! 0.0.0.0 mannavi.net
 ! 0.0.0.0 manta.net
@@ -2784,7 +2787,6 @@
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
 ! 0.0.0.0 nepu.net
-! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.top
 ! 0.0.0.0 netshows.xyz
@@ -3227,6 +3229,8 @@
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
+! 0.0.0.0 tonkacine.watch
+! 0.0.0.0 tonkacine.xyz
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toon-stream.site
 ! 0.0.0.0 toonamisquad.com
@@ -3467,7 +3471,6 @@
 ! 0.0.0.0 www.animotvslash.org
 ! 0.0.0.0 www.animu.moe
 ! 0.0.0.0 www.anirena.com
-! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
 ! 0.0.0.0 www.anmosugoi.com
 ! 0.0.0.0 www.anniversaryjump.com
@@ -3501,6 +3504,7 @@
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
+! 0.0.0.0 www.cineapse.net
 ! 0.0.0.0 www.cineby.at
 ! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.org
@@ -3770,7 +3774,6 @@
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zinmanga.net
 ! 0.0.0.0 www.zophar.net
-! 0.0.0.0 www.zynema.co
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 x3dl.net
 ! 0.0.0.0 xalosach.com
@@ -3781,6 +3784,7 @@
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
+! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yatoon243.asia
 ! 0.0.0.0 yatoonlink.com
