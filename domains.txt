@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1908 domains | updated 2026-08-02T06:05:24Z
+# 1910 domains | updated 2026-08-03T06:26:57Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -147,7 +147,6 @@ animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
 animelok.live
-animelok.online
 animelok.to
 animemusicquiz.com
 animenosub.to
@@ -523,7 +522,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe661.com
+funbe662.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 futon.wtf
@@ -982,6 +981,7 @@ pixeldrain-bypass.gamedrive.to
 planete-bd.org
 plappa.me
 play.onlinetz.app
+player.xtra.wtf
 playlist.pls
 playlists.at
 playtorrio.xyz
@@ -1306,10 +1306,11 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor139.com
+tkor140.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
+tokusatsu-fc.jp
 tokusatsunetwork.com
 tokyo-tosho.net
 tokyodross.blogspot.com
@@ -1453,6 +1454,7 @@ watchorbit.me
 watchott.org
 watchprowrestling.store
 watchreplay.net
+watchsports.st
 watchsports.su
 watchsurface.stream
 watchtvs.live
