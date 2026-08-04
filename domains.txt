@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1910 domains | updated 2026-08-03T06:26:57Z
+# 1911 domains | updated 2026-08-04T05:50:32Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -332,7 +332,6 @@ cksub.org
 cli.club
 clients.md
 com.aimp.player
-com.deezus.pchan
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
 com.maxmpz.equalizer
@@ -490,7 +489,6 @@ flickmetrix.com
 flickystream.dad
 fliker.freebuff.app
 flixer.gd
-flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -1466,6 +1464,7 @@ webcomicsapp.com
 webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
+wetrakr.com
 wfs.lol
 wftoon222.com
 wfty.link
@@ -1558,6 +1557,7 @@ www.animezone.pl
 www.animotvslash.org
 www.animu.moe
 www.anirena.com
+www.anisil.com
 www.anisurge.lol
 www.anmosugoi.com
 www.anniversaryjump.com
@@ -1572,6 +1572,7 @@ www.aurorascreen.org
 www.az-animex.com
 www.b98.tv
 www.baka-tsuki.org
+www.balkanflix.com
 www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
