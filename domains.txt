@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1911 domains | updated 2026-08-04T05:50:32Z
+# 1909 domains | updated 2026-08-05T05:48:14Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -212,7 +212,6 @@ anonops.com
 antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
-app.buffstream.io
 arabshentai.com
 arch.b4k.dev
 archive.4plebs.org
@@ -298,6 +297,7 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 chillflix.lol
+cine.su
 cinebolt.org
 cineby.at
 cinebytv-note.md
@@ -364,8 +364,6 @@ corsflix.net
 cosectv.com
 countdown.tv
 covers.musichoarders.xyz
-crackstreams.ms
-crackstreams.mx
 cracksurl.com
 crafty.moe
 crichd.at
@@ -499,7 +497,7 @@ fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
 fmstream.org
-foc118.asia
+foc119.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -555,7 +553,6 @@ guides.viren070.me
 guzes.surge.sh
 halcyonrealms.com
 hanime1.me
-happytoon02.com
 hardcover.app
 harmony.pulsewidth.org.uk
 hayase.watch
@@ -604,6 +601,7 @@ indexsubtitle.cc
 indiancine.ma
 inkstory.net
 inmanga.com
+instances.md
 interviewfor.red
 introduction.html
 iptv-player.me
@@ -638,6 +636,7 @@ kartoons.me
 katworld.net
 katzddl.net
 kawaii-anime.com
+kawaiianime.cc
 kawaiimanga.org
 kayoanime.com
 kazemakase.wjg.jp
@@ -728,7 +727,6 @@ mainportal66.com
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
-managall1.com
 manba.co.jp
 manga-bookshelf.com
 manga-oni.com
@@ -854,7 +852,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee106.asia
+namee107.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -943,7 +941,7 @@ onepiecepower.com
 onepiecetracklist.com
 onetouchtv.xyz
 onhockey.tv
-onionplay.io
+onionplay.st
 onisaga.com
 onoflix.com
 onoflix.ru
@@ -1468,7 +1466,7 @@ wetrakr.com
 wfs.lol
 wftoon222.com
 wfty.link
-wfwf431.com
+wfwf433.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1643,6 +1641,7 @@ www.fmovies.gd
 www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com
+www.footreplays.com
 www.footstreams.co
 www.forgottenworlds.net
 www.freegreatmovies.com
@@ -1678,7 +1677,6 @@ www.instafest.app
 www.iptvsmarters.com
 www.ivanime.com
 www.izicomics.com
-www.j-magazine.or.jp
 www.j1fm.tokyo
 www.jajanken.net
 www.jam-cons.net

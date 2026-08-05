@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1911 domains)
-! Last updated: 2026-08-04T05:50:32Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1909 domains)
+! Last updated: 2026-08-05T05:48:14Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -216,7 +216,6 @@
 ||antra.hoshi.cfd^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
-||app.buffstream.io^
 ||arabshentai.com^
 ||arch.b4k.dev^
 ||archive.4plebs.org^
@@ -302,6 +301,7 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||chillflix.lol^
+||cine.su^
 ||cinebolt.org^
 ||cineby.at^
 ||cinebytv-note.md^
@@ -368,8 +368,6 @@
 ||cosectv.com^
 ||countdown.tv^
 ||covers.musichoarders.xyz^
-||crackstreams.ms^
-||crackstreams.mx^
 ||cracksurl.com^
 ||crafty.moe^
 ||crichd.at^
@@ -503,7 +501,7 @@
 ||fluxtv.qzz.io^
 ||flyflix.net^
 ||fmstream.org^
-||foc118.asia^
+||foc119.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -559,7 +557,6 @@
 ||guzes.surge.sh^
 ||halcyonrealms.com^
 ||hanime1.me^
-||happytoon02.com^
 ||hardcover.app^
 ||harmony.pulsewidth.org.uk^
 ||hayase.watch^
@@ -608,6 +605,7 @@
 ||indiancine.ma^
 ||inkstory.net^
 ||inmanga.com^
+||instances.md^
 ||interviewfor.red^
 ||introduction.html^
 ||iptv-player.me^
@@ -642,6 +640,7 @@
 ||katworld.net^
 ||katzddl.net^
 ||kawaii-anime.com^
+||kawaiianime.cc^
 ||kawaiimanga.org^
 ||kayoanime.com^
 ||kazemakase.wjg.jp^
@@ -732,7 +731,6 @@
 ||malscraper.azurewebsites.net^
 ||malsync.moe^
 ||malupdaterosx.moe^
-||managall1.com^
 ||manba.co.jp^
 ||manga-bookshelf.com^
 ||manga-oni.com^
@@ -858,7 +856,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee106.asia^
+||namee107.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -947,7 +945,7 @@
 ||onepiecetracklist.com^
 ||onetouchtv.xyz^
 ||onhockey.tv^
-||onionplay.io^
+||onionplay.st^
 ||onisaga.com^
 ||onoflix.com^
 ||onoflix.ru^
@@ -1472,7 +1470,7 @@
 ||wfs.lol^
 ||wftoon222.com^
 ||wfty.link^
-||wfwf431.com^
+||wfwf433.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1647,6 +1645,7 @@
 ||www.fontspring.com^
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
+||www.footreplays.com^
 ||www.footstreams.co^
 ||www.forgottenworlds.net^
 ||www.freegreatmovies.com^
@@ -1682,7 +1681,6 @@
 ||www.iptvsmarters.com^
 ||www.ivanime.com^
 ||www.izicomics.com^
-||www.j-magazine.or.jp^
 ||www.j1fm.tokyo^
 ||www.jajanken.net^
 ||www.jam-cons.net^
@@ -2130,7 +2128,6 @@
 ! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
-! 0.0.0.0 app.buffstream.io
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 arch.b4k.dev
 ! 0.0.0.0 archive.4plebs.org
@@ -2216,6 +2213,7 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
+! 0.0.0.0 cine.su
 ! 0.0.0.0 cinebolt.org
 ! 0.0.0.0 cineby.at
 ! 0.0.0.0 cinebytv-note.md
@@ -2282,8 +2280,6 @@
 ! 0.0.0.0 cosectv.com
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 covers.musichoarders.xyz
-! 0.0.0.0 crackstreams.ms
-! 0.0.0.0 crackstreams.mx
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
 ! 0.0.0.0 crichd.at
@@ -2417,7 +2413,7 @@
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc118.asia
+! 0.0.0.0 foc119.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2473,7 +2469,6 @@
 ! 0.0.0.0 guzes.surge.sh
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
-! 0.0.0.0 happytoon02.com
 ! 0.0.0.0 hardcover.app
 ! 0.0.0.0 harmony.pulsewidth.org.uk
 ! 0.0.0.0 hayase.watch
@@ -2522,6 +2517,7 @@
 ! 0.0.0.0 indiancine.ma
 ! 0.0.0.0 inkstory.net
 ! 0.0.0.0 inmanga.com
+! 0.0.0.0 instances.md
 ! 0.0.0.0 interviewfor.red
 ! 0.0.0.0 introduction.html
 ! 0.0.0.0 iptv-player.me
@@ -2556,6 +2552,7 @@
 ! 0.0.0.0 katworld.net
 ! 0.0.0.0 katzddl.net
 ! 0.0.0.0 kawaii-anime.com
+! 0.0.0.0 kawaiianime.cc
 ! 0.0.0.0 kawaiimanga.org
 ! 0.0.0.0 kayoanime.com
 ! 0.0.0.0 kazemakase.wjg.jp
@@ -2646,7 +2643,6 @@
 ! 0.0.0.0 malscraper.azurewebsites.net
 ! 0.0.0.0 malsync.moe
 ! 0.0.0.0 malupdaterosx.moe
-! 0.0.0.0 managall1.com
 ! 0.0.0.0 manba.co.jp
 ! 0.0.0.0 manga-bookshelf.com
 ! 0.0.0.0 manga-oni.com
@@ -2772,7 +2768,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee106.asia
+! 0.0.0.0 namee107.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2861,7 +2857,7 @@
 ! 0.0.0.0 onepiecetracklist.com
 ! 0.0.0.0 onetouchtv.xyz
 ! 0.0.0.0 onhockey.tv
-! 0.0.0.0 onionplay.io
+! 0.0.0.0 onionplay.st
 ! 0.0.0.0 onisaga.com
 ! 0.0.0.0 onoflix.com
 ! 0.0.0.0 onoflix.ru
@@ -3386,7 +3382,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon222.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf431.com
+! 0.0.0.0 wfwf433.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3561,6 +3557,7 @@
 ! 0.0.0.0 www.fontspring.com
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
+! 0.0.0.0 www.footreplays.com
 ! 0.0.0.0 www.footstreams.co
 ! 0.0.0.0 www.forgottenworlds.net
 ! 0.0.0.0 www.freegreatmovies.com
@@ -3596,7 +3593,6 @@
 ! 0.0.0.0 www.iptvsmarters.com
 ! 0.0.0.0 www.ivanime.com
 ! 0.0.0.0 www.izicomics.com
-! 0.0.0.0 www.j-magazine.or.jp
 ! 0.0.0.0 www.j1fm.tokyo
 ! 0.0.0.0 www.jajanken.net
 ! 0.0.0.0 www.jam-cons.net
