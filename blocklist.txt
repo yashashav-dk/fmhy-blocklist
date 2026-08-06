@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1909 domains)
-! Last updated: 2026-08-05T05:48:14Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1913 domains)
+! Last updated: 2026-08-06T05:52:06Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -109,7 +109,6 @@
 ||animan.ru^
 ||animaxanime.dpdns.org^
 ||anime-archive.com^
-||anime-base.net^
 ||anime-bingo.aikats.us^
 ||anime-community-germany.de^
 ||anime-dunya.com^
@@ -320,6 +319,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemora.ru^
+||cinemove.cc^
 ||cinepro.fstream.app^
 ||cinestream.kje.us^
 ||cinetaro.to^
@@ -463,6 +463,7 @@
 ||exp.tv^
 ||ext.to^
 ||extranet.torrentbay.st^
+||extto.com^
 ||eztvx.to^
 ||f1fullraces.com^
 ||f1live.dpdns.org^
@@ -480,6 +481,7 @@
 ||filmcave.ru^
 ||filmfans.org^
 ||filmo.platfo.es^
+||filmo.to^
 ||filmpolski.pl^
 ||films.waploaded.com^
 ||filmvault.xyz^
@@ -496,6 +498,7 @@
 ||flixvo.fun^
 ||flixvo.live^
 ||flixway.ru^
+||flnk.fun^
 ||fluxtv.cc^
 ||fluxtv.co.uk^
 ||fluxtv.qzz.io^
@@ -522,7 +525,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe662.com^
+||funbe663.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||futon.wtf^
@@ -840,7 +843,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon146.asia^
+||mtoon147.asia^
 ||mugen.karaokes.moe^
 ||multishows.top^
 ||musicalyst.com^
@@ -871,6 +874,7 @@
 ||nepu.io^
 ||nepu.is^
 ||nepu.net^
+||nepu.to^
 ||netnaija.film^
 ||netplayz.top^
 ||netshows.xyz^
@@ -1259,7 +1263,6 @@
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.info^
-||t2tunes.site^
 ||t4.xtoon365.com^
 ||t4tsa.cc^
 ||tachiyomiaz.apk^
@@ -1306,7 +1309,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor140.com^
+||tkor141.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1409,6 +1412,7 @@
 ||vgmusic.com^
 ||vibemax.to^
 ||vidbox.dev^
+||vidbox.vc^
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
@@ -1876,7 +1880,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xullys.xyz^
 ||xyzstreams.st^
-||yatoon243.asia^
+||yatoon244.asia^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -2021,7 +2025,6 @@
 ! 0.0.0.0 animan.ru
 ! 0.0.0.0 animaxanime.dpdns.org
 ! 0.0.0.0 anime-archive.com
-! 0.0.0.0 anime-base.net
 ! 0.0.0.0 anime-bingo.aikats.us
 ! 0.0.0.0 anime-community-germany.de
 ! 0.0.0.0 anime-dunya.com
@@ -2232,6 +2235,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemora.ru
+! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cinepro.fstream.app
 ! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.to
@@ -2375,6 +2379,7 @@
 ! 0.0.0.0 exp.tv
 ! 0.0.0.0 ext.to
 ! 0.0.0.0 extranet.torrentbay.st
+! 0.0.0.0 extto.com
 ! 0.0.0.0 eztvx.to
 ! 0.0.0.0 f1fullraces.com
 ! 0.0.0.0 f1live.dpdns.org
@@ -2392,6 +2397,7 @@
 ! 0.0.0.0 filmcave.ru
 ! 0.0.0.0 filmfans.org
 ! 0.0.0.0 filmo.platfo.es
+! 0.0.0.0 filmo.to
 ! 0.0.0.0 filmpolski.pl
 ! 0.0.0.0 films.waploaded.com
 ! 0.0.0.0 filmvault.xyz
@@ -2408,6 +2414,7 @@
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixway.ru
+! 0.0.0.0 flnk.fun
 ! 0.0.0.0 fluxtv.cc
 ! 0.0.0.0 fluxtv.co.uk
 ! 0.0.0.0 fluxtv.qzz.io
@@ -2434,7 +2441,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe662.com
+! 0.0.0.0 funbe663.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 futon.wtf
@@ -2752,7 +2759,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon146.asia
+! 0.0.0.0 mtoon147.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
@@ -2783,6 +2790,7 @@
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
 ! 0.0.0.0 nepu.net
+! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.top
 ! 0.0.0.0 netshows.xyz
@@ -3171,7 +3179,6 @@
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
-! 0.0.0.0 t2tunes.site
 ! 0.0.0.0 t4.xtoon365.com
 ! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
@@ -3218,7 +3225,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor140.com
+! 0.0.0.0 tkor141.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3321,6 +3328,7 @@
 ! 0.0.0.0 vgmusic.com
 ! 0.0.0.0 vibemax.to
 ! 0.0.0.0 vidbox.dev
+! 0.0.0.0 vidbox.vc
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
@@ -3788,7 +3796,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon243.asia
+! 0.0.0.0 yatoon244.asia
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net

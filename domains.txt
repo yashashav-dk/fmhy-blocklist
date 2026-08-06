@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1909 domains | updated 2026-08-05T05:48:14Z
+# 1913 domains | updated 2026-08-06T05:52:06Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -105,7 +105,6 @@ animagarchive.com
 animan.ru
 animaxanime.dpdns.org
 anime-archive.com
-anime-base.net
 anime-bingo.aikats.us
 anime-community-germany.de
 anime-dunya.com
@@ -316,6 +315,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemora.ru
+cinemove.cc
 cinepro.fstream.app
 cinestream.kje.us
 cinetaro.to
@@ -459,6 +459,7 @@ everythingmoe.org
 exp.tv
 ext.to
 extranet.torrentbay.st
+extto.com
 eztvx.to
 f1fullraces.com
 f1live.dpdns.org
@@ -476,6 +477,7 @@ fcast.org
 filmcave.ru
 filmfans.org
 filmo.platfo.es
+filmo.to
 filmpolski.pl
 films.waploaded.com
 filmvault.xyz
@@ -492,6 +494,7 @@ flixtrz.com
 flixvo.fun
 flixvo.live
 flixway.ru
+flnk.fun
 fluxtv.cc
 fluxtv.co.uk
 fluxtv.qzz.io
@@ -518,7 +521,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe662.com
+funbe663.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 futon.wtf
@@ -836,7 +839,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon146.asia
+mtoon147.asia
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -867,6 +870,7 @@ nepu.app
 nepu.io
 nepu.is
 nepu.net
+nepu.to
 netnaija.film
 netplayz.top
 netshows.xyz
@@ -1255,7 +1259,6 @@ swimrewind.com
 sync.coconono.org
 syncler.net
 synthv.info
-t2tunes.site
 t4.xtoon365.com
 t4tsa.cc
 tachiyomiaz.apk
@@ -1302,7 +1305,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor140.com
+tkor141.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1405,6 +1408,7 @@ vgmrips.net
 vgmusic.com
 vibemax.to
 vidbox.dev
+vidbox.vc
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
@@ -1872,7 +1876,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xullys.xyz
 xyzstreams.st
-yatoon243.asia
+yatoon244.asia
 yatoonlink.com
 yattatachi.com
 yenime.net
