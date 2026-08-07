@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1913 domains)
-! Last updated: 2026-08-06T05:52:06Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1917 domains)
+! Last updated: 2026-08-07T04:56:39Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -212,6 +212,7 @@
 ||annas-archive.gl^
 ||annict.com^
 ||anonops.com^
+||anton.likesyou.org^
 ||antra.hoshi.cfd^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
@@ -326,9 +327,6 @@
 ||cinetimes.org^
 ||cinetrii.com^
 ||cinevaro.app^
-||cinevibe.asia^
-||cinevibe.icu^
-||cinevibe.site^
 ||cinevibe.to^
 ||ciniverse.site^
 ||circle.ms^
@@ -387,6 +385,7 @@
 ||db.silveryasha.id^
 ||db.trakt.anitrakt^
 ||ddlbase.com^
+||ddlbase.net^
 ||deaffestonlinecinema.eventive.org^
 ||deafmovie.org^
 ||debrid-link.com^
@@ -503,13 +502,13 @@
 ||fluxtv.co.uk^
 ||fluxtv.qzz.io^
 ||flyflix.net^
+||flystream.net^
 ||fmstream.org^
 ||foc119.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
 ||foro.unionfansub.com^
-||forum.dirtywarez.com^
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
 ||franime.fr^
@@ -635,6 +634,7 @@
 ||justanime.site^
 ||justanime.to^
 ||justsubtitles.com^
+||k.thekirastreams.workers.dev^
 ||kaa.lt^
 ||kagane.org^
 ||kagane.to^
@@ -657,7 +657,6 @@
 ||kids-in-mind.com^
 ||kimoitv.com^
 ||kindlemodding.org^
-||kirastreams.onlykirastreams.workers.dev^
 ||kissanime.com.ru^
 ||kissanime.help^
 ||kissasian.video^
@@ -783,6 +782,7 @@
 ||megabeastempire.wordpress.com^
 ||meionovels.com^
 ||melon-subs.de^
+||meowly.qzz.io^
 ||meownime.ltd^
 ||meowtv.ru^
 ||meramifan.wordpress.com^
@@ -898,7 +898,6 @@
 ||noirx.me^
 ||nomorflix.cc^
 ||nomorflix.com^
-||nomorflix.icu^
 ||note.com^
 ||nothing-to-watch.port80.ch^
 ||notscare.me^
@@ -976,8 +975,10 @@
 ||pawflix.foo.ng^
 ||pdftoshokan.com^
 ||peestream.in^
+||phantomflix.net^
 ||phate.io^
 ||phi-phenomenon.org^
+||phonofilm.net^
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.live^
@@ -1042,6 +1043,7 @@
 ||rar.to^
 ||rarefilmm.com^
 ||ravencentric.cc^
+||ravenflix.net^
 ||raw-cans.net^
 ||raw.senmanga.com^
 ||raw1001.net^
@@ -1084,6 +1086,8 @@
 ||rivestream.ru^
 ||rivestream.top^
 ||rivestream.vip^
+||rizzking.org^
+||rizzking.xo.je^
 ||rlsbb.cc^
 ||rlsbb.in^
 ||rlsbb.ru^
@@ -1158,6 +1162,7 @@
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
 ||showrss.info^
+||shows.st^
 ||shuttletv.pk^
 ||shuttletv.su^
 ||sickfansubs.com^
@@ -1264,7 +1269,6 @@
 ||syncler.net^
 ||synthv.info^
 ||t4.xtoon365.com^
-||t4tsa.cc^
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
@@ -1420,6 +1424,7 @@
 ||viewtopic.php^
 ||vipotv.com^
 ||virgil.samidy.com^
+||vivarium.wtf^
 ||vk.ru^
 ||vknext.net^
 ||vkvideo.ru^
@@ -1447,7 +1452,6 @@
 ||watch.cinewave.qzz.io^
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
-||watch.filmu.in^
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.versusmedia.com^
@@ -2128,6 +2132,7 @@
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
+! 0.0.0.0 anton.likesyou.org
 ! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
@@ -2242,9 +2247,6 @@
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevaro.app
-! 0.0.0.0 cinevibe.asia
-! 0.0.0.0 cinevibe.icu
-! 0.0.0.0 cinevibe.site
 ! 0.0.0.0 cinevibe.to
 ! 0.0.0.0 ciniverse.site
 ! 0.0.0.0 circle.ms
@@ -2303,6 +2305,7 @@
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 db.trakt.anitrakt
 ! 0.0.0.0 ddlbase.com
+! 0.0.0.0 ddlbase.net
 ! 0.0.0.0 deaffestonlinecinema.eventive.org
 ! 0.0.0.0 deafmovie.org
 ! 0.0.0.0 debrid-link.com
@@ -2419,13 +2422,13 @@
 ! 0.0.0.0 fluxtv.co.uk
 ! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
+! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 foc119.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
 ! 0.0.0.0 foro.unionfansub.com
-! 0.0.0.0 forum.dirtywarez.com
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
 ! 0.0.0.0 franime.fr
@@ -2551,6 +2554,7 @@
 ! 0.0.0.0 justanime.site
 ! 0.0.0.0 justanime.to
 ! 0.0.0.0 justsubtitles.com
+! 0.0.0.0 k.thekirastreams.workers.dev
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kagane.to
@@ -2573,7 +2577,6 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
-! 0.0.0.0 kirastreams.onlykirastreams.workers.dev
 ! 0.0.0.0 kissanime.com.ru
 ! 0.0.0.0 kissanime.help
 ! 0.0.0.0 kissasian.video
@@ -2699,6 +2702,7 @@
 ! 0.0.0.0 megabeastempire.wordpress.com
 ! 0.0.0.0 meionovels.com
 ! 0.0.0.0 melon-subs.de
+! 0.0.0.0 meowly.qzz.io
 ! 0.0.0.0 meownime.ltd
 ! 0.0.0.0 meowtv.ru
 ! 0.0.0.0 meramifan.wordpress.com
@@ -2814,7 +2818,6 @@
 ! 0.0.0.0 noirx.me
 ! 0.0.0.0 nomorflix.cc
 ! 0.0.0.0 nomorflix.com
-! 0.0.0.0 nomorflix.icu
 ! 0.0.0.0 note.com
 ! 0.0.0.0 nothing-to-watch.port80.ch
 ! 0.0.0.0 notscare.me
@@ -2892,8 +2895,10 @@
 ! 0.0.0.0 pawflix.foo.ng
 ! 0.0.0.0 pdftoshokan.com
 ! 0.0.0.0 peestream.in
+! 0.0.0.0 phantomflix.net
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
+! 0.0.0.0 phonofilm.net
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.live
@@ -2958,6 +2963,7 @@
 ! 0.0.0.0 rar.to
 ! 0.0.0.0 rarefilmm.com
 ! 0.0.0.0 ravencentric.cc
+! 0.0.0.0 ravenflix.net
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw.senmanga.com
 ! 0.0.0.0 raw1001.net
@@ -3000,6 +3006,8 @@
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rivestream.top
 ! 0.0.0.0 rivestream.vip
+! 0.0.0.0 rizzking.org
+! 0.0.0.0 rizzking.xo.je
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
 ! 0.0.0.0 rlsbb.ru
@@ -3074,6 +3082,7 @@
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
 ! 0.0.0.0 showrss.info
+! 0.0.0.0 shows.st
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
 ! 0.0.0.0 sickfansubs.com
@@ -3180,7 +3189,6 @@
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
 ! 0.0.0.0 t4.xtoon365.com
-! 0.0.0.0 t4tsa.cc
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
@@ -3336,6 +3344,7 @@
 ! 0.0.0.0 viewtopic.php
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
+! 0.0.0.0 vivarium.wtf
 ! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru
@@ -3363,7 +3372,6 @@
 ! 0.0.0.0 watch.cinewave.qzz.io
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
-! 0.0.0.0 watch.filmu.in
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.versusmedia.com

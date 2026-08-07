@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1913 domains | updated 2026-08-06T05:52:06Z
+# 1917 domains | updated 2026-08-07T04:56:39Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -208,6 +208,7 @@ anizone.to
 annas-archive.gl
 annict.com
 anonops.com
+anton.likesyou.org
 antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
@@ -322,9 +323,6 @@ cinetaro.to
 cinetimes.org
 cinetrii.com
 cinevaro.app
-cinevibe.asia
-cinevibe.icu
-cinevibe.site
 cinevibe.to
 ciniverse.site
 circle.ms
@@ -383,6 +381,7 @@ damitvsports.com
 db.silveryasha.id
 db.trakt.anitrakt
 ddlbase.com
+ddlbase.net
 deaffestonlinecinema.eventive.org
 deafmovie.org
 debrid-link.com
@@ -499,13 +498,13 @@ fluxtv.cc
 fluxtv.co.uk
 fluxtv.qzz.io
 flyflix.net
+flystream.net
 fmstream.org
 foc119.asia
 footballia.eu
 footballia.net
 fooyin.org
 foro.unionfansub.com
-forum.dirtywarez.com
 forum.mobilism.org
 foundfootagecritic.com
 franime.fr
@@ -631,6 +630,7 @@ justanime.fun
 justanime.site
 justanime.to
 justsubtitles.com
+k.thekirastreams.workers.dev
 kaa.lt
 kagane.org
 kagane.to
@@ -653,7 +653,6 @@ kibo.fm
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
-kirastreams.onlykirastreams.workers.dev
 kissanime.com.ru
 kissanime.help
 kissasian.video
@@ -779,6 +778,7 @@ mega.archive
 megabeastempire.wordpress.com
 meionovels.com
 melon-subs.de
+meowly.qzz.io
 meownime.ltd
 meowtv.ru
 meramifan.wordpress.com
@@ -894,7 +894,6 @@ noirx.live
 noirx.me
 nomorflix.cc
 nomorflix.com
-nomorflix.icu
 note.com
 nothing-to-watch.port80.ch
 notscare.me
@@ -972,8 +971,10 @@ partitioned-cookies.md
 pawflix.foo.ng
 pdftoshokan.com
 peestream.in
+phantomflix.net
 phate.io
 phi-phenomenon.org
+phonofilm.net
 piratexplay.cc
 piratexplay.com
 pitsport.live
@@ -1038,6 +1039,7 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
+ravenflix.net
 raw-cans.net
 raw.senmanga.com
 raw1001.net
@@ -1080,6 +1082,8 @@ ristohentai.com
 rivestream.ru
 rivestream.top
 rivestream.vip
+rizzking.org
+rizzking.xo.je
 rlsbb.cc
 rlsbb.in
 rlsbb.ru
@@ -1154,6 +1158,7 @@ shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
+shows.st
 shuttletv.pk
 shuttletv.su
 sickfansubs.com
@@ -1260,7 +1265,6 @@ sync.coconono.org
 syncler.net
 synthv.info
 t4.xtoon365.com
-t4tsa.cc
 tachiyomiaz.apk
 tagger.site
 taiga.moe
@@ -1416,6 +1420,7 @@ vidplay.to
 viewtopic.php
 vipotv.com
 virgil.samidy.com
+vivarium.wtf
 vk.ru
 vknext.net
 vkvideo.ru
@@ -1443,7 +1448,6 @@ watch-wrestling.eu
 watch.cinewave.qzz.io
 watch.corsflix.dpdns.org
 watch.corsflix.net
-watch.filmu.in
 watch.foundtv.com
 watch.mometu.com
 watch.versusmedia.com
