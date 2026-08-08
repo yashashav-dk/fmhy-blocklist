@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1917 domains)
-! Last updated: 2026-08-07T04:56:39Z
+! Last updated: 2026-08-08T04:12:04Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -265,7 +265,7 @@
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
 ||bestsimilar.com^
-||better-lyrics.boidu.dev^
+||betterlyrics.org^
 ||bflix.sh^
 ||bgmd.bytex.space^
 ||bgmlist.com^
@@ -1476,9 +1476,9 @@
 ||weebcentral.com^
 ||wetrakr.com^
 ||wfs.lol^
-||wftoon222.com^
+||wftoon223.com^
 ||wfty.link^
-||wfwf433.com^
+||wfwf436.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -2185,7 +2185,7 @@
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
-! 0.0.0.0 better-lyrics.boidu.dev
+! 0.0.0.0 betterlyrics.org
 ! 0.0.0.0 bflix.sh
 ! 0.0.0.0 bgmd.bytex.space
 ! 0.0.0.0 bgmlist.com
@@ -3396,9 +3396,9 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wetrakr.com
 ! 0.0.0.0 wfs.lol
-! 0.0.0.0 wftoon222.com
+! 0.0.0.0 wftoon223.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf433.com
+! 0.0.0.0 wfwf436.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
