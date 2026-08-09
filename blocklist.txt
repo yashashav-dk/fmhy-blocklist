@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1917 domains)
-! Last updated: 2026-08-08T04:12:04Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1910 domains)
+! Last updated: 2026-08-09T04:19:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -58,7 +58,6 @@
 ||aha-music.com^
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
-||alienflix.net^
 ||alist.thdisc.tk^
 ||allcomic.noor.jp^
 ||alldebrid.com^
@@ -313,6 +312,7 @@
 ||cinehub.one^
 ||cinejoy.to^
 ||cinelove.live^
+||cinema.army^
 ||cinema.bz^
 ||cinemacity.cc^
 ||cinemaos.live^
@@ -322,7 +322,6 @@
 ||cinemora.ru^
 ||cinemove.cc^
 ||cinepro.fstream.app^
-||cinestream.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -362,6 +361,7 @@
 ||condensedaudiocatalog.com^
 ||cooljapanportal.com^
 ||coolmic.me^
+||coreflix.tv^
 ||corsflix.net^
 ||cosectv.com^
 ||countdown.tv^
@@ -402,7 +402,6 @@
 ||digitalfilmarchive.net^
 ||digitalworldarchive.wordpress.com^
 ||diostream.cc^
-||diostream.com^
 ||directory.html^
 ||dl-raw.si^
 ||dl-zip.com^
@@ -427,12 +426,13 @@
 ||doujinstyle.com^
 ||download.duafile.com^
 ||dpan.tv^
+||dramacooli.buzz^
 ||dramacountdown.com^
 ||dramaday.me^
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyendl.com^
+||dualeotruyencw.com^
 ||dubolt.com^
 ||due.moe^
 ||dw-anime.net^
@@ -524,7 +524,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe663.com^
+||funbe664.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||futon.wtf^
@@ -574,7 +574,6 @@
 ||hentaila.com^
 ||hentaiukr.com^
 ||hexa.su^
-||hexawatch.cc^
 ||hi10anime.com^
 ||hikka.io^
 ||hindmoviez.cafe^
@@ -719,7 +718,6 @@
 ||lumotv.co.uk^
 ||luna-stream.me^
 ||lunaranime.ru^
-||lunastream.fun^
 ||m-p.sakura.ne.jp^
 ||m2box.org^
 ||m3u-ip.tv^
@@ -866,7 +864,6 @@
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
-||nekomitai.net^
 ||nekopoi.care^
 ||nekowatch.xyz^
 ||neoapo.com^
@@ -913,7 +910,6 @@
 ||ntvx.link^
 ||nukkard.com^
 ||numb3rs.stream^
-||nunflix.li^
 ||nuvio.tv^
 ||nuvio.wiki^
 ||nuviosync.com^
@@ -946,7 +942,6 @@
 ||onepace.net^
 ||onepiecepower.com^
 ||onepiecetracklist.com^
-||onetouchtv.xyz^
 ||onhockey.tv^
 ||onionplay.st^
 ||onisaga.com^
@@ -985,7 +980,6 @@
 ||pixeldrain-bypass.gamedrive.to^
 ||planete-bd.org^
 ||plappa.me^
-||play.onlinetz.app^
 ||player.xtra.wtf^
 ||playlist.pls^
 ||playlists.at^
@@ -1165,7 +1159,6 @@
 ||shows.st^
 ||shuttletv.pk^
 ||shuttletv.su^
-||sickfansubs.com^
 ||signonscreen.com^
 ||silent-hall-of-fame.org^
 ||silentaperture.gitlab.io^
@@ -1313,7 +1306,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor141.com^
+||tkor142.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1454,6 +1447,7 @@
 ||watch.corsflix.net^
 ||watch.foundtv.com^
 ||watch.mometu.com^
+||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.top^
 ||watchflux.tv^
@@ -1501,7 +1495,6 @@
 ||wotaku.wiki^
 ||wowtopix.com^
 ||wtwt335.com^
-||wv.dramacool.com.tr^
 ||ww.animesultra.org^
 ||ww1-fmovies.com^
 ||ww1.goojara.to^
@@ -1978,7 +1971,6 @@
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
-! 0.0.0.0 alienflix.net
 ! 0.0.0.0 alist.thdisc.tk
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
@@ -2233,6 +2225,7 @@
 ! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinejoy.to
 ! 0.0.0.0 cinelove.live
+! 0.0.0.0 cinema.army
 ! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
 ! 0.0.0.0 cinemaos.live
@@ -2242,7 +2235,6 @@
 ! 0.0.0.0 cinemora.ru
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cinepro.fstream.app
-! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2282,6 +2274,7 @@
 ! 0.0.0.0 condensedaudiocatalog.com
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
+! 0.0.0.0 coreflix.tv
 ! 0.0.0.0 corsflix.net
 ! 0.0.0.0 cosectv.com
 ! 0.0.0.0 countdown.tv
@@ -2322,7 +2315,6 @@
 ! 0.0.0.0 digitalfilmarchive.net
 ! 0.0.0.0 digitalworldarchive.wordpress.com
 ! 0.0.0.0 diostream.cc
-! 0.0.0.0 diostream.com
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.si
 ! 0.0.0.0 dl-zip.com
@@ -2347,12 +2339,13 @@
 ! 0.0.0.0 doujinstyle.com
 ! 0.0.0.0 download.duafile.com
 ! 0.0.0.0 dpan.tv
+! 0.0.0.0 dramacooli.buzz
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyendl.com
+! 0.0.0.0 dualeotruyencw.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dw-anime.net
@@ -2444,7 +2437,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe663.com
+! 0.0.0.0 funbe664.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 futon.wtf
@@ -2494,7 +2487,6 @@
 ! 0.0.0.0 hentaila.com
 ! 0.0.0.0 hentaiukr.com
 ! 0.0.0.0 hexa.su
-! 0.0.0.0 hexawatch.cc
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
@@ -2639,7 +2631,6 @@
 ! 0.0.0.0 lumotv.co.uk
 ! 0.0.0.0 luna-stream.me
 ! 0.0.0.0 lunaranime.ru
-! 0.0.0.0 lunastream.fun
 ! 0.0.0.0 m-p.sakura.ne.jp
 ! 0.0.0.0 m2box.org
 ! 0.0.0.0 m3u-ip.tv
@@ -2786,7 +2777,6 @@
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
-! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
@@ -2833,7 +2823,6 @@
 ! 0.0.0.0 ntvx.link
 ! 0.0.0.0 nukkard.com
 ! 0.0.0.0 numb3rs.stream
-! 0.0.0.0 nunflix.li
 ! 0.0.0.0 nuvio.tv
 ! 0.0.0.0 nuvio.wiki
 ! 0.0.0.0 nuviosync.com
@@ -2866,7 +2855,6 @@
 ! 0.0.0.0 onepace.net
 ! 0.0.0.0 onepiecepower.com
 ! 0.0.0.0 onepiecetracklist.com
-! 0.0.0.0 onetouchtv.xyz
 ! 0.0.0.0 onhockey.tv
 ! 0.0.0.0 onionplay.st
 ! 0.0.0.0 onisaga.com
@@ -2905,7 +2893,6 @@
 ! 0.0.0.0 pixeldrain-bypass.gamedrive.to
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
-! 0.0.0.0 play.onlinetz.app
 ! 0.0.0.0 player.xtra.wtf
 ! 0.0.0.0 playlist.pls
 ! 0.0.0.0 playlists.at
@@ -3085,7 +3072,6 @@
 ! 0.0.0.0 shows.st
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
-! 0.0.0.0 sickfansubs.com
 ! 0.0.0.0 signonscreen.com
 ! 0.0.0.0 silent-hall-of-fame.org
 ! 0.0.0.0 silentaperture.gitlab.io
@@ -3233,7 +3219,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor141.com
+! 0.0.0.0 tkor142.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3374,6 +3360,7 @@
 ! 0.0.0.0 watch.corsflix.net
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
+! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.top
 ! 0.0.0.0 watchflux.tv
@@ -3421,7 +3408,6 @@
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wtwt335.com
-! 0.0.0.0 wv.dramacool.com.tr
 ! 0.0.0.0 ww.animesultra.org
 ! 0.0.0.0 ww1-fmovies.com
 ! 0.0.0.0 ww1.goojara.to

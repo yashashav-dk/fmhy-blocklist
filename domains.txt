@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1917 domains | updated 2026-08-08T04:12:04Z
+# 1910 domains | updated 2026-08-09T04:19:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -54,7 +54,6 @@ afterstream.org
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
-alienflix.net
 alist.thdisc.tk
 allcomic.noor.jp
 alldebrid.com
@@ -309,6 +308,7 @@ cinehd.app
 cinehub.one
 cinejoy.to
 cinelove.live
+cinema.army
 cinema.bz
 cinemacity.cc
 cinemaos.live
@@ -318,7 +318,6 @@ cinemata.org
 cinemora.ru
 cinemove.cc
 cinepro.fstream.app
-cinestream.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -358,6 +357,7 @@ commons.wikimedia
 condensedaudiocatalog.com
 cooljapanportal.com
 coolmic.me
+coreflix.tv
 corsflix.net
 cosectv.com
 countdown.tv
@@ -398,7 +398,6 @@ digitaldreamdoor.com
 digitalfilmarchive.net
 digitalworldarchive.wordpress.com
 diostream.cc
-diostream.com
 directory.html
 dl-raw.si
 dl-zip.com
@@ -423,12 +422,13 @@ doujindownloader.com
 doujinstyle.com
 download.duafile.com
 dpan.tv
+dramacooli.buzz
 dramacountdown.com
 dramaday.me
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyendl.com
+dualeotruyencw.com
 dubolt.com
 due.moe
 dw-anime.net
@@ -520,7 +520,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe663.com
+funbe664.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 futon.wtf
@@ -570,7 +570,6 @@ hentaijl.com
 hentaila.com
 hentaiukr.com
 hexa.su
-hexawatch.cc
 hi10anime.com
 hikka.io
 hindmoviez.cafe
@@ -715,7 +714,6 @@ luciferdonghua.in
 lumotv.co.uk
 luna-stream.me
 lunaranime.ru
-lunastream.fun
 m-p.sakura.ne.jp
 m2box.org
 m3u-ip.tv
@@ -862,7 +860,6 @@ narjomusic.com
 navic.app
 nbamonster.com
 nekobt.to
-nekomitai.net
 nekopoi.care
 nekowatch.xyz
 neoapo.com
@@ -909,7 +906,6 @@ ntvs.cx
 ntvx.link
 nukkard.com
 numb3rs.stream
-nunflix.li
 nuvio.tv
 nuvio.wiki
 nuviosync.com
@@ -942,7 +938,6 @@ onepace.co
 onepace.net
 onepiecepower.com
 onepiecetracklist.com
-onetouchtv.xyz
 onhockey.tv
 onionplay.st
 onisaga.com
@@ -981,7 +976,6 @@ pitsport.live
 pixeldrain-bypass.gamedrive.to
 planete-bd.org
 plappa.me
-play.onlinetz.app
 player.xtra.wtf
 playlist.pls
 playlists.at
@@ -1161,7 +1155,6 @@ showrss.info
 shows.st
 shuttletv.pk
 shuttletv.su
-sickfansubs.com
 signonscreen.com
 silent-hall-of-fame.org
 silentaperture.gitlab.io
@@ -1309,7 +1302,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor141.com
+tkor142.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1450,6 +1443,7 @@ watch.corsflix.dpdns.org
 watch.corsflix.net
 watch.foundtv.com
 watch.mometu.com
+watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.top
 watchflux.tv
@@ -1497,7 +1491,6 @@ worldnews24.tv
 wotaku.wiki
 wowtopix.com
 wtwt335.com
-wv.dramacool.com.tr
 ww.animesultra.org
 ww1-fmovies.com
 ww1.goojara.to
