@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1910 domains)
-! Last updated: 2026-08-09T04:19:03Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1908 domains)
+! Last updated: 2026-08-10T04:39:59Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -195,7 +195,6 @@
 ||anisongdb.com^
 ||anissia.net^
 ||anistream.one^
-||anitabi.cn^
 ||anitools.koopz.rocks^
 ||anitrakt.huere.net^
 ||anitrendz.net^
@@ -203,7 +202,6 @@
 ||aniwaves.ru^
 ||aniworld.to^
 ||anixtv.in^
-||anixtv.pro^
 ||anixtv.us.cc^
 ||anixx.fun^
 ||anizm.net^
@@ -492,6 +490,7 @@
 ||flickystream.dad^
 ||fliker.freebuff.app^
 ||flixer.gd^
+||flixhop.com^
 ||flixhouse.com^
 ||flixtrz.com^
 ||flixvo.fun^
@@ -942,6 +941,7 @@
 ||onepace.net^
 ||onepiecepower.com^
 ||onepiecetracklist.com^
+||onetouchtv.xyz^
 ||onhockey.tv^
 ||onionplay.st^
 ||onisaga.com^
@@ -1191,7 +1191,7 @@
 ||sportera.fans^
 ||sportontv.click^
 ||sportsbite.org^
-||sportsurge.pk^
+||sportsurge.st^
 ||sportyhunter.site^
 ||sportyhunter.xyz^
 ||squid.wtf^
@@ -1410,6 +1410,7 @@
 ||vibemax.to^
 ||vidbox.dev^
 ||vidbox.vc^
+||vidbox.website^
 ||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
@@ -1433,7 +1434,6 @@
 ||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
-||warezforums.com^
 ||warezload.net^
 ||warezomen.com^
 ||warflix.cv^
@@ -1562,7 +1562,6 @@
 ||www.anirena.com^
 ||www.anisil.com^
 ||www.anisurge.lol^
-||www.anmosugoi.com^
 ||www.anniversaryjump.com^
 ||www.antbyw.com^
 ||www.anzmanga25.com^
@@ -1647,7 +1646,6 @@
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
 ||www.footreplays.com^
-||www.footstreams.co^
 ||www.forgottenworlds.net^
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
@@ -2108,7 +2106,6 @@
 ! 0.0.0.0 anisongdb.com
 ! 0.0.0.0 anissia.net
 ! 0.0.0.0 anistream.one
-! 0.0.0.0 anitabi.cn
 ! 0.0.0.0 anitools.koopz.rocks
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
@@ -2116,7 +2113,6 @@
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
-! 0.0.0.0 anixtv.pro
 ! 0.0.0.0 anixtv.us.cc
 ! 0.0.0.0 anixx.fun
 ! 0.0.0.0 anizm.net
@@ -2405,6 +2401,7 @@
 ! 0.0.0.0 flickystream.dad
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flixer.gd
+! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
@@ -2855,6 +2852,7 @@
 ! 0.0.0.0 onepace.net
 ! 0.0.0.0 onepiecepower.com
 ! 0.0.0.0 onepiecetracklist.com
+! 0.0.0.0 onetouchtv.xyz
 ! 0.0.0.0 onhockey.tv
 ! 0.0.0.0 onionplay.st
 ! 0.0.0.0 onisaga.com
@@ -3104,7 +3102,7 @@
 ! 0.0.0.0 sportera.fans
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
-! 0.0.0.0 sportsurge.pk
+! 0.0.0.0 sportsurge.st
 ! 0.0.0.0 sportyhunter.site
 ! 0.0.0.0 sportyhunter.xyz
 ! 0.0.0.0 squid.wtf
@@ -3323,6 +3321,7 @@
 ! 0.0.0.0 vibemax.to
 ! 0.0.0.0 vidbox.dev
 ! 0.0.0.0 vidbox.vc
+! 0.0.0.0 vidbox.website
 ! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
@@ -3346,7 +3345,6 @@
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
-! 0.0.0.0 warezforums.com
 ! 0.0.0.0 warezload.net
 ! 0.0.0.0 warezomen.com
 ! 0.0.0.0 warflix.cv
@@ -3475,7 +3473,6 @@
 ! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
-! 0.0.0.0 www.anmosugoi.com
 ! 0.0.0.0 www.anniversaryjump.com
 ! 0.0.0.0 www.antbyw.com
 ! 0.0.0.0 www.anzmanga25.com
@@ -3560,7 +3557,6 @@
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
 ! 0.0.0.0 www.footreplays.com
-! 0.0.0.0 www.footstreams.co
 ! 0.0.0.0 www.forgottenworlds.net
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com

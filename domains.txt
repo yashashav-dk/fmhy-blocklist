@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1910 domains | updated 2026-08-09T04:19:03Z
+# 1908 domains | updated 2026-08-10T04:39:59Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -191,7 +191,6 @@ anison.fm
 anisongdb.com
 anissia.net
 anistream.one
-anitabi.cn
 anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
@@ -199,7 +198,6 @@ anitube.in.ua
 aniwaves.ru
 aniworld.to
 anixtv.in
-anixtv.pro
 anixtv.us.cc
 anixx.fun
 anizm.net
@@ -488,6 +486,7 @@ flickmetrix.com
 flickystream.dad
 fliker.freebuff.app
 flixer.gd
+flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
@@ -938,6 +937,7 @@ onepace.co
 onepace.net
 onepiecepower.com
 onepiecetracklist.com
+onetouchtv.xyz
 onhockey.tv
 onionplay.st
 onisaga.com
@@ -1187,7 +1187,7 @@ split-tv.co.il
 sportera.fans
 sportontv.click
 sportsbite.org
-sportsurge.pk
+sportsurge.st
 sportyhunter.site
 sportyhunter.xyz
 squid.wtf
@@ -1406,6 +1406,7 @@ vgmusic.com
 vibemax.to
 vidbox.dev
 vidbox.vc
+vidbox.website
 vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
@@ -1429,7 +1430,6 @@ vsedoramy.ru
 vyla.cc
 vyla.qzz.io
 w1.anime4up.rest
-warezforums.com
 warezload.net
 warezomen.com
 warflix.cv
@@ -1558,7 +1558,6 @@ www.animu.moe
 www.anirena.com
 www.anisil.com
 www.anisurge.lol
-www.anmosugoi.com
 www.anniversaryjump.com
 www.antbyw.com
 www.anzmanga25.com
@@ -1643,7 +1642,6 @@ www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com
 www.footreplays.com
-www.footstreams.co
 www.forgottenworlds.net
 www.freegreatmovies.com
 www.freeintertv.com
