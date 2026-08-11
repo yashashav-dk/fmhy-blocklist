@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1908 domains | updated 2026-08-10T04:39:59Z
+# 1905 domains | updated 2026-08-11T04:21:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -411,7 +411,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.work
+dokiraw.beer
 donghua.site
 donghuastream.org
 dorabash.in
@@ -499,7 +499,7 @@ fluxtv.qzz.io
 flyflix.net
 flystream.net
 fmstream.org
-foc119.asia
+foc120.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -519,7 +519,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe664.com
+funbe665.com
 furaba-animeseichi.blog.jp
 fusionapp.dev
 futon.wtf
@@ -618,7 +618,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.loan
+jmanga.farm
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -754,7 +754,7 @@ mangalib.me
 mangamirai.com
 mangaraw.ac
 mangaraw.best
-mangarawad.biz
+mangarawad.info
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -852,7 +852,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee107.asia
+namee108.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1039,7 +1039,7 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.sale
+rawfree.skin
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1284,7 +1284,6 @@ thejadednetwork.com
 thelongbox.net
 themes.moe
 themoviebox.org
-themoviesflix.onl
 themoviespoiler.com
 thepiratebay.org
 theshowgrid.com
@@ -1302,7 +1301,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor142.com
+tkor143.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1407,7 +1406,6 @@ vibemax.to
 vidbox.dev
 vidbox.vc
 vidbox.website
-vidbox.xyz
 videa.hu
 videodictionary.kwebpia.net
 vidplay.to
@@ -1446,7 +1444,6 @@ watch.mometu.com
 watch.spencerdevs.xyz
 watch.versusmedia.com
 watchanimeworld.top
-watchflux.tv
 watchfooty.st
 watchorbit.me
 watchott.org

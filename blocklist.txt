@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1908 domains)
-! Last updated: 2026-08-10T04:39:59Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
+! Last updated: 2026-08-11T04:21:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -415,7 +415,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.work^
+||dokiraw.beer^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -503,7 +503,7 @@
 ||flyflix.net^
 ||flystream.net^
 ||fmstream.org^
-||foc119.asia^
+||foc120.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -523,7 +523,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe664.com^
+||funbe665.com^
 ||furaba-animeseichi.blog.jp^
 ||fusionapp.dev^
 ||futon.wtf^
@@ -622,7 +622,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.loan^
+||jmanga.farm^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -758,7 +758,7 @@
 ||mangamirai.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.biz^
+||mangarawad.info^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -856,7 +856,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee107.asia^
+||namee108.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1043,7 +1043,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.sale^
+||rawfree.skin^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1288,7 +1288,6 @@
 ||thelongbox.net^
 ||themes.moe^
 ||themoviebox.org^
-||themoviesflix.onl^
 ||themoviespoiler.com^
 ||thepiratebay.org^
 ||theshowgrid.com^
@@ -1306,7 +1305,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor142.com^
+||tkor143.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1411,7 +1410,6 @@
 ||vidbox.dev^
 ||vidbox.vc^
 ||vidbox.website^
-||vidbox.xyz^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
 ||vidplay.to^
@@ -1450,7 +1448,6 @@
 ||watch.spencerdevs.xyz^
 ||watch.versusmedia.com^
 ||watchanimeworld.top^
-||watchflux.tv^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.org^
@@ -2326,7 +2323,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.work
+! 0.0.0.0 dokiraw.beer
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2414,7 +2411,7 @@
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc119.asia
+! 0.0.0.0 foc120.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2434,7 +2431,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe664.com
+! 0.0.0.0 funbe665.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 futon.wtf
@@ -2533,7 +2530,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.loan
+! 0.0.0.0 jmanga.farm
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2669,7 +2666,7 @@
 ! 0.0.0.0 mangamirai.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.biz
+! 0.0.0.0 mangarawad.info
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2767,7 +2764,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee107.asia
+! 0.0.0.0 namee108.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2954,7 +2951,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.sale
+! 0.0.0.0 rawfree.skin
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3199,7 +3196,6 @@
 ! 0.0.0.0 thelongbox.net
 ! 0.0.0.0 themes.moe
 ! 0.0.0.0 themoviebox.org
-! 0.0.0.0 themoviesflix.onl
 ! 0.0.0.0 themoviespoiler.com
 ! 0.0.0.0 thepiratebay.org
 ! 0.0.0.0 theshowgrid.com
@@ -3217,7 +3213,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor142.com
+! 0.0.0.0 tkor143.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3322,7 +3318,6 @@
 ! 0.0.0.0 vidbox.dev
 ! 0.0.0.0 vidbox.vc
 ! 0.0.0.0 vidbox.website
-! 0.0.0.0 vidbox.xyz
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
 ! 0.0.0.0 vidplay.to
@@ -3361,7 +3356,6 @@
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.top
-! 0.0.0.0 watchflux.tv
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.org
