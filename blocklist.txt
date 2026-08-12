@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
-! Last updated: 2026-08-11T04:21:43Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-08-12T04:49:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -17,7 +17,6 @@
 ||13thdimension.com^
 ||143190.xyz^
 ||1ani.me^
-||1anime.app^
 ||1ball.pk^
 ||1ddl.org^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
@@ -320,6 +319,7 @@
 ||cinemora.ru^
 ||cinemove.cc^
 ||cinepro.fstream.app^
+||cinestream.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -330,6 +330,8 @@
 ||cksub.org^
 ||cli.club^
 ||clients.md^
+||cmv-tv.strms.workers.dev^
+||cmvstrm.lovable.app^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
@@ -465,6 +467,7 @@
 ||f1fullraces.com^
 ||f1live.dpdns.org^
 ||falconstreams.app^
+||fameboxd.com^
 ||famelack.com^
 ||fancons.com^
 ||fanedit.org^
@@ -499,7 +502,6 @@
 ||flnk.fun^
 ||fluxtv.cc^
 ||fluxtv.co.uk^
-||fluxtv.qzz.io^
 ||flyflix.net^
 ||flystream.net^
 ||fmstream.org^
@@ -525,7 +527,6 @@
 ||fullraces.com^
 ||funbe665.com^
 ||furaba-animeseichi.blog.jp^
-||fusionapp.dev^
 ||futon.wtf^
 ||fxfx332.com^
 ||gadgeteer.co.za^
@@ -555,6 +556,7 @@
 ||guide.encode.moe^
 ||guides.htm^
 ||guides.viren070.me^
+||guidetv.live^
 ||guzes.surge.sh^
 ||halcyonrealms.com^
 ||hanime1.me^
@@ -628,7 +630,6 @@
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
 ||jukebox.today^
-||justanime.fun^
 ||justanime.site^
 ||justanime.to^
 ||justsubtitles.com^
@@ -655,8 +656,6 @@
 ||kids-in-mind.com^
 ||kimoitv.com^
 ||kindlemodding.org^
-||kissanime.com.ru^
-||kissanime.help^
 ||kissasian.video^
 ||kisskh.co^
 ||kisskh.dk^
@@ -866,6 +865,7 @@
 ||nekopoi.care^
 ||nekowatch.xyz^
 ||neoapo.com^
+||neonflix.st^
 ||nepu.app^
 ||nepu.io^
 ||nepu.is^
@@ -1159,6 +1159,7 @@
 ||shows.st^
 ||shuttletv.pk^
 ||shuttletv.su^
+||sickfansubs.com^
 ||signonscreen.com^
 ||silent-hall-of-fame.org^
 ||silentaperture.gitlab.io^
@@ -1253,7 +1254,6 @@
 ||subtitlist.com^
 ||suggestream.com^
 ||sugoi.gitbook.io^
-||sunxdcc.com^
 ||supernova.to^
 ||sushi.net^
 ||sushiscan.net^
@@ -1281,6 +1281,7 @@
 ||tfpdl.to^
 ||thebarchive.com^
 ||thecinefy.site^
+||thecriterioncloset.com^
 ||thedigitaltheater.com^
 ||theindex.moe^
 ||theintrodb.org^
@@ -1406,7 +1407,6 @@
 ||vgmdb.net^
 ||vgmrips.net^
 ||vgmusic.com^
-||vibemax.to^
 ||vidbox.dev^
 ||vidbox.vc^
 ||vidbox.website^
@@ -1436,7 +1436,6 @@
 ||warezomen.com^
 ||warflix.cv^
 ||warflix.im^
-||warflix.nl^
 ||warosu.org^
 ||watch-tvseries.net^
 ||watch-wrestling.eu^
@@ -1925,7 +1924,6 @@
 ! 0.0.0.0 13thdimension.com
 ! 0.0.0.0 143190.xyz
 ! 0.0.0.0 1ani.me
-! 0.0.0.0 1anime.app
 ! 0.0.0.0 1ball.pk
 ! 0.0.0.0 1ddl.org
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
@@ -2228,6 +2226,7 @@
 ! 0.0.0.0 cinemora.ru
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cinepro.fstream.app
+! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2238,6 +2237,8 @@
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
+! 0.0.0.0 cmv-tv.strms.workers.dev
+! 0.0.0.0 cmvstrm.lovable.app
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
@@ -2373,6 +2374,7 @@
 ! 0.0.0.0 f1fullraces.com
 ! 0.0.0.0 f1live.dpdns.org
 ! 0.0.0.0 falconstreams.app
+! 0.0.0.0 fameboxd.com
 ! 0.0.0.0 famelack.com
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
@@ -2407,7 +2409,6 @@
 ! 0.0.0.0 flnk.fun
 ! 0.0.0.0 fluxtv.cc
 ! 0.0.0.0 fluxtv.co.uk
-! 0.0.0.0 fluxtv.qzz.io
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
@@ -2433,7 +2434,6 @@
 ! 0.0.0.0 fullraces.com
 ! 0.0.0.0 funbe665.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
-! 0.0.0.0 fusionapp.dev
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
 ! 0.0.0.0 gadgeteer.co.za
@@ -2463,6 +2463,7 @@
 ! 0.0.0.0 guide.encode.moe
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
+! 0.0.0.0 guidetv.live
 ! 0.0.0.0 guzes.surge.sh
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
@@ -2536,7 +2537,6 @@
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
 ! 0.0.0.0 jukebox.today
-! 0.0.0.0 justanime.fun
 ! 0.0.0.0 justanime.site
 ! 0.0.0.0 justanime.to
 ! 0.0.0.0 justsubtitles.com
@@ -2563,8 +2563,6 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
-! 0.0.0.0 kissanime.com.ru
-! 0.0.0.0 kissanime.help
 ! 0.0.0.0 kissasian.video
 ! 0.0.0.0 kisskh.co
 ! 0.0.0.0 kisskh.dk
@@ -2774,6 +2772,7 @@
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
+! 0.0.0.0 neonflix.st
 ! 0.0.0.0 nepu.app
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
@@ -3067,6 +3066,7 @@
 ! 0.0.0.0 shows.st
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
+! 0.0.0.0 sickfansubs.com
 ! 0.0.0.0 signonscreen.com
 ! 0.0.0.0 silent-hall-of-fame.org
 ! 0.0.0.0 silentaperture.gitlab.io
@@ -3161,7 +3161,6 @@
 ! 0.0.0.0 subtitlist.com
 ! 0.0.0.0 suggestream.com
 ! 0.0.0.0 sugoi.gitbook.io
-! 0.0.0.0 sunxdcc.com
 ! 0.0.0.0 supernova.to
 ! 0.0.0.0 sushi.net
 ! 0.0.0.0 sushiscan.net
@@ -3189,6 +3188,7 @@
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 thebarchive.com
 ! 0.0.0.0 thecinefy.site
+! 0.0.0.0 thecriterioncloset.com
 ! 0.0.0.0 thedigitaltheater.com
 ! 0.0.0.0 theindex.moe
 ! 0.0.0.0 theintrodb.org
@@ -3314,7 +3314,6 @@
 ! 0.0.0.0 vgmdb.net
 ! 0.0.0.0 vgmrips.net
 ! 0.0.0.0 vgmusic.com
-! 0.0.0.0 vibemax.to
 ! 0.0.0.0 vidbox.dev
 ! 0.0.0.0 vidbox.vc
 ! 0.0.0.0 vidbox.website
@@ -3344,7 +3343,6 @@
 ! 0.0.0.0 warezomen.com
 ! 0.0.0.0 warflix.cv
 ! 0.0.0.0 warflix.im
-! 0.0.0.0 warflix.nl
 ! 0.0.0.0 warosu.org
 ! 0.0.0.0 watch-tvseries.net
 ! 0.0.0.0 watch-wrestling.eu

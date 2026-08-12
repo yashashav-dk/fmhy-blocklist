@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1905 domains | updated 2026-08-11T04:21:43Z
+# 1904 domains | updated 2026-08-12T04:49:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -13,7 +13,6 @@
 13thdimension.com
 143190.xyz
 1ani.me
-1anime.app
 1ball.pk
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
@@ -316,6 +315,7 @@ cinemata.org
 cinemora.ru
 cinemove.cc
 cinepro.fstream.app
+cinestream.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -326,6 +326,8 @@ circle.ms
 cksub.org
 cli.club
 clients.md
+cmv-tv.strms.workers.dev
+cmvstrm.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -461,6 +463,7 @@ eztvx.to
 f1fullraces.com
 f1live.dpdns.org
 falconstreams.app
+fameboxd.com
 famelack.com
 fancons.com
 fanedit.org
@@ -495,7 +498,6 @@ flixway.ru
 flnk.fun
 fluxtv.cc
 fluxtv.co.uk
-fluxtv.qzz.io
 flyflix.net
 flystream.net
 fmstream.org
@@ -521,7 +523,6 @@ fullmatchshows.com
 fullraces.com
 funbe665.com
 furaba-animeseichi.blog.jp
-fusionapp.dev
 futon.wtf
 fxfx332.com
 gadgeteer.co.za
@@ -551,6 +552,7 @@ guesstheopening.com
 guide.encode.moe
 guides.htm
 guides.viren070.me
+guidetv.live
 guzes.surge.sh
 halcyonrealms.com
 hanime1.me
@@ -624,7 +626,6 @@ jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
 jukebox.today
-justanime.fun
 justanime.site
 justanime.to
 justsubtitles.com
@@ -651,8 +652,6 @@ kibo.fm
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
-kissanime.com.ru
-kissanime.help
 kissasian.video
 kisskh.co
 kisskh.dk
@@ -862,6 +861,7 @@ nekobt.to
 nekopoi.care
 nekowatch.xyz
 neoapo.com
+neonflix.st
 nepu.app
 nepu.io
 nepu.is
@@ -1155,6 +1155,7 @@ showrss.info
 shows.st
 shuttletv.pk
 shuttletv.su
+sickfansubs.com
 signonscreen.com
 silent-hall-of-fame.org
 silentaperture.gitlab.io
@@ -1249,7 +1250,6 @@ subtitleone.cc
 subtitlist.com
 suggestream.com
 sugoi.gitbook.io
-sunxdcc.com
 supernova.to
 sushi.net
 sushiscan.net
@@ -1277,6 +1277,7 @@ tfpdl.se
 tfpdl.to
 thebarchive.com
 thecinefy.site
+thecriterioncloset.com
 thedigitaltheater.com
 theindex.moe
 theintrodb.org
@@ -1402,7 +1403,6 @@ vgm.impulseinformatica.com.br
 vgmdb.net
 vgmrips.net
 vgmusic.com
-vibemax.to
 vidbox.dev
 vidbox.vc
 vidbox.website
@@ -1432,7 +1432,6 @@ warezload.net
 warezomen.com
 warflix.cv
 warflix.im
-warflix.nl
 warosu.org
 watch-tvseries.net
 watch-wrestling.eu
