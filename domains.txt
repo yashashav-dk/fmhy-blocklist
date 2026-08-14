@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-08-13T04:53:10Z
+# 1904 domains | updated 2026-08-14T04:50:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -1464,7 +1464,7 @@ weblinhtinh1.net
 weebcentral.com
 wetrakr.com
 wfs.lol
-wftoon223.com
+wftoon224.com
 wfty.link
 wfwf439.com
 whatsatmovie.com
@@ -1867,7 +1867,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xullys.xyz
 xyzstreams.st
-yatoon244.asia
+yatoon245.asia
 yatoonlink.com
 yattatachi.com
 yenime.net
