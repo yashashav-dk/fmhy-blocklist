@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-08-14T04:50:03Z
+# 1907 domains | updated 2026-08-15T03:41:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -522,7 +522,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe665.com
+funbe666.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -587,14 +587,13 @@ huhu.to
 hyakanime.fr
 hydrahd.com
 hydrahd.info
-hydrahd.ru
+hydrahd.ws
 i.wotaku.wiki
 iamscum.wordpress.com
 icefy.top
 igmdb.com
 iklone.org
 in.krosbits.musicolet
-inazuma.rl404.com
 index.cgi
 index.fansubcar.tel
 index.html
@@ -658,10 +657,12 @@ kisskh.co
 kisskh.dk
 kisskh.fr
 kisskh.id
+kisskh.is
 kisskh.ovh
 kisskh.red
 kitsunekko.net
 kmmovies.shop
+kmreader.everpcpc.com
 komiic.com
 komikindo.ch
 komiku.org
@@ -818,7 +819,7 @@ morphinlegacy.com
 moum.top
 movie-home.html
 movie-web-sources.md
-moviebite.cc
+moviebite.org
 moviebox.co
 movieboxonline.net
 movielens.org
@@ -1133,7 +1134,6 @@ search.extto.com
 search.php
 seed.musichoarders.xyz
 sekai.one
-sekai.rl404.com
 senpuu.com.br
 senshi.live
 seriesgraph.com
@@ -1189,9 +1189,8 @@ split-tv.co.il
 sportera.fans
 sportontv.click
 sportsbite.org
+sportsindx.st
 sportsurge.st
-sportyhunter.site
-sportyhunter.xyz
 squid.wtf
 srstop.link
 ssrmovies.com
@@ -1304,7 +1303,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor143.com
+tkor144.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1370,6 +1369,7 @@ tvshows.ac
 tvshows4mobile.org
 twcclassics.com
 typer.hayasaku.fr
+typetype.video
 ubu.com
 ukiku.app
 ultra.cc
@@ -1427,6 +1427,7 @@ voirdrama.to
 vole.wtf
 vrx.piro.moe
 vsedoramy.ru
+vuflix.co
 vyla.cc
 vyla.qzz.io
 w1.anime4up.rest
@@ -1443,6 +1444,7 @@ watch.corsflix.net
 watch.foundtv.com
 watch.mometu.com
 watch.spencerdevs.xyz
+watch.typetype.video
 watch.versusmedia.com
 watchanimeworld.top
 watchfooty.st
@@ -1523,6 +1525,7 @@ www.anibunker.com
 www.animatetimes.com
 www.anime-jl.net
 www.anime-loads.org
+www.anime-overdose.com
 www.anime-sharing.com
 www.anime2enjoy.com
 www.animecharactersdatabase.com
@@ -1555,6 +1558,7 @@ www.animu.moe
 www.anirena.com
 www.anisil.com
 www.anisurge.lol
+www.anmosugoi.com
 www.anniversaryjump.com
 www.antbyw.com
 www.anzmanga25.com
@@ -1567,7 +1571,6 @@ www.aurorascreen.org
 www.az-animex.com
 www.b98.tv
 www.baka-tsuki.org
-www.balkanflix.com
 www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
@@ -1588,7 +1591,6 @@ www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
 www.cineapse.net
-www.cineby.at
 www.cineplay.to
 www.cinezo.org
 www.classreal.com
@@ -1815,6 +1817,7 @@ www.tvdrama-db.com
 www.tvids.net
 www.tvids.to
 www.tvseries.in
+www.tvsubtitles.net
 www.ultimedia.com
 www.unrealircd.org
 www.uruworks.net

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
-! Last updated: 2026-08-14T04:50:03Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1907 domains)
+! Last updated: 2026-08-15T03:41:29Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -526,7 +526,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe665.com^
+||funbe666.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -591,14 +591,13 @@
 ||hyakanime.fr^
 ||hydrahd.com^
 ||hydrahd.info^
-||hydrahd.ru^
+||hydrahd.ws^
 ||i.wotaku.wiki^
 ||iamscum.wordpress.com^
 ||icefy.top^
 ||igmdb.com^
 ||iklone.org^
 ||in.krosbits.musicolet^
-||inazuma.rl404.com^
 ||index.cgi^
 ||index.fansubcar.tel^
 ||index.html^
@@ -662,10 +661,12 @@
 ||kisskh.dk^
 ||kisskh.fr^
 ||kisskh.id^
+||kisskh.is^
 ||kisskh.ovh^
 ||kisskh.red^
 ||kitsunekko.net^
 ||kmmovies.shop^
+||kmreader.everpcpc.com^
 ||komiic.com^
 ||komikindo.ch^
 ||komiku.org^
@@ -822,7 +823,7 @@
 ||moum.top^
 ||movie-home.html^
 ||movie-web-sources.md^
-||moviebite.cc^
+||moviebite.org^
 ||moviebox.co^
 ||movieboxonline.net^
 ||movielens.org^
@@ -1137,7 +1138,6 @@
 ||search.php^
 ||seed.musichoarders.xyz^
 ||sekai.one^
-||sekai.rl404.com^
 ||senpuu.com.br^
 ||senshi.live^
 ||seriesgraph.com^
@@ -1193,9 +1193,8 @@
 ||sportera.fans^
 ||sportontv.click^
 ||sportsbite.org^
+||sportsindx.st^
 ||sportsurge.st^
-||sportyhunter.site^
-||sportyhunter.xyz^
 ||squid.wtf^
 ||srstop.link^
 ||ssrmovies.com^
@@ -1308,7 +1307,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor143.com^
+||tkor144.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1374,6 +1373,7 @@
 ||tvshows4mobile.org^
 ||twcclassics.com^
 ||typer.hayasaku.fr^
+||typetype.video^
 ||ubu.com^
 ||ukiku.app^
 ||ultra.cc^
@@ -1431,6 +1431,7 @@
 ||vole.wtf^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
+||vuflix.co^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
@@ -1447,6 +1448,7 @@
 ||watch.foundtv.com^
 ||watch.mometu.com^
 ||watch.spencerdevs.xyz^
+||watch.typetype.video^
 ||watch.versusmedia.com^
 ||watchanimeworld.top^
 ||watchfooty.st^
@@ -1527,6 +1529,7 @@
 ||www.animatetimes.com^
 ||www.anime-jl.net^
 ||www.anime-loads.org^
+||www.anime-overdose.com^
 ||www.anime-sharing.com^
 ||www.anime2enjoy.com^
 ||www.animecharactersdatabase.com^
@@ -1559,6 +1562,7 @@
 ||www.anirena.com^
 ||www.anisil.com^
 ||www.anisurge.lol^
+||www.anmosugoi.com^
 ||www.anniversaryjump.com^
 ||www.antbyw.com^
 ||www.anzmanga25.com^
@@ -1571,7 +1575,6 @@
 ||www.az-animex.com^
 ||www.b98.tv^
 ||www.baka-tsuki.org^
-||www.balkanflix.com^
 ||www.baozimh.com^
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
@@ -1592,7 +1595,6 @@
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineapse.net^
-||www.cineby.at^
 ||www.cineplay.to^
 ||www.cinezo.org^
 ||www.classreal.com^
@@ -1819,6 +1821,7 @@
 ||www.tvids.net^
 ||www.tvids.to^
 ||www.tvseries.in^
+||www.tvsubtitles.net^
 ||www.ultimedia.com^
 ||www.unrealircd.org^
 ||www.uruworks.net^
@@ -2433,7 +2436,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe665.com
+! 0.0.0.0 funbe666.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2498,14 +2501,13 @@
 ! 0.0.0.0 hyakanime.fr
 ! 0.0.0.0 hydrahd.com
 ! 0.0.0.0 hydrahd.info
-! 0.0.0.0 hydrahd.ru
+! 0.0.0.0 hydrahd.ws
 ! 0.0.0.0 i.wotaku.wiki
 ! 0.0.0.0 iamscum.wordpress.com
 ! 0.0.0.0 icefy.top
 ! 0.0.0.0 igmdb.com
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
-! 0.0.0.0 inazuma.rl404.com
 ! 0.0.0.0 index.cgi
 ! 0.0.0.0 index.fansubcar.tel
 ! 0.0.0.0 index.html
@@ -2569,10 +2571,12 @@
 ! 0.0.0.0 kisskh.dk
 ! 0.0.0.0 kisskh.fr
 ! 0.0.0.0 kisskh.id
+! 0.0.0.0 kisskh.is
 ! 0.0.0.0 kisskh.ovh
 ! 0.0.0.0 kisskh.red
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 kmmovies.shop
+! 0.0.0.0 kmreader.everpcpc.com
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
 ! 0.0.0.0 komiku.org
@@ -2729,7 +2733,7 @@
 ! 0.0.0.0 moum.top
 ! 0.0.0.0 movie-home.html
 ! 0.0.0.0 movie-web-sources.md
-! 0.0.0.0 moviebite.cc
+! 0.0.0.0 moviebite.org
 ! 0.0.0.0 moviebox.co
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
@@ -3044,7 +3048,6 @@
 ! 0.0.0.0 search.php
 ! 0.0.0.0 seed.musichoarders.xyz
 ! 0.0.0.0 sekai.one
-! 0.0.0.0 sekai.rl404.com
 ! 0.0.0.0 senpuu.com.br
 ! 0.0.0.0 senshi.live
 ! 0.0.0.0 seriesgraph.com
@@ -3100,9 +3103,8 @@
 ! 0.0.0.0 sportera.fans
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
+! 0.0.0.0 sportsindx.st
 ! 0.0.0.0 sportsurge.st
-! 0.0.0.0 sportyhunter.site
-! 0.0.0.0 sportyhunter.xyz
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.com
@@ -3215,7 +3217,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor143.com
+! 0.0.0.0 tkor144.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3281,6 +3283,7 @@
 ! 0.0.0.0 tvshows4mobile.org
 ! 0.0.0.0 twcclassics.com
 ! 0.0.0.0 typer.hayasaku.fr
+! 0.0.0.0 typetype.video
 ! 0.0.0.0 ubu.com
 ! 0.0.0.0 ukiku.app
 ! 0.0.0.0 ultra.cc
@@ -3338,6 +3341,7 @@
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
+! 0.0.0.0 vuflix.co
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
@@ -3354,6 +3358,7 @@
 ! 0.0.0.0 watch.foundtv.com
 ! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.spencerdevs.xyz
+! 0.0.0.0 watch.typetype.video
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.top
 ! 0.0.0.0 watchfooty.st
@@ -3434,6 +3439,7 @@
 ! 0.0.0.0 www.animatetimes.com
 ! 0.0.0.0 www.anime-jl.net
 ! 0.0.0.0 www.anime-loads.org
+! 0.0.0.0 www.anime-overdose.com
 ! 0.0.0.0 www.anime-sharing.com
 ! 0.0.0.0 www.anime2enjoy.com
 ! 0.0.0.0 www.animecharactersdatabase.com
@@ -3466,6 +3472,7 @@
 ! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
+! 0.0.0.0 www.anmosugoi.com
 ! 0.0.0.0 www.anniversaryjump.com
 ! 0.0.0.0 www.antbyw.com
 ! 0.0.0.0 www.anzmanga25.com
@@ -3478,7 +3485,6 @@
 ! 0.0.0.0 www.az-animex.com
 ! 0.0.0.0 www.b98.tv
 ! 0.0.0.0 www.baka-tsuki.org
-! 0.0.0.0 www.balkanflix.com
 ! 0.0.0.0 www.baozimh.com
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
@@ -3499,7 +3505,6 @@
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineapse.net
-! 0.0.0.0 www.cineby.at
 ! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.org
 ! 0.0.0.0 www.classreal.com
@@ -3726,6 +3731,7 @@
 ! 0.0.0.0 www.tvids.net
 ! 0.0.0.0 www.tvids.to
 ! 0.0.0.0 www.tvseries.in
+! 0.0.0.0 www.tvsubtitles.net
 ! 0.0.0.0 www.ultimedia.com
 ! 0.0.0.0 www.unrealircd.org
 ! 0.0.0.0 www.uruworks.net
