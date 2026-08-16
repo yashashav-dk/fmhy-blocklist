@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1907 domains | updated 2026-08-15T03:41:29Z
+# 1906 domains | updated 2026-08-16T03:50:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -95,7 +95,6 @@ anikuro.site
 anikuro.to
 anilib.me
 aniliberty.top
-anilife.live
 anilight.live
 anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
@@ -1391,7 +1390,6 @@ v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
 v2.way2movies.live
-v3.komikcast.fit
 v4.animeko.ws
 vaughn.live
 vaultplayer.co.uk
@@ -1725,6 +1723,7 @@ www.movie-locations.com
 www.movieloci.com
 www.moviemistakes.com
 www.moviestowatch.top
+www.movy.bz
 www.mrqe.com
 www.muitohentai.com
 www.mundodonghua.com

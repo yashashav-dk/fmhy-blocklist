@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1907 domains)
-! Last updated: 2026-08-15T03:41:29Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1906 domains)
+! Last updated: 2026-08-16T03:50:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -99,7 +99,6 @@
 ||anikuro.to^
 ||anilib.me^
 ||aniliberty.top^
-||anilife.live^
 ||anilight.live^
 ||anilinks.neocities.org^
 ||anilist-adaptations.timschneeberger.me^
@@ -1395,7 +1394,6 @@
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
 ||v2.way2movies.live^
-||v3.komikcast.fit^
 ||v4.animeko.ws^
 ||vaughn.live^
 ||vaultplayer.co.uk^
@@ -1729,6 +1727,7 @@
 ||www.movieloci.com^
 ||www.moviemistakes.com^
 ||www.moviestowatch.top^
+||www.movy.bz^
 ||www.mrqe.com^
 ||www.muitohentai.com^
 ||www.mundodonghua.com^
@@ -2009,7 +2008,6 @@
 ! 0.0.0.0 anikuro.to
 ! 0.0.0.0 anilib.me
 ! 0.0.0.0 aniliberty.top
-! 0.0.0.0 anilife.live
 ! 0.0.0.0 anilight.live
 ! 0.0.0.0 anilinks.neocities.org
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
@@ -3305,7 +3303,6 @@
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
 ! 0.0.0.0 v2.way2movies.live
-! 0.0.0.0 v3.komikcast.fit
 ! 0.0.0.0 v4.animeko.ws
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
@@ -3639,6 +3636,7 @@
 ! 0.0.0.0 www.movieloci.com
 ! 0.0.0.0 www.moviemistakes.com
 ! 0.0.0.0 www.moviestowatch.top
+! 0.0.0.0 www.movy.bz
 ! 0.0.0.0 www.mrqe.com
 ! 0.0.0.0 www.muitohentai.com
 ! 0.0.0.0 www.mundodonghua.com
