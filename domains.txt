@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1906 domains | updated 2026-08-16T03:50:23Z
+# 1910 domains | updated 2026-08-17T03:52:07Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -80,6 +80,7 @@ anichart.net
 anicheck.moe
 anichin.bio
 anicine.xyz
+aniclipse.com
 anidap.lol
 anidb.app
 anidoor.me
@@ -267,7 +268,7 @@ bingebox.to
 bingeflix.tv
 bingr.one
 binsearch.info
-bleh.katelyn.moe
+bleh.yuzu.pet
 blkom.com
 blog.decryption.net.au
 blog.sakugabooru.com
@@ -431,6 +432,7 @@ duafile.net
 dualeotruyencw.com
 dubolt.com
 due.moe
+dumanwu.com
 dw-anime.net
 e.html
 e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
@@ -501,7 +503,7 @@ fluxtv.co.uk
 flyflix.net
 flystream.net
 fmstream.org
-foc120.asia
+foc121.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -537,7 +539,6 @@ git.rebelonion.dev
 global.toptoon.com
 globeradio.app
 go.aftvnews.com
-goated.cx
 goctruyentranh.com
 goplay.ml
 goplay.su
@@ -851,7 +852,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee108.asia
+namee109.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1005,6 +1006,7 @@ prodlist.php
 projectfreetv.sx
 proxer.me
 psa.wf
+pstream.cfd
 pstream.site
 psychodownloads.com
 pulsedmedia.com
@@ -1133,6 +1135,7 @@ search.extto.com
 search.php
 seed.musichoarders.xyz
 sekai.one
+sekai.rl404.com
 senpuu.com.br
 senshi.live
 seriesgraph.com
@@ -1289,6 +1292,7 @@ themoviespoiler.com
 thepiratebay.org
 theshowgrid.com
 thesilentlibrary.com
+thestreamden.com
 thewiki.moe
 theyshootzombies.com
 thwiki.cc
@@ -1466,7 +1470,7 @@ wetrakr.com
 wfs.lol
 wftoon224.com
 wfty.link
-wfwf439.com
+wfwf480.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com

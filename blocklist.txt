@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1906 domains)
-! Last updated: 2026-08-16T03:50:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1910 domains)
+! Last updated: 2026-08-17T03:52:07Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -84,6 +84,7 @@
 ||anicheck.moe^
 ||anichin.bio^
 ||anicine.xyz^
+||aniclipse.com^
 ||anidap.lol^
 ||anidb.app^
 ||anidoor.me^
@@ -271,7 +272,7 @@
 ||bingeflix.tv^
 ||bingr.one^
 ||binsearch.info^
-||bleh.katelyn.moe^
+||bleh.yuzu.pet^
 ||blkom.com^
 ||blog.decryption.net.au^
 ||blog.sakugabooru.com^
@@ -435,6 +436,7 @@
 ||dualeotruyencw.com^
 ||dubolt.com^
 ||due.moe^
+||dumanwu.com^
 ||dw-anime.net^
 ||e.html^
 ||e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion^
@@ -505,7 +507,7 @@
 ||flyflix.net^
 ||flystream.net^
 ||fmstream.org^
-||foc120.asia^
+||foc121.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -541,7 +543,6 @@
 ||global.toptoon.com^
 ||globeradio.app^
 ||go.aftvnews.com^
-||goated.cx^
 ||goctruyentranh.com^
 ||goplay.ml^
 ||goplay.su^
@@ -855,7 +856,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee108.asia^
+||namee109.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1009,6 +1010,7 @@
 ||projectfreetv.sx^
 ||proxer.me^
 ||psa.wf^
+||pstream.cfd^
 ||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
@@ -1137,6 +1139,7 @@
 ||search.php^
 ||seed.musichoarders.xyz^
 ||sekai.one^
+||sekai.rl404.com^
 ||senpuu.com.br^
 ||senshi.live^
 ||seriesgraph.com^
@@ -1293,6 +1296,7 @@
 ||thepiratebay.org^
 ||theshowgrid.com^
 ||thesilentlibrary.com^
+||thestreamden.com^
 ||thewiki.moe^
 ||theyshootzombies.com^
 ||thwiki.cc^
@@ -1470,7 +1474,7 @@
 ||wfs.lol^
 ||wftoon224.com^
 ||wfty.link^
-||wfwf439.com^
+||wfwf480.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1993,6 +1997,7 @@
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anicine.xyz
+! 0.0.0.0 aniclipse.com
 ! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
@@ -2180,7 +2185,7 @@
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
 ! 0.0.0.0 binsearch.info
-! 0.0.0.0 bleh.katelyn.moe
+! 0.0.0.0 bleh.yuzu.pet
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
 ! 0.0.0.0 blog.sakugabooru.com
@@ -2344,6 +2349,7 @@
 ! 0.0.0.0 dualeotruyencw.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
+! 0.0.0.0 dumanwu.com
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
 ! 0.0.0.0 e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
@@ -2414,7 +2420,7 @@
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc120.asia
+! 0.0.0.0 foc121.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2450,7 +2456,6 @@
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 go.aftvnews.com
-! 0.0.0.0 goated.cx
 ! 0.0.0.0 goctruyentranh.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
@@ -2764,7 +2769,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee108.asia
+! 0.0.0.0 namee109.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2918,6 +2923,7 @@
 ! 0.0.0.0 projectfreetv.sx
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 psa.wf
+! 0.0.0.0 pstream.cfd
 ! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
@@ -3046,6 +3052,7 @@
 ! 0.0.0.0 search.php
 ! 0.0.0.0 seed.musichoarders.xyz
 ! 0.0.0.0 sekai.one
+! 0.0.0.0 sekai.rl404.com
 ! 0.0.0.0 senpuu.com.br
 ! 0.0.0.0 senshi.live
 ! 0.0.0.0 seriesgraph.com
@@ -3202,6 +3209,7 @@
 ! 0.0.0.0 thepiratebay.org
 ! 0.0.0.0 theshowgrid.com
 ! 0.0.0.0 thesilentlibrary.com
+! 0.0.0.0 thestreamden.com
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thwiki.cc
@@ -3379,7 +3387,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon224.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf439.com
+! 0.0.0.0 wfwf480.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
