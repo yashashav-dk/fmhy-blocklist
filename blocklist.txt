@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1910 domains)
-! Last updated: 2026-08-17T03:52:07Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1914 domains)
+! Last updated: 2026-08-18T03:46:54Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -268,7 +268,7 @@
 ||bgmx.mysxl.cn^
 ||bilibili.tv^
 ||bingebang.tv^
-||bingebox.to^
+||bingebox.ac^
 ||bingeflix.tv^
 ||bingr.one^
 ||binsearch.info^
@@ -276,6 +276,7 @@
 ||blkom.com^
 ||blog.decryption.net.au^
 ||blog.sakugabooru.com^
+||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
 ||bstsrs.in^
@@ -539,6 +540,7 @@
 ||getlibation.com^
 ||getwacup.com^
 ||ggflix.live^
+||git.private.coffee^
 ||git.rebelonion.dev^
 ||global.toptoon.com^
 ||globeradio.app^
@@ -579,6 +581,7 @@
 ||hi10anime.com^
 ||hikka.io^
 ||hindmoviez.cafe^
+||hivex.stream^
 ||hizomanga.net^
 ||hkmdb.com^
 ||hollymoviehd.cc^
@@ -876,6 +879,7 @@
 ||netnaija.film^
 ||netplayz.top^
 ||netshows.xyz^
+||netsplit.de^
 ||new.anidl.org^
 ||news.animenomics.com^
 ||news.tokunation.com^
@@ -992,7 +996,7 @@
 ||plugin.audio.subsonic^
 ||pop.dnslc.net^
 ||popcornflix.com^
-||popcornmovies.io^
+||popcornmovies.ac^
 ||portableappz.blogspot.com^
 ||portal.circle.ms^
 ||portapps.io^
@@ -2181,7 +2185,7 @@
 ! 0.0.0.0 bgmx.mysxl.cn
 ! 0.0.0.0 bilibili.tv
 ! 0.0.0.0 bingebang.tv
-! 0.0.0.0 bingebox.to
+! 0.0.0.0 bingebox.ac
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
 ! 0.0.0.0 binsearch.info
@@ -2189,6 +2193,7 @@
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
 ! 0.0.0.0 blog.sakugabooru.com
+! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
 ! 0.0.0.0 bstsrs.in
@@ -2452,6 +2457,7 @@
 ! 0.0.0.0 getlibation.com
 ! 0.0.0.0 getwacup.com
 ! 0.0.0.0 ggflix.live
+! 0.0.0.0 git.private.coffee
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 globeradio.app
@@ -2492,6 +2498,7 @@
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
+! 0.0.0.0 hivex.stream
 ! 0.0.0.0 hizomanga.net
 ! 0.0.0.0 hkmdb.com
 ! 0.0.0.0 hollymoviehd.cc
@@ -2789,6 +2796,7 @@
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.top
 ! 0.0.0.0 netshows.xyz
+! 0.0.0.0 netsplit.de
 ! 0.0.0.0 new.anidl.org
 ! 0.0.0.0 news.animenomics.com
 ! 0.0.0.0 news.tokunation.com
@@ -2905,7 +2913,7 @@
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
-! 0.0.0.0 popcornmovies.io
+! 0.0.0.0 popcornmovies.ac
 ! 0.0.0.0 portableappz.blogspot.com
 ! 0.0.0.0 portal.circle.ms
 ! 0.0.0.0 portapps.io

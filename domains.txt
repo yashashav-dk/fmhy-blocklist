@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1910 domains | updated 2026-08-17T03:52:07Z
+# 1914 domains | updated 2026-08-18T03:46:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -264,7 +264,7 @@ bgmlist.com
 bgmx.mysxl.cn
 bilibili.tv
 bingebang.tv
-bingebox.to
+bingebox.ac
 bingeflix.tv
 bingr.one
 binsearch.info
@@ -272,6 +272,7 @@ bleh.yuzu.pet
 blkom.com
 blog.decryption.net.au
 blog.sakugabooru.com
+bookplayer.app
 booksonic.org
 bookwalker.com
 bstsrs.in
@@ -535,6 +536,7 @@ getcomics.org
 getlibation.com
 getwacup.com
 ggflix.live
+git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
 globeradio.app
@@ -575,6 +577,7 @@ hexa.su
 hi10anime.com
 hikka.io
 hindmoviez.cafe
+hivex.stream
 hizomanga.net
 hkmdb.com
 hollymoviehd.cc
@@ -872,6 +875,7 @@ nepu.to
 netnaija.film
 netplayz.top
 netshows.xyz
+netsplit.de
 new.anidl.org
 news.animenomics.com
 news.tokunation.com
@@ -988,7 +992,7 @@ plugin.audio.navidrome
 plugin.audio.subsonic
 pop.dnslc.net
 popcornflix.com
-popcornmovies.io
+popcornmovies.ac
 portableappz.blogspot.com
 portal.circle.ms
 portapps.io
