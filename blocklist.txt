@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1914 domains)
-! Last updated: 2026-08-18T03:46:54Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1916 domains)
+! Last updated: 2026-08-19T03:49:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -182,7 +182,6 @@
 ||animexin.dev^
 ||animezid.cam^
 ||animotvslash.nl^
-||animoye.com^
 ||animusic.moe^
 ||aninami.site^
 ||aninzb.moe^
@@ -378,8 +377,8 @@
 ||cubeflix.org^
 ||cubiktv.com^
 ||cyrisia.com^
+||daddylive.at^
 ||daddylive.mov^
-||daddylive.nl^
 ||daddylive.pk^
 ||dailycommercials.com^
 ||damitv.st^
@@ -419,7 +418,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.beer^
+||dokiraw.wtf^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -437,6 +436,7 @@
 ||dualeotruyencw.com^
 ||dubolt.com^
 ||due.moe^
+||dulo.cx^
 ||dumanwu.com^
 ||dw-anime.net^
 ||e.html^
@@ -627,7 +627,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.farm^
+||jmanga.land^
 ||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
@@ -762,7 +762,7 @@
 ||mangamirai.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.info^
+||mangarawad.work^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -843,7 +843,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon148.asia^
+||mtoon149.asia^
 ||mugen.karaokes.moe^
 ||multishows.top^
 ||musicalyst.com^
@@ -908,6 +908,7 @@
 ||novanon.net^
 ||novel.sumikko.info^
 ||novelasligeras.net^
+||novera.tv^
 ||noxx.to^
 ||nsk.sh^
 ||ntv.cx^
@@ -1050,7 +1051,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.skin^
+||rawfree.spot^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1264,6 +1265,7 @@
 ||supernova.to^
 ||sushi.net^
 ||sushiscan.net^
+||suwatte.mantton.com^
 ||swimrewind.com^
 ||sync.coconono.org^
 ||syncler.net^
@@ -1308,13 +1310,14 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
+||timst.cfd^
 ||timstreams.st^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor144.com^
+||tkor145.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1802,7 +1805,6 @@
 ||www.subs4free.info^
 ||www.subtitlecat.com^
 ||www.supercartoons.net^
-||www.suwatte.app^
 ||www.syedgakbar.com^
 ||www.talpasearch.com^
 ||www.tcj.com^
@@ -1881,7 +1883,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xullys.xyz^
 ||xyzstreams.st^
-||yatoon245.asia^
+||yatoon246.asia^
 ||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
@@ -2099,7 +2101,6 @@
 ! 0.0.0.0 animexin.dev
 ! 0.0.0.0 animezid.cam
 ! 0.0.0.0 animotvslash.nl
-! 0.0.0.0 animoye.com
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 aninami.site
 ! 0.0.0.0 aninzb.moe
@@ -2295,8 +2296,8 @@
 ! 0.0.0.0 cubeflix.org
 ! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cyrisia.com
+! 0.0.0.0 daddylive.at
 ! 0.0.0.0 daddylive.mov
-! 0.0.0.0 daddylive.nl
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.st
@@ -2336,7 +2337,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.beer
+! 0.0.0.0 dokiraw.wtf
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2354,6 +2355,7 @@
 ! 0.0.0.0 dualeotruyencw.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
+! 0.0.0.0 dulo.cx
 ! 0.0.0.0 dumanwu.com
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
@@ -2544,7 +2546,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.farm
+! 0.0.0.0 jmanga.land
 ! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2679,7 +2681,7 @@
 ! 0.0.0.0 mangamirai.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.info
+! 0.0.0.0 mangarawad.work
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2760,7 +2762,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon148.asia
+! 0.0.0.0 mtoon149.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
@@ -2825,6 +2827,7 @@
 ! 0.0.0.0 novanon.net
 ! 0.0.0.0 novel.sumikko.info
 ! 0.0.0.0 novelasligeras.net
+! 0.0.0.0 novera.tv
 ! 0.0.0.0 noxx.to
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
@@ -2967,7 +2970,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.skin
+! 0.0.0.0 rawfree.spot
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3181,6 +3184,7 @@
 ! 0.0.0.0 supernova.to
 ! 0.0.0.0 sushi.net
 ! 0.0.0.0 sushiscan.net
+! 0.0.0.0 suwatte.mantton.com
 ! 0.0.0.0 swimrewind.com
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
@@ -3225,13 +3229,14 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
+! 0.0.0.0 timst.cfd
 ! 0.0.0.0 timstreams.st
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor144.com
+! 0.0.0.0 tkor145.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3719,7 +3724,6 @@
 ! 0.0.0.0 www.subs4free.info
 ! 0.0.0.0 www.subtitlecat.com
 ! 0.0.0.0 www.supercartoons.net
-! 0.0.0.0 www.suwatte.app
 ! 0.0.0.0 www.syedgakbar.com
 ! 0.0.0.0 www.talpasearch.com
 ! 0.0.0.0 www.tcj.com
@@ -3798,7 +3802,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon245.asia
+! 0.0.0.0 yatoon246.asia
 ! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1914 domains | updated 2026-08-18T03:46:54Z
+# 1916 domains | updated 2026-08-19T03:49:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -178,7 +178,6 @@ animex.one
 animexin.dev
 animezid.cam
 animotvslash.nl
-animoye.com
 animusic.moe
 aninami.site
 aninzb.moe
@@ -374,8 +373,8 @@ cs.rin.ru
 cubeflix.org
 cubiktv.com
 cyrisia.com
+daddylive.at
 daddylive.mov
-daddylive.nl
 daddylive.pk
 dailycommercials.com
 damitv.st
@@ -415,7 +414,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.beer
+dokiraw.wtf
 donghua.site
 donghuastream.org
 dorabash.in
@@ -433,6 +432,7 @@ duafile.net
 dualeotruyencw.com
 dubolt.com
 due.moe
+dulo.cx
 dumanwu.com
 dw-anime.net
 e.html
@@ -623,7 +623,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.farm
+jmanga.land
 jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
@@ -758,7 +758,7 @@ mangalib.me
 mangamirai.com
 mangaraw.ac
 mangaraw.best
-mangarawad.info
+mangarawad.work
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -839,7 +839,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon148.asia
+mtoon149.asia
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -904,6 +904,7 @@ novamovie.net
 novanon.net
 novel.sumikko.info
 novelasligeras.net
+novera.tv
 noxx.to
 nsk.sh
 ntv.cx
@@ -1046,7 +1047,7 @@ raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.skin
+rawfree.spot
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1260,6 +1261,7 @@ sugoi.gitbook.io
 supernova.to
 sushi.net
 sushiscan.net
+suwatte.mantton.com
 swimrewind.com
 sync.coconono.org
 syncler.net
@@ -1304,13 +1306,14 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
+timst.cfd
 timstreams.st
 tioanime.com
 tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor144.com
+tkor145.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1798,7 +1801,6 @@ www.sublimemanga.com
 www.subs4free.info
 www.subtitlecat.com
 www.supercartoons.net
-www.suwatte.app
 www.syedgakbar.com
 www.talpasearch.com
 www.tcj.com
@@ -1877,7 +1879,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xullys.xyz
 xyzstreams.st
-yatoon245.asia
+yatoon246.asia
 yatoonlink.com
 yattatachi.com
 yenime.net
