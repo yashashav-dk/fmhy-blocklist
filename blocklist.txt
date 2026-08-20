@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1916 domains)
-! Last updated: 2026-08-19T03:49:13Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1912 domains)
+! Last updated: 2026-08-20T03:48:58Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -235,7 +235,6 @@
 ||audiovault.net^
 ||avac.moe^
 ||avistaz.to^
-||awardstreams.link^
 ||azmovies.to^
 ||azorafly.com^
 ||azseries.org^
@@ -370,7 +369,6 @@
 ||cracksurl.com^
 ||crafty.moe^
 ||crichd.at^
-||crichd.com.co^
 ||crimsonfansubs.com^
 ||cringemdb.com^
 ||cs.rin.ru^
@@ -528,7 +526,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe666.com^
+||funbe667.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -601,6 +599,7 @@
 ||igmdb.com^
 ||iklone.org^
 ||in.krosbits.musicolet^
+||inazuma.rl404.com^
 ||index.cgi^
 ||index.fansubcar.tel^
 ||index.html^
@@ -799,7 +798,6 @@
 ||mikanani.me^
 ||mikudb.moe^
 ||mindmine.audiobook^
-||mirror.awardstreams.link^
 ||miru.js.org^
 ||miruro.bz^
 ||miruro.ru^
@@ -849,6 +847,7 @@
 ||musicalyst.com^
 ||musichoarders.xyz^
 ||musicorumapp.com^
+||mutch.st^
 ||my9games.com^
 ||myani.org^
 ||myanime.live^
@@ -877,7 +876,7 @@
 ||nepu.net^
 ||nepu.to^
 ||netnaija.film^
-||netplayz.top^
+||netplayz.icu^
 ||netshows.xyz^
 ||netsplit.de^
 ||new.anidl.org^
@@ -954,6 +953,7 @@
 ||onisaga.com^
 ||onoflix.com^
 ||onoflix.ru^
+||open-slum.org^
 ||openscrobbler.com^
 ||opensourcealternative.to^
 ||opstream.fun^
@@ -1086,7 +1086,6 @@
 ||ristoanime.me^
 ||ristohentai.com^
 ||rivestream.ru^
-||rivestream.top^
 ||rivestream.vip^
 ||rizzking.org^
 ||rizzking.xo.je^
@@ -1113,7 +1112,6 @@
 ||rutracker.org^
 ||rutube.ru^
 ||sadscans.net^
-||sakuhindb.com^
 ||sakuranovel.id^
 ||sambl.lioncat6.com^
 ||samehadaku.care^
@@ -1425,6 +1423,7 @@
 ||videodictionary.kwebpia.net^
 ||vidplay.to^
 ||viewtopic.php^
+||vipleague.vg^
 ||vipotv.com^
 ||virgil.samidy.com^
 ||vivarium.wtf^
@@ -1455,7 +1454,6 @@
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
 ||watch.foundtv.com^
-||watch.mometu.com^
 ||watch.spencerdevs.xyz^
 ||watch.typetype.video^
 ||watch.versusmedia.com^
@@ -1481,7 +1479,7 @@
 ||wfs.lol^
 ||wftoon224.com^
 ||wfty.link^
-||wfwf480.com^
+||wfwf482.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1687,7 +1685,6 @@
 ||www.instafest.app^
 ||www.iptvsmarters.com^
 ||www.ivanime.com^
-||www.izicomics.com^
 ||www.j1fm.tokyo^
 ||www.jajanken.net^
 ||www.jam-cons.net^
@@ -1840,7 +1837,6 @@
 ||www.uwe-sieber.de^
 ||www.vgmpf.com^
 ||www.viki.com^
-||www.viprow.co^
 ||www.vipvgm.net^
 ||www.vn-meido.com^
 ||www.vocaloidradio.com^
@@ -2154,7 +2150,6 @@
 ! 0.0.0.0 audiovault.net
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 avistaz.to
-! 0.0.0.0 awardstreams.link
 ! 0.0.0.0 azmovies.to
 ! 0.0.0.0 azorafly.com
 ! 0.0.0.0 azseries.org
@@ -2289,7 +2284,6 @@
 ! 0.0.0.0 cracksurl.com
 ! 0.0.0.0 crafty.moe
 ! 0.0.0.0 crichd.at
-! 0.0.0.0 crichd.com.co
 ! 0.0.0.0 crimsonfansubs.com
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cs.rin.ru
@@ -2447,7 +2441,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe666.com
+! 0.0.0.0 funbe667.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2520,6 +2514,7 @@
 ! 0.0.0.0 igmdb.com
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
+! 0.0.0.0 inazuma.rl404.com
 ! 0.0.0.0 index.cgi
 ! 0.0.0.0 index.fansubcar.tel
 ! 0.0.0.0 index.html
@@ -2718,7 +2713,6 @@
 ! 0.0.0.0 mikanani.me
 ! 0.0.0.0 mikudb.moe
 ! 0.0.0.0 mindmine.audiobook
-! 0.0.0.0 mirror.awardstreams.link
 ! 0.0.0.0 miru.js.org
 ! 0.0.0.0 miruro.bz
 ! 0.0.0.0 miruro.ru
@@ -2768,6 +2762,7 @@
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
 ! 0.0.0.0 musicorumapp.com
+! 0.0.0.0 mutch.st
 ! 0.0.0.0 my9games.com
 ! 0.0.0.0 myani.org
 ! 0.0.0.0 myanime.live
@@ -2796,7 +2791,7 @@
 ! 0.0.0.0 nepu.net
 ! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
-! 0.0.0.0 netplayz.top
+! 0.0.0.0 netplayz.icu
 ! 0.0.0.0 netshows.xyz
 ! 0.0.0.0 netsplit.de
 ! 0.0.0.0 new.anidl.org
@@ -2873,6 +2868,7 @@
 ! 0.0.0.0 onisaga.com
 ! 0.0.0.0 onoflix.com
 ! 0.0.0.0 onoflix.ru
+! 0.0.0.0 open-slum.org
 ! 0.0.0.0 openscrobbler.com
 ! 0.0.0.0 opensourcealternative.to
 ! 0.0.0.0 opstream.fun
@@ -3005,7 +3001,6 @@
 ! 0.0.0.0 ristoanime.me
 ! 0.0.0.0 ristohentai.com
 ! 0.0.0.0 rivestream.ru
-! 0.0.0.0 rivestream.top
 ! 0.0.0.0 rivestream.vip
 ! 0.0.0.0 rizzking.org
 ! 0.0.0.0 rizzking.xo.je
@@ -3032,7 +3027,6 @@
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
 ! 0.0.0.0 sadscans.net
-! 0.0.0.0 sakuhindb.com
 ! 0.0.0.0 sakuranovel.id
 ! 0.0.0.0 sambl.lioncat6.com
 ! 0.0.0.0 samehadaku.care
@@ -3344,6 +3338,7 @@
 ! 0.0.0.0 videodictionary.kwebpia.net
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
+! 0.0.0.0 vipleague.vg
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
 ! 0.0.0.0 vivarium.wtf
@@ -3374,7 +3369,6 @@
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
 ! 0.0.0.0 watch.foundtv.com
-! 0.0.0.0 watch.mometu.com
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.typetype.video
 ! 0.0.0.0 watch.versusmedia.com
@@ -3400,7 +3394,7 @@
 ! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon224.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf480.com
+! 0.0.0.0 wfwf482.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3606,7 +3600,6 @@
 ! 0.0.0.0 www.instafest.app
 ! 0.0.0.0 www.iptvsmarters.com
 ! 0.0.0.0 www.ivanime.com
-! 0.0.0.0 www.izicomics.com
 ! 0.0.0.0 www.j1fm.tokyo
 ! 0.0.0.0 www.jajanken.net
 ! 0.0.0.0 www.jam-cons.net
@@ -3759,7 +3752,6 @@
 ! 0.0.0.0 www.uwe-sieber.de
 ! 0.0.0.0 www.vgmpf.com
 ! 0.0.0.0 www.viki.com
-! 0.0.0.0 www.viprow.co
 ! 0.0.0.0 www.vipvgm.net
 ! 0.0.0.0 www.vn-meido.com
 ! 0.0.0.0 www.vocaloidradio.com

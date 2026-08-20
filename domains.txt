@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1916 domains | updated 2026-08-19T03:49:13Z
+# 1912 domains | updated 2026-08-20T03:48:58Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -231,7 +231,6 @@ atsu.moe
 audiovault.net
 avac.moe
 avistaz.to
-awardstreams.link
 azmovies.to
 azorafly.com
 azseries.org
@@ -366,7 +365,6 @@ covers.musichoarders.xyz
 cracksurl.com
 crafty.moe
 crichd.at
-crichd.com.co
 crimsonfansubs.com
 cringemdb.com
 cs.rin.ru
@@ -524,7 +522,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe666.com
+funbe667.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -597,6 +595,7 @@ icefy.top
 igmdb.com
 iklone.org
 in.krosbits.musicolet
+inazuma.rl404.com
 index.cgi
 index.fansubcar.tel
 index.html
@@ -795,7 +794,6 @@ midloop.net
 mikanani.me
 mikudb.moe
 mindmine.audiobook
-mirror.awardstreams.link
 miru.js.org
 miruro.bz
 miruro.ru
@@ -845,6 +843,7 @@ multishows.top
 musicalyst.com
 musichoarders.xyz
 musicorumapp.com
+mutch.st
 my9games.com
 myani.org
 myanime.live
@@ -873,7 +872,7 @@ nepu.is
 nepu.net
 nepu.to
 netnaija.film
-netplayz.top
+netplayz.icu
 netshows.xyz
 netsplit.de
 new.anidl.org
@@ -950,6 +949,7 @@ onionplay.st
 onisaga.com
 onoflix.com
 onoflix.ru
+open-slum.org
 openscrobbler.com
 opensourcealternative.to
 opstream.fun
@@ -1082,7 +1082,6 @@ rips.cc
 ristoanime.me
 ristohentai.com
 rivestream.ru
-rivestream.top
 rivestream.vip
 rizzking.org
 rizzking.xo.je
@@ -1109,7 +1108,6 @@ russianfilmhub.com
 rutracker.org
 rutube.ru
 sadscans.net
-sakuhindb.com
 sakuranovel.id
 sambl.lioncat6.com
 samehadaku.care
@@ -1421,6 +1419,7 @@ videa.hu
 videodictionary.kwebpia.net
 vidplay.to
 viewtopic.php
+vipleague.vg
 vipotv.com
 virgil.samidy.com
 vivarium.wtf
@@ -1451,7 +1450,6 @@ watch.cinewave.qzz.io
 watch.corsflix.dpdns.org
 watch.corsflix.net
 watch.foundtv.com
-watch.mometu.com
 watch.spencerdevs.xyz
 watch.typetype.video
 watch.versusmedia.com
@@ -1477,7 +1475,7 @@ wetrakr.com
 wfs.lol
 wftoon224.com
 wfty.link
-wfwf480.com
+wfwf482.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1683,7 +1681,6 @@ www.insidescanlation.com
 www.instafest.app
 www.iptvsmarters.com
 www.ivanime.com
-www.izicomics.com
 www.j1fm.tokyo
 www.jajanken.net
 www.jam-cons.net
@@ -1836,7 +1833,6 @@ www.uta-net.com
 www.uwe-sieber.de
 www.vgmpf.com
 www.viki.com
-www.viprow.co
 www.vipvgm.net
 www.vn-meido.com
 www.vocaloidradio.com
