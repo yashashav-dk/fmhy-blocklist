@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1912 domains)
-! Last updated: 2026-08-20T03:48:58Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1913 domains)
+! Last updated: 2026-08-21T03:52:19Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -53,6 +53,7 @@
 ||adrama.app^
 ||aether.bar^
 ||aether.cx^
+||aether.ist^
 ||afterstream.org^
 ||aha-music.com^
 ||aidn.jp^
@@ -758,7 +759,7 @@
 ||mangakatana.com^
 ||mangakuro.net^
 ||mangalib.me^
-||mangamirai.com^
+||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
 ||mangarawad.work^
@@ -1968,6 +1969,7 @@
 ! 0.0.0.0 adrama.app
 ! 0.0.0.0 aether.bar
 ! 0.0.0.0 aether.cx
+! 0.0.0.0 aether.ist
 ! 0.0.0.0 afterstream.org
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
@@ -2673,7 +2675,7 @@
 ! 0.0.0.0 mangakatana.com
 ! 0.0.0.0 mangakuro.net
 ! 0.0.0.0 mangalib.me
-! 0.0.0.0 mangamirai.com
+! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangarawad.work

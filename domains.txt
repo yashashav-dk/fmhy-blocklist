@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1912 domains | updated 2026-08-20T03:48:58Z
+# 1913 domains | updated 2026-08-21T03:52:19Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -49,6 +49,7 @@ addonsfortheweebs.midnightignite.me
 adrama.app
 aether.bar
 aether.cx
+aether.ist
 afterstream.org
 aha-music.com
 aidn.jp
@@ -754,7 +755,7 @@ mangak.io
 mangakatana.com
 mangakuro.net
 mangalib.me
-mangamirai.com
+mangaplaza.com
 mangaraw.ac
 mangaraw.best
 mangarawad.work
