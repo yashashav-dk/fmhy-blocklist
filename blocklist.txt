@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1913 domains)
-! Last updated: 2026-08-21T03:52:19Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1908 domains)
+! Last updated: 2026-08-22T03:43:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -51,7 +51,6 @@
 ||addon-manager.viren070.me^
 ||addonsfortheweebs.midnightignite.me^
 ||adrama.app^
-||aether.bar^
 ||aether.cx^
 ||aether.ist^
 ||afterstream.org^
@@ -94,7 +93,6 @@
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
-||anikitty.moe^
 ||anikototv.to^
 ||anikuro.ru^
 ||anikuro.site^
@@ -317,7 +315,6 @@
 ||cinemaos.me^
 ||cinemaos.tech^
 ||cinemata.org^
-||cinemora.ru^
 ||cinemove.cc^
 ||cinepro.fstream.app^
 ||cinestream.kje.us^
@@ -381,7 +378,6 @@
 ||daddylive.pk^
 ||dailycommercials.com^
 ||damitv.st^
-||damitvsports.com^
 ||db.silveryasha.id^
 ||db.trakt.anitrakt^
 ||ddlbase.com^
@@ -527,7 +523,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe667.com^
+||funbe668.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -781,6 +777,7 @@
 ||mediafiretrend.com^
 ||mega.archive^
 ||megabeastempire.wordpress.com^
+||meguanime.com^
 ||meionovels.com^
 ||melon-subs.de^
 ||meowly.qzz.io^
@@ -1316,7 +1313,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor145.com^
+||tkor146.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1441,8 +1438,6 @@
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuflix.co^
-||vyla.cc^
-||vyla.qzz.io^
 ||w1.anime4up.rest^
 ||warezload.net^
 ||warezomen.com^
@@ -1967,7 +1962,6 @@
 ! 0.0.0.0 addon-manager.viren070.me
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
 ! 0.0.0.0 adrama.app
-! 0.0.0.0 aether.bar
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 afterstream.org
@@ -2010,7 +2004,6 @@
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
-! 0.0.0.0 anikitty.moe
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikuro.ru
 ! 0.0.0.0 anikuro.site
@@ -2233,7 +2226,6 @@
 ! 0.0.0.0 cinemaos.me
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
-! 0.0.0.0 cinemora.ru
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cinepro.fstream.app
 ! 0.0.0.0 cinestream.kje.us
@@ -2297,7 +2289,6 @@
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.st
-! 0.0.0.0 damitvsports.com
 ! 0.0.0.0 db.silveryasha.id
 ! 0.0.0.0 db.trakt.anitrakt
 ! 0.0.0.0 ddlbase.com
@@ -2443,7 +2434,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe667.com
+! 0.0.0.0 funbe668.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2697,6 +2688,7 @@
 ! 0.0.0.0 mediafiretrend.com
 ! 0.0.0.0 mega.archive
 ! 0.0.0.0 megabeastempire.wordpress.com
+! 0.0.0.0 meguanime.com
 ! 0.0.0.0 meionovels.com
 ! 0.0.0.0 melon-subs.de
 ! 0.0.0.0 meowly.qzz.io
@@ -3232,7 +3224,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor145.com
+! 0.0.0.0 tkor146.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3357,8 +3349,6 @@
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuflix.co
-! 0.0.0.0 vyla.cc
-! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
 ! 0.0.0.0 warezload.net
 ! 0.0.0.0 warezomen.com

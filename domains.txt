@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1913 domains | updated 2026-08-21T03:52:19Z
+# 1908 domains | updated 2026-08-22T03:43:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -47,7 +47,6 @@ adding-repos.html
 addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
 adrama.app
-aether.bar
 aether.cx
 aether.ist
 afterstream.org
@@ -90,7 +89,6 @@ aniflix.us
 anify.to
 aniguessr.com
 anihq.cc
-anikitty.moe
 anikototv.to
 anikuro.ru
 anikuro.site
@@ -313,7 +311,6 @@ cinemaos.live
 cinemaos.me
 cinemaos.tech
 cinemata.org
-cinemora.ru
 cinemove.cc
 cinepro.fstream.app
 cinestream.kje.us
@@ -377,7 +374,6 @@ daddylive.mov
 daddylive.pk
 dailycommercials.com
 damitv.st
-damitvsports.com
 db.silveryasha.id
 db.trakt.anitrakt
 ddlbase.com
@@ -523,7 +519,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe667.com
+funbe668.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -777,6 +773,7 @@ medeberiya.net
 mediafiretrend.com
 mega.archive
 megabeastempire.wordpress.com
+meguanime.com
 meionovels.com
 melon-subs.de
 meowly.qzz.io
@@ -1312,7 +1309,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor145.com
+tkor146.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1437,8 +1434,6 @@ vole.wtf
 vrx.piro.moe
 vsedoramy.ru
 vuflix.co
-vyla.cc
-vyla.qzz.io
 w1.anime4up.rest
 warezload.net
 warezomen.com
