@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1908 domains | updated 2026-08-22T03:43:28Z
+# 1904 domains | updated 2026-08-23T03:52:25Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -123,7 +123,6 @@ anime7.download
 animeav1.com
 animeawards.moe
 animebalkan.org
-animebashindia.me
 animebathscenewiki.com
 animeco.link
 animecons.com
@@ -1041,7 +1040,6 @@ rarefilmm.com
 ravencentric.cc
 ravenflix.net
 raw-cans.net
-raw.senmanga.com
 raw1001.net
 rawbaka.com
 rawdevart.art
@@ -1170,6 +1168,7 @@ slow.pics
 smashystream.xyz
 smoores.gitlab.io
 smovies.co
+soapgo.to
 soccerfull.net
 soft.ac
 soft98.ir
@@ -1369,6 +1368,7 @@ tvfreedom.surge.sh
 tvhub.surge.sh
 tvids.me
 tvmirror.surge.sh
+tvnow.st
 tvnow247.today
 tvsboy.com
 tvshows.ac
@@ -1468,7 +1468,6 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wetrakr.com
-wfs.lol
 wftoon224.com
 wfty.link
 wfwf482.com
@@ -1570,7 +1569,6 @@ www.arcod.xyz
 www.atlasofwonders.com
 www.atomcentral.com
 www.atozcartoonist.com
-www.aurorascreen.org
 www.az-animex.com
 www.b98.tv
 www.baka-tsuki.org
@@ -1646,7 +1644,6 @@ www.footballorgin.com
 www.footreplays.com
 www.forgottenworlds.net
 www.freegreatmovies.com
-www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
 www.fzmovies.live
@@ -1772,7 +1769,6 @@ www.scenesource.me
 www.scnsrc.me
 www.scripts.com
 www.scriptslug.com
-www.seriezloaded.com.ng
 www.shanaproject.com
 www.shortverse.com
 www.showbox.media
@@ -1810,7 +1806,6 @@ www.toonamiremastered.com
 www.toontales.net
 www.totsrucs.cat
 www.tranimeizle.co
-www.treasuretv.org
 www.turkanime.tv
 www.turnipsoft.com
 www.tuxedounmasked.com
@@ -1906,6 +1901,7 @@ zenko.online
 zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live
+zflix.me
 zlive.st
 zstream.mov
 zxcprime.icu

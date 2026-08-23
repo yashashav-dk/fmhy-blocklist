@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1908 domains)
-! Last updated: 2026-08-22T03:43:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-08-23T03:52:25Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -127,7 +127,6 @@
 ||animeav1.com^
 ||animeawards.moe^
 ||animebalkan.org^
-||animebashindia.me^
 ||animebathscenewiki.com^
 ||animeco.link^
 ||animecons.com^
@@ -1045,7 +1044,6 @@
 ||ravencentric.cc^
 ||ravenflix.net^
 ||raw-cans.net^
-||raw.senmanga.com^
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
@@ -1174,6 +1172,7 @@
 ||smashystream.xyz^
 ||smoores.gitlab.io^
 ||smovies.co^
+||soapgo.to^
 ||soccerfull.net^
 ||soft.ac^
 ||soft98.ir^
@@ -1373,6 +1372,7 @@
 ||tvhub.surge.sh^
 ||tvids.me^
 ||tvmirror.surge.sh^
+||tvnow.st^
 ||tvnow247.today^
 ||tvsboy.com^
 ||tvshows.ac^
@@ -1472,7 +1472,6 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wetrakr.com^
-||wfs.lol^
 ||wftoon224.com^
 ||wfty.link^
 ||wfwf482.com^
@@ -1574,7 +1573,6 @@
 ||www.atlasofwonders.com^
 ||www.atomcentral.com^
 ||www.atozcartoonist.com^
-||www.aurorascreen.org^
 ||www.az-animex.com^
 ||www.b98.tv^
 ||www.baka-tsuki.org^
@@ -1650,7 +1648,6 @@
 ||www.footreplays.com^
 ||www.forgottenworlds.net^
 ||www.freegreatmovies.com^
-||www.freeintertv.com^
 ||www.funniermoments.net^
 ||www.furinkan.com^
 ||www.fzmovies.live^
@@ -1776,7 +1773,6 @@
 ||www.scnsrc.me^
 ||www.scripts.com^
 ||www.scriptslug.com^
-||www.seriezloaded.com.ng^
 ||www.shanaproject.com^
 ||www.shortverse.com^
 ||www.showbox.media^
@@ -1814,7 +1810,6 @@
 ||www.toontales.net^
 ||www.totsrucs.cat^
 ||www.tranimeizle.co^
-||www.treasuretv.org^
 ||www.turkanime.tv^
 ||www.turnipsoft.com^
 ||www.tuxedounmasked.com^
@@ -1910,6 +1905,7 @@
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
 ||zetmoon.live^
+||zflix.me^
 ||zlive.st^
 ||zstream.mov^
 ||zxcprime.icu^
@@ -2038,7 +2034,6 @@
 ! 0.0.0.0 animeav1.com
 ! 0.0.0.0 animeawards.moe
 ! 0.0.0.0 animebalkan.org
-! 0.0.0.0 animebashindia.me
 ! 0.0.0.0 animebathscenewiki.com
 ! 0.0.0.0 animeco.link
 ! 0.0.0.0 animecons.com
@@ -2956,7 +2951,6 @@
 ! 0.0.0.0 ravencentric.cc
 ! 0.0.0.0 ravenflix.net
 ! 0.0.0.0 raw-cans.net
-! 0.0.0.0 raw.senmanga.com
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
@@ -3085,6 +3079,7 @@
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
 ! 0.0.0.0 smovies.co
+! 0.0.0.0 soapgo.to
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
 ! 0.0.0.0 soft98.ir
@@ -3284,6 +3279,7 @@
 ! 0.0.0.0 tvhub.surge.sh
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvmirror.surge.sh
+! 0.0.0.0 tvnow.st
 ! 0.0.0.0 tvnow247.today
 ! 0.0.0.0 tvsboy.com
 ! 0.0.0.0 tvshows.ac
@@ -3383,7 +3379,6 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wetrakr.com
-! 0.0.0.0 wfs.lol
 ! 0.0.0.0 wftoon224.com
 ! 0.0.0.0 wfty.link
 ! 0.0.0.0 wfwf482.com
@@ -3485,7 +3480,6 @@
 ! 0.0.0.0 www.atlasofwonders.com
 ! 0.0.0.0 www.atomcentral.com
 ! 0.0.0.0 www.atozcartoonist.com
-! 0.0.0.0 www.aurorascreen.org
 ! 0.0.0.0 www.az-animex.com
 ! 0.0.0.0 www.b98.tv
 ! 0.0.0.0 www.baka-tsuki.org
@@ -3561,7 +3555,6 @@
 ! 0.0.0.0 www.footreplays.com
 ! 0.0.0.0 www.forgottenworlds.net
 ! 0.0.0.0 www.freegreatmovies.com
-! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
 ! 0.0.0.0 www.furinkan.com
 ! 0.0.0.0 www.fzmovies.live
@@ -3687,7 +3680,6 @@
 ! 0.0.0.0 www.scnsrc.me
 ! 0.0.0.0 www.scripts.com
 ! 0.0.0.0 www.scriptslug.com
-! 0.0.0.0 www.seriezloaded.com.ng
 ! 0.0.0.0 www.shanaproject.com
 ! 0.0.0.0 www.shortverse.com
 ! 0.0.0.0 www.showbox.media
@@ -3725,7 +3717,6 @@
 ! 0.0.0.0 www.toontales.net
 ! 0.0.0.0 www.totsrucs.cat
 ! 0.0.0.0 www.tranimeizle.co
-! 0.0.0.0 www.treasuretv.org
 ! 0.0.0.0 www.turkanime.tv
 ! 0.0.0.0 www.turnipsoft.com
 ! 0.0.0.0 www.tuxedounmasked.com
@@ -3821,6 +3812,7 @@
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zetmoon.live
+! 0.0.0.0 zflix.me
 ! 0.0.0.0 zlive.st
 ! 0.0.0.0 zstream.mov
 ! 0.0.0.0 zxcprime.icu
