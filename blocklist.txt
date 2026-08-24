@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
-! Last updated: 2026-08-23T03:52:25Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1903 domains)
+! Last updated: 2026-08-24T03:56:27Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -155,7 +155,6 @@
 ||animerank.top^
 ||animerss.com^
 ||animes.garden^
-||animesalt.link^
 ||animesalt.top^
 ||animeschedule.net^
 ||animeshrine.xyz^
@@ -327,7 +326,7 @@
 ||cksub.org^
 ||cli.club^
 ||clients.md^
-||cmv-tv.strms.workers.dev^
+||closet-picks.com^
 ||cmvstrm.lovable.app^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
@@ -1453,7 +1452,6 @@
 ||watch.spencerdevs.xyz^
 ||watch.typetype.video^
 ||watch.versusmedia.com^
-||watchanimeworld.top^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.org^
@@ -1472,9 +1470,9 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wetrakr.com^
-||wftoon224.com^
+||wftoon225.com^
 ||wfty.link^
-||wfwf482.com^
+||wfwf484.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1648,6 +1646,7 @@
 ||www.footreplays.com^
 ||www.forgottenworlds.net^
 ||www.freegreatmovies.com^
+||www.freeintertv.com^
 ||www.funniermoments.net^
 ||www.furinkan.com^
 ||www.fzmovies.live^
@@ -2062,7 +2061,6 @@
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animes.garden
-! 0.0.0.0 animesalt.link
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
 ! 0.0.0.0 animeshrine.xyz
@@ -2234,7 +2232,7 @@
 ! 0.0.0.0 cksub.org
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
-! 0.0.0.0 cmv-tv.strms.workers.dev
+! 0.0.0.0 closet-picks.com
 ! 0.0.0.0 cmvstrm.lovable.app
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
@@ -3360,7 +3358,6 @@
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.typetype.video
 ! 0.0.0.0 watch.versusmedia.com
-! 0.0.0.0 watchanimeworld.top
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.org
@@ -3379,9 +3376,9 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wetrakr.com
-! 0.0.0.0 wftoon224.com
+! 0.0.0.0 wftoon225.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf482.com
+! 0.0.0.0 wfwf484.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3555,6 +3552,7 @@
 ! 0.0.0.0 www.footreplays.com
 ! 0.0.0.0 www.forgottenworlds.net
 ! 0.0.0.0 www.freegreatmovies.com
+! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
 ! 0.0.0.0 www.furinkan.com
 ! 0.0.0.0 www.fzmovies.live

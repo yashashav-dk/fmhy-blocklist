@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-08-23T03:52:25Z
+# 1903 domains | updated 2026-08-24T03:56:27Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -151,7 +151,6 @@ animeradio.de
 animerank.top
 animerss.com
 animes.garden
-animesalt.link
 animesalt.top
 animeschedule.net
 animeshrine.xyz
@@ -323,7 +322,7 @@ circle.ms
 cksub.org
 cli.club
 clients.md
-cmv-tv.strms.workers.dev
+closet-picks.com
 cmvstrm.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
@@ -1449,7 +1448,6 @@ watch.foundtv.com
 watch.spencerdevs.xyz
 watch.typetype.video
 watch.versusmedia.com
-watchanimeworld.top
 watchfooty.st
 watchorbit.me
 watchott.org
@@ -1468,9 +1466,9 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wetrakr.com
-wftoon224.com
+wftoon225.com
 wfty.link
-wfwf482.com
+wfwf484.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1644,6 +1642,7 @@ www.footballorgin.com
 www.footreplays.com
 www.forgottenworlds.net
 www.freegreatmovies.com
+www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
 www.fzmovies.live
