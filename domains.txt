@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1903 domains | updated 2026-08-24T03:56:27Z
+# 1905 domains | updated 2026-08-25T03:50:53Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -497,7 +497,7 @@ fluxtv.co.uk
 flyflix.net
 flystream.net
 fmstream.org
-foc121.asia
+foc122.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -517,7 +517,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe668.com
+funbe669.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -618,7 +618,6 @@ japanradio.de
 jefusion.blogspot.com
 jkanime.net
 jmanga.land
-jp-films.com
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -641,6 +640,7 @@ kayoanime.com
 kazemakase.wjg.jp
 kazora.cc
 kcnawatch.us
+kdesa.stream
 kesifasya.com
 ketto.com
 keyframe-staff-list.com
@@ -850,7 +850,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee109.asia
+namee110.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1055,6 +1055,7 @@ readme.en.md
 real-debrid.com
 realfight.top
 realityripple.com
+reanime.cz
 reanime.to
 redflix.club
 redflix.one
@@ -1307,7 +1308,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor146.com
+tkor147.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1641,6 +1642,7 @@ www.fontsquirrel.com
 www.footballorgin.com
 www.footreplays.com
 www.forgottenworlds.net
+www.framemovie.online
 www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net

@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1903 domains)
-! Last updated: 2026-08-24T03:56:27Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
+! Last updated: 2026-08-25T03:50:53Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -501,7 +501,7 @@
 ||flyflix.net^
 ||flystream.net^
 ||fmstream.org^
-||foc121.asia^
+||foc122.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -521,7 +521,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe668.com^
+||funbe669.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -622,7 +622,6 @@
 ||jefusion.blogspot.com^
 ||jkanime.net^
 ||jmanga.land^
-||jp-films.com^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -645,6 +644,7 @@
 ||kazemakase.wjg.jp^
 ||kazora.cc^
 ||kcnawatch.us^
+||kdesa.stream^
 ||kesifasya.com^
 ||ketto.com^
 ||keyframe-staff-list.com^
@@ -854,7 +854,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee109.asia^
+||namee110.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1059,6 +1059,7 @@
 ||real-debrid.com^
 ||realfight.top^
 ||realityripple.com^
+||reanime.cz^
 ||reanime.to^
 ||redflix.club^
 ||redflix.one^
@@ -1311,7 +1312,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor146.com^
+||tkor147.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1645,6 +1646,7 @@
 ||www.footballorgin.com^
 ||www.footreplays.com^
 ||www.forgottenworlds.net^
+||www.framemovie.online^
 ||www.freegreatmovies.com^
 ||www.freeintertv.com^
 ||www.funniermoments.net^
@@ -2407,7 +2409,7 @@
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc121.asia
+! 0.0.0.0 foc122.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2427,7 +2429,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe668.com
+! 0.0.0.0 funbe669.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2528,7 +2530,6 @@
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
 ! 0.0.0.0 jmanga.land
-! 0.0.0.0 jp-films.com
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2551,6 +2552,7 @@
 ! 0.0.0.0 kazemakase.wjg.jp
 ! 0.0.0.0 kazora.cc
 ! 0.0.0.0 kcnawatch.us
+! 0.0.0.0 kdesa.stream
 ! 0.0.0.0 kesifasya.com
 ! 0.0.0.0 ketto.com
 ! 0.0.0.0 keyframe-staff-list.com
@@ -2760,7 +2762,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee109.asia
+! 0.0.0.0 namee110.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2965,6 +2967,7 @@
 ! 0.0.0.0 real-debrid.com
 ! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
+! 0.0.0.0 reanime.cz
 ! 0.0.0.0 reanime.to
 ! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.one
@@ -3217,7 +3220,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor146.com
+! 0.0.0.0 tkor147.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3551,6 +3554,7 @@
 ! 0.0.0.0 www.footballorgin.com
 ! 0.0.0.0 www.footreplays.com
 ! 0.0.0.0 www.forgottenworlds.net
+! 0.0.0.0 www.framemovie.online
 ! 0.0.0.0 www.freegreatmovies.com
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
