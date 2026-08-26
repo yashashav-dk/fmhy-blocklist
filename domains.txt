@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1905 domains | updated 2026-08-25T03:50:53Z
+# 1907 domains | updated 2026-08-26T03:55:12Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -90,6 +90,7 @@ anify.to
 aniguessr.com
 anihq.cc
 anikototv.to
+anikura.club
 anikuro.ru
 anikuro.site
 anikuro.to
@@ -407,7 +408,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.wtf
+dokiraw.space
 donghua.site
 donghuastream.org
 dorabash.in
@@ -617,7 +618,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.land
+jmanga.help
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -752,7 +753,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.work
+mangarawad.wtf
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -1042,7 +1043,7 @@ raw-cans.net
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.spot
+rawfree.voto
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1449,6 +1450,7 @@ watch.foundtv.com
 watch.spencerdevs.xyz
 watch.typetype.video
 watch.versusmedia.com
+watchanimeworld.one
 watchfooty.st
 watchorbit.me
 watchott.org

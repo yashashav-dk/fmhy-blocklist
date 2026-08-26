@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
-! Last updated: 2026-08-25T03:50:53Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1907 domains)
+! Last updated: 2026-08-26T03:55:12Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -94,6 +94,7 @@
 ||aniguessr.com^
 ||anihq.cc^
 ||anikototv.to^
+||anikura.club^
 ||anikuro.ru^
 ||anikuro.site^
 ||anikuro.to^
@@ -411,7 +412,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.wtf^
+||dokiraw.space^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -621,7 +622,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.land^
+||jmanga.help^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -756,7 +757,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.work^
+||mangarawad.wtf^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -1046,7 +1047,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.spot^
+||rawfree.voto^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1453,6 +1454,7 @@
 ||watch.spencerdevs.xyz^
 ||watch.typetype.video^
 ||watch.versusmedia.com^
+||watchanimeworld.one^
 ||watchfooty.st^
 ||watchorbit.me^
 ||watchott.org^
@@ -2002,6 +2004,7 @@
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
 ! 0.0.0.0 anikototv.to
+! 0.0.0.0 anikura.club
 ! 0.0.0.0 anikuro.ru
 ! 0.0.0.0 anikuro.site
 ! 0.0.0.0 anikuro.to
@@ -2319,7 +2322,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.wtf
+! 0.0.0.0 dokiraw.space
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2529,7 +2532,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.land
+! 0.0.0.0 jmanga.help
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2664,7 +2667,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.work
+! 0.0.0.0 mangarawad.wtf
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2954,7 +2957,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.spot
+! 0.0.0.0 rawfree.voto
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3361,6 +3364,7 @@
 ! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.typetype.video
 ! 0.0.0.0 watch.versusmedia.com
+! 0.0.0.0 watchanimeworld.one
 ! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchott.org
