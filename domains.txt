@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1907 domains | updated 2026-08-26T03:55:12Z
+# 1905 domains | updated 2026-08-27T13:56:25Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -49,7 +49,6 @@ addonsfortheweebs.midnightignite.me
 adrama.app
 aether.cx
 aether.ist
-afterstream.org
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
@@ -227,6 +226,7 @@ at4klauncher.com
 atisket.pulsewidth.org.uk
 atsu.moe
 audiovault.net
+aurorascreen.org
 avac.moe
 avistaz.to
 azmovies.to
@@ -485,7 +485,9 @@ flicker-proxy.md
 flickmetrix.com
 flickystream.dad
 fliker.freebuff.app
+flixer.cx
 flixer.gd
+flixer.su
 flixhop.com
 flixhouse.com
 flixtrz.com
@@ -834,7 +836,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon149.asia
+mtoon150.asia
 mugen.karaokes.moe
 multishows.top
 musicalyst.com
@@ -1150,7 +1152,6 @@ shikimori.io
 shikimori.rip
 shimeken.com
 shinden.pl
-shiopa.com
 shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
@@ -1268,11 +1269,10 @@ tagger.site
 taiga.moe
 tana.moe
 taosect.com
-tap4sport.bz
 tap4sport.ci
 tap4sport.link
-tap4sport.nl
 tap4sport.pw
+tap4sport.st
 tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
@@ -1675,7 +1675,6 @@ www.imcdb.org
 www.imfdb.org
 www.insidescanlation.com
 www.instafest.app
-www.iptvsmarters.com
 www.ivanime.com
 www.j1fm.tokyo
 www.jajanken.net
@@ -1703,7 +1702,6 @@ www.lo4d.com
 www.lpebk.com
 www.lycoris.cafe
 www.lyrical-nonsense.com
-www.m-zone.org
 www.mal-badges.com
 www.manga-passion.de
 www.manga-zone.org

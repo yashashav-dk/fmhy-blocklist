@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1907 domains)
-! Last updated: 2026-08-26T03:55:12Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
+! Last updated: 2026-08-27T13:56:25Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -53,7 +53,6 @@
 ||adrama.app^
 ||aether.cx^
 ||aether.ist^
-||afterstream.org^
 ||aha-music.com^
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
@@ -231,6 +230,7 @@
 ||atisket.pulsewidth.org.uk^
 ||atsu.moe^
 ||audiovault.net^
+||aurorascreen.org^
 ||avac.moe^
 ||avistaz.to^
 ||azmovies.to^
@@ -489,7 +489,9 @@
 ||flickmetrix.com^
 ||flickystream.dad^
 ||fliker.freebuff.app^
+||flixer.cx^
 ||flixer.gd^
+||flixer.su^
 ||flixhop.com^
 ||flixhouse.com^
 ||flixtrz.com^
@@ -838,7 +840,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon149.asia^
+||mtoon150.asia^
 ||mugen.karaokes.moe^
 ||multishows.top^
 ||musicalyst.com^
@@ -1154,7 +1156,6 @@
 ||shikimori.rip^
 ||shimeken.com^
 ||shinden.pl^
-||shiopa.com^
 ||shokoanime.com^
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
@@ -1272,11 +1273,10 @@
 ||taiga.moe^
 ||tana.moe^
 ||taosect.com^
-||tap4sport.bz^
 ||tap4sport.ci^
 ||tap4sport.link^
-||tap4sport.nl^
 ||tap4sport.pw^
+||tap4sport.st^
 ||tape.xyz^
 ||tauonmusicbox.rocks^
 ||tennojim.xyz^
@@ -1679,7 +1679,6 @@
 ||www.imfdb.org^
 ||www.insidescanlation.com^
 ||www.instafest.app^
-||www.iptvsmarters.com^
 ||www.ivanime.com^
 ||www.j1fm.tokyo^
 ||www.jajanken.net^
@@ -1707,7 +1706,6 @@
 ||www.lpebk.com^
 ||www.lycoris.cafe^
 ||www.lyrical-nonsense.com^
-||www.m-zone.org^
 ||www.mal-badges.com^
 ||www.manga-passion.de^
 ||www.manga-zone.org^
@@ -1963,7 +1961,6 @@
 ! 0.0.0.0 adrama.app
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
-! 0.0.0.0 afterstream.org
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
@@ -2141,6 +2138,7 @@
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
+! 0.0.0.0 aurorascreen.org
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 avistaz.to
 ! 0.0.0.0 azmovies.to
@@ -2399,7 +2397,9 @@
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.dad
 ! 0.0.0.0 fliker.freebuff.app
+! 0.0.0.0 flixer.cx
 ! 0.0.0.0 flixer.gd
+! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixtrz.com
@@ -2748,7 +2748,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon149.asia
+! 0.0.0.0 mtoon150.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
@@ -3064,7 +3064,6 @@
 ! 0.0.0.0 shikimori.rip
 ! 0.0.0.0 shimeken.com
 ! 0.0.0.0 shinden.pl
-! 0.0.0.0 shiopa.com
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
@@ -3182,11 +3181,10 @@
 ! 0.0.0.0 taiga.moe
 ! 0.0.0.0 tana.moe
 ! 0.0.0.0 taosect.com
-! 0.0.0.0 tap4sport.bz
 ! 0.0.0.0 tap4sport.ci
 ! 0.0.0.0 tap4sport.link
-! 0.0.0.0 tap4sport.nl
 ! 0.0.0.0 tap4sport.pw
+! 0.0.0.0 tap4sport.st
 ! 0.0.0.0 tape.xyz
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 tennojim.xyz
@@ -3589,7 +3587,6 @@
 ! 0.0.0.0 www.imfdb.org
 ! 0.0.0.0 www.insidescanlation.com
 ! 0.0.0.0 www.instafest.app
-! 0.0.0.0 www.iptvsmarters.com
 ! 0.0.0.0 www.ivanime.com
 ! 0.0.0.0 www.j1fm.tokyo
 ! 0.0.0.0 www.jajanken.net
@@ -3617,7 +3614,6 @@
 ! 0.0.0.0 www.lpebk.com
 ! 0.0.0.0 www.lycoris.cafe
 ! 0.0.0.0 www.lyrical-nonsense.com
-! 0.0.0.0 www.m-zone.org
 ! 0.0.0.0 www.mal-badges.com
 ! 0.0.0.0 www.manga-passion.de
 ! 0.0.0.0 www.manga-zone.org
