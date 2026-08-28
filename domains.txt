@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1905 domains | updated 2026-08-27T13:56:25Z
+# 1904 domains | updated 2026-08-28T15:07:56Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -447,6 +447,7 @@ episodehive.com
 epub.moe
 ernax.pro
 erogemusicquiz.com
+es.mangacrab.org
 esp32.nontonx.com
 estrenosanime.net
 eta.animerco.org
@@ -520,7 +521,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe669.com
+funbe670.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -740,7 +741,6 @@ manga.tumeo.space
 mangabaka.org
 mangaball.net
 mangabookshelf.com
-mangacrab.org
 mangadot.net
 mangafire.to
 mangafonts.carrd.co
@@ -1309,7 +1309,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor147.com
+tkor148.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1469,9 +1469,9 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wetrakr.com
-wftoon225.com
+wftoon226.com
 wfty.link
-wfwf484.com
+wfwf486.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1746,7 +1746,6 @@ www.nzbindex.com
 www.nzbindex.nl
 www.omoi.com
 www.openutau.com
-www.otakukingdom-subs.de
 www.otakunews.com
 www.ourstarblazers.com
 www.panix.com

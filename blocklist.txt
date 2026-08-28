@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1905 domains)
-! Last updated: 2026-08-27T13:56:25Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1904 domains)
+! Last updated: 2026-08-28T15:07:56Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -451,6 +451,7 @@
 ||epub.moe^
 ||ernax.pro^
 ||erogemusicquiz.com^
+||es.mangacrab.org^
 ||esp32.nontonx.com^
 ||estrenosanime.net^
 ||eta.animerco.org^
@@ -524,7 +525,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe669.com^
+||funbe670.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -744,7 +745,6 @@
 ||mangabaka.org^
 ||mangaball.net^
 ||mangabookshelf.com^
-||mangacrab.org^
 ||mangadot.net^
 ||mangafire.to^
 ||mangafonts.carrd.co^
@@ -1313,7 +1313,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor147.com^
+||tkor148.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1473,9 +1473,9 @@
 ||weblinhtinh1.net^
 ||weebcentral.com^
 ||wetrakr.com^
-||wftoon225.com^
+||wftoon226.com^
 ||wfty.link^
-||wfwf484.com^
+||wfwf486.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1750,7 +1750,6 @@
 ||www.nzbindex.nl^
 ||www.omoi.com^
 ||www.openutau.com^
-||www.otakukingdom-subs.de^
 ||www.otakunews.com^
 ||www.ourstarblazers.com^
 ||www.panix.com^
@@ -2359,6 +2358,7 @@
 ! 0.0.0.0 epub.moe
 ! 0.0.0.0 ernax.pro
 ! 0.0.0.0 erogemusicquiz.com
+! 0.0.0.0 es.mangacrab.org
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
 ! 0.0.0.0 eta.animerco.org
@@ -2432,7 +2432,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe669.com
+! 0.0.0.0 funbe670.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2652,7 +2652,6 @@
 ! 0.0.0.0 mangabaka.org
 ! 0.0.0.0 mangaball.net
 ! 0.0.0.0 mangabookshelf.com
-! 0.0.0.0 mangacrab.org
 ! 0.0.0.0 mangadot.net
 ! 0.0.0.0 mangafire.to
 ! 0.0.0.0 mangafonts.carrd.co
@@ -3221,7 +3220,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor147.com
+! 0.0.0.0 tkor148.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3381,9 +3380,9 @@
 ! 0.0.0.0 weblinhtinh1.net
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 wetrakr.com
-! 0.0.0.0 wftoon225.com
+! 0.0.0.0 wftoon226.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf484.com
+! 0.0.0.0 wfwf486.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3658,7 +3657,6 @@
 ! 0.0.0.0 www.nzbindex.nl
 ! 0.0.0.0 www.omoi.com
 ! 0.0.0.0 www.openutau.com
-! 0.0.0.0 www.otakukingdom-subs.de
 ! 0.0.0.0 www.otakunews.com
 ! 0.0.0.0 www.ourstarblazers.com
 ! 0.0.0.0 www.panix.com
