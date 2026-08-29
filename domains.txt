@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1904 domains | updated 2026-08-28T15:07:56Z
+# 1899 domains | updated 2026-08-29T09:50:34Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -17,7 +17,6 @@
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
-1primeshow.online
 1shows-note.md
 24-7-channels.php
 2ecbbd610840-trakt.baby-beamup.club
@@ -253,6 +252,7 @@ bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
 bestsimilar.com
+beta.way2movies.live
 betterlyrics.org
 bflix.sh
 bgmd.bytex.space
@@ -423,14 +423,13 @@ dramaday.me
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyencw.com
+dualeotruyenuv.com
 dubolt.com
 due.moe
 dulo.cx
 dumanwu.com
 dw-anime.net
 e.html
-e3ngcokw7hqbtbylcnwdomxt3mkmbqwbtrr7yecgafpqyj3sygxt7ead.onion
 easterneuropeanmovies.com
 eddvault.notion.site
 ee3.me
@@ -485,6 +484,7 @@ fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.dad
+flickystream.mov
 fliker.freebuff.app
 flixer.cx
 flixer.gd
@@ -513,6 +513,7 @@ free-movies.to
 freepopular.htm
 freestreams-live1a.pk
 freesub.live
+freetvgarden.com
 freetvz.com
 french-anime.com
 frixysubs.pl
@@ -553,7 +554,6 @@ guide.encode.moe
 guides.htm
 guides.viren070.me
 guidetv.live
-guzes.surge.sh
 halcyonrealms.com
 hanime1.me
 hardcover.app
@@ -621,7 +621,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.help
+jmanga.world
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -679,7 +679,6 @@ kuroiru.co
 kurotoshiro.dev
 kurozora.app
 kusonime.com
-kuudere.ru
 kyren.moe
 lama.watch
 last.timer
@@ -906,6 +905,7 @@ novera.tv
 noxx.to
 nsk.sh
 ntv.cx
+ntv.st
 ntvs.cx
 ntvx.link
 nukkard.com
@@ -1060,9 +1060,11 @@ realfight.top
 realityripple.com
 reanime.cz
 reanime.to
+reanime.wtf
 redflix.club
 redflix.one
 redsquirrel87.com
+reelix.ac
 refooty.com
 relatedanime.com
 releasefeed.elomatreb.eu
@@ -1070,6 +1072,7 @@ releases.com
 releases.moe
 remanga.org
 replay.nontonx.com
+restatus.me
 retroanimechris.blogspot.com
 retroblast.tv
 retroflix.org
@@ -1190,7 +1193,6 @@ space.olamovies.dad
 sphinxanime.com
 spin.moe
 split-tv.co.il
-sportera.fans
 sportontv.click
 sportsbite.org
 sportsindx.st
@@ -1357,18 +1359,12 @@ tuoverse.com
 tv.html
 tv.jest
 tv.jest.one
-tvalt.surge.sh
 tvapp.ws
 tvatlas.app
 tvchart.benmiz.com
 tvcharts.co
 tvexplorer.live
-tvforfree.surge.sh
-tvfree.surge.sh
-tvfreedom.surge.sh
-tvhub.surge.sh
 tvids.me
-tvmirror.surge.sh
 tvnow.st
 tvnow247.today
 tvsboy.com
@@ -1394,10 +1390,10 @@ utaite-key.info
 utaitedb.net
 utaten.com
 v13.anidub.digital
+v2.animesultra.org
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
-v2.way2movies.live
 v4.animeko.ws
 vaughn.live
 vaultplayer.co.uk
@@ -1428,7 +1424,6 @@ vkvideo.ru
 vnkeyfc.com
 vocadb.net
 vocaloid.radioca.st
-vocasphere.net
 voir-anime.to
 voirdrama.to
 vole.wtf
@@ -1494,7 +1489,6 @@ worldnews24.tv
 wotaku.wiki
 wowtopix.com
 wtwt335.com
-ww.animesultra.org
 ww1-fmovies.com
 ww1.goojara.to
 ww1.yesmovies.ag
@@ -1815,6 +1809,7 @@ www.tvids.net
 www.tvids.to
 www.tvseries.in
 www.tvsubtitles.net
+www.ukgameshows.com
 www.ultimedia.com
 www.unrealircd.org
 www.uruworks.net
