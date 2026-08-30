@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
-! Last updated: 2026-08-29T09:50:34Z
+! Last updated: 2026-08-30T09:01:30Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -370,7 +370,6 @@
 ||cringemdb.com^
 ||cs.rin.ru^
 ||cubeflix.org^
-||cubiktv.com^
 ||cyrisia.com^
 ||daddylive.at^
 ||daddylive.mov^
@@ -412,7 +411,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.space^
+||dokiraw.casa^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -758,7 +757,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.wtf^
+||mangarawad.rest^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -969,6 +968,7 @@
 ||ouo.si^
 ||overlook.cx^
 ||overtakefans.com^
+||pahe-note.md^
 ||pahe.ink^
 ||palanq.win^
 ||palco.wtf^
@@ -994,6 +994,7 @@
 ||plezy.app^
 ||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
+||plugin.php^
 ||pop.dnslc.net^
 ||popcornflix.com^
 ||popcornmovies.ac^
@@ -1011,7 +1012,6 @@
 ||primewire.nexus^
 ||primewire.zip^
 ||prodlist.php^
-||projectfreetv.sx^
 ||proxer.me^
 ||psa.wf^
 ||pstream.cfd^
@@ -1049,7 +1049,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.voto^
+||rawfree.luxe^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -2272,7 +2272,6 @@
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cs.rin.ru
 ! 0.0.0.0 cubeflix.org
-! 0.0.0.0 cubiktv.com
 ! 0.0.0.0 cyrisia.com
 ! 0.0.0.0 daddylive.at
 ! 0.0.0.0 daddylive.mov
@@ -2314,7 +2313,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.space
+! 0.0.0.0 dokiraw.casa
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2660,7 +2659,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.wtf
+! 0.0.0.0 mangarawad.rest
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2871,6 +2870,7 @@
 ! 0.0.0.0 ouo.si
 ! 0.0.0.0 overlook.cx
 ! 0.0.0.0 overtakefans.com
+! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
 ! 0.0.0.0 palco.wtf
@@ -2896,6 +2896,7 @@
 ! 0.0.0.0 plezy.app
 ! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
+! 0.0.0.0 plugin.php
 ! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.ac
@@ -2913,7 +2914,6 @@
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
-! 0.0.0.0 projectfreetv.sx
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 psa.wf
 ! 0.0.0.0 pstream.cfd
@@ -2951,7 +2951,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.voto
+! 0.0.0.0 rawfree.luxe
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io

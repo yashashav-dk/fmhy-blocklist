@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1899 domains | updated 2026-08-29T09:50:34Z
+# 1899 domains | updated 2026-08-30T09:01:30Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -366,7 +366,6 @@ crimsonfansubs.com
 cringemdb.com
 cs.rin.ru
 cubeflix.org
-cubiktv.com
 cyrisia.com
 daddylive.at
 daddylive.mov
@@ -408,7 +407,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.space
+dokiraw.casa
 donghua.site
 donghuastream.org
 dorabash.in
@@ -754,7 +753,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.wtf
+mangarawad.rest
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -965,6 +964,7 @@ otcs.minuspoint.com
 ouo.si
 overlook.cx
 overtakefans.com
+pahe-note.md
 pahe.ink
 palanq.win
 palco.wtf
@@ -990,6 +990,7 @@ plaza.one
 plezy.app
 plugin.audio.navidrome
 plugin.audio.subsonic
+plugin.php
 pop.dnslc.net
 popcornflix.com
 popcornmovies.ac
@@ -1007,7 +1008,6 @@ ppv.to
 primewire.nexus
 primewire.zip
 prodlist.php
-projectfreetv.sx
 proxer.me
 psa.wf
 pstream.cfd
@@ -1045,7 +1045,7 @@ raw-cans.net
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.voto
+rawfree.luxe
 rawinstant.net
 rawkuma.net
 rawlazy.io
