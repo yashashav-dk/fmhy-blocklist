@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1899 domains | updated 2026-08-30T09:01:30Z
+# 1903 domains | updated 2026-08-31T09:28:59Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -87,6 +87,7 @@ aniflix.us
 anify.to
 aniguessr.com
 anihq.cc
+anikoto.site
 anikototv.to
 anikura.club
 anikuro.ru
@@ -204,6 +205,7 @@ antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
 arabshentai.com
+arc018.stream
 arch.b4k.dev
 archive.4plebs.org
 archive.gamehistory.org
@@ -271,6 +273,7 @@ blog.sakugabooru.com
 bookplayer.app
 booksonic.org
 bookwalker.com
+boomflix.qzz.io
 bstsrs.in
 bszip.com
 btorrent.xyz
@@ -292,8 +295,6 @@ chikianimation.online
 chillflix.lol
 cine.su
 cinebolt.org
-cineby-shutdown.md
-cineby.at
 cinebytv-note.md
 cinebytv.com
 cineflix.fstream.app
@@ -663,6 +664,7 @@ kisskh.red
 kitsunekko.net
 kmmovies.shop
 kmreader.everpcpc.com
+kofi.mov
 komiic.com
 komikindo.ch
 komiku.org
@@ -791,6 +793,7 @@ midloop.net
 mikanani.me
 mikudb.moe
 mindmine.audiobook
+mirrors.st
 miru.js.org
 miruro.bz
 miruro.ru
@@ -999,12 +1002,13 @@ portal.circle.ms
 portapps.io
 potamanime.rs
 powder.media
-ppv.cx
-ppv.domains
-ppv.is
-ppv.lc
+ppv.bi
+ppv.ms
+ppv.rw
 ppv.st
+ppv.tj
 ppv.to
+ppvs.pk
 primewire.nexus
 primewire.zip
 prodlist.php
@@ -1066,6 +1070,7 @@ redflix.one
 redsquirrel87.com
 reelix.ac
 refooty.com
+reindex.to
 relatedanime.com
 releasefeed.elomatreb.eu
 releases.com
@@ -1206,6 +1211,7 @@ static.sneedex.moe
 status.animaxanime.dpdns.org
 status.miruro.com
 status.stremio-status.com
+stellar.rip
 stigstream.ru
 store.mangamavericks.com
 store.rg
@@ -1587,7 +1593,6 @@ www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
 www.cineapse.net
-www.cineplay.to
 www.cinezo.org
 www.classreal.com
 www.comicbookherald.com
@@ -1632,7 +1637,6 @@ www.filmgo.live
 www.flickchart.com
 www.flikhub.net
 www.flixwatch.co
-www.fmovies.gd
 www.fontspring.com
 www.fontsquirrel.com
 www.footballorgin.com

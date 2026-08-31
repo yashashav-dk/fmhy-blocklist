@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1899 domains)
-! Last updated: 2026-08-30T09:01:30Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1903 domains)
+! Last updated: 2026-08-31T09:28:59Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -91,6 +91,7 @@
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
+||anikoto.site^
 ||anikototv.to^
 ||anikura.club^
 ||anikuro.ru^
@@ -208,6 +209,7 @@
 ||apexmovies.net^
 ||app.animevsub.eu.org^
 ||arabshentai.com^
+||arc018.stream^
 ||arch.b4k.dev^
 ||archive.4plebs.org^
 ||archive.gamehistory.org^
@@ -275,6 +277,7 @@
 ||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
+||boomflix.qzz.io^
 ||bstsrs.in^
 ||bszip.com^
 ||btorrent.xyz^
@@ -296,8 +299,6 @@
 ||chillflix.lol^
 ||cine.su^
 ||cinebolt.org^
-||cineby-shutdown.md^
-||cineby.at^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cineflix.fstream.app^
@@ -667,6 +668,7 @@
 ||kitsunekko.net^
 ||kmmovies.shop^
 ||kmreader.everpcpc.com^
+||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
 ||komiku.org^
@@ -795,6 +797,7 @@
 ||mikanani.me^
 ||mikudb.moe^
 ||mindmine.audiobook^
+||mirrors.st^
 ||miru.js.org^
 ||miruro.bz^
 ||miruro.ru^
@@ -1003,12 +1006,13 @@
 ||portapps.io^
 ||potamanime.rs^
 ||powder.media^
-||ppv.cx^
-||ppv.domains^
-||ppv.is^
-||ppv.lc^
+||ppv.bi^
+||ppv.ms^
+||ppv.rw^
 ||ppv.st^
+||ppv.tj^
 ||ppv.to^
+||ppvs.pk^
 ||primewire.nexus^
 ||primewire.zip^
 ||prodlist.php^
@@ -1070,6 +1074,7 @@
 ||redsquirrel87.com^
 ||reelix.ac^
 ||refooty.com^
+||reindex.to^
 ||relatedanime.com^
 ||releasefeed.elomatreb.eu^
 ||releases.com^
@@ -1210,6 +1215,7 @@
 ||status.animaxanime.dpdns.org^
 ||status.miruro.com^
 ||status.stremio-status.com^
+||stellar.rip^
 ||stigstream.ru^
 ||store.mangamavericks.com^
 ||store.rg^
@@ -1591,7 +1597,6 @@
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineapse.net^
-||www.cineplay.to^
 ||www.cinezo.org^
 ||www.classreal.com^
 ||www.comicbookherald.com^
@@ -1636,7 +1641,6 @@
 ||www.flickchart.com^
 ||www.flikhub.net^
 ||www.flixwatch.co^
-||www.fmovies.gd^
 ||www.fontspring.com^
 ||www.fontsquirrel.com^
 ||www.footballorgin.com^
@@ -1993,6 +1997,7 @@
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
+! 0.0.0.0 anikoto.site
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikura.club
 ! 0.0.0.0 anikuro.ru
@@ -2110,6 +2115,7 @@
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 arabshentai.com
+! 0.0.0.0 arc018.stream
 ! 0.0.0.0 arch.b4k.dev
 ! 0.0.0.0 archive.4plebs.org
 ! 0.0.0.0 archive.gamehistory.org
@@ -2177,6 +2183,7 @@
 ! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
+! 0.0.0.0 boomflix.qzz.io
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
 ! 0.0.0.0 btorrent.xyz
@@ -2198,8 +2205,6 @@
 ! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 cine.su
 ! 0.0.0.0 cinebolt.org
-! 0.0.0.0 cineby-shutdown.md
-! 0.0.0.0 cineby.at
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cineflix.fstream.app
@@ -2569,6 +2574,7 @@
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmreader.everpcpc.com
+! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
 ! 0.0.0.0 komiku.org
@@ -2697,6 +2703,7 @@
 ! 0.0.0.0 mikanani.me
 ! 0.0.0.0 mikudb.moe
 ! 0.0.0.0 mindmine.audiobook
+! 0.0.0.0 mirrors.st
 ! 0.0.0.0 miru.js.org
 ! 0.0.0.0 miruro.bz
 ! 0.0.0.0 miruro.ru
@@ -2905,12 +2912,13 @@
 ! 0.0.0.0 portapps.io
 ! 0.0.0.0 potamanime.rs
 ! 0.0.0.0 powder.media
-! 0.0.0.0 ppv.cx
-! 0.0.0.0 ppv.domains
-! 0.0.0.0 ppv.is
-! 0.0.0.0 ppv.lc
+! 0.0.0.0 ppv.bi
+! 0.0.0.0 ppv.ms
+! 0.0.0.0 ppv.rw
 ! 0.0.0.0 ppv.st
+! 0.0.0.0 ppv.tj
 ! 0.0.0.0 ppv.to
+! 0.0.0.0 ppvs.pk
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
@@ -2972,6 +2980,7 @@
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 reelix.ac
 ! 0.0.0.0 refooty.com
+! 0.0.0.0 reindex.to
 ! 0.0.0.0 relatedanime.com
 ! 0.0.0.0 releasefeed.elomatreb.eu
 ! 0.0.0.0 releases.com
@@ -3112,6 +3121,7 @@
 ! 0.0.0.0 status.animaxanime.dpdns.org
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 status.stremio-status.com
+! 0.0.0.0 stellar.rip
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.mangamavericks.com
 ! 0.0.0.0 store.rg
@@ -3493,7 +3503,6 @@
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineapse.net
-! 0.0.0.0 www.cineplay.to
 ! 0.0.0.0 www.cinezo.org
 ! 0.0.0.0 www.classreal.com
 ! 0.0.0.0 www.comicbookherald.com
@@ -3538,7 +3547,6 @@
 ! 0.0.0.0 www.flickchart.com
 ! 0.0.0.0 www.flikhub.net
 ! 0.0.0.0 www.flixwatch.co
-! 0.0.0.0 www.fmovies.gd
 ! 0.0.0.0 www.fontspring.com
 ! 0.0.0.0 www.fontsquirrel.com
 ! 0.0.0.0 www.footballorgin.com
