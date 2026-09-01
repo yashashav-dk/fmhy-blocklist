@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1903 domains | updated 2026-08-31T09:28:59Z
+# 1902 domains | updated 2026-09-01T08:25:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -176,6 +176,7 @@ animexin.dev
 animezid.cam
 animotvslash.nl
 animusic.moe
+aninado.com
 aninami.site
 aninzb.moe
 anipiece.net
@@ -305,7 +306,6 @@ cinehub.one
 cinejoy.to
 cinelove.live
 cinema.army
-cinema.bz
 cinemacity.cc
 cinemaos.live
 cinemaos.me
@@ -325,7 +325,7 @@ cksub.org
 cli.club
 clients.md
 closet-picks.com
-cmvstrm.lovable.app
+cmvv.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -501,7 +501,7 @@ fluxtv.co.uk
 flyflix.net
 flystream.net
 fmstream.org
-foc122.asia
+foc123.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -714,13 +714,12 @@ lucida.to
 luciferdonghua.in
 lumotv.co.uk
 luna-stream.me
-lunaranime.ru
+lunarx.to
 m-p.sakura.ne.jp
 m2box.org
 m3u-ip.tv
 m3u4u.com
 m4uhd.vip
-magicnzb.com
 magyaranime.eu
 main.jart
 main.mp
@@ -839,6 +838,7 @@ movish.to
 msft-store.tplant.com.au
 mtoon150.asia
 mugen.karaokes.moe
+multi.tonkacine.watch
 multishows.top
 musicalyst.com
 musichoarders.xyz
@@ -854,7 +854,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee110.asia
+namee111.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1211,6 +1211,7 @@ static.sneedex.moe
 status.animaxanime.dpdns.org
 status.miruro.com
 status.stremio-status.com
+stellar.gdn
 stellar.rip
 stigstream.ru
 store.mangamavericks.com
@@ -1327,7 +1328,6 @@ tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
 tonkacine.watch
-tonkacine.xyz
 toomics.com
 toon-stream.site
 toonamisquad.com
@@ -1340,7 +1340,6 @@ torbox.app
 torlink.bairon.dev
 torrents.youplex.site
 torrentsurf.to
-tortuga-ceviri.com
 totalsportek.st
 touhou-memories.com
 touhou.kuukunen.net
@@ -1472,7 +1471,7 @@ weebcentral.com
 wetrakr.com
 wftoon226.com
 wfty.link
-wfwf486.com
+wfwf488.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com

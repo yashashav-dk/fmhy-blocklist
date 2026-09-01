@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1903 domains)
-! Last updated: 2026-08-31T09:28:59Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
+! Last updated: 2026-09-01T08:25:46Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -180,6 +180,7 @@
 ||animezid.cam^
 ||animotvslash.nl^
 ||animusic.moe^
+||aninado.com^
 ||aninami.site^
 ||aninzb.moe^
 ||anipiece.net^
@@ -309,7 +310,6 @@
 ||cinejoy.to^
 ||cinelove.live^
 ||cinema.army^
-||cinema.bz^
 ||cinemacity.cc^
 ||cinemaos.live^
 ||cinemaos.me^
@@ -329,7 +329,7 @@
 ||cli.club^
 ||clients.md^
 ||closet-picks.com^
-||cmvstrm.lovable.app^
+||cmvv.lovable.app^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
@@ -505,7 +505,7 @@
 ||flyflix.net^
 ||flystream.net^
 ||fmstream.org^
-||foc122.asia^
+||foc123.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -718,13 +718,12 @@
 ||luciferdonghua.in^
 ||lumotv.co.uk^
 ||luna-stream.me^
-||lunaranime.ru^
+||lunarx.to^
 ||m-p.sakura.ne.jp^
 ||m2box.org^
 ||m3u-ip.tv^
 ||m3u4u.com^
 ||m4uhd.vip^
-||magicnzb.com^
 ||magyaranime.eu^
 ||main.jart^
 ||main.mp^
@@ -843,6 +842,7 @@
 ||msft-store.tplant.com.au^
 ||mtoon150.asia^
 ||mugen.karaokes.moe^
+||multi.tonkacine.watch^
 ||multishows.top^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -858,7 +858,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee110.asia^
+||namee111.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1215,6 +1215,7 @@
 ||status.animaxanime.dpdns.org^
 ||status.miruro.com^
 ||status.stremio-status.com^
+||stellar.gdn^
 ||stellar.rip^
 ||stigstream.ru^
 ||store.mangamavericks.com^
@@ -1331,7 +1332,6 @@
 ||tokyodross.blogspot.com^
 ||tomeko.net^
 ||tonkacine.watch^
-||tonkacine.xyz^
 ||toomics.com^
 ||toon-stream.site^
 ||toonamisquad.com^
@@ -1344,7 +1344,6 @@
 ||torlink.bairon.dev^
 ||torrents.youplex.site^
 ||torrentsurf.to^
-||tortuga-ceviri.com^
 ||totalsportek.st^
 ||touhou-memories.com^
 ||touhou.kuukunen.net^
@@ -1476,7 +1475,7 @@
 ||wetrakr.com^
 ||wftoon226.com^
 ||wfty.link^
-||wfwf486.com^
+||wfwf488.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -2086,6 +2085,7 @@
 ! 0.0.0.0 animezid.cam
 ! 0.0.0.0 animotvslash.nl
 ! 0.0.0.0 animusic.moe
+! 0.0.0.0 aninado.com
 ! 0.0.0.0 aninami.site
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 anipiece.net
@@ -2215,7 +2215,6 @@
 ! 0.0.0.0 cinejoy.to
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.army
-! 0.0.0.0 cinema.bz
 ! 0.0.0.0 cinemacity.cc
 ! 0.0.0.0 cinemaos.live
 ! 0.0.0.0 cinemaos.me
@@ -2235,7 +2234,7 @@
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 closet-picks.com
-! 0.0.0.0 cmvstrm.lovable.app
+! 0.0.0.0 cmvv.lovable.app
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
@@ -2411,7 +2410,7 @@
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc122.asia
+! 0.0.0.0 foc123.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2624,13 +2623,12 @@
 ! 0.0.0.0 luciferdonghua.in
 ! 0.0.0.0 lumotv.co.uk
 ! 0.0.0.0 luna-stream.me
-! 0.0.0.0 lunaranime.ru
+! 0.0.0.0 lunarx.to
 ! 0.0.0.0 m-p.sakura.ne.jp
 ! 0.0.0.0 m2box.org
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
 ! 0.0.0.0 m4uhd.vip
-! 0.0.0.0 magicnzb.com
 ! 0.0.0.0 magyaranime.eu
 ! 0.0.0.0 main.jart
 ! 0.0.0.0 main.mp
@@ -2749,6 +2747,7 @@
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mtoon150.asia
 ! 0.0.0.0 mugen.karaokes.moe
+! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -2764,7 +2763,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee110.asia
+! 0.0.0.0 namee111.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3121,6 +3120,7 @@
 ! 0.0.0.0 status.animaxanime.dpdns.org
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 status.stremio-status.com
+! 0.0.0.0 stellar.gdn
 ! 0.0.0.0 stellar.rip
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.mangamavericks.com
@@ -3237,7 +3237,6 @@
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
 ! 0.0.0.0 tonkacine.watch
-! 0.0.0.0 tonkacine.xyz
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toon-stream.site
 ! 0.0.0.0 toonamisquad.com
@@ -3250,7 +3249,6 @@
 ! 0.0.0.0 torlink.bairon.dev
 ! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 torrentsurf.to
-! 0.0.0.0 tortuga-ceviri.com
 ! 0.0.0.0 totalsportek.st
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.kuukunen.net
@@ -3382,7 +3380,7 @@
 ! 0.0.0.0 wetrakr.com
 ! 0.0.0.0 wftoon226.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf486.com
+! 0.0.0.0 wfwf488.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
