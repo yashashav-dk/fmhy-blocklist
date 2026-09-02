@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1902 domains | updated 2026-09-01T08:25:46Z
+# 1902 domains | updated 2026-09-02T07:44:15Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -205,6 +205,7 @@ anton.likesyou.org
 antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
+app.asbplayer.dev
 arabshentai.com
 arc018.stream
 arch.b4k.dev
@@ -522,7 +523,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe670.com
+funbe671.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -836,7 +837,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon150.asia
+mtoon151.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multishows.top
@@ -880,6 +881,7 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
+newxtoon1.com
 next-box.su
 nextbox.uno
 nextnovels.com
@@ -911,6 +913,7 @@ ntv.st
 ntvs.cx
 ntvx.link
 nukkard.com
+nullbeat.thevolecitor.qzz.io
 numb3rs.stream
 nuvio.tv
 nuvio.wiki
@@ -1020,7 +1023,6 @@ psychodownloads.com
 pulsedmedia.com
 puretoons.in
 pwrestling.com
-qmanga.art
 quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
@@ -1096,7 +1098,6 @@ rlsbb.cc
 rlsbb.in
 rlsbb.ru
 rlsbb.to
-rlsdb.com
 rlsxtvt.icu
 rmz.cr
 rmzmirrors.com
@@ -1198,6 +1199,7 @@ space.olamovies.dad
 sphinxanime.com
 spin.moe
 split-tv.co.il
+sportarr.net
 sportontv.click
 sportsbite.org
 sportsindx.st
@@ -1272,7 +1274,6 @@ swimrewind.com
 sync.coconono.org
 syncler.net
 synthv.info
-t4.xtoon365.com
 tachiyomiaz.apk
 tagger.site
 taiga.moe
@@ -1318,7 +1319,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor148.com
+tkor149.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1435,6 +1436,8 @@ vole.wtf
 vrx.piro.moe
 vsedoramy.ru
 vuflix.co
+vyla.cc
+vyla.qzz.io
 w1.anime4up.rest
 warezload.net
 warezomen.com
@@ -1857,15 +1860,12 @@ x3dl.net
 xalosach.com
 xdcc.eu
 xmanhua.com
-xn--9r2b17bn28a.com
-xn--9t4b31dr7o.com
 xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xullys.xyz
 xyzstreams.st
 yatoon246.asia
-yatoonlink.com
 yattatachi.com
 yenime.net
 yeshd.net

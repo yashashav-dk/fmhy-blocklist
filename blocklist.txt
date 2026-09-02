@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
-! Last updated: 2026-09-01T08:25:46Z
+! Last updated: 2026-09-02T07:44:15Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -209,6 +209,7 @@
 ||antra.hoshi.cfd^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
+||app.asbplayer.dev^
 ||arabshentai.com^
 ||arc018.stream^
 ||arch.b4k.dev^
@@ -526,7 +527,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe670.com^
+||funbe671.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||fxfx332.com^
@@ -840,7 +841,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon150.asia^
+||mtoon151.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multishows.top^
@@ -884,6 +885,7 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
+||newxtoon1.com^
 ||next-box.su^
 ||nextbox.uno^
 ||nextnovels.com^
@@ -915,6 +917,7 @@
 ||ntvs.cx^
 ||ntvx.link^
 ||nukkard.com^
+||nullbeat.thevolecitor.qzz.io^
 ||numb3rs.stream^
 ||nuvio.tv^
 ||nuvio.wiki^
@@ -1024,7 +1027,6 @@
 ||pulsedmedia.com^
 ||puretoons.in^
 ||pwrestling.com^
-||qmanga.art^
 ||quicksandscans.wordpress.com^
 ||quiz.animesongs.org^
 ||r-a-d.io^
@@ -1100,7 +1102,6 @@
 ||rlsbb.in^
 ||rlsbb.ru^
 ||rlsbb.to^
-||rlsdb.com^
 ||rlsxtvt.icu^
 ||rmz.cr^
 ||rmzmirrors.com^
@@ -1202,6 +1203,7 @@
 ||sphinxanime.com^
 ||spin.moe^
 ||split-tv.co.il^
+||sportarr.net^
 ||sportontv.click^
 ||sportsbite.org^
 ||sportsindx.st^
@@ -1276,7 +1278,6 @@
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.info^
-||t4.xtoon365.com^
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
@@ -1322,7 +1323,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor148.com^
+||tkor149.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1439,6 +1440,8 @@
 ||vrx.piro.moe^
 ||vsedoramy.ru^
 ||vuflix.co^
+||vyla.cc^
+||vyla.qzz.io^
 ||w1.anime4up.rest^
 ||warezload.net^
 ||warezomen.com^
@@ -1861,15 +1864,12 @@
 ||xalosach.com^
 ||xdcc.eu^
 ||xmanhua.com^
-||xn--9r2b17bn28a.com^
-||xn--9t4b31dr7o.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
 ||xullys.xyz^
 ||xyzstreams.st^
 ||yatoon246.asia^
-||yatoonlink.com^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -2114,6 +2114,7 @@
 ! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
+! 0.0.0.0 app.asbplayer.dev
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 arc018.stream
 ! 0.0.0.0 arch.b4k.dev
@@ -2431,7 +2432,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe670.com
+! 0.0.0.0 funbe671.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 fxfx332.com
@@ -2745,7 +2746,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon150.asia
+! 0.0.0.0 mtoon151.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multishows.top
@@ -2789,6 +2790,7 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
+! 0.0.0.0 newxtoon1.com
 ! 0.0.0.0 next-box.su
 ! 0.0.0.0 nextbox.uno
 ! 0.0.0.0 nextnovels.com
@@ -2820,6 +2822,7 @@
 ! 0.0.0.0 ntvs.cx
 ! 0.0.0.0 ntvx.link
 ! 0.0.0.0 nukkard.com
+! 0.0.0.0 nullbeat.thevolecitor.qzz.io
 ! 0.0.0.0 numb3rs.stream
 ! 0.0.0.0 nuvio.tv
 ! 0.0.0.0 nuvio.wiki
@@ -2929,7 +2932,6 @@
 ! 0.0.0.0 pulsedmedia.com
 ! 0.0.0.0 puretoons.in
 ! 0.0.0.0 pwrestling.com
-! 0.0.0.0 qmanga.art
 ! 0.0.0.0 quicksandscans.wordpress.com
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
@@ -3005,7 +3007,6 @@
 ! 0.0.0.0 rlsbb.in
 ! 0.0.0.0 rlsbb.ru
 ! 0.0.0.0 rlsbb.to
-! 0.0.0.0 rlsdb.com
 ! 0.0.0.0 rlsxtvt.icu
 ! 0.0.0.0 rmz.cr
 ! 0.0.0.0 rmzmirrors.com
@@ -3107,6 +3108,7 @@
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 split-tv.co.il
+! 0.0.0.0 sportarr.net
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsindx.st
@@ -3181,7 +3183,6 @@
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
-! 0.0.0.0 t4.xtoon365.com
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
@@ -3227,7 +3228,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor148.com
+! 0.0.0.0 tkor149.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3344,6 +3345,8 @@
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
 ! 0.0.0.0 vuflix.co
+! 0.0.0.0 vyla.cc
+! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
 ! 0.0.0.0 warezload.net
 ! 0.0.0.0 warezomen.com
@@ -3766,15 +3769,12 @@
 ! 0.0.0.0 xalosach.com
 ! 0.0.0.0 xdcc.eu
 ! 0.0.0.0 xmanhua.com
-! 0.0.0.0 xn--9r2b17bn28a.com
-! 0.0.0.0 xn--9t4b31dr7o.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yatoon246.asia
-! 0.0.0.0 yatoonlink.com
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
