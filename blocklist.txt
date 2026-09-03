@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1902 domains)
-! Last updated: 2026-09-02T07:44:15Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1910 domains)
+! Last updated: 2026-09-03T07:53:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -54,6 +54,9 @@
 ||aether.ist^
 ||aha-music.com^
 ||aidn.jp^
+||aiometadata-note.md^
+||aiometadata.elfhosted.com^
+||aiometadatafortheweak.nhyira.dev^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
 ||allcomic.noor.jp^
@@ -247,6 +250,7 @@
 ||bambooua.com^
 ||bangumi.moe^
 ||bangumi.tv^
+||banime.dedyn.io^
 ||baozimh.com^
 ||baozimh.org^
 ||basementx.pro^
@@ -307,7 +311,6 @@
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
-||cinehub.one^
 ||cinejoy.to^
 ||cinelove.live^
 ||cinema.army^
@@ -488,7 +491,6 @@
 ||fireani.me^
 ||flicker-proxy.md^
 ||flickmetrix.com^
-||flickystream.dad^
 ||flickystream.mov^
 ||fliker.freebuff.app^
 ||flixer.cx^
@@ -505,6 +507,7 @@
 ||fluxtv.co.uk^
 ||flyflix.net^
 ||flystream.net^
+||fmfau.com^
 ||fmstream.org^
 ||foc123.asia^
 ||footballia.eu^
@@ -575,6 +578,7 @@
 ||hentaijl.com^
 ||hentaila.com^
 ||hentaiukr.com^
+||hentaivn.show^
 ||hexa.su^
 ||hi10anime.com^
 ||hikka.io^
@@ -875,7 +879,6 @@
 ||nepu.io^
 ||nepu.is^
 ||nepu.net^
-||nepu.to^
 ||netnaija.film^
 ||netplayz.icu^
 ||netshows.xyz^
@@ -1074,6 +1077,10 @@
 ||redflix.club^
 ||redflix.one^
 ||redsquirrel87.com^
+||reedstreams.cc^
+||reedstreams.link^
+||reedstreams.watch^
+||reedstreams.ws^
 ||reelix.ac^
 ||refooty.com^
 ||reindex.to^
@@ -1667,6 +1674,7 @@
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
 ||www.hanmoto.com^
+||www.harbor.site^
 ||www.hdmoviez.name^
 ||www.hentai.cat^
 ||www.hentaisaturn.tv^
@@ -1869,7 +1877,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xullys.xyz^
 ||xyzstreams.st^
-||yatoon246.asia^
+||yatoon247.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1959,6 +1967,9 @@
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
+! 0.0.0.0 aiometadata-note.md
+! 0.0.0.0 aiometadata.elfhosted.com
+! 0.0.0.0 aiometadatafortheweak.nhyira.dev
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
 ! 0.0.0.0 allcomic.noor.jp
@@ -2152,6 +2163,7 @@
 ! 0.0.0.0 bambooua.com
 ! 0.0.0.0 bangumi.moe
 ! 0.0.0.0 bangumi.tv
+! 0.0.0.0 banime.dedyn.io
 ! 0.0.0.0 baozimh.com
 ! 0.0.0.0 baozimh.org
 ! 0.0.0.0 basementx.pro
@@ -2212,7 +2224,6 @@
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
-! 0.0.0.0 cinehub.one
 ! 0.0.0.0 cinejoy.to
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.army
@@ -2393,7 +2404,6 @@
 ! 0.0.0.0 fireani.me
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
-! 0.0.0.0 flickystream.dad
 ! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flixer.cx
@@ -2410,6 +2420,7 @@
 ! 0.0.0.0 fluxtv.co.uk
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
+! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 foc123.asia
 ! 0.0.0.0 footballia.eu
@@ -2480,6 +2491,7 @@
 ! 0.0.0.0 hentaijl.com
 ! 0.0.0.0 hentaila.com
 ! 0.0.0.0 hentaiukr.com
+! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hikka.io
@@ -2780,7 +2792,6 @@
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
 ! 0.0.0.0 nepu.net
-! 0.0.0.0 nepu.to
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.icu
 ! 0.0.0.0 netshows.xyz
@@ -2979,6 +2990,10 @@
 ! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
+! 0.0.0.0 reedstreams.cc
+! 0.0.0.0 reedstreams.link
+! 0.0.0.0 reedstreams.watch
+! 0.0.0.0 reedstreams.ws
 ! 0.0.0.0 reelix.ac
 ! 0.0.0.0 refooty.com
 ! 0.0.0.0 reindex.to
@@ -3572,6 +3587,7 @@
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
 ! 0.0.0.0 www.hanmoto.com
+! 0.0.0.0 www.harbor.site
 ! 0.0.0.0 www.hdmoviez.name
 ! 0.0.0.0 www.hentai.cat
 ! 0.0.0.0 www.hentaisaturn.tv
@@ -3774,7 +3790,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon246.asia
+! 0.0.0.0 yatoon247.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

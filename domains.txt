@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1902 domains | updated 2026-09-02T07:44:15Z
+# 1910 domains | updated 2026-09-03T07:53:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -50,6 +50,9 @@ aether.cx
 aether.ist
 aha-music.com
 aidn.jp
+aiometadata-note.md
+aiometadata.elfhosted.com
+aiometadatafortheweak.nhyira.dev
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
 allcomic.noor.jp
@@ -243,6 +246,7 @@ baked.live
 bambooua.com
 bangumi.moe
 bangumi.tv
+banime.dedyn.io
 baozimh.com
 baozimh.org
 basementx.pro
@@ -303,7 +307,6 @@ cineflix.fstream.app
 cinego.co
 cinegram.tv
 cinehd.app
-cinehub.one
 cinejoy.to
 cinelove.live
 cinema.army
@@ -484,7 +487,6 @@ find-movie.info
 fireani.me
 flicker-proxy.md
 flickmetrix.com
-flickystream.dad
 flickystream.mov
 fliker.freebuff.app
 flixer.cx
@@ -501,6 +503,7 @@ fluxtv.cc
 fluxtv.co.uk
 flyflix.net
 flystream.net
+fmfau.com
 fmstream.org
 foc123.asia
 footballia.eu
@@ -571,6 +574,7 @@ hentaicube.xyz
 hentaijl.com
 hentaila.com
 hentaiukr.com
+hentaivn.show
 hexa.su
 hi10anime.com
 hikka.io
@@ -871,7 +875,6 @@ nepu.app
 nepu.io
 nepu.is
 nepu.net
-nepu.to
 netnaija.film
 netplayz.icu
 netshows.xyz
@@ -1070,6 +1073,10 @@ reanime.wtf
 redflix.club
 redflix.one
 redsquirrel87.com
+reedstreams.cc
+reedstreams.link
+reedstreams.watch
+reedstreams.ws
 reelix.ac
 refooty.com
 reindex.to
@@ -1663,6 +1670,7 @@ www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
 www.hanmoto.com
+www.harbor.site
 www.hdmoviez.name
 www.hentai.cat
 www.hentaisaturn.tv
@@ -1865,7 +1873,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xullys.xyz
 xyzstreams.st
-yatoon246.asia
+yatoon247.asia
 yattatachi.com
 yenime.net
 yeshd.net
