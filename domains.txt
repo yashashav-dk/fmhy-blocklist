@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1910 domains | updated 2026-09-03T07:53:00Z
+# 1926 domains | updated 2026-09-04T07:49:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -28,8 +28,7 @@
 4search.neocities.org
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
-67movies.net
-67movies.nl
+67movies.st
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7movies.in
@@ -37,6 +36,7 @@
 7reels.cc
 80s-ova.com
 888dl.ps
+9animstv.to
 aaronperris.com
 absorbiendomangas2.blogspot.com
 acestreamid.com
@@ -82,6 +82,7 @@ anicheck.moe
 anichin.bio
 anicine.xyz
 aniclipse.com
+anidao.to
 anidap.lol
 anidb.app
 anidoor.me
@@ -181,6 +182,7 @@ animotvslash.nl
 animusic.moe
 aninado.com
 aninami.site
+anineko.to
 aninzb.moe
 anipiece.net
 aniplaylist.com
@@ -190,10 +192,13 @@ anison.fm
 anisongdb.com
 anissia.net
 anistream.one
+anitaku.online
 anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
+anivibe.live
+aniwatch.icu
 aniwaves.ru
 aniworld.to
 anixtv.in
@@ -234,6 +239,7 @@ atsu.moe
 audiovault.net
 aurorascreen.org
 avac.moe
+averotv.top
 avistaz.to
 azmovies.to
 azorafly.com
@@ -255,6 +261,7 @@ basic.pp.ua
 basketball-video.com
 basketballreplays.net
 batcave.biz
+bbflix.one
 bcine.ru
 bechdeltest.com
 bendodson.com
@@ -262,7 +269,6 @@ berekescrubs.wordpress.com
 bestsimilar.com
 beta.way2movies.live
 betterlyrics.org
-bflix.sh
 bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
@@ -372,7 +378,8 @@ cringemdb.com
 cs.rin.ru
 cubeflix.org
 cyrisia.com
-daddylive.at
+daddylive.app
+daddylive.li
 daddylive.mov
 daddylive.pk
 dailycommercials.com
@@ -489,7 +496,6 @@ flicker-proxy.md
 flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
-flixer.cx
 flixer.gd
 flixer.su
 flixhop.com
@@ -544,6 +550,7 @@ global.toptoon.com
 globeradio.app
 go.aftvnews.com
 goctruyentranh.com
+gogoanimez.cc
 goplay.ml
 goplay.su
 goradio.gr
@@ -577,6 +584,7 @@ hentaiukr.com
 hentaivn.show
 hexa.su
 hi10anime.com
+hianime.ad
 hikka.io
 hindmoviez.cafe
 hivex.stream
@@ -893,6 +901,7 @@ nfl-replays.com
 nfl-video.com
 nhattruyenqq.com
 nibl.co.uk
+nippleflix.com
 nipponsei.minglong.org
 nkiri.ink
 nmovies.cc
@@ -977,6 +986,7 @@ pahe-note.md
 pahe.ink
 palanq.win
 palco.wtf
+pantyflix.com
 partitioned-cookies.md
 pawflix.foo.ng
 pdftoshokan.com
@@ -1003,6 +1013,8 @@ plugin.php
 pop.dnslc.net
 popcornflix.com
 popcornmovies.ac
+popwatch.cc
+popwatch.to
 portableappz.blogspot.com
 portal.circle.ms
 portapps.io
@@ -1049,7 +1061,6 @@ rapidgators.net
 rar.to
 rarefilmm.com
 ravencentric.cc
-ravenflix.net
 raw-cans.net
 raw1001.net
 rawbaka.com
@@ -1172,7 +1183,6 @@ shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
-shows.st
 shuttletv.pk
 shuttletv.su
 sickfansubs.com
@@ -1203,6 +1213,7 @@ sotproxy.ext.io
 soundbound.app
 sozo.azamov.me
 space.olamovies.dad
+spacedom.live
 sphinxanime.com
 spin.moe
 split-tv.co.il
@@ -1227,6 +1238,7 @@ store.mangamavericks.com
 store.rg
 stream.gensokyoradio.net
 stream192.mp
+streamaggregator.in
 streamcorner.cloud
 streamcorner.foo
 streamcorner.fun
@@ -1277,6 +1289,7 @@ supernova.to
 sushi.net
 sushiscan.net
 suwatte.mantton.com
+svstream.cc
 swimrewind.com
 sync.coconono.org
 syncler.net
@@ -1352,7 +1365,6 @@ totalsportek.st
 touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
-toustream.xyz
 trace.moe
 trailerpunk.com
 transcripts.foreverdreaming.org
@@ -1466,6 +1478,9 @@ watchorbit.me
 watchott.org
 watchprowrestling.store
 watchreplay.net
+watchseries.bar
+watchseries.plus
+watchseries.show
 watchsports.st
 watchsports.su
 watchsurface.stream
@@ -1666,6 +1681,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
+www.goodtoon002.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1821,7 +1837,6 @@ www.tvchannellists.com
 www.tvdrama-db.com
 www.tvids.net
 www.tvids.to
-www.tvseries.in
 www.tvsubtitles.net
 www.ukgameshows.com
 www.ultimedia.com
@@ -1863,6 +1878,7 @@ www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net
 www.zophar.net
+www3.anikai.cc
 x27.html
 x3dl.net
 xalosach.com
