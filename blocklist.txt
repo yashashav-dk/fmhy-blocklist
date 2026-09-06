@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1925 domains)
-! Last updated: 2026-09-05T07:30:09Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1927 domains)
+! Last updated: 2026-09-06T07:43:56Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -33,15 +33,18 @@
 ||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
 ||67movies.st^
+||720pier.ru^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7movies.in^
+||7movies.pro^
 ||7plus.com.au^
 ||7reels.cc^
 ||80s-ova.com^
 ||888dl.ps^
 ||9animstv.to^
 ||aaronperris.com^
+||abibli.com^
 ||absorbiendomangas2.blogspot.com^
 ||acestreamid.com^
 ||acg.rip^
@@ -55,8 +58,6 @@
 ||aha-music.com^
 ||aidn.jp^
 ||aiometadata-note.md^
-||aiometadata.elfhosted.com^
-||aiometadatafortheweak.nhyira.dev^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
 ||allcomic.noor.jp^
@@ -81,6 +82,7 @@
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
 ||anica.jp^
+||anichan.net^
 ||anichart.net^
 ||anicheck.moe^
 ||anichin.bio^
@@ -159,6 +161,7 @@
 ||animerank.top^
 ||animerss.com^
 ||animes.garden^
+||animesalt.cx^
 ||animesalt.top^
 ||animeschedule.net^
 ||animesilo.cc^
@@ -239,6 +242,7 @@
 ||aside-manga.news^
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
+||atlantic.st^
 ||atsu.moe^
 ||audiovault.net^
 ||aurorascreen.org^
@@ -423,7 +427,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.casa^
+||dokiraw.diy^
 ||donghua.site^
 ||donghuastream.org^
 ||dorabash.in^
@@ -522,6 +526,7 @@
 ||foro.unionfansub.com^
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
+||framextv.tech^
 ||franime.fr^
 ||free-movies.to^
 ||freepopular.htm^
@@ -638,7 +643,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.world^
+||jmanga.email^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -771,7 +776,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.rest^
+||mangarawad.asia^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -856,11 +861,11 @@
 ||mtoon151.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
+||multiending.carrd.co^
 ||multishows.top^
 ||musicalyst.com^
 ||musichoarders.xyz^
 ||musicorumapp.com^
-||mutch.st^
 ||my9games.com^
 ||myani.org^
 ||myanime.live^
@@ -989,7 +994,6 @@
 ||pahe-note.md^
 ||pahe.ink^
 ||palanq.win^
-||palco.wtf^
 ||pantyflix.com^
 ||partitioned-cookies.md^
 ||pawflix.foo.ng^
@@ -1069,7 +1073,7 @@
 ||raw1001.net^
 ||rawbaka.com^
 ||rawdevart.art^
-||rawfree.luxe^
+||rawfree.buzz^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1220,7 +1224,6 @@
 ||spacedom.live^
 ||sphinxanime.com^
 ||spin.moe^
-||split-tv.co.il^
 ||sportarr.net^
 ||sportontv.click^
 ||sportsbite.org^
@@ -1258,8 +1261,6 @@
 ||streamic.st^
 ||streaming-integrale.com^
 ||streamingunity.dog^
-||streamninja.cloud^
-||streamninja.fun^
 ||streamo.pro^
 ||streamsports99.ru^
 ||streamsports99.su^
@@ -1530,7 +1531,6 @@
 ||www.1flex.org^
 ||www.1shows.org^
 ||www.1tube.org^
-||www.2025copy.com^
 ||www.23qb.net^
 ||www.3cat.cat^
 ||www.55comic.com^
@@ -1607,6 +1607,7 @@
 ||www.bimiacg.icu^
 ||www.bimiacg14.net^
 ||www.bingeclock.com^
+||www.bingey.cfd^
 ||www.bintv.cc^
 ||www.bintv.link^
 ||www.boredflix.tv^
@@ -1627,6 +1628,7 @@
 ||www.comichron.com^
 ||www.continuityguide.net^
 ||www.copy20.com^
+||www.copy4000.com^
 ||www.crossinfworld.com^
 ||www.cxtv.com.br^
 ||www.cxtvlive.com^
@@ -1674,6 +1676,7 @@
 ||www.freeintertv.com^
 ||www.funniermoments.net^
 ||www.furinkan.com^
+||www.futbol-x.xyz^
 ||www.fzmovies.live^
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
@@ -1760,7 +1763,6 @@
 ||www.musicbutler.io^
 ||www.myepisodes.com^
 ||www.myfonts.com^
-||www.mynimeku.com^
 ||www.myshinytoyrobots.com^
 ||www.naijavault.com^
 ||www.nautiljon.com^
@@ -1961,15 +1963,18 @@
 ! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
 ! 0.0.0.0 67movies.st
+! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7movies.in
+! 0.0.0.0 7movies.pro
 ! 0.0.0.0 7plus.com.au
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 888dl.ps
 ! 0.0.0.0 9animstv.to
 ! 0.0.0.0 aaronperris.com
+! 0.0.0.0 abibli.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
 ! 0.0.0.0 acestreamid.com
 ! 0.0.0.0 acg.rip
@@ -1983,8 +1988,6 @@
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 aiometadata-note.md
-! 0.0.0.0 aiometadata.elfhosted.com
-! 0.0.0.0 aiometadatafortheweak.nhyira.dev
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
 ! 0.0.0.0 allcomic.noor.jp
@@ -2009,6 +2012,7 @@
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
 ! 0.0.0.0 anica.jp
+! 0.0.0.0 anichan.net
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
@@ -2087,6 +2091,7 @@
 ! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animes.garden
+! 0.0.0.0 animesalt.cx
 ! 0.0.0.0 animesalt.top
 ! 0.0.0.0 animeschedule.net
 ! 0.0.0.0 animesilo.cc
@@ -2167,6 +2172,7 @@
 ! 0.0.0.0 aside-manga.news
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
+! 0.0.0.0 atlantic.st
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
 ! 0.0.0.0 aurorascreen.org
@@ -2351,7 +2357,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.casa
+! 0.0.0.0 dokiraw.diy
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2450,6 +2456,7 @@
 ! 0.0.0.0 foro.unionfansub.com
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
+! 0.0.0.0 framextv.tech
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
 ! 0.0.0.0 freepopular.htm
@@ -2566,7 +2573,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.world
+! 0.0.0.0 jmanga.email
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2699,7 +2706,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.rest
+! 0.0.0.0 mangarawad.asia
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2784,11 +2791,11 @@
 ! 0.0.0.0 mtoon151.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
+! 0.0.0.0 multiending.carrd.co
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
 ! 0.0.0.0 musicorumapp.com
-! 0.0.0.0 mutch.st
 ! 0.0.0.0 my9games.com
 ! 0.0.0.0 myani.org
 ! 0.0.0.0 myanime.live
@@ -2917,7 +2924,6 @@
 ! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
-! 0.0.0.0 palco.wtf
 ! 0.0.0.0 pantyflix.com
 ! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 pawflix.foo.ng
@@ -2997,7 +3003,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.com
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.luxe
+! 0.0.0.0 rawfree.buzz
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3148,7 +3154,6 @@
 ! 0.0.0.0 spacedom.live
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
-! 0.0.0.0 split-tv.co.il
 ! 0.0.0.0 sportarr.net
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
@@ -3186,8 +3191,6 @@
 ! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streamingunity.dog
-! 0.0.0.0 streamninja.cloud
-! 0.0.0.0 streamninja.fun
 ! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
@@ -3458,7 +3461,6 @@
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1shows.org
 ! 0.0.0.0 www.1tube.org
-! 0.0.0.0 www.2025copy.com
 ! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
 ! 0.0.0.0 www.55comic.com
@@ -3535,6 +3537,7 @@
 ! 0.0.0.0 www.bimiacg.icu
 ! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
+! 0.0.0.0 www.bingey.cfd
 ! 0.0.0.0 www.bintv.cc
 ! 0.0.0.0 www.bintv.link
 ! 0.0.0.0 www.boredflix.tv
@@ -3555,6 +3558,7 @@
 ! 0.0.0.0 www.comichron.com
 ! 0.0.0.0 www.continuityguide.net
 ! 0.0.0.0 www.copy20.com
+! 0.0.0.0 www.copy4000.com
 ! 0.0.0.0 www.crossinfworld.com
 ! 0.0.0.0 www.cxtv.com.br
 ! 0.0.0.0 www.cxtvlive.com
@@ -3602,6 +3606,7 @@
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
 ! 0.0.0.0 www.furinkan.com
+! 0.0.0.0 www.futbol-x.xyz
 ! 0.0.0.0 www.fzmovies.live
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
@@ -3688,7 +3693,6 @@
 ! 0.0.0.0 www.musicbutler.io
 ! 0.0.0.0 www.myepisodes.com
 ! 0.0.0.0 www.myfonts.com
-! 0.0.0.0 www.mynimeku.com
 ! 0.0.0.0 www.myshinytoyrobots.com
 ! 0.0.0.0 www.naijavault.com
 ! 0.0.0.0 www.nautiljon.com

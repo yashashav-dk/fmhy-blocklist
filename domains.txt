@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1925 domains | updated 2026-09-05T07:30:09Z
+# 1927 domains | updated 2026-09-06T07:43:56Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -29,15 +29,18 @@
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
 67movies.st
+720pier.ru
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7movies.in
+7movies.pro
 7plus.com.au
 7reels.cc
 80s-ova.com
 888dl.ps
 9animstv.to
 aaronperris.com
+abibli.com
 absorbiendomangas2.blogspot.com
 acestreamid.com
 acg.rip
@@ -51,8 +54,6 @@ aether.ist
 aha-music.com
 aidn.jp
 aiometadata-note.md
-aiometadata.elfhosted.com
-aiometadatafortheweak.nhyira.dev
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
 allcomic.noor.jp
@@ -77,6 +78,7 @@ anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
 anica.jp
+anichan.net
 anichart.net
 anicheck.moe
 anichin.bio
@@ -155,6 +157,7 @@ animeradio.de
 animerank.top
 animerss.com
 animes.garden
+animesalt.cx
 animesalt.top
 animeschedule.net
 animesilo.cc
@@ -235,6 +238,7 @@ asiamediablog.com
 aside-manga.news
 at4klauncher.com
 atisket.pulsewidth.org.uk
+atlantic.st
 atsu.moe
 audiovault.net
 aurorascreen.org
@@ -419,7 +423,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.casa
+dokiraw.diy
 donghua.site
 donghuastream.org
 dorabash.in
@@ -518,6 +522,7 @@ fooyin.org
 foro.unionfansub.com
 forum.mobilism.org
 foundfootagecritic.com
+framextv.tech
 franime.fr
 free-movies.to
 freepopular.htm
@@ -634,7 +639,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.world
+jmanga.email
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -767,7 +772,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.rest
+mangarawad.asia
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -852,11 +857,11 @@ msft-store.tplant.com.au
 mtoon151.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
+multiending.carrd.co
 multishows.top
 musicalyst.com
 musichoarders.xyz
 musicorumapp.com
-mutch.st
 my9games.com
 myani.org
 myanime.live
@@ -985,7 +990,6 @@ overtakefans.com
 pahe-note.md
 pahe.ink
 palanq.win
-palco.wtf
 pantyflix.com
 partitioned-cookies.md
 pawflix.foo.ng
@@ -1065,7 +1069,7 @@ raw-cans.net
 raw1001.net
 rawbaka.com
 rawdevart.art
-rawfree.luxe
+rawfree.buzz
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1216,7 +1220,6 @@ space.olamovies.dad
 spacedom.live
 sphinxanime.com
 spin.moe
-split-tv.co.il
 sportarr.net
 sportontv.click
 sportsbite.org
@@ -1254,8 +1257,6 @@ streamgoblin.com
 streamic.st
 streaming-integrale.com
 streamingunity.dog
-streamninja.cloud
-streamninja.fun
 streamo.pro
 streamsports99.ru
 streamsports99.su
@@ -1526,7 +1527,6 @@ wwv.veranimes.net
 www.1flex.org
 www.1shows.org
 www.1tube.org
-www.2025copy.com
 www.23qb.net
 www.3cat.cat
 www.55comic.com
@@ -1603,6 +1603,7 @@ www.best-moviez.ws
 www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
+www.bingey.cfd
 www.bintv.cc
 www.bintv.link
 www.boredflix.tv
@@ -1623,6 +1624,7 @@ www.comicbooktreasury.com
 www.comichron.com
 www.continuityguide.net
 www.copy20.com
+www.copy4000.com
 www.crossinfworld.com
 www.cxtv.com.br
 www.cxtvlive.com
@@ -1670,6 +1672,7 @@ www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
+www.futbol-x.xyz
 www.fzmovies.live
 www.gamingalexandria.com
 www.gestdown.info
@@ -1756,7 +1759,6 @@ www.music-map.com
 www.musicbutler.io
 www.myepisodes.com
 www.myfonts.com
-www.mynimeku.com
 www.myshinytoyrobots.com
 www.naijavault.com
 www.nautiljon.com
