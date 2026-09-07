@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1927 domains | updated 2026-09-06T07:43:56Z
+# 1925 domains | updated 2026-09-07T08:03:20Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -53,7 +53,6 @@ aether.cx
 aether.ist
 aha-music.com
 aidn.jp
-aiometadata-note.md
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
 allcomic.noor.jp
@@ -310,7 +309,6 @@ chikianimation.com
 chikianimation.online
 chillflix.lol
 cine.su
-cinebolt.org
 cinebytv-note.md
 cinebytv.com
 cineflix.fstream.app
@@ -438,7 +436,7 @@ dramaday.me
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenuv.com
+dualeotruyenlr.com
 dubolt.com
 due.moe
 dulo.cx
@@ -1332,7 +1330,6 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timst.cfd
 timstreams.st
 tioanime.com
 tiodonghua.com
@@ -1509,6 +1506,7 @@ wiki.hayase.watch
 wiki.servarr.com
 wikiflix.toolforge.org
 wikizilla.org
+willow.arlen.icu
 willowmovies.com
 witanime.you
 withsubtitles.com

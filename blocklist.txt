@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1927 domains)
-! Last updated: 2026-09-06T07:43:56Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1925 domains)
+! Last updated: 2026-09-07T08:03:20Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -57,7 +57,6 @@
 ||aether.ist^
 ||aha-music.com^
 ||aidn.jp^
-||aiometadata-note.md^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
 ||allcomic.noor.jp^
@@ -314,7 +313,6 @@
 ||chikianimation.online^
 ||chillflix.lol^
 ||cine.su^
-||cinebolt.org^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cineflix.fstream.app^
@@ -442,7 +440,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenuv.com^
+||dualeotruyenlr.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.cx^
@@ -1336,7 +1334,6 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
-||timst.cfd^
 ||timstreams.st^
 ||tioanime.com^
 ||tiodonghua.com^
@@ -1513,6 +1510,7 @@
 ||wiki.servarr.com^
 ||wikiflix.toolforge.org^
 ||wikizilla.org^
+||willow.arlen.icu^
 ||willowmovies.com^
 ||witanime.you^
 ||withsubtitles.com^
@@ -1987,7 +1985,6 @@
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
-! 0.0.0.0 aiometadata-note.md
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
 ! 0.0.0.0 allcomic.noor.jp
@@ -2244,7 +2241,6 @@
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 cine.su
-! 0.0.0.0 cinebolt.org
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cineflix.fstream.app
@@ -2372,7 +2368,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenuv.com
+! 0.0.0.0 dualeotruyenlr.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.cx
@@ -3266,7 +3262,6 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
-! 0.0.0.0 timst.cfd
 ! 0.0.0.0 timstreams.st
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
@@ -3443,6 +3438,7 @@
 ! 0.0.0.0 wiki.servarr.com
 ! 0.0.0.0 wikiflix.toolforge.org
 ! 0.0.0.0 wikizilla.org
+! 0.0.0.0 willow.arlen.icu
 ! 0.0.0.0 willowmovies.com
 ! 0.0.0.0 witanime.you
 ! 0.0.0.0 withsubtitles.com
