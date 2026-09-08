@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1925 domains)
-! Last updated: 2026-09-07T08:03:20Z
+! Last updated: 2026-09-08T07:55:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -9,7 +9,7 @@
 ||0115765.com^
 ||0xdb.org^
 ||1024teradl.com^
-||123animes.ru^
+||123animehub.cc^
 ||123movie.app^
 ||123wrestling.com^
 ||128kbps.pls^
@@ -17,7 +17,6 @@
 ||13thdimension.com^
 ||143190.xyz^
 ||1ani.me^
-||1ball.pk^
 ||1ddl.org^
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
@@ -517,7 +516,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc123.asia^
+||foc124.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -592,6 +591,7 @@
 ||hexa.su^
 ||hi10anime.com^
 ||hianime.ad^
+||hianimes.ru^
 ||hikka.io^
 ||hindmoviez.cafe^
 ||hivex.stream^
@@ -693,6 +693,7 @@
 ||korsite.net^
 ||koryo.tv^
 ||krdl.moe^
+||kstream.kdesabiz.workers.dev^
 ||kudos.wiki^
 ||kuramanime.red^
 ||kuroanime.lol^
@@ -874,7 +875,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee111.asia^
+||namee112.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1036,6 +1037,7 @@
 ||primewire.nexus^
 ||primewire.zip^
 ||prodlist.php^
+||projectjust.xyz^
 ||proxer.me^
 ||psa.wf^
 ||pstream.cfd^
@@ -1608,7 +1610,6 @@
 ||www.bingey.cfd^
 ||www.bintv.cc^
 ||www.bintv.link^
-||www.boredflix.tv^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
 ||www.byutv.org^
@@ -1753,7 +1754,7 @@
 ||www.movieloci.com^
 ||www.moviemistakes.com^
 ||www.moviestowatch.top^
-||www.movy.bz^
+||www.movy.sx^
 ||www.mrqe.com^
 ||www.muitohentai.com^
 ||www.mundodonghua.com^
@@ -1890,7 +1891,6 @@
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
-||xullys.xyz^
 ||xyzstreams.st^
 ||yatoon248.asia^
 ||yattatachi.com^
@@ -1937,7 +1937,7 @@
 ! 0.0.0.0 0115765.com
 ! 0.0.0.0 0xdb.org
 ! 0.0.0.0 1024teradl.com
-! 0.0.0.0 123animes.ru
+! 0.0.0.0 123animehub.cc
 ! 0.0.0.0 123movie.app
 ! 0.0.0.0 123wrestling.com
 ! 0.0.0.0 128kbps.pls
@@ -1945,7 +1945,6 @@
 ! 0.0.0.0 13thdimension.com
 ! 0.0.0.0 143190.xyz
 ! 0.0.0.0 1ani.me
-! 0.0.0.0 1ball.pk
 ! 0.0.0.0 1ddl.org
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
@@ -2445,7 +2444,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc123.asia
+! 0.0.0.0 foc124.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2520,6 +2519,7 @@
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hianime.ad
+! 0.0.0.0 hianimes.ru
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
 ! 0.0.0.0 hivex.stream
@@ -2621,6 +2621,7 @@
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
 ! 0.0.0.0 krdl.moe
+! 0.0.0.0 kstream.kdesabiz.workers.dev
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
 ! 0.0.0.0 kuroanime.lol
@@ -2802,7 +2803,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee111.asia
+! 0.0.0.0 namee112.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2964,6 +2965,7 @@
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
+! 0.0.0.0 projectjust.xyz
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 psa.wf
 ! 0.0.0.0 pstream.cfd
@@ -3536,7 +3538,6 @@
 ! 0.0.0.0 www.bingey.cfd
 ! 0.0.0.0 www.bintv.cc
 ! 0.0.0.0 www.bintv.link
-! 0.0.0.0 www.boredflix.tv
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
 ! 0.0.0.0 www.byutv.org
@@ -3681,7 +3682,7 @@
 ! 0.0.0.0 www.movieloci.com
 ! 0.0.0.0 www.moviemistakes.com
 ! 0.0.0.0 www.moviestowatch.top
-! 0.0.0.0 www.movy.bz
+! 0.0.0.0 www.movy.sx
 ! 0.0.0.0 www.mrqe.com
 ! 0.0.0.0 www.muitohentai.com
 ! 0.0.0.0 www.mundodonghua.com
@@ -3818,7 +3819,6 @@
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
-! 0.0.0.0 xullys.xyz
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yatoon248.asia
 ! 0.0.0.0 yattatachi.com

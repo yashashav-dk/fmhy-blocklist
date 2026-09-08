@@ -1,11 +1,11 @@
 # FMHY Binge Blocker — plain domain list
-# 1925 domains | updated 2026-09-07T08:03:20Z
+# 1925 domains | updated 2026-09-08T07:55:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
 0xdb.org
 1024teradl.com
-123animes.ru
+123animehub.cc
 123movie.app
 123wrestling.com
 128kbps.pls
@@ -13,7 +13,6 @@
 13thdimension.com
 143190.xyz
 1ani.me
-1ball.pk
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
@@ -513,7 +512,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc123.asia
+foc124.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -588,6 +587,7 @@ hentaivn.show
 hexa.su
 hi10anime.com
 hianime.ad
+hianimes.ru
 hikka.io
 hindmoviez.cafe
 hivex.stream
@@ -689,6 +689,7 @@ kool.to
 korsite.net
 koryo.tv
 krdl.moe
+kstream.kdesabiz.workers.dev
 kudos.wiki
 kuramanime.red
 kuroanime.lol
@@ -870,7 +871,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee111.asia
+namee112.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1032,6 +1033,7 @@ ppvs.pk
 primewire.nexus
 primewire.zip
 prodlist.php
+projectjust.xyz
 proxer.me
 psa.wf
 pstream.cfd
@@ -1604,7 +1606,6 @@ www.bingeclock.com
 www.bingey.cfd
 www.bintv.cc
 www.bintv.link
-www.boredflix.tv
 www.brokensilenze.net
 www.bumpworthy.com
 www.byutv.org
@@ -1749,7 +1750,7 @@ www.movie-locations.com
 www.movieloci.com
 www.moviemistakes.com
 www.moviestowatch.top
-www.movy.bz
+www.movy.sx
 www.mrqe.com
 www.muitohentai.com
 www.mundodonghua.com
@@ -1886,7 +1887,6 @@ xmanhua.com
 xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
-xullys.xyz
 xyzstreams.st
 yatoon248.asia
 yattatachi.com
