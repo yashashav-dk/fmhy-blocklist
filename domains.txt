@@ -1,12 +1,12 @@
 # FMHY Binge Blocker — plain domain list
-# 1925 domains | updated 2026-09-08T07:55:03Z
+# 1921 domains | updated 2026-09-09T07:57:35Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
 0xdb.org
 1024teradl.com
 123animehub.cc
-123movie.app
+123moviesfree.club
 123wrestling.com
 128kbps.pls
 1337x.to
@@ -23,7 +23,7 @@
 321movies.xyz
 35mm.online
 3asq.online
-4khdhub.link
+4khdhub.one
 4search.neocities.org
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
@@ -171,7 +171,6 @@ animetudes.com
 animetv-jp.net
 animeua.club
 animeuknews.net
-animevilla.in
 animevilla.org
 animevost.org
 animevsub.eu.org
@@ -186,7 +185,7 @@ anineko.to
 aninzb.moe
 anipiece.net
 aniplaylist.com
-anisnatch.p1y.top
+anisnatch.site
 anisnatch.top
 anison.fm
 anisongdb.com
@@ -308,6 +307,7 @@ chikianimation.com
 chikianimation.online
 chillflix.lol
 cine.su
+cineby.gdn
 cinebytv-note.md
 cinebytv.com
 cineflix.fstream.app
@@ -323,7 +323,6 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemove.cc
-cinepro.fstream.app
 cinestream.kje.us
 cinetaro.to
 cinetimes.org
@@ -332,7 +331,6 @@ cinevaro.app
 cinevibe.to
 ciniverse.site
 circle.ms
-cksub.org
 cli.club
 clients.md
 closet-picks.com
@@ -409,8 +407,8 @@ directory.html
 dl-raw.si
 dl-zip.com
 dlhd.st
-dlraw.app
 dlraw.net
+dlraw.tv
 dmhy.org
 dmtalkies.com
 doblatgeanimecatala.blogspot.com
@@ -422,6 +420,7 @@ docs.squidify.org
 docs.wyzie.ru
 dokiraw.diy
 donghua.site
+donghua4k.net
 donghuastream.org
 dorabash.in
 doubledouble.top
@@ -529,12 +528,11 @@ freetvgarden.com
 freetvz.com
 french-anime.com
 frixysubs.pl
-frtoon5.com
 fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe672.com
+funbe673.com
 furaba-animeseichi.blog.jp
 futon.wtf
 fxfx332.com
@@ -642,7 +640,6 @@ jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
 jukebox.today
-justanime.site
 justanime.to
 justsubtitles.com
 k.thekirastreams.workers.dev
@@ -653,7 +650,6 @@ kara.moe
 kartoons.me
 katworld.net
 katzddl.net
-kawaii-anime.com
 kawaiianime.cc
 kawaiimanga.org
 kayoanime.com
@@ -848,6 +844,7 @@ movieparadise.org
 moviepire.org
 moviepooper.com
 movies.php
+moviescenemap.com
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
@@ -945,10 +942,10 @@ nzbstars.com
 oceanveil.net
 odcrawler.xyz
 odesli.co
+officialmoviebox.com
 ogladajanime.pl
 oha.to
 ohli24.net
-okanime.tv
 olamovies.dad
 old.klz9.com
 old.yummyani.me
@@ -968,7 +965,7 @@ onhockey.tv
 onionplay.st
 onisaga.com
 onoflix.com
-onoflix.ru
+onoflix.live
 open-slum.org
 openscrobbler.com
 opensourcealternative.to
@@ -1067,7 +1064,7 @@ rarefilmm.com
 ravencentric.cc
 raw-cans.net
 raw1001.net
-rawbaka.com
+rawbaka.site
 rawdevart.art
 rawfree.buzz
 rawinstant.net
@@ -1320,7 +1317,6 @@ theintrodb.org
 thejadednetwork.com
 thelongbox.net
 themes.moe
-themoviebox.org
 themoviespoiler.com
 thepiratebay.org
 theshowgrid.com
@@ -1338,7 +1334,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor150.com
+tkor151.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
