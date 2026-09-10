@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1921 domains | updated 2026-09-09T07:57:35Z
+# 1921 domains | updated 2026-09-10T07:57:34Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -67,7 +67,6 @@ amvenfer.fr
 amvnews.ru
 an1me.to
 andlibria.qt
-ani.lol
 ani4u.org
 anianimals.moe
 anianimax.dpdns.org
@@ -156,7 +155,6 @@ animerank.top
 animerss.com
 animes.garden
 animesalt.cx
-animesalt.top
 animeschedule.net
 animesilo.cc
 animesongs.org
@@ -198,7 +196,7 @@ anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
 anivibe.live
-aniwatch.icu
+aniwatchtv.cx
 aniwaves.ru
 aniworld.to
 anixtv.in
@@ -256,8 +254,8 @@ bangumi.tv
 banime.dedyn.io
 baozimh.com
 baozimh.org
+basementx.lol
 basementx.pro
-basementx.xyz
 basic.pp.ua
 basketball-video.com
 basketballreplays.net
@@ -310,7 +308,6 @@ cine.su
 cineby.gdn
 cinebytv-note.md
 cinebytv.com
-cineflix.fstream.app
 cinego.co
 cinegram.tv
 cinehd.app
@@ -375,7 +372,6 @@ crichd.at
 crimsonfansubs.com
 cringemdb.com
 cs.rin.ru
-cubeflix.org
 cyrisia.com
 daddylive.app
 daddylive.li
@@ -406,7 +402,7 @@ diostream.cc
 directory.html
 dl-raw.si
 dl-zip.com
-dlhd.st
+dlhd.sx
 dlraw.net
 dlraw.tv
 dmhy.org
@@ -416,6 +412,7 @@ docchi.pl
 docln.net
 docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
+docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.ru
 dokiraw.diy
@@ -431,6 +428,7 @@ dpan.tv
 dramacooli.buzz
 dramacountdown.com
 dramaday.me
+dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
@@ -482,6 +480,7 @@ fansubs.ru
 fantasticsoda.com
 fbstream.cc
 fcast.org
+ffmovies.org
 filmcave.ru
 filmfans.org
 filmo.platfo.es
@@ -529,12 +528,14 @@ freetvz.com
 french-anime.com
 frixysubs.pl
 fsharetv.co
+fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
 funbe673.com
 furaba-animeseichi.blog.jp
 futon.wtf
+futxtv.indevs.in
 fxfx332.com
 gadgeteer.co.za
 gaiaflix.live
@@ -543,7 +544,7 @@ gensokyoradio.net
 getcomics.org
 getlibation.com
 getwacup.com
-ggflix.live
+ggflix.pro
 git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
@@ -567,6 +568,7 @@ guides.viren070.me
 guidetv.live
 halcyonrealms.com
 hanime1.me
+harbor.elfhosted.com
 hardcover.app
 harmony.pulsewidth.org.uk
 hayase.watch
@@ -642,7 +644,6 @@ jpopsuki.fm
 jukebox.today
 justanime.to
 justsubtitles.com
-k.thekirastreams.workers.dev
 kaa.lt
 kagane.org
 kagane.to
@@ -671,8 +672,8 @@ kisskh.dk
 kisskh.fr
 kisskh.id
 kisskh.is
+kisskh.or.at
 kisskh.ovh
-kisskh.red
 kitsunekko.net
 kmmovies.shop
 kmreader.everpcpc.com
@@ -725,6 +726,8 @@ lrclib.net
 lrepacks.net
 lucida.to
 luciferdonghua.in
+luffytv.live
+luffytv.online
 lumotv.co.uk
 luna-stream.me
 lunarx.to
@@ -805,6 +808,7 @@ midloop.net
 mikanani.me
 mikudb.moe
 mindmine.audiobook
+miraianime.net
 mirrors.st
 miru.js.org
 miruro.bz
@@ -1253,7 +1257,7 @@ streamfree.top
 streamgoblin.com
 streamic.st
 streaming-integrale.com
-streamingunity.dog
+streamingunity.vip
 streamo.pro
 streamsports99.ru
 streamsports99.su
@@ -1266,11 +1270,10 @@ stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.pl
 strmd.link
-strmfree.link
 strumyk.domains
 strumyk.pk
 sub-scene.com
-sub.wyzie.ru
+sub.wyzie.io
 subconverter.com
 sublimemusic.app
 submarinerapp.com
@@ -1301,7 +1304,6 @@ tap4sport.ci
 tap4sport.link
 tap4sport.pw
 tap4sport.st
-tape.xyz
 tauonmusicbox.rocks
 tennojim.xyz
 terabox.hnn.workers.dev
@@ -1309,7 +1311,7 @@ terafetch.com
 tfpdl.se
 tfpdl.to
 thebarchive.com
-thecinefy.site
+thecinefy.online
 thecriterioncloset.com
 thedigitaltheater.com
 theindex.moe
@@ -1386,7 +1388,7 @@ tvcharts.co
 tvexplorer.live
 tvids.me
 tvnow.st
-tvnow247.today
+tvnow247.top
 tvsboy.com
 tvshows.ac
 tvshows4mobile.org
@@ -1473,8 +1475,6 @@ watchorbit.me
 watchott.org
 watchprowrestling.store
 watchreplay.net
-watchseries.bar
-watchseries.plus
 watchseries.show
 watchsports.st
 watchsports.su
@@ -1510,12 +1510,11 @@ witanime.you
 withsubtitles.com
 wiztorrent.com
 wjungle.net
-worldfree4u.moe
+worldfree4u.gd
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
 wtwt335.com
-ww1-fmovies.com
 ww1.goojara.to
 ww1.yesmovies.ag
 ww14.kissasian.com.lv
@@ -1649,7 +1648,7 @@ www.eyedex.org
 www.fansub.id
 www.fansubs.cat
 www.fawanews.sc
-www.fctv33.lat
+www.fctv33hd.bar
 www.fender.com
 www.fileeagle.com
 www.filepuma.com
@@ -1667,6 +1666,8 @@ www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
+www.futbol-x.sryze.cc
+www.futbol-x.top
 www.futbol-x.xyz
 www.fzmovies.live
 www.gamingalexandria.com
@@ -1678,12 +1679,11 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon002.com
+www.goodtoon003.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
 www.hanmoto.com
-www.harbor.site
 www.hdmoviez.name
 www.hentai.cat
 www.hentaisaturn.tv
@@ -1884,7 +1884,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
-yatoon248.asia
+yatoon249.asia
 yattatachi.com
 yenime.net
 yeshd.net
