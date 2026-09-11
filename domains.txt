@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1921 domains | updated 2026-09-10T07:57:34Z
+# 1919 domains | updated 2026-09-11T07:53:28Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -207,7 +207,6 @@ anizone.to
 annas-archive.gl
 annict.com
 anonops.com
-anton.likesyou.org
 antra.hoshi.cfd
 apexmovies.net
 app.animevsub.eu.org
@@ -1116,7 +1115,6 @@ ristohentai.com
 rivestream.ru
 rivestream.vip
 rizzking.org
-rizzking.xo.je
 rlsbb.cc
 rlsbb.in
 rlsbb.ru

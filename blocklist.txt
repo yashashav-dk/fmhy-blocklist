@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1921 domains)
-! Last updated: 2026-09-10T07:57:34Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1919 domains)
+! Last updated: 2026-09-11T07:53:28Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -211,7 +211,6 @@
 ||annas-archive.gl^
 ||annict.com^
 ||anonops.com^
-||anton.likesyou.org^
 ||antra.hoshi.cfd^
 ||apexmovies.net^
 ||app.animevsub.eu.org^
@@ -1120,7 +1119,6 @@
 ||rivestream.ru^
 ||rivestream.vip^
 ||rizzking.org^
-||rizzking.xo.je^
 ||rlsbb.cc^
 ||rlsbb.in^
 ||rlsbb.ru^
@@ -2135,7 +2133,6 @@
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
-! 0.0.0.0 anton.likesyou.org
 ! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 apexmovies.net
 ! 0.0.0.0 app.animevsub.eu.org
@@ -3044,7 +3041,6 @@
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rivestream.vip
 ! 0.0.0.0 rizzking.org
-! 0.0.0.0 rizzking.xo.je
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
 ! 0.0.0.0 rlsbb.ru
