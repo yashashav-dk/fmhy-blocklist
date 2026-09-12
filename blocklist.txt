@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1919 domains)
-! Last updated: 2026-09-11T07:53:28Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1918 domains)
+! Last updated: 2026-09-12T07:46:05Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -79,7 +79,7 @@
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
 ||anica.jp^
-||anichan.net^
+||anichan.to^
 ||anichart.net^
 ||anicheck.moe^
 ||anichin.bio^
@@ -311,6 +311,7 @@
 ||cineby.gdn^
 ||cinebytv-note.md^
 ||cinebytv.com^
+||cinefork.net^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
@@ -405,7 +406,7 @@
 ||directory.html^
 ||dl-raw.si^
 ||dl-zip.com^
-||dlhd.sx^
+||dlive.sx^
 ||dlraw.net^
 ||dlraw.tv^
 ||dmhy.org^
@@ -438,7 +439,6 @@
 ||dualeotruyenlr.com^
 ||dubolt.com^
 ||due.moe^
-||dulo.cx^
 ||dumanwu.com^
 ||dw-anime.net^
 ||e.html^
@@ -926,7 +926,7 @@
 ||novel.sumikko.info^
 ||novelasligeras.net^
 ||novera.tv^
-||noxx.to^
+||noxx.gg^
 ||nsk.sh^
 ||ntv.cx^
 ||ntv.st^
@@ -1004,8 +1004,7 @@
 ||phonofilm.net^
 ||piratexplay.cc^
 ||piratexplay.com^
-||pitsport.live^
-||pixeldrain-bypass.gamedrive.to^
+||pitsport.st^
 ||planete-bd.org^
 ||plappa.me^
 ||player.xtra.wtf^
@@ -1034,6 +1033,7 @@
 ||ppv.tj^
 ||ppv.to^
 ||ppvs.pk^
+||pressplayz.to^
 ||primewire.nexus^
 ||primewire.zip^
 ||prodlist.php^
@@ -1092,7 +1092,6 @@
 ||redflix.club^
 ||redflix.one^
 ||redsquirrel87.com^
-||reedstreams.cc^
 ||reedstreams.link^
 ||reedstreams.watch^
 ||reedstreams.ws^
@@ -1671,7 +1670,6 @@
 ||www.futbol-x.sryze.cc^
 ||www.futbol-x.top^
 ||www.futbol-x.xyz^
-||www.fzmovies.live^
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
@@ -1724,7 +1722,6 @@
 ||www.lo4d.com^
 ||www.lpebk.com^
 ||www.lycoris.cafe^
-||www.lyrical-nonsense.com^
 ||www.mal-badges.com^
 ||www.manga-passion.de^
 ||www.manga-zone.org^
@@ -1828,6 +1825,7 @@
 ||www.toontales.net^
 ||www.totsrucs.cat^
 ||www.tranimeizle.co^
+||www.tsdm39.com^
 ||www.turkanime.tv^
 ||www.turnipsoft.com^
 ||www.tuxedounmasked.com^
@@ -1843,6 +1841,7 @@
 ||www.usagi.org^
 ||www.usenet-crawler.com^
 ||www.uta-net.com^
+||www.utatime.com^
 ||www.uwe-sieber.de^
 ||www.vgmpf.com^
 ||www.viki.com^
@@ -2001,7 +2000,7 @@
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
 ! 0.0.0.0 anica.jp
-! 0.0.0.0 anichan.net
+! 0.0.0.0 anichan.to
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
 ! 0.0.0.0 anichin.bio
@@ -2233,6 +2232,7 @@
 ! 0.0.0.0 cineby.gdn
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
+! 0.0.0.0 cinefork.net
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
@@ -2327,7 +2327,7 @@
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dl-raw.si
 ! 0.0.0.0 dl-zip.com
-! 0.0.0.0 dlhd.sx
+! 0.0.0.0 dlive.sx
 ! 0.0.0.0 dlraw.net
 ! 0.0.0.0 dlraw.tv
 ! 0.0.0.0 dmhy.org
@@ -2360,7 +2360,6 @@
 ! 0.0.0.0 dualeotruyenlr.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
-! 0.0.0.0 dulo.cx
 ! 0.0.0.0 dumanwu.com
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
@@ -2848,7 +2847,7 @@
 ! 0.0.0.0 novel.sumikko.info
 ! 0.0.0.0 novelasligeras.net
 ! 0.0.0.0 novera.tv
-! 0.0.0.0 noxx.to
+! 0.0.0.0 noxx.gg
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
 ! 0.0.0.0 ntv.st
@@ -2926,8 +2925,7 @@
 ! 0.0.0.0 phonofilm.net
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
-! 0.0.0.0 pitsport.live
-! 0.0.0.0 pixeldrain-bypass.gamedrive.to
+! 0.0.0.0 pitsport.st
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 player.xtra.wtf
@@ -2956,6 +2954,7 @@
 ! 0.0.0.0 ppv.tj
 ! 0.0.0.0 ppv.to
 ! 0.0.0.0 ppvs.pk
+! 0.0.0.0 pressplayz.to
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
@@ -3014,7 +3013,6 @@
 ! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
-! 0.0.0.0 reedstreams.cc
 ! 0.0.0.0 reedstreams.link
 ! 0.0.0.0 reedstreams.watch
 ! 0.0.0.0 reedstreams.ws
@@ -3593,7 +3591,6 @@
 ! 0.0.0.0 www.futbol-x.sryze.cc
 ! 0.0.0.0 www.futbol-x.top
 ! 0.0.0.0 www.futbol-x.xyz
-! 0.0.0.0 www.fzmovies.live
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
@@ -3646,7 +3643,6 @@
 ! 0.0.0.0 www.lo4d.com
 ! 0.0.0.0 www.lpebk.com
 ! 0.0.0.0 www.lycoris.cafe
-! 0.0.0.0 www.lyrical-nonsense.com
 ! 0.0.0.0 www.mal-badges.com
 ! 0.0.0.0 www.manga-passion.de
 ! 0.0.0.0 www.manga-zone.org
@@ -3750,6 +3746,7 @@
 ! 0.0.0.0 www.toontales.net
 ! 0.0.0.0 www.totsrucs.cat
 ! 0.0.0.0 www.tranimeizle.co
+! 0.0.0.0 www.tsdm39.com
 ! 0.0.0.0 www.turkanime.tv
 ! 0.0.0.0 www.turnipsoft.com
 ! 0.0.0.0 www.tuxedounmasked.com
@@ -3765,6 +3762,7 @@
 ! 0.0.0.0 www.usagi.org
 ! 0.0.0.0 www.usenet-crawler.com
 ! 0.0.0.0 www.uta-net.com
+! 0.0.0.0 www.utatime.com
 ! 0.0.0.0 www.uwe-sieber.de
 ! 0.0.0.0 www.vgmpf.com
 ! 0.0.0.0 www.viki.com

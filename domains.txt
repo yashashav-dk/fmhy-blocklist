@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1919 domains | updated 2026-09-11T07:53:28Z
+# 1918 domains | updated 2026-09-12T07:46:05Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -75,7 +75,7 @@ anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
 anica.jp
-anichan.net
+anichan.to
 anichart.net
 anicheck.moe
 anichin.bio
@@ -307,6 +307,7 @@ cine.su
 cineby.gdn
 cinebytv-note.md
 cinebytv.com
+cinefork.net
 cinego.co
 cinegram.tv
 cinehd.app
@@ -401,7 +402,7 @@ diostream.cc
 directory.html
 dl-raw.si
 dl-zip.com
-dlhd.sx
+dlive.sx
 dlraw.net
 dlraw.tv
 dmhy.org
@@ -434,7 +435,6 @@ duafile.net
 dualeotruyenlr.com
 dubolt.com
 due.moe
-dulo.cx
 dumanwu.com
 dw-anime.net
 e.html
@@ -922,7 +922,7 @@ novanon.net
 novel.sumikko.info
 novelasligeras.net
 novera.tv
-noxx.to
+noxx.gg
 nsk.sh
 ntv.cx
 ntv.st
@@ -1000,8 +1000,7 @@ phi-phenomenon.org
 phonofilm.net
 piratexplay.cc
 piratexplay.com
-pitsport.live
-pixeldrain-bypass.gamedrive.to
+pitsport.st
 planete-bd.org
 plappa.me
 player.xtra.wtf
@@ -1030,6 +1029,7 @@ ppv.st
 ppv.tj
 ppv.to
 ppvs.pk
+pressplayz.to
 primewire.nexus
 primewire.zip
 prodlist.php
@@ -1088,7 +1088,6 @@ reanime.wtf
 redflix.club
 redflix.one
 redsquirrel87.com
-reedstreams.cc
 reedstreams.link
 reedstreams.watch
 reedstreams.ws
@@ -1667,7 +1666,6 @@ www.furinkan.com
 www.futbol-x.sryze.cc
 www.futbol-x.top
 www.futbol-x.xyz
-www.fzmovies.live
 www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com
@@ -1720,7 +1718,6 @@ www.littleakiba.ch
 www.lo4d.com
 www.lpebk.com
 www.lycoris.cafe
-www.lyrical-nonsense.com
 www.mal-badges.com
 www.manga-passion.de
 www.manga-zone.org
@@ -1824,6 +1821,7 @@ www.toonamiremastered.com
 www.toontales.net
 www.totsrucs.cat
 www.tranimeizle.co
+www.tsdm39.com
 www.turkanime.tv
 www.turnipsoft.com
 www.tuxedounmasked.com
@@ -1839,6 +1837,7 @@ www.uruworks.net
 www.usagi.org
 www.usenet-crawler.com
 www.uta-net.com
+www.utatime.com
 www.uwe-sieber.de
 www.vgmpf.com
 www.viki.com
