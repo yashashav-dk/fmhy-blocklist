@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1918 domains | updated 2026-09-12T07:46:05Z
+# 1922 domains | updated 2026-09-13T08:06:49Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -358,6 +358,7 @@ comicskingdom.com
 comix.to
 commodore.software
 commons.wikimedia
+community.bisafans.de
 condensedaudiocatalog.com
 cooljapanportal.com
 coolmic.me
@@ -415,7 +416,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.diy
+dokiraw.im
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -531,7 +532,7 @@ fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe673.com
+funbe674.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -656,6 +657,7 @@ kayoanime.com
 kazemakase.wjg.jp
 kazora.cc
 kcnawatch.us
+kdesa.app
 kdesa.stream
 kesifasya.com
 ketto.com
@@ -666,6 +668,7 @@ kids-in-mind.com
 kimoitv.com
 kindlemodding.org
 kissasian.video
+kisskh.club
 kisskh.co
 kisskh.dk
 kisskh.fr
@@ -685,7 +688,6 @@ kool.to
 korsite.net
 koryo.tv
 krdl.moe
-kstream.kdesabiz.workers.dev
 kudos.wiki
 kuramanime.red
 kuroanime.lol
@@ -769,7 +771,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.asia
+mangarawad.diy
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -864,6 +866,7 @@ musicorumapp.com
 my9games.com
 myani.org
 myanime.live
+myasiantv.com.bz
 mydublist.com
 myfluneo.eu
 mygully.com
@@ -1069,7 +1072,7 @@ raw-cans.net
 raw1001.net
 rawbaka.site
 rawdevart.art
-rawfree.buzz
+rawfree.mom
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1168,7 +1171,7 @@ seed.musichoarders.xyz
 sekai.one
 sekai.rl404.com
 senpuu.com.br
-senshi.live
+senshi.to
 seriesgraph.com
 seriesvault.org
 seriesvault.win
@@ -1327,13 +1330,13 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timstreams.st
+timst.cfd
 tioanime.com
 tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor151.com
+tkor152.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1514,8 +1517,8 @@ wowtopix.com
 wtwt335.com
 ww1.goojara.to
 ww1.yesmovies.ag
-ww14.kissasian.com.lv
 wwv.veranimes.net
+wwv21.kissasian.com.lv
 www.1flex.org
 www.1shows.org
 www.1tube.org
@@ -1675,7 +1678,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon003.com
+www.goodtoon004.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1912,6 +1915,7 @@ zeepubs.wordpress.com
 zekozimo.blogspot.com
 zencine.org
 zenko.online
+zenox.lol
 zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live

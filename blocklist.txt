@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1918 domains)
-! Last updated: 2026-09-12T07:46:05Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1922 domains)
+! Last updated: 2026-09-13T08:06:49Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -362,6 +362,7 @@
 ||comix.to^
 ||commodore.software^
 ||commons.wikimedia^
+||community.bisafans.de^
 ||condensedaudiocatalog.com^
 ||cooljapanportal.com^
 ||coolmic.me^
@@ -419,7 +420,7 @@
 ||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.diy^
+||dokiraw.im^
 ||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
@@ -535,7 +536,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe673.com^
+||funbe674.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -660,6 +661,7 @@
 ||kazemakase.wjg.jp^
 ||kazora.cc^
 ||kcnawatch.us^
+||kdesa.app^
 ||kdesa.stream^
 ||kesifasya.com^
 ||ketto.com^
@@ -670,6 +672,7 @@
 ||kimoitv.com^
 ||kindlemodding.org^
 ||kissasian.video^
+||kisskh.club^
 ||kisskh.co^
 ||kisskh.dk^
 ||kisskh.fr^
@@ -689,7 +692,6 @@
 ||korsite.net^
 ||koryo.tv^
 ||krdl.moe^
-||kstream.kdesabiz.workers.dev^
 ||kudos.wiki^
 ||kuramanime.red^
 ||kuroanime.lol^
@@ -773,7 +775,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.asia^
+||mangarawad.diy^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -868,6 +870,7 @@
 ||my9games.com^
 ||myani.org^
 ||myanime.live^
+||myasiantv.com.bz^
 ||mydublist.com^
 ||myfluneo.eu^
 ||mygully.com^
@@ -1073,7 +1076,7 @@
 ||raw1001.net^
 ||rawbaka.site^
 ||rawdevart.art^
-||rawfree.buzz^
+||rawfree.mom^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1172,7 +1175,7 @@
 ||sekai.one^
 ||sekai.rl404.com^
 ||senpuu.com.br^
-||senshi.live^
+||senshi.to^
 ||seriesgraph.com^
 ||seriesvault.org^
 ||seriesvault.win^
@@ -1331,13 +1334,13 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
-||timstreams.st^
+||timst.cfd^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor151.com^
+||tkor152.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1518,8 +1521,8 @@
 ||wtwt335.com^
 ||ww1.goojara.to^
 ||ww1.yesmovies.ag^
-||ww14.kissasian.com.lv^
 ||wwv.veranimes.net^
+||wwv21.kissasian.com.lv^
 ||www.1flex.org^
 ||www.1shows.org^
 ||www.1tube.org^
@@ -1679,7 +1682,7 @@
 ||www.gokuhd.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
-||www.goodtoon003.com^
+||www.goodtoon004.com^
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
@@ -1916,6 +1919,7 @@
 ||zekozimo.blogspot.com^
 ||zencine.org^
 ||zenko.online^
+||zenox.lol^
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
 ||zetmoon.live^
@@ -2283,6 +2287,7 @@
 ! 0.0.0.0 comix.to
 ! 0.0.0.0 commodore.software
 ! 0.0.0.0 commons.wikimedia
+! 0.0.0.0 community.bisafans.de
 ! 0.0.0.0 condensedaudiocatalog.com
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
@@ -2340,7 +2345,7 @@
 ! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.diy
+! 0.0.0.0 dokiraw.im
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
@@ -2456,7 +2461,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe673.com
+! 0.0.0.0 funbe674.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2581,6 +2586,7 @@
 ! 0.0.0.0 kazemakase.wjg.jp
 ! 0.0.0.0 kazora.cc
 ! 0.0.0.0 kcnawatch.us
+! 0.0.0.0 kdesa.app
 ! 0.0.0.0 kdesa.stream
 ! 0.0.0.0 kesifasya.com
 ! 0.0.0.0 ketto.com
@@ -2591,6 +2597,7 @@
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kissasian.video
+! 0.0.0.0 kisskh.club
 ! 0.0.0.0 kisskh.co
 ! 0.0.0.0 kisskh.dk
 ! 0.0.0.0 kisskh.fr
@@ -2610,7 +2617,6 @@
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
 ! 0.0.0.0 krdl.moe
-! 0.0.0.0 kstream.kdesabiz.workers.dev
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
 ! 0.0.0.0 kuroanime.lol
@@ -2694,7 +2700,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.asia
+! 0.0.0.0 mangarawad.diy
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2789,6 +2795,7 @@
 ! 0.0.0.0 my9games.com
 ! 0.0.0.0 myani.org
 ! 0.0.0.0 myanime.live
+! 0.0.0.0 myasiantv.com.bz
 ! 0.0.0.0 mydublist.com
 ! 0.0.0.0 myfluneo.eu
 ! 0.0.0.0 mygully.com
@@ -2994,7 +3001,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.site
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.buzz
+! 0.0.0.0 rawfree.mom
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3093,7 +3100,7 @@
 ! 0.0.0.0 sekai.one
 ! 0.0.0.0 sekai.rl404.com
 ! 0.0.0.0 senpuu.com.br
-! 0.0.0.0 senshi.live
+! 0.0.0.0 senshi.to
 ! 0.0.0.0 seriesgraph.com
 ! 0.0.0.0 seriesvault.org
 ! 0.0.0.0 seriesvault.win
@@ -3252,13 +3259,13 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
-! 0.0.0.0 timstreams.st
+! 0.0.0.0 timst.cfd
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor151.com
+! 0.0.0.0 tkor152.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3439,8 +3446,8 @@
 ! 0.0.0.0 wtwt335.com
 ! 0.0.0.0 ww1.goojara.to
 ! 0.0.0.0 ww1.yesmovies.ag
-! 0.0.0.0 ww14.kissasian.com.lv
 ! 0.0.0.0 wwv.veranimes.net
+! 0.0.0.0 wwv21.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1shows.org
 ! 0.0.0.0 www.1tube.org
@@ -3600,7 +3607,7 @@
 ! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
-! 0.0.0.0 www.goodtoon003.com
+! 0.0.0.0 www.goodtoon004.com
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
@@ -3837,6 +3844,7 @@
 ! 0.0.0.0 zekozimo.blogspot.com
 ! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenko.online
+! 0.0.0.0 zenox.lol
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zetmoon.live
