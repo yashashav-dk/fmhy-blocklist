@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1922 domains | updated 2026-09-13T08:06:49Z
+# 1924 domains | updated 2026-09-14T08:40:56Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -307,6 +307,7 @@ cine.su
 cineby.gdn
 cinebytv-note.md
 cinebytv.com
+cinecat.eu
 cinefork.net
 cinego.co
 cinegram.tv
@@ -1752,6 +1753,7 @@ www.music-map.com
 www.musicbutler.io
 www.myepisodes.com
 www.myfonts.com
+www.mynimeku.com
 www.myshinytoyrobots.com
 www.naijavault.com
 www.nautiljon.com
