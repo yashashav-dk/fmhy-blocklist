@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1924 domains | updated 2026-09-14T08:40:56Z
+# 1928 domains | updated 2026-09-15T08:29:08Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -309,6 +309,7 @@ cinebytv-note.md
 cinebytv.com
 cinecat.eu
 cinefork.net
+cinefy.cc
 cinego.co
 cinegram.tv
 cinehd.app
@@ -332,7 +333,8 @@ circle.ms
 cli.club
 clients.md
 closet-picks.com
-cmvv.lovable.app
+cmvlinks.lovable.app
+cmvsp.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -511,7 +513,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc124.asia
+foc125.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -638,7 +640,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.email
+jmanga.cyou
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -680,6 +682,7 @@ kisskh.ovh
 kitsunekko.net
 kmmovies.shop
 kmreader.everpcpc.com
+kodasusaka.com
 kofi.mov
 komiic.com
 komikindo.ch
@@ -856,7 +859,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon151.asia
+mtoon153.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -875,7 +878,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee112.asia
+namee113.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1035,6 +1038,7 @@ ppv.to
 ppvs.pk
 pressplayz.to
 primewire.nexus
+primewire.pw
 primewire.zip
 prodlist.php
 projectjust.xyz
@@ -1093,6 +1097,7 @@ redflix.club
 redflix.one
 redsquirrel87.com
 reedstreams.link
+reedstreams.to
 reedstreams.watch
 reedstreams.ws
 reelix.ac
@@ -1258,6 +1263,7 @@ streamfree.top
 streamgoblin.com
 streamic.st
 streaming-integrale.com
+streaming.cineverse.com
 streamingunity.vip
 streamo.pro
 streamsports99.ru
@@ -1312,7 +1318,6 @@ terafetch.com
 tfpdl.se
 tfpdl.to
 thebarchive.com
-thecinefy.online
 thecriterioncloset.com
 thedigitaltheater.com
 theindex.moe
@@ -1886,7 +1891,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
-yatoon249.asia
+yatoon250.asia
 yattatachi.com
 yenime.net
 yeshd.net
@@ -1923,6 +1928,5 @@ zerostream.alwaysdata.net
 zetmoon.live
 zflix.me
 zlive.st
-zstream.mov
 zxcprime.icu
 zxpinstaller.com

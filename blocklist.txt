@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1924 domains)
-! Last updated: 2026-09-14T08:40:56Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1928 domains)
+! Last updated: 2026-09-15T08:29:08Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -313,6 +313,7 @@
 ||cinebytv.com^
 ||cinecat.eu^
 ||cinefork.net^
+||cinefy.cc^
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
@@ -336,7 +337,8 @@
 ||cli.club^
 ||clients.md^
 ||closet-picks.com^
-||cmvv.lovable.app^
+||cmvlinks.lovable.app^
+||cmvsp.lovable.app^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
@@ -515,7 +517,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc124.asia^
+||foc125.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -642,7 +644,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.email^
+||jmanga.cyou^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -684,6 +686,7 @@
 ||kitsunekko.net^
 ||kmmovies.shop^
 ||kmreader.everpcpc.com^
+||kodasusaka.com^
 ||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
@@ -860,7 +863,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon151.asia^
+||mtoon153.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -879,7 +882,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee112.asia^
+||namee113.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1039,6 +1042,7 @@
 ||ppvs.pk^
 ||pressplayz.to^
 ||primewire.nexus^
+||primewire.pw^
 ||primewire.zip^
 ||prodlist.php^
 ||projectjust.xyz^
@@ -1097,6 +1101,7 @@
 ||redflix.one^
 ||redsquirrel87.com^
 ||reedstreams.link^
+||reedstreams.to^
 ||reedstreams.watch^
 ||reedstreams.ws^
 ||reelix.ac^
@@ -1262,6 +1267,7 @@
 ||streamgoblin.com^
 ||streamic.st^
 ||streaming-integrale.com^
+||streaming.cineverse.com^
 ||streamingunity.vip^
 ||streamo.pro^
 ||streamsports99.ru^
@@ -1316,7 +1322,6 @@
 ||tfpdl.se^
 ||tfpdl.to^
 ||thebarchive.com^
-||thecinefy.online^
 ||thecriterioncloset.com^
 ||thedigitaltheater.com^
 ||theindex.moe^
@@ -1890,7 +1895,7 @@
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
-||yatoon249.asia^
+||yatoon250.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1927,7 +1932,6 @@
 ||zetmoon.live^
 ||zflix.me^
 ||zlive.st^
-||zstream.mov^
 ||zxcprime.icu^
 ||zxpinstaller.com^
 !
@@ -2240,6 +2244,7 @@
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
 ! 0.0.0.0 cinefork.net
+! 0.0.0.0 cinefy.cc
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
@@ -2263,7 +2268,8 @@
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 closet-picks.com
-! 0.0.0.0 cmvv.lovable.app
+! 0.0.0.0 cmvlinks.lovable.app
+! 0.0.0.0 cmvsp.lovable.app
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
@@ -2442,7 +2448,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc124.asia
+! 0.0.0.0 foc125.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2569,7 +2575,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.email
+! 0.0.0.0 jmanga.cyou
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2611,6 +2617,7 @@
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmreader.everpcpc.com
+! 0.0.0.0 kodasusaka.com
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
@@ -2787,7 +2794,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon151.asia
+! 0.0.0.0 mtoon153.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2806,7 +2813,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee112.asia
+! 0.0.0.0 namee113.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2966,6 +2973,7 @@
 ! 0.0.0.0 ppvs.pk
 ! 0.0.0.0 pressplayz.to
 ! 0.0.0.0 primewire.nexus
+! 0.0.0.0 primewire.pw
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
 ! 0.0.0.0 projectjust.xyz
@@ -3024,6 +3032,7 @@
 ! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 reedstreams.link
+! 0.0.0.0 reedstreams.to
 ! 0.0.0.0 reedstreams.watch
 ! 0.0.0.0 reedstreams.ws
 ! 0.0.0.0 reelix.ac
@@ -3189,6 +3198,7 @@
 ! 0.0.0.0 streamgoblin.com
 ! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming-integrale.com
+! 0.0.0.0 streaming.cineverse.com
 ! 0.0.0.0 streamingunity.vip
 ! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamsports99.ru
@@ -3243,7 +3253,6 @@
 ! 0.0.0.0 tfpdl.se
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 thebarchive.com
-! 0.0.0.0 thecinefy.online
 ! 0.0.0.0 thecriterioncloset.com
 ! 0.0.0.0 thedigitaltheater.com
 ! 0.0.0.0 theindex.moe
@@ -3817,7 +3826,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon249.asia
+! 0.0.0.0 yatoon250.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
@@ -3854,6 +3863,5 @@
 ! 0.0.0.0 zetmoon.live
 ! 0.0.0.0 zflix.me
 ! 0.0.0.0 zlive.st
-! 0.0.0.0 zstream.mov
 ! 0.0.0.0 zxcprime.icu
 ! 0.0.0.0 zxpinstaller.com
