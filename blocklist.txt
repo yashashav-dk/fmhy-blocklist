@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1928 domains)
-! Last updated: 2026-09-15T08:29:08Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1926 domains)
+! Last updated: 2026-09-16T08:23:10Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -539,7 +539,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe674.com^
+||funbe675.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -1346,7 +1346,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor152.com^
+||tkor153.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1357,9 +1357,9 @@
 ||tomeko.net^
 ||tonkacine.watch^
 ||toomics.com^
-||toon-stream.site^
 ||toonamisquad.com^
 ||toonhub4u.co^
+||toonstream.vip^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
 ||topsrs.day^
@@ -1422,7 +1422,6 @@
 ||utaitedb.net^
 ||utaten.com^
 ||v13.anidub.digital^
-||v2.animesultra.org^
 ||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
@@ -1736,7 +1735,6 @@
 ||www.manga-zone.org^
 ||www.mangacodex.com^
 ||www.mangadraft.com^
-||www.mangakawaii.io^
 ||www.mangasplaining.com^
 ||www.mangaworld.mx^
 ||www.mangaworldadult.net^
@@ -1895,7 +1893,7 @@
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
-||yatoon250.asia^
+||yatoon251.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -2470,7 +2468,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe674.com
+! 0.0.0.0 funbe675.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -3277,7 +3275,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor152.com
+! 0.0.0.0 tkor153.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3288,9 +3286,9 @@
 ! 0.0.0.0 tomeko.net
 ! 0.0.0.0 tonkacine.watch
 ! 0.0.0.0 toomics.com
-! 0.0.0.0 toon-stream.site
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.co
+! 0.0.0.0 toonstream.vip
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf
 ! 0.0.0.0 topsrs.day
@@ -3353,7 +3351,6 @@
 ! 0.0.0.0 utaitedb.net
 ! 0.0.0.0 utaten.com
 ! 0.0.0.0 v13.anidub.digital
-! 0.0.0.0 v2.animesultra.org
 ! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
@@ -3667,7 +3664,6 @@
 ! 0.0.0.0 www.manga-zone.org
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
-! 0.0.0.0 www.mangakawaii.io
 ! 0.0.0.0 www.mangasplaining.com
 ! 0.0.0.0 www.mangaworld.mx
 ! 0.0.0.0 www.mangaworldadult.net
@@ -3826,7 +3822,7 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon250.asia
+! 0.0.0.0 yatoon251.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

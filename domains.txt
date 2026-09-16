@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1928 domains | updated 2026-09-15T08:29:08Z
+# 1926 domains | updated 2026-09-16T08:23:10Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -535,7 +535,7 @@ fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe674.com
+funbe675.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -1342,7 +1342,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor152.com
+tkor153.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1353,9 +1353,9 @@ tokyodross.blogspot.com
 tomeko.net
 tonkacine.watch
 toomics.com
-toon-stream.site
 toonamisquad.com
 toonhub4u.co
+toonstream.vip
 toonworld4all.me
 top.xdmovies.wtf
 topsrs.day
@@ -1418,7 +1418,6 @@ utaite-key.info
 utaitedb.net
 utaten.com
 v13.anidub.digital
-v2.animesultra.org
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
@@ -1732,7 +1731,6 @@ www.manga-passion.de
 www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
-www.mangakawaii.io
 www.mangasplaining.com
 www.mangaworld.mx
 www.mangaworldadult.net
@@ -1891,7 +1889,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
-yatoon250.asia
+yatoon251.asia
 yattatachi.com
 yenime.net
 yeshd.net
