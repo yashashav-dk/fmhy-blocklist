@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1926 domains)
-! Last updated: 2026-09-16T08:23:10Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1930 domains)
+! Last updated: 2026-09-17T08:29:00Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -35,8 +35,7 @@
 ||720pier.ru^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
-||7movies.in^
-||7movies.pro^
+||7movies.ac^
 ||7plus.com.au^
 ||7reels.cc^
 ||80s-ova.com^
@@ -183,7 +182,6 @@
 ||animusic.moe^
 ||aninado.com^
 ||aninami.site^
-||anineko.to^
 ||aninzb.moe^
 ||anipiece.net^
 ||aniplaylist.com^
@@ -309,6 +307,7 @@
 ||chillflix.lol^
 ||cine.su^
 ||cineby.gdn^
+||cineby.smoviesx.workers.dev^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -317,7 +316,7 @@
 ||cinego.co^
 ||cinegram.tv^
 ||cinehd.app^
-||cinejoy.to^
+||cinejoy.pk^
 ||cinelove.live^
 ||cinema.army^
 ||cinemacity.cc^
@@ -326,7 +325,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemove.cc^
-||cinestream.kje.us^
+||cinestream.studio^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -433,14 +432,13 @@
 ||doujinstyle.com^
 ||download.duafile.com^
 ||dpan.tv^
-||dramacooli.buzz^
 ||dramacountdown.com^
 ||dramaday.me^
 ||dramafren.org^
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenlr.com^
+||dualeotruyenwk.com^
 ||dubolt.com^
 ||due.moe^
 ||dumanwu.com^
@@ -517,7 +515,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc125.asia^
+||foc126.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -546,6 +544,7 @@
 ||fxfx332.com^
 ||gadgeteer.co.za^
 ||gaiaflix.live^
+||gataket.com^
 ||geekdot.live^
 ||gensokyoradio.net^
 ||getcomics.org^
@@ -882,7 +881,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee113.asia^
+||namee114.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1177,6 +1176,7 @@
 ||search.bgmss.fun^
 ||search.extto.com^
 ||search.php^
+||search.streamcheck.pro^
 ||seed.musichoarders.xyz^
 ||sekai.one^
 ||sekai.rl404.com^
@@ -1544,6 +1544,7 @@
 ||www.agedm.io^
 ||www.ageratingjuju.com^
 ||www.aimp.ru^
+||www.akaboo.jp^
 ||www.akross.ru^
 ||www.allcinema.net^
 ||www.allthebestfights.com^
@@ -1625,6 +1626,8 @@
 ||www.comicbookherald.com^
 ||www.comicbooktreasury.com^
 ||www.comichron.com^
+||www.comiket.co.jp^
+||www.comitia.co.jp^
 ||www.continuityguide.net^
 ||www.copy20.com^
 ||www.copy4000.com^
@@ -1878,6 +1881,7 @@
 ||www.yfanefa.com^
 ||www.yinhuadm.cc^
 ||www.yomu-reader.com^
+||www.youyou.co.jp^
 ||www.yoyomanga.com^
 ||www.zazamanga.com^
 ||www.zimmerit.moe^
@@ -1964,8 +1968,7 @@
 ! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
-! 0.0.0.0 7movies.in
-! 0.0.0.0 7movies.pro
+! 0.0.0.0 7movies.ac
 ! 0.0.0.0 7plus.com.au
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
@@ -2112,7 +2115,6 @@
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 aninado.com
 ! 0.0.0.0 aninami.site
-! 0.0.0.0 anineko.to
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 anipiece.net
 ! 0.0.0.0 aniplaylist.com
@@ -2238,6 +2240,7 @@
 ! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 cine.su
 ! 0.0.0.0 cineby.gdn
+! 0.0.0.0 cineby.smoviesx.workers.dev
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
@@ -2246,7 +2249,7 @@
 ! 0.0.0.0 cinego.co
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.app
-! 0.0.0.0 cinejoy.to
+! 0.0.0.0 cinejoy.pk
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.army
 ! 0.0.0.0 cinemacity.cc
@@ -2255,7 +2258,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
-! 0.0.0.0 cinestream.kje.us
+! 0.0.0.0 cinestream.studio
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2362,14 +2365,13 @@
 ! 0.0.0.0 doujinstyle.com
 ! 0.0.0.0 download.duafile.com
 ! 0.0.0.0 dpan.tv
-! 0.0.0.0 dramacooli.buzz
 ! 0.0.0.0 dramacountdown.com
 ! 0.0.0.0 dramaday.me
 ! 0.0.0.0 dramafren.org
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenlr.com
+! 0.0.0.0 dualeotruyenwk.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dumanwu.com
@@ -2446,7 +2448,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc125.asia
+! 0.0.0.0 foc126.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2475,6 +2477,7 @@
 ! 0.0.0.0 fxfx332.com
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
+! 0.0.0.0 gataket.com
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 getcomics.org
@@ -2811,7 +2814,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee113.asia
+! 0.0.0.0 namee114.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3106,6 +3109,7 @@
 ! 0.0.0.0 search.bgmss.fun
 ! 0.0.0.0 search.extto.com
 ! 0.0.0.0 search.php
+! 0.0.0.0 search.streamcheck.pro
 ! 0.0.0.0 seed.musichoarders.xyz
 ! 0.0.0.0 sekai.one
 ! 0.0.0.0 sekai.rl404.com
@@ -3473,6 +3477,7 @@
 ! 0.0.0.0 www.agedm.io
 ! 0.0.0.0 www.ageratingjuju.com
 ! 0.0.0.0 www.aimp.ru
+! 0.0.0.0 www.akaboo.jp
 ! 0.0.0.0 www.akross.ru
 ! 0.0.0.0 www.allcinema.net
 ! 0.0.0.0 www.allthebestfights.com
@@ -3554,6 +3559,8 @@
 ! 0.0.0.0 www.comicbookherald.com
 ! 0.0.0.0 www.comicbooktreasury.com
 ! 0.0.0.0 www.comichron.com
+! 0.0.0.0 www.comiket.co.jp
+! 0.0.0.0 www.comitia.co.jp
 ! 0.0.0.0 www.continuityguide.net
 ! 0.0.0.0 www.copy20.com
 ! 0.0.0.0 www.copy4000.com
@@ -3807,6 +3814,7 @@
 ! 0.0.0.0 www.yfanefa.com
 ! 0.0.0.0 www.yinhuadm.cc
 ! 0.0.0.0 www.yomu-reader.com
+! 0.0.0.0 www.youyou.co.jp
 ! 0.0.0.0 www.yoyomanga.com
 ! 0.0.0.0 www.zazamanga.com
 ! 0.0.0.0 www.zimmerit.moe

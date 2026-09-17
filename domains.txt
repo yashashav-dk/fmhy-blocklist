@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1926 domains | updated 2026-09-16T08:23:10Z
+# 1930 domains | updated 2026-09-17T08:29:00Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -31,8 +31,7 @@
 720pier.ru
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
-7movies.in
-7movies.pro
+7movies.ac
 7plus.com.au
 7reels.cc
 80s-ova.com
@@ -179,7 +178,6 @@ animotvslash.nl
 animusic.moe
 aninado.com
 aninami.site
-anineko.to
 aninzb.moe
 anipiece.net
 aniplaylist.com
@@ -305,6 +303,7 @@ chikianimation.online
 chillflix.lol
 cine.su
 cineby.gdn
+cineby.smoviesx.workers.dev
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
@@ -313,7 +312,7 @@ cinefy.cc
 cinego.co
 cinegram.tv
 cinehd.app
-cinejoy.to
+cinejoy.pk
 cinelove.live
 cinema.army
 cinemacity.cc
@@ -322,7 +321,7 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemove.cc
-cinestream.kje.us
+cinestream.studio
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -429,14 +428,13 @@ doujindownloader.com
 doujinstyle.com
 download.duafile.com
 dpan.tv
-dramacooli.buzz
 dramacountdown.com
 dramaday.me
 dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenlr.com
+dualeotruyenwk.com
 dubolt.com
 due.moe
 dumanwu.com
@@ -513,7 +511,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc125.asia
+foc126.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -542,6 +540,7 @@ futxtv.indevs.in
 fxfx332.com
 gadgeteer.co.za
 gaiaflix.live
+gataket.com
 geekdot.live
 gensokyoradio.net
 getcomics.org
@@ -878,7 +877,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee113.asia
+namee114.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1173,6 +1172,7 @@ search-ace.stream
 search.bgmss.fun
 search.extto.com
 search.php
+search.streamcheck.pro
 seed.musichoarders.xyz
 sekai.one
 sekai.rl404.com
@@ -1540,6 +1540,7 @@ www.aftvnews.com
 www.agedm.io
 www.ageratingjuju.com
 www.aimp.ru
+www.akaboo.jp
 www.akross.ru
 www.allcinema.net
 www.allthebestfights.com
@@ -1621,6 +1622,8 @@ www.classreal.com
 www.comicbookherald.com
 www.comicbooktreasury.com
 www.comichron.com
+www.comiket.co.jp
+www.comitia.co.jp
 www.continuityguide.net
 www.copy20.com
 www.copy4000.com
@@ -1874,6 +1877,7 @@ www.xmanagerapp.com
 www.yfanefa.com
 www.yinhuadm.cc
 www.yomu-reader.com
+www.youyou.co.jp
 www.yoyomanga.com
 www.zazamanga.com
 www.zimmerit.moe
