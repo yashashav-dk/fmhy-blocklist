@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1930 domains | updated 2026-09-18T08:03:27Z
+# 1924 domains | updated 2026-09-19T07:53:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -234,6 +234,7 @@ atlantic.st
 atsu.moe
 audiovault.net
 aurorascreen.org
+av1core.cyou
 avac.moe
 averotv.top
 avistaz.to
@@ -321,7 +322,6 @@ cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemove.cc
-cinestream.studio
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -418,7 +418,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.ru
-dokiraw.im
+dokiraw.click
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -511,7 +511,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc126.asia
+foc127.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -639,7 +639,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.cyou
+jmanga.actor
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -774,15 +774,14 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.diy
+mangarawad.beer
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
 manhuabika.com
 mannavi.net
 manta.net
-mappl.tv
-mapple.tv
+mapple.fun
 martinbarker.me
 marvelguides.com
 marvelreading.com
@@ -877,7 +876,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee114.asia
+namee115.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -903,10 +902,7 @@ news.tokunation.com
 news.xml
 newstream.html
 newxtoon1.com
-next-box.su
-nextbox.uno
 nextnovels.com
-nextwork.cc
 nfl-replays.com
 nfl-video.com
 nhattruyenqq.com
@@ -1076,7 +1072,7 @@ raw-cans.net
 raw1001.net
 rawbaka.site
 rawdevart.art
-rawfree.mom
+rawfree.pics
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1824,7 +1820,6 @@ www.the-classic-movies.com
 www.theoasg.com
 www.thewutangcollection.com
 www.theyshootpictures.com
-www.todaytvseries6.com
 www.tokyoinsider.com
 www.tokyotosho.info
 www.toonamiaftermath.com
@@ -1840,7 +1835,6 @@ www.tvchannellists.com
 www.tvdrama-db.com
 www.tvids.net
 www.tvids.to
-www.tvsubtitles.net
 www.ukgameshows.com
 www.ultimedia.com
 www.unrealircd.org

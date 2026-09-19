@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1930 domains)
-! Last updated: 2026-09-18T08:03:27Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1924 domains)
+! Last updated: 2026-09-19T07:53:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -238,6 +238,7 @@
 ||atsu.moe^
 ||audiovault.net^
 ||aurorascreen.org^
+||av1core.cyou^
 ||avac.moe^
 ||averotv.top^
 ||avistaz.to^
@@ -325,7 +326,6 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemove.cc^
-||cinestream.studio^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -422,7 +422,7 @@
 ||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.ru^
-||dokiraw.im^
+||dokiraw.click^
 ||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
@@ -515,7 +515,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc126.asia^
+||foc127.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -643,7 +643,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.cyou^
+||jmanga.actor^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -778,15 +778,14 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.diy^
+||mangarawad.beer^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||manhuabika.com^
 ||mannavi.net^
 ||manta.net^
-||mappl.tv^
-||mapple.tv^
+||mapple.fun^
 ||martinbarker.me^
 ||marvelguides.com^
 ||marvelreading.com^
@@ -881,7 +880,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee114.asia^
+||namee115.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -907,10 +906,7 @@
 ||news.xml^
 ||newstream.html^
 ||newxtoon1.com^
-||next-box.su^
-||nextbox.uno^
 ||nextnovels.com^
-||nextwork.cc^
 ||nfl-replays.com^
 ||nfl-video.com^
 ||nhattruyenqq.com^
@@ -1080,7 +1076,7 @@
 ||raw1001.net^
 ||rawbaka.site^
 ||rawdevart.art^
-||rawfree.mom^
+||rawfree.pics^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1828,7 +1824,6 @@
 ||www.theoasg.com^
 ||www.thewutangcollection.com^
 ||www.theyshootpictures.com^
-||www.todaytvseries6.com^
 ||www.tokyoinsider.com^
 ||www.tokyotosho.info^
 ||www.toonamiaftermath.com^
@@ -1844,7 +1839,6 @@
 ||www.tvdrama-db.com^
 ||www.tvids.net^
 ||www.tvids.to^
-||www.tvsubtitles.net^
 ||www.ukgameshows.com^
 ||www.ultimedia.com^
 ||www.unrealircd.org^
@@ -2171,6 +2165,7 @@
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
 ! 0.0.0.0 aurorascreen.org
+! 0.0.0.0 av1core.cyou
 ! 0.0.0.0 avac.moe
 ! 0.0.0.0 averotv.top
 ! 0.0.0.0 avistaz.to
@@ -2258,7 +2253,6 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
-! 0.0.0.0 cinestream.studio
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2355,7 +2349,7 @@
 ! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.ru
-! 0.0.0.0 dokiraw.im
+! 0.0.0.0 dokiraw.click
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
@@ -2448,7 +2442,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc126.asia
+! 0.0.0.0 foc127.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2576,7 +2570,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.cyou
+! 0.0.0.0 jmanga.actor
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2711,15 +2705,14 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.diy
+! 0.0.0.0 mangarawad.beer
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 manhuabika.com
 ! 0.0.0.0 mannavi.net
 ! 0.0.0.0 manta.net
-! 0.0.0.0 mappl.tv
-! 0.0.0.0 mapple.tv
+! 0.0.0.0 mapple.fun
 ! 0.0.0.0 martinbarker.me
 ! 0.0.0.0 marvelguides.com
 ! 0.0.0.0 marvelreading.com
@@ -2814,7 +2807,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee114.asia
+! 0.0.0.0 namee115.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2840,10 +2833,7 @@
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
 ! 0.0.0.0 newxtoon1.com
-! 0.0.0.0 next-box.su
-! 0.0.0.0 nextbox.uno
 ! 0.0.0.0 nextnovels.com
-! 0.0.0.0 nextwork.cc
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nhattruyenqq.com
@@ -3013,7 +3003,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.site
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.mom
+! 0.0.0.0 rawfree.pics
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3761,7 +3751,6 @@
 ! 0.0.0.0 www.theoasg.com
 ! 0.0.0.0 www.thewutangcollection.com
 ! 0.0.0.0 www.theyshootpictures.com
-! 0.0.0.0 www.todaytvseries6.com
 ! 0.0.0.0 www.tokyoinsider.com
 ! 0.0.0.0 www.tokyotosho.info
 ! 0.0.0.0 www.toonamiaftermath.com
@@ -3777,7 +3766,6 @@
 ! 0.0.0.0 www.tvdrama-db.com
 ! 0.0.0.0 www.tvids.net
 ! 0.0.0.0 www.tvids.to
-! 0.0.0.0 www.tvsubtitles.net
 ! 0.0.0.0 www.ukgameshows.com
 ! 0.0.0.0 www.ultimedia.com
 ! 0.0.0.0 www.unrealircd.org
