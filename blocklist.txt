@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1924 domains)
-! Last updated: 2026-09-19T07:53:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1930 domains)
+! Last updated: 2026-09-20T08:23:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -27,6 +27,7 @@
 ||321movies.xyz^
 ||35mm.online^
 ||3asq.online^
+||3eyedraven.watch^
 ||4khdhub.one^
 ||4search.neocities.org^
 ||4stats.io^
@@ -53,6 +54,7 @@
 ||adrama.app^
 ||aether.cx^
 ||aether.ist^
+||aether.st^
 ||aha-music.com^
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
@@ -72,7 +74,6 @@
 ||andlibria.qt^
 ||ani4u.org^
 ||anianimals.moe^
-||anianimax.dpdns.org^
 ||anibase.net^
 ||anibd.app^
 ||aniblogtracker.app^
@@ -106,7 +107,6 @@
 ||anilist-adaptations.timschneeberger.me^
 ||animagarchive.com^
 ||animan.ru^
-||animaxanime.dpdns.org^
 ||anime-archive.com^
 ||anime-bingo.aikats.us^
 ||anime-community-germany.de^
@@ -308,10 +308,10 @@
 ||chillflix.lol^
 ||cine.su^
 ||cineby.gdn^
-||cineby.smoviesx.workers.dev^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
+||cineflixd.fstream.app^
 ||cinefork.net^
 ||cinefy.cc^
 ||cinego.co^
@@ -500,6 +500,7 @@
 ||flickmetrix.com^
 ||flickystream.mov^
 ||fliker.freebuff.app^
+||flixer.cx^
 ||flixer.gd^
 ||flixer.su^
 ||flixhop.com^
@@ -509,7 +510,6 @@
 ||flixvo.live^
 ||flixway.ru^
 ||flnk.fun^
-||fluxtv.cc^
 ||fluxtv.co.uk^
 ||flyflix.net^
 ||flystream.net^
@@ -537,7 +537,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe675.com^
+||funbe676.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -650,6 +650,7 @@
 ||jukebox.today^
 ||justanime.to^
 ||justsubtitles.com^
+||k-drama.in^
 ||kaa.lt^
 ||kagane.org^
 ||kagane.to^
@@ -694,6 +695,7 @@
 ||kool.to^
 ||korsite.net^
 ||koryo.tv^
+||kototv.to^
 ||krdl.moe^
 ||kudos.wiki^
 ||kuramanime.red^
@@ -715,6 +717,7 @@
 ||library.cufiy.net^
 ||libremdb.iket.me^
 ||lightcone.org^
+||lightflix.app^
 ||likemanga.ink^
 ||listen-to-euterpe.eu^
 ||listen.moe^
@@ -789,6 +792,7 @@
 ||martinbarker.me^
 ||marvelguides.com^
 ||marvelreading.com^
+||matchora.to^
 ||max-rls.com^
 ||mdblist.com^
 ||me.timschneeberger.jdsp^
@@ -861,7 +865,7 @@
 ||moviesnipipay.me^
 ||movish.to^
 ||msft-store.tplant.com.au^
-||mtoon153.asia^
+||mtoon154.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -1003,6 +1007,7 @@
 ||phantomflix.net^
 ||phate.io^
 ||phi-phenomenon.org^
+||phland.org^
 ||phonofilm.net^
 ||piratexplay.cc^
 ||piratexplay.com^
@@ -1096,9 +1101,8 @@
 ||redflix.one^
 ||redsquirrel87.com^
 ||reedstreams.link^
+||reedstreams.st^
 ||reedstreams.to^
-||reedstreams.watch^
-||reedstreams.ws^
 ||reelix.ac^
 ||refooty.com^
 ||reindex.to^
@@ -1120,7 +1124,6 @@
 ||ristoanime.me^
 ||ristohentai.com^
 ||rivestream.ru^
-||rivestream.vip^
 ||rizzking.org^
 ||rlsbb.cc^
 ||rlsbb.in^
@@ -1194,6 +1197,7 @@
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
 ||showrss.info^
+||shuttletv.me^
 ||shuttletv.pk^
 ||shuttletv.su^
 ||sickfansubs.com^
@@ -1238,7 +1242,6 @@
 ||staff.iklone.org^
 ||staging.ranobe.app^
 ||static.sneedex.moe^
-||status.animaxanime.dpdns.org^
 ||status.miruro.com^
 ||status.stremio-status.com^
 ||stellar.gdn^
@@ -1342,7 +1345,7 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor153.com^
+||tkor154.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1691,6 +1694,7 @@
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
 ||www.hanmoto.com^
+||www.hashtagiptv.com^
 ||www.hdmoviez.name^
 ||www.hentai.cat^
 ||www.hentaisaturn.tv^
@@ -1824,6 +1828,7 @@
 ||www.theoasg.com^
 ||www.thewutangcollection.com^
 ||www.theyshootpictures.com^
+||www.todaytvseries1.com^
 ||www.tokyoinsider.com^
 ||www.tokyotosho.info^
 ||www.toonamiaftermath.com^
@@ -1905,6 +1910,7 @@
 ||yourcountdown.to^
 ||youshows.org^
 ||youtube-music.app^
+||yow.tv^
 ||ytch.tv^
 ||yts-subs.com^
 ||yts-yify-note.md^
@@ -1954,6 +1960,7 @@
 ! 0.0.0.0 321movies.xyz
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3asq.online
+! 0.0.0.0 3eyedraven.watch
 ! 0.0.0.0 4khdhub.one
 ! 0.0.0.0 4search.neocities.org
 ! 0.0.0.0 4stats.io
@@ -1980,6 +1987,7 @@
 ! 0.0.0.0 adrama.app
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
+! 0.0.0.0 aether.st
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
@@ -1999,7 +2007,6 @@
 ! 0.0.0.0 andlibria.qt
 ! 0.0.0.0 ani4u.org
 ! 0.0.0.0 anianimals.moe
-! 0.0.0.0 anianimax.dpdns.org
 ! 0.0.0.0 anibase.net
 ! 0.0.0.0 anibd.app
 ! 0.0.0.0 aniblogtracker.app
@@ -2033,7 +2040,6 @@
 ! 0.0.0.0 anilist-adaptations.timschneeberger.me
 ! 0.0.0.0 animagarchive.com
 ! 0.0.0.0 animan.ru
-! 0.0.0.0 animaxanime.dpdns.org
 ! 0.0.0.0 anime-archive.com
 ! 0.0.0.0 anime-bingo.aikats.us
 ! 0.0.0.0 anime-community-germany.de
@@ -2235,10 +2241,10 @@
 ! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 cine.su
 ! 0.0.0.0 cineby.gdn
-! 0.0.0.0 cineby.smoviesx.workers.dev
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
+! 0.0.0.0 cineflixd.fstream.app
 ! 0.0.0.0 cinefork.net
 ! 0.0.0.0 cinefy.cc
 ! 0.0.0.0 cinego.co
@@ -2427,6 +2433,7 @@
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
+! 0.0.0.0 flixer.cx
 ! 0.0.0.0 flixer.gd
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
@@ -2436,7 +2443,6 @@
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixway.ru
 ! 0.0.0.0 flnk.fun
-! 0.0.0.0 fluxtv.cc
 ! 0.0.0.0 fluxtv.co.uk
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
@@ -2464,7 +2470,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe675.com
+! 0.0.0.0 funbe676.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2577,6 +2583,7 @@
 ! 0.0.0.0 jukebox.today
 ! 0.0.0.0 justanime.to
 ! 0.0.0.0 justsubtitles.com
+! 0.0.0.0 k-drama.in
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kagane.to
@@ -2621,6 +2628,7 @@
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
+! 0.0.0.0 kototv.to
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
@@ -2642,6 +2650,7 @@
 ! 0.0.0.0 library.cufiy.net
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
+! 0.0.0.0 lightflix.app
 ! 0.0.0.0 likemanga.ink
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
@@ -2716,6 +2725,7 @@
 ! 0.0.0.0 martinbarker.me
 ! 0.0.0.0 marvelguides.com
 ! 0.0.0.0 marvelreading.com
+! 0.0.0.0 matchora.to
 ! 0.0.0.0 max-rls.com
 ! 0.0.0.0 mdblist.com
 ! 0.0.0.0 me.timschneeberger.jdsp
@@ -2788,7 +2798,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon153.asia
+! 0.0.0.0 mtoon154.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2930,6 +2940,7 @@
 ! 0.0.0.0 phantomflix.net
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
+! 0.0.0.0 phland.org
 ! 0.0.0.0 phonofilm.net
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
@@ -3023,9 +3034,8 @@
 ! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 reedstreams.link
+! 0.0.0.0 reedstreams.st
 ! 0.0.0.0 reedstreams.to
-! 0.0.0.0 reedstreams.watch
-! 0.0.0.0 reedstreams.ws
 ! 0.0.0.0 reelix.ac
 ! 0.0.0.0 refooty.com
 ! 0.0.0.0 reindex.to
@@ -3047,7 +3057,6 @@
 ! 0.0.0.0 ristoanime.me
 ! 0.0.0.0 ristohentai.com
 ! 0.0.0.0 rivestream.ru
-! 0.0.0.0 rivestream.vip
 ! 0.0.0.0 rizzking.org
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
@@ -3121,6 +3130,7 @@
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
 ! 0.0.0.0 showrss.info
+! 0.0.0.0 shuttletv.me
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
 ! 0.0.0.0 sickfansubs.com
@@ -3165,7 +3175,6 @@
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
-! 0.0.0.0 status.animaxanime.dpdns.org
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 status.stremio-status.com
 ! 0.0.0.0 stellar.gdn
@@ -3269,7 +3278,7 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor153.com
+! 0.0.0.0 tkor154.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3618,6 +3627,7 @@
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
 ! 0.0.0.0 www.hanmoto.com
+! 0.0.0.0 www.hashtagiptv.com
 ! 0.0.0.0 www.hdmoviez.name
 ! 0.0.0.0 www.hentai.cat
 ! 0.0.0.0 www.hentaisaturn.tv
@@ -3751,6 +3761,7 @@
 ! 0.0.0.0 www.theoasg.com
 ! 0.0.0.0 www.thewutangcollection.com
 ! 0.0.0.0 www.theyshootpictures.com
+! 0.0.0.0 www.todaytvseries1.com
 ! 0.0.0.0 www.tokyoinsider.com
 ! 0.0.0.0 www.tokyotosho.info
 ! 0.0.0.0 www.toonamiaftermath.com
@@ -3832,6 +3843,7 @@
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youshows.org
 ! 0.0.0.0 youtube-music.app
+! 0.0.0.0 yow.tv
 ! 0.0.0.0 ytch.tv
 ! 0.0.0.0 yts-subs.com
 ! 0.0.0.0 yts-yify-note.md

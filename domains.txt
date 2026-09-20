@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1924 domains | updated 2026-09-19T07:53:47Z
+# 1930 domains | updated 2026-09-20T08:23:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -23,6 +23,7 @@
 321movies.xyz
 35mm.online
 3asq.online
+3eyedraven.watch
 4khdhub.one
 4search.neocities.org
 4stats.io
@@ -49,6 +50,7 @@ addonsfortheweebs.midnightignite.me
 adrama.app
 aether.cx
 aether.ist
+aether.st
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
@@ -68,7 +70,6 @@ an1me.to
 andlibria.qt
 ani4u.org
 anianimals.moe
-anianimax.dpdns.org
 anibase.net
 anibd.app
 aniblogtracker.app
@@ -102,7 +103,6 @@ anilinks.neocities.org
 anilist-adaptations.timschneeberger.me
 animagarchive.com
 animan.ru
-animaxanime.dpdns.org
 anime-archive.com
 anime-bingo.aikats.us
 anime-community-germany.de
@@ -304,10 +304,10 @@ chikianimation.online
 chillflix.lol
 cine.su
 cineby.gdn
-cineby.smoviesx.workers.dev
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
+cineflixd.fstream.app
 cinefork.net
 cinefy.cc
 cinego.co
@@ -496,6 +496,7 @@ flicker-proxy.md
 flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
+flixer.cx
 flixer.gd
 flixer.su
 flixhop.com
@@ -505,7 +506,6 @@ flixvo.fun
 flixvo.live
 flixway.ru
 flnk.fun
-fluxtv.cc
 fluxtv.co.uk
 flyflix.net
 flystream.net
@@ -533,7 +533,7 @@ fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe675.com
+funbe676.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -646,6 +646,7 @@ jpopsuki.fm
 jukebox.today
 justanime.to
 justsubtitles.com
+k-drama.in
 kaa.lt
 kagane.org
 kagane.to
@@ -690,6 +691,7 @@ kontrast.top
 kool.to
 korsite.net
 koryo.tv
+kototv.to
 krdl.moe
 kudos.wiki
 kuramanime.red
@@ -711,6 +713,7 @@ libgen.li
 library.cufiy.net
 libremdb.iket.me
 lightcone.org
+lightflix.app
 likemanga.ink
 listen-to-euterpe.eu
 listen.moe
@@ -785,6 +788,7 @@ mapple.fun
 martinbarker.me
 marvelguides.com
 marvelreading.com
+matchora.to
 max-rls.com
 mdblist.com
 me.timschneeberger.jdsp
@@ -857,7 +861,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movish.to
 msft-store.tplant.com.au
-mtoon153.asia
+mtoon154.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -999,6 +1003,7 @@ peestream.in
 phantomflix.net
 phate.io
 phi-phenomenon.org
+phland.org
 phonofilm.net
 piratexplay.cc
 piratexplay.com
@@ -1092,9 +1097,8 @@ redflix.club
 redflix.one
 redsquirrel87.com
 reedstreams.link
+reedstreams.st
 reedstreams.to
-reedstreams.watch
-reedstreams.ws
 reelix.ac
 refooty.com
 reindex.to
@@ -1116,7 +1120,6 @@ rips.cc
 ristoanime.me
 ristohentai.com
 rivestream.ru
-rivestream.vip
 rizzking.org
 rlsbb.cc
 rlsbb.in
@@ -1190,6 +1193,7 @@ shokoanime.com
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
+shuttletv.me
 shuttletv.pk
 shuttletv.su
 sickfansubs.com
@@ -1234,7 +1238,6 @@ ssrmovies.com
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
-status.animaxanime.dpdns.org
 status.miruro.com
 status.stremio-status.com
 stellar.gdn
@@ -1338,7 +1341,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor153.com
+tkor154.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1687,6 +1690,7 @@ www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
 www.hanmoto.com
+www.hashtagiptv.com
 www.hdmoviez.name
 www.hentai.cat
 www.hentaisaturn.tv
@@ -1820,6 +1824,7 @@ www.the-classic-movies.com
 www.theoasg.com
 www.thewutangcollection.com
 www.theyshootpictures.com
+www.todaytvseries1.com
 www.tokyoinsider.com
 www.tokyotosho.info
 www.toonamiaftermath.com
@@ -1901,6 +1906,7 @@ youflex.top
 yourcountdown.to
 youshows.org
 youtube-music.app
+yow.tv
 ytch.tv
 yts-subs.com
 yts-yify-note.md
