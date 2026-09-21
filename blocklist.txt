@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1930 domains)
-! Last updated: 2026-09-20T08:23:44Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
+! Last updated: 2026-09-21T08:42:29Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -306,7 +306,6 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||chillflix.lol^
-||cine.su^
 ||cineby.gdn^
 ||cinebytv-note.md^
 ||cinebytv.com^
@@ -453,7 +452,6 @@
 ||en.anison.fm^
 ||en.gundam-official.com^
 ||en.kinorium.com^
-||en.whakoom.com^
 ||english-dubbed.com^
 ||english.html^
 ||episodehive.com^
@@ -547,6 +545,7 @@
 ||gataket.com^
 ||geekdot.live^
 ||gensokyoradio.net^
+||get4all.org^
 ||getcomics.org^
 ||getlibation.com^
 ||getwacup.com^
@@ -591,6 +590,7 @@
 ||hentaiukr.com^
 ||hentaivn.show^
 ||hexa.su^
+||hexdroid.org^
 ||hi10anime.com^
 ||hianime.ad^
 ||hianimes.ru^
@@ -602,7 +602,7 @@
 ||hollymoviehd.cc^
 ||home.html^
 ||home.php^
-||hoofoot.com^
+||hoofoot.net^
 ||hoofoot.ru^
 ||hotflix.to^
 ||huhu.to^
@@ -687,6 +687,7 @@
 ||kmmovies.shop^
 ||kmreader.everpcpc.com^
 ||kodasusaka.com^
+||koddo.ch^
 ||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
@@ -1012,6 +1013,8 @@
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.st^
+||pixeldrain-bypass.gamedrive.to^
+||pixeldrain.md^
 ||planete-bd.org^
 ||plappa.me^
 ||player.xtra.wtf^
@@ -1607,7 +1610,6 @@
 ||www.bimiacg.icu^
 ||www.bimiacg14.net^
 ||www.bingeclock.com^
-||www.bingey.cfd^
 ||www.bintv.cc^
 ||www.bintv.link^
 ||www.brokensilenze.net^
@@ -2239,7 +2241,6 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
-! 0.0.0.0 cine.su
 ! 0.0.0.0 cineby.gdn
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
@@ -2386,7 +2387,6 @@
 ! 0.0.0.0 en.anison.fm
 ! 0.0.0.0 en.gundam-official.com
 ! 0.0.0.0 en.kinorium.com
-! 0.0.0.0 en.whakoom.com
 ! 0.0.0.0 english-dubbed.com
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
@@ -2480,6 +2480,7 @@
 ! 0.0.0.0 gataket.com
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
+! 0.0.0.0 get4all.org
 ! 0.0.0.0 getcomics.org
 ! 0.0.0.0 getlibation.com
 ! 0.0.0.0 getwacup.com
@@ -2524,6 +2525,7 @@
 ! 0.0.0.0 hentaiukr.com
 ! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
+! 0.0.0.0 hexdroid.org
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hianime.ad
 ! 0.0.0.0 hianimes.ru
@@ -2535,7 +2537,7 @@
 ! 0.0.0.0 hollymoviehd.cc
 ! 0.0.0.0 home.html
 ! 0.0.0.0 home.php
-! 0.0.0.0 hoofoot.com
+! 0.0.0.0 hoofoot.net
 ! 0.0.0.0 hoofoot.ru
 ! 0.0.0.0 hotflix.to
 ! 0.0.0.0 huhu.to
@@ -2620,6 +2622,7 @@
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmreader.everpcpc.com
 ! 0.0.0.0 kodasusaka.com
+! 0.0.0.0 koddo.ch
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
@@ -2945,6 +2948,8 @@
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.st
+! 0.0.0.0 pixeldrain-bypass.gamedrive.to
+! 0.0.0.0 pixeldrain.md
 ! 0.0.0.0 planete-bd.org
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 player.xtra.wtf
@@ -3540,7 +3545,6 @@
 ! 0.0.0.0 www.bimiacg.icu
 ! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
-! 0.0.0.0 www.bingey.cfd
 ! 0.0.0.0 www.bintv.cc
 ! 0.0.0.0 www.bintv.link
 ! 0.0.0.0 www.brokensilenze.net

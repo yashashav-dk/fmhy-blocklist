@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1930 domains | updated 2026-09-20T08:23:44Z
+# 1932 domains | updated 2026-09-21T08:42:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -302,7 +302,6 @@ chiaki.site
 chikianimation.com
 chikianimation.online
 chillflix.lol
-cine.su
 cineby.gdn
 cinebytv-note.md
 cinebytv.com
@@ -449,7 +448,6 @@ emnexmovies.tech
 en.anison.fm
 en.gundam-official.com
 en.kinorium.com
-en.whakoom.com
 english-dubbed.com
 english.html
 episodehive.com
@@ -543,6 +541,7 @@ gaiaflix.live
 gataket.com
 geekdot.live
 gensokyoradio.net
+get4all.org
 getcomics.org
 getlibation.com
 getwacup.com
@@ -587,6 +586,7 @@ hentaila.com
 hentaiukr.com
 hentaivn.show
 hexa.su
+hexdroid.org
 hi10anime.com
 hianime.ad
 hianimes.ru
@@ -598,7 +598,7 @@ hkmdb.com
 hollymoviehd.cc
 home.html
 home.php
-hoofoot.com
+hoofoot.net
 hoofoot.ru
 hotflix.to
 huhu.to
@@ -683,6 +683,7 @@ kitsunekko.net
 kmmovies.shop
 kmreader.everpcpc.com
 kodasusaka.com
+koddo.ch
 kofi.mov
 komiic.com
 komikindo.ch
@@ -1008,6 +1009,8 @@ phonofilm.net
 piratexplay.cc
 piratexplay.com
 pitsport.st
+pixeldrain-bypass.gamedrive.to
+pixeldrain.md
 planete-bd.org
 plappa.me
 player.xtra.wtf
@@ -1603,7 +1606,6 @@ www.best-moviez.ws
 www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
-www.bingey.cfd
 www.bintv.cc
 www.bintv.link
 www.brokensilenze.net
