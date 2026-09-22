@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1932 domains | updated 2026-09-21T08:42:29Z
+# 1932 domains | updated 2026-09-22T08:20:59Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -139,12 +139,11 @@ animejoker.com
 animejoy.ru
 animekarmalist.com
 animekhor.org
+animeko.ws
 animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
-animelok.live
-animelok.to
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
@@ -155,7 +154,6 @@ animerss.com
 animes.garden
 animesalt.cx
 animeschedule.net
-animesilo.cc
 animesongs.org
 animestars.org
 animesub.info
@@ -586,7 +584,6 @@ hentaila.com
 hentaiukr.com
 hentaivn.show
 hexa.su
-hexdroid.org
 hi10anime.com
 hianime.ad
 hianimes.ru
@@ -681,7 +678,6 @@ kisskh.or.at
 kisskh.ovh
 kitsunekko.net
 kmmovies.shop
-kmreader.everpcpc.com
 kodasusaka.com
 koddo.ch
 kofi.mov
@@ -1242,6 +1238,7 @@ staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
 status.miruro.com
+status.streamea.st
 status.stremio-status.com
 stellar.gdn
 stellar.rip
@@ -1423,7 +1420,6 @@ v13.anidub.digital
 v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
-v4.animeko.ws
 vaughn.live
 vaultplayer.co.uk
 vavoo.to
@@ -1687,7 +1683,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon004.com
+www.goodtoon005.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1814,6 +1810,10 @@ www.stagatv.com
 www.starringthecomputer.com
 www.stillwellaudio.com
 www.strawberrymusicplayer.org
+www.streameast.cf
+www.streameast.ch
+www.streameast.ec
+www.streameast.fi
 www.sublimemanga.com
 www.subs4free.info
 www.subtitlecat.com

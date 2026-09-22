@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
-! Last updated: 2026-09-21T08:42:29Z
+! Last updated: 2026-09-22T08:20:59Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -143,12 +143,11 @@
 ||animejoy.ru^
 ||animekarmalist.com^
 ||animekhor.org^
+||animeko.ws^
 ||animelayer.ru^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
-||animelok.live^
-||animelok.to^
 ||animemusicquiz.com^
 ||animenosub.to^
 ||animeonsen.xyz^
@@ -159,7 +158,6 @@
 ||animes.garden^
 ||animesalt.cx^
 ||animeschedule.net^
-||animesilo.cc^
 ||animesongs.org^
 ||animestars.org^
 ||animesub.info^
@@ -590,7 +588,6 @@
 ||hentaiukr.com^
 ||hentaivn.show^
 ||hexa.su^
-||hexdroid.org^
 ||hi10anime.com^
 ||hianime.ad^
 ||hianimes.ru^
@@ -685,7 +682,6 @@
 ||kisskh.ovh^
 ||kitsunekko.net^
 ||kmmovies.shop^
-||kmreader.everpcpc.com^
 ||kodasusaka.com^
 ||koddo.ch^
 ||kofi.mov^
@@ -1246,6 +1242,7 @@
 ||staging.ranobe.app^
 ||static.sneedex.moe^
 ||status.miruro.com^
+||status.streamea.st^
 ||status.stremio-status.com^
 ||stellar.gdn^
 ||stellar.rip^
@@ -1427,7 +1424,6 @@
 ||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
-||v4.animeko.ws^
 ||vaughn.live^
 ||vaultplayer.co.uk^
 ||vavoo.to^
@@ -1691,7 +1687,7 @@
 ||www.gokuhd.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
-||www.goodtoon004.com^
+||www.goodtoon005.com^
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
@@ -1818,6 +1814,10 @@
 ||www.starringthecomputer.com^
 ||www.stillwellaudio.com^
 ||www.strawberrymusicplayer.org^
+||www.streameast.cf^
+||www.streameast.ch^
+||www.streameast.ec^
+||www.streameast.fi^
 ||www.sublimemanga.com^
 ||www.subs4free.info^
 ||www.subtitlecat.com^
@@ -2078,12 +2078,11 @@
 ! 0.0.0.0 animejoy.ru
 ! 0.0.0.0 animekarmalist.com
 ! 0.0.0.0 animekhor.org
+! 0.0.0.0 animeko.ws
 ! 0.0.0.0 animelayer.ru
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
-! 0.0.0.0 animelok.live
-! 0.0.0.0 animelok.to
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
@@ -2094,7 +2093,6 @@
 ! 0.0.0.0 animes.garden
 ! 0.0.0.0 animesalt.cx
 ! 0.0.0.0 animeschedule.net
-! 0.0.0.0 animesilo.cc
 ! 0.0.0.0 animesongs.org
 ! 0.0.0.0 animestars.org
 ! 0.0.0.0 animesub.info
@@ -2525,7 +2523,6 @@
 ! 0.0.0.0 hentaiukr.com
 ! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
-! 0.0.0.0 hexdroid.org
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hianime.ad
 ! 0.0.0.0 hianimes.ru
@@ -2620,7 +2617,6 @@
 ! 0.0.0.0 kisskh.ovh
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 kmmovies.shop
-! 0.0.0.0 kmreader.everpcpc.com
 ! 0.0.0.0 kodasusaka.com
 ! 0.0.0.0 koddo.ch
 ! 0.0.0.0 kofi.mov
@@ -3181,6 +3177,7 @@
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
 ! 0.0.0.0 status.miruro.com
+! 0.0.0.0 status.streamea.st
 ! 0.0.0.0 status.stremio-status.com
 ! 0.0.0.0 stellar.gdn
 ! 0.0.0.0 stellar.rip
@@ -3362,7 +3359,6 @@
 ! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
-! 0.0.0.0 v4.animeko.ws
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
@@ -3626,7 +3622,7 @@
 ! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
-! 0.0.0.0 www.goodtoon004.com
+! 0.0.0.0 www.goodtoon005.com
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
@@ -3753,6 +3749,10 @@
 ! 0.0.0.0 www.starringthecomputer.com
 ! 0.0.0.0 www.stillwellaudio.com
 ! 0.0.0.0 www.strawberrymusicplayer.org
+! 0.0.0.0 www.streameast.cf
+! 0.0.0.0 www.streameast.ch
+! 0.0.0.0 www.streameast.ec
+! 0.0.0.0 www.streameast.fi
 ! 0.0.0.0 www.sublimemanga.com
 ! 0.0.0.0 www.subs4free.info
 ! 0.0.0.0 www.subtitlecat.com
