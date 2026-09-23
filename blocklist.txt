@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
-! Last updated: 2026-09-22T08:20:59Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1920 domains)
+! Last updated: 2026-09-23T08:23:01Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -21,6 +21,7 @@
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
 ||1shows-note.md^
+||1shows.bz^
 ||24-7-channels.php^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||30.html^
@@ -85,7 +86,6 @@
 ||anichin.bio^
 ||anicine.xyz^
 ||aniclipse.com^
-||anidao.to^
 ||anidap.lol^
 ||anidb.app^
 ||anidoor.me^
@@ -190,13 +190,10 @@
 ||anissia.net^
 ||anistream.one^
 ||anitabi.cn^
-||anitaku.online^
 ||anitools.koopz.rocks^
 ||anitrakt.huere.net^
 ||anitrendz.net^
 ||anitube.in.ua^
-||anivibe.live^
-||aniwatchtv.cx^
 ||aniwaves.ru^
 ||aniworld.to^
 ||anixtv.in^
@@ -328,7 +325,6 @@
 ||cinetrii.com^
 ||cinevaro.app^
 ||cinevibe.to^
-||ciniverse.site^
 ||circle.ms^
 ||cli.club^
 ||clients.md^
@@ -467,7 +463,6 @@
 ||extranet.torrentbay.st^
 ||extto.com^
 ||eztvx.to^
-||f1fullraces.com^
 ||f1live.dpdns.org^
 ||falconstreams.app^
 ||fameboxd.com^
@@ -511,7 +506,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc127.asia^
+||foc128.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -541,7 +536,6 @@
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||gataket.com^
-||geekdot.live^
 ||gensokyoradio.net^
 ||get4all.org^
 ||getcomics.org^
@@ -554,7 +548,6 @@
 ||globeradio.app^
 ||go.aftvnews.com^
 ||goctruyentranh.com^
-||gogoanimez.cc^
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
@@ -589,7 +582,6 @@
 ||hentaivn.show^
 ||hexa.su^
 ||hi10anime.com^
-||hianime.ad^
 ||hianimes.ru^
 ||hikka.io^
 ||hindmoviez.cafe^
@@ -694,7 +686,6 @@
 ||koryo.tv^
 ||kototv.to^
 ||krdl.moe^
-||kudos.wiki^
 ||kuramanime.red^
 ||kuroanime.lol^
 ||kuroiru.co^
@@ -881,7 +872,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee115.asia^
+||namee116.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1122,6 +1113,7 @@
 ||rips.cc^
 ||ristoanime.me^
 ||ristohentai.com^
+||rivestream.pw^
 ||rivestream.ru^
 ||rizzking.org^
 ||rlsbb.cc^
@@ -1187,7 +1179,6 @@
 ||server.elscione.com^
 ||share.acgnx.se^
 ||sharebb.me^
-||sharemania.us^
 ||shikimori.io^
 ||shikimori.rip^
 ||shimeken.com^
@@ -1446,7 +1437,7 @@
 ||vipleague.vg^
 ||vipotv.com^
 ||virgil.samidy.com^
-||vivarium.wtf^
+||viv.st^
 ||vk.ru^
 ||vknext.net^
 ||vkvideo.ru^
@@ -1527,7 +1518,6 @@
 ||wwv.veranimes.net^
 ||wwv21.kissasian.com.lv^
 ||www.1flex.org^
-||www.1shows.org^
 ||www.1tube.org^
 ||www.23qb.net^
 ||www.3cat.cat^
@@ -1747,7 +1737,6 @@
 ||www.miruro.to^
 ||www.mmnt.net^
 ||www.mmnt.ru^
-||www.modsyndicate.com^
 ||www.movie-censorship.com^
 ||www.movie-locations.com^
 ||www.movieloci.com^
@@ -1888,7 +1877,6 @@
 ||www.zimmerit.moe^
 ||www.zinmanga.net^
 ||www.zophar.net^
-||www3.anikai.cc^
 ||x27.html^
 ||x3dl.net^
 ||xalosach.com^
@@ -1956,6 +1944,7 @@
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
 ! 0.0.0.0 1shows-note.md
+! 0.0.0.0 1shows.bz
 ! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 30.html
@@ -2020,7 +2009,6 @@
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anicine.xyz
 ! 0.0.0.0 aniclipse.com
-! 0.0.0.0 anidao.to
 ! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidoor.me
@@ -2125,13 +2113,10 @@
 ! 0.0.0.0 anissia.net
 ! 0.0.0.0 anistream.one
 ! 0.0.0.0 anitabi.cn
-! 0.0.0.0 anitaku.online
 ! 0.0.0.0 anitools.koopz.rocks
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
-! 0.0.0.0 anivibe.live
-! 0.0.0.0 aniwatchtv.cx
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
@@ -2263,7 +2248,6 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevaro.app
 ! 0.0.0.0 cinevibe.to
-! 0.0.0.0 ciniverse.site
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2402,7 +2386,6 @@
 ! 0.0.0.0 extranet.torrentbay.st
 ! 0.0.0.0 extto.com
 ! 0.0.0.0 eztvx.to
-! 0.0.0.0 f1fullraces.com
 ! 0.0.0.0 f1live.dpdns.org
 ! 0.0.0.0 falconstreams.app
 ! 0.0.0.0 fameboxd.com
@@ -2446,7 +2429,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc127.asia
+! 0.0.0.0 foc128.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2476,7 +2459,6 @@
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 gataket.com
-! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 get4all.org
 ! 0.0.0.0 getcomics.org
@@ -2489,7 +2471,6 @@
 ! 0.0.0.0 globeradio.app
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goctruyentranh.com
-! 0.0.0.0 gogoanimez.cc
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
@@ -2524,7 +2505,6 @@
 ! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
-! 0.0.0.0 hianime.ad
 ! 0.0.0.0 hianimes.ru
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
@@ -2629,7 +2609,6 @@
 ! 0.0.0.0 koryo.tv
 ! 0.0.0.0 kototv.to
 ! 0.0.0.0 krdl.moe
-! 0.0.0.0 kudos.wiki
 ! 0.0.0.0 kuramanime.red
 ! 0.0.0.0 kuroanime.lol
 ! 0.0.0.0 kuroiru.co
@@ -2816,7 +2795,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee115.asia
+! 0.0.0.0 namee116.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3057,6 +3036,7 @@
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristoanime.me
 ! 0.0.0.0 ristohentai.com
+! 0.0.0.0 rivestream.pw
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rizzking.org
 ! 0.0.0.0 rlsbb.cc
@@ -3122,7 +3102,6 @@
 ! 0.0.0.0 server.elscione.com
 ! 0.0.0.0 share.acgnx.se
 ! 0.0.0.0 sharebb.me
-! 0.0.0.0 sharemania.us
 ! 0.0.0.0 shikimori.io
 ! 0.0.0.0 shikimori.rip
 ! 0.0.0.0 shimeken.com
@@ -3381,7 +3360,7 @@
 ! 0.0.0.0 vipleague.vg
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
-! 0.0.0.0 vivarium.wtf
+! 0.0.0.0 viv.st
 ! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru
@@ -3462,7 +3441,6 @@
 ! 0.0.0.0 wwv.veranimes.net
 ! 0.0.0.0 wwv21.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
-! 0.0.0.0 www.1shows.org
 ! 0.0.0.0 www.1tube.org
 ! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
@@ -3682,7 +3660,6 @@
 ! 0.0.0.0 www.miruro.to
 ! 0.0.0.0 www.mmnt.net
 ! 0.0.0.0 www.mmnt.ru
-! 0.0.0.0 www.modsyndicate.com
 ! 0.0.0.0 www.movie-censorship.com
 ! 0.0.0.0 www.movie-locations.com
 ! 0.0.0.0 www.movieloci.com
@@ -3823,7 +3800,6 @@
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zinmanga.net
 ! 0.0.0.0 www.zophar.net
-! 0.0.0.0 www3.anikai.cc
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 x3dl.net
 ! 0.0.0.0 xalosach.com
