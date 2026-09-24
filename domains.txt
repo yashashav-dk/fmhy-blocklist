@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1920 domains | updated 2026-09-23T08:23:01Z
+# 1915 domains | updated 2026-09-24T08:15:08Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -84,6 +84,7 @@ anicine.xyz
 aniclipse.com
 anidap.lol
 anidb.app
+anidl.org
 anidoor.me
 anifilm.pro
 aniflix.us
@@ -231,7 +232,6 @@ audiovault.net
 aurorascreen.org
 av1core.cyou
 avac.moe
-averotv.top
 avistaz.to
 azmovies.to
 azorafly.com
@@ -248,7 +248,6 @@ banime.dedyn.io
 baozimh.com
 baozimh.org
 basementx.lol
-basementx.pro
 basic.pp.ua
 basketball-video.com
 basketballreplays.net
@@ -294,6 +293,7 @@ cd.textfiles
 channelsurfer.tv
 chauthanh.info
 chiaki.site
+chiikawa.international
 chikianimation.com
 chikianimation.online
 chillflix.lol
@@ -306,21 +306,20 @@ cinefork.net
 cinefy.cc
 cinego.co
 cinegram.tv
-cinehd.app
+cinehd.vc
 cinejoy.pk
 cinelove.live
 cinema.army
 cinemacity.cc
 cinemaos.live
-cinemaos.me
 cinemaos.tech
 cinemata.org
 cinemove.cc
 cinetaro.to
 cinetimes.org
 cinetrii.com
-cinevaro.app
-cinevibe.to
+cinevibe.cc
+cinevid.st
 circle.ms
 cli.club
 clients.md
@@ -378,7 +377,6 @@ damitv.st
 db.silveryasha.id
 db.trakt.anitrakt
 ddlbase.com
-ddlbase.net
 deaffestonlinecinema.eventive.org
 deafmovie.org
 debrid-link.com
@@ -410,7 +408,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
-docs.wyzie.ru
+docs.wyzie.io
 dokiraw.click
 donghua.site
 donghua4k.net
@@ -513,7 +511,7 @@ framextv.tech
 franime.fr
 free-movies.to
 freepopular.htm
-freestreams-live1a.pk
+freestreams-live1h.pk
 freesub.live
 freetvgarden.com
 freetvz.com
@@ -524,7 +522,7 @@ fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe676.com
+funbe677.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -588,7 +586,6 @@ hollymoviehd.cc
 home.html
 home.php
 hoofoot.net
-hoofoot.ru
 hotflix.to
 huhu.to
 hyakanime.fr
@@ -641,7 +638,6 @@ kagane.org
 kagane.to
 kara.moe
 kartoons.me
-katworld.net
 katzddl.net
 kawaiianime.cc
 kawaiimanga.org
@@ -821,7 +817,7 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
-monochrome.tf
+monochrome.st
 monoschinos.st
 moonflix.com
 moonflix.website
@@ -835,7 +831,7 @@ moviebite.org
 moviebox.co
 movieboxonline.net
 movielens.org
-movienestbd.pics
+movienestbd.best
 movienig.ht
 movieo.me
 movieparadise-code.md
@@ -847,9 +843,10 @@ moviescenemap.com
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
+moviezmad.co
 movish.to
 msft-store.tplant.com.au
-mtoon154.asia
+mtoon155.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -883,12 +880,11 @@ neonflix.st
 nepu.app
 nepu.io
 nepu.is
-nepu.net
 netnaija.film
 netplayz.icu
 netshows.xyz
 netsplit.de
-new.anidl.org
+new.katmoviehd.top
 news.animenomics.com
 news.tokunation.com
 news.xml
@@ -901,7 +897,6 @@ nhattruyenqq.com
 nibl.co.uk
 nippleflix.com
 nipponsei.minglong.org
-nkiri.ink
 nmovies.cc
 noirx.live
 noirx.me
@@ -913,6 +908,7 @@ notscare.me
 novahd.cc
 novamovie.net
 novanon.net
+novashow.live
 novel.sumikko.info
 novelasligeras.net
 novera.tv
@@ -966,7 +962,6 @@ onoflix.live
 open-slum.org
 openscrobbler.com
 opensourcealternative.to
-opstream.fun
 org.readera
 orga.cat
 orionoid.com
@@ -992,7 +987,7 @@ phantomflix.net
 phate.io
 phi-phenomenon.org
 phland.org
-phonofilm.net
+phonofilm.cc
 piratexplay.cc
 piratexplay.com
 pitsport.st
@@ -1012,7 +1007,6 @@ plugin.php
 pop.dnslc.net
 popcornflix.com
 popcornmovies.ac
-popwatch.cc
 popwatch.to
 portableappz.blogspot.com
 portal.circle.ms
@@ -1062,7 +1056,7 @@ ranobes.top
 rapidgators.net
 rar.to
 rarefilmm.com
-ravencentric.cc
+ravencentri.cc
 raw-cans.net
 raw1001.net
 rawbaka.site
@@ -1090,6 +1084,7 @@ reedstreams.link
 reedstreams.st
 reedstreams.to
 reelix.ac
+reelzone.icu
 refooty.com
 reindex.to
 relatedanime.com
@@ -1224,7 +1219,7 @@ sportsindx.st
 sportsurge.st
 squid.wtf
 srstop.link
-ssrmovies.com
+ssrmovies.blue
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
@@ -1250,7 +1245,7 @@ streamed.st
 streamex.sh
 streamex.ws
 streamfree.top
-streamgoblin.com
+streamgoblin.cc
 streamic.st
 streaming-integrale.com
 streaming.cineverse.com
@@ -1316,9 +1311,11 @@ thejadednetwork.com
 thelongbox.net
 themes.moe
 themoviespoiler.com
+thenkiri.com
 thepiratebay.org
 theshowgrid.com
 thesilentlibrary.com
+thetvapp.plus
 thewiki.moe
 theyshootzombies.com
 thwiki.cc
@@ -1332,7 +1329,7 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor154.com
+tkor155.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1344,8 +1341,8 @@ tomeko.net
 tonkacine.watch
 toomics.com
 toonamisquad.com
-toonhub4u.co
-toonstream.vip
+toonhub4u.live
+toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
 topsrs.day
@@ -1354,7 +1351,7 @@ torbox.app
 torlink.bairon.dev
 torrents.youplex.site
 torrentsurf.to
-totalsportek.st
+total-sportekk.st
 touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
@@ -1377,7 +1374,6 @@ tuoverse.com
 tv.html
 tv.jest
 tv.jest.one
-tvapp.ws
 tvatlas.app
 tvchart.benmiz.com
 tvcharts.co
@@ -1423,7 +1419,6 @@ vgm.impulseinformatica.com.br
 vgmdb.net
 vgmrips.net
 vgmusic.com
-vidbox.dev
 vidbox.vc
 vidbox.website
 videa.hu
@@ -1504,12 +1499,13 @@ witanime.you
 withsubtitles.com
 wiztorrent.com
 wjungle.net
-worldfree4u.gd
+worldfree4u.expert
 worldnews24.tv
 wotaku.wiki
 wowtopix.com
 wtwt335.com
 ww1.goojara.to
+ww1.sportsurge.st
 ww1.yesmovies.ag
 wwv.veranimes.net
 wwv21.kissasian.com.lv
@@ -1679,7 +1675,6 @@ www.grupa-mirai.pl
 www.hancinema.net
 www.hanmoto.com
 www.hashtagiptv.com
-www.hdmoviez.name
 www.hentai.cat
 www.hentaisaturn.tv
 www.hentaiworld.me
@@ -1882,7 +1877,7 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
-yatoon251.asia
+yatoon252.asia
 yattatachi.com
 yenime.net
 yeshd.net
