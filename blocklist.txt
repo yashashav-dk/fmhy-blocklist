@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1915 domains)
-! Last updated: 2026-09-24T08:15:08Z
+! Last updated: 2026-09-25T08:37:55Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -195,6 +195,7 @@
 ||anitrakt.huere.net^
 ||anitrendz.net^
 ||anitube.in.ua^
+||aniwatch.rest^
 ||aniwaves.ru^
 ||aniworld.to^
 ||anixtv.in^
@@ -268,7 +269,7 @@
 ||bgmlist.com^
 ||bgmx.mysxl.cn^
 ||bilibili.tv^
-||bingebang.tv^
+||bingebang.st^
 ||bingebox.ac^
 ||bingeflix.tv^
 ||bingr.one^
@@ -280,7 +281,6 @@
 ||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
-||boomflix.qzz.io^
 ||bstsrs.in^
 ||bszip.com^
 ||btorrent.xyz^
@@ -319,6 +319,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemove.cc^
+||cinestream.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -354,6 +355,7 @@
 ||comics.codes^
 ||comicskingdom.com^
 ||comix.to^
+||comix.ws^
 ||commodore.software^
 ||commons.wikimedia^
 ||community.bisafans.de^
@@ -429,7 +431,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenwk.com^
+||dualeotruyenbw.com^
 ||dubolt.com^
 ||due.moe^
 ||dumanwu.com^
@@ -489,6 +491,7 @@
 ||flickmetrix.com^
 ||flickystream.mov^
 ||fliker.freebuff.app^
+||flive.dpdns.org^
 ||flixer.cx^
 ||flixer.gd^
 ||flixer.su^
@@ -612,7 +615,6 @@
 ||indiancine.ma^
 ||inkstory.net^
 ||inmanga.com^
-||instances.md^
 ||interviewfor.red^
 ||introduction.html^
 ||iptv-player.me^
@@ -678,6 +680,7 @@
 ||komiku.org^
 ||kontrast.top^
 ||kool.to^
+||kool.ws^
 ||korsite.net^
 ||koryo.tv^
 ||kototv.to^
@@ -948,7 +951,7 @@
 ||old.yummyani.me^
 ||oldcomicsworld.blogspot.com^
 ||oldgamemags.tumblr.com^
-||olympicstreams.im^
+||olympicweb.me^
 ||omega.gg^
 ||on.jetanimes.com^
 ||one.plaza.nightwaveplaza^
@@ -974,7 +977,6 @@
 ||osssoftware.org^
 ||osvault.weebly.com^
 ||otakucalendar.com^
-||otakudesu.cloud^
 ||otcs.minuspoint.com^
 ||ouo.si^
 ||overlook.cx^
@@ -1046,7 +1048,6 @@
 ||radio.animenexus.net^
 ||radio.nogi46.me^
 ||radio.wapchan.org^
-||raijin-scans.fr^
 ||rainwave.cc^
 ||ramenparados.com^
 ||randime.moe^
@@ -1193,6 +1194,7 @@
 ||skiley.net^
 ||skip-and-loafer.mikeblocky.com^
 ||slow.pics^
+||smacke.net^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
 ||smovies.co^
@@ -1333,7 +1335,6 @@
 ||tivimate.com^
 ||tiz-cycling.tv^
 ||tizentube.app^
-||tkor155.com^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toku.fun^
@@ -1346,6 +1347,7 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
+||toonkor0.org^
 ||toonstream.us^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
@@ -1408,9 +1410,9 @@
 ||utaitedb.net^
 ||utaten.com^
 ||v13.anidub.digital^
-||v2.gostreameast.link^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
+||v5.gostreameast.link^
 ||vaughn.live^
 ||vaultplayer.co.uk^
 ||vavoo.to^
@@ -1429,7 +1431,7 @@
 ||videodictionary.kwebpia.net^
 ||vidplay.to^
 ||viewtopic.php^
-||vipleague.vg^
+||vipleague.me^
 ||vipotv.com^
 ||virgil.samidy.com^
 ||viv.st^
@@ -1472,6 +1474,7 @@
 ||watchsports.st^
 ||watchsports.su^
 ||watchsurface.stream^
+||watchttn.com^
 ||watchtvs.live^
 ||watchwrestling.ae^
 ||way2movies.live^
@@ -1589,7 +1592,6 @@
 ||www.beatz-anime.net^
 ||www.behindthemanga.com^
 ||www.best-moviez.ws^
-||www.bimiacg.icu^
 ||www.bimiacg14.net^
 ||www.bingeclock.com^
 ||www.bintv.cc^
@@ -1643,7 +1645,7 @@
 ||www.fansub.id^
 ||www.fansubs.cat^
 ||www.fawanews.sc^
-||www.fctv33hd.bar^
+||www.fctv33hd.co^
 ||www.fender.com^
 ||www.fileeagle.com^
 ||www.filepuma.com^
@@ -1763,7 +1765,6 @@
 ||www.panix.com^
 ||www.pirateboard.net^
 ||www.playary.com^
-||www.pracdev.org^
 ||www.primeshows.org^
 ||www.primewire.mov^
 ||www.publicdomaintorrents.info^
@@ -1913,7 +1914,6 @@
 ||zekozimo.blogspot.com^
 ||zencine.org^
 ||zenko.online^
-||zenox.lol^
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
 ||zetmoon.live^
@@ -2113,6 +2113,7 @@
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
+! 0.0.0.0 aniwatch.rest
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixtv.in
@@ -2186,7 +2187,7 @@
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bgmx.mysxl.cn
 ! 0.0.0.0 bilibili.tv
-! 0.0.0.0 bingebang.tv
+! 0.0.0.0 bingebang.st
 ! 0.0.0.0 bingebox.ac
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
@@ -2198,7 +2199,6 @@
 ! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
-! 0.0.0.0 boomflix.qzz.io
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
 ! 0.0.0.0 btorrent.xyz
@@ -2237,6 +2237,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
+! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2272,6 +2273,7 @@
 ! 0.0.0.0 comics.codes
 ! 0.0.0.0 comicskingdom.com
 ! 0.0.0.0 comix.to
+! 0.0.0.0 comix.ws
 ! 0.0.0.0 commodore.software
 ! 0.0.0.0 commons.wikimedia
 ! 0.0.0.0 community.bisafans.de
@@ -2347,7 +2349,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenwk.com
+! 0.0.0.0 dualeotruyenbw.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dumanwu.com
@@ -2407,6 +2409,7 @@
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
+! 0.0.0.0 flive.dpdns.org
 ! 0.0.0.0 flixer.cx
 ! 0.0.0.0 flixer.gd
 ! 0.0.0.0 flixer.su
@@ -2530,7 +2533,6 @@
 ! 0.0.0.0 indiancine.ma
 ! 0.0.0.0 inkstory.net
 ! 0.0.0.0 inmanga.com
-! 0.0.0.0 instances.md
 ! 0.0.0.0 interviewfor.red
 ! 0.0.0.0 introduction.html
 ! 0.0.0.0 iptv-player.me
@@ -2596,6 +2598,7 @@
 ! 0.0.0.0 komiku.org
 ! 0.0.0.0 kontrast.top
 ! 0.0.0.0 kool.to
+! 0.0.0.0 kool.ws
 ! 0.0.0.0 korsite.net
 ! 0.0.0.0 koryo.tv
 ! 0.0.0.0 kototv.to
@@ -2866,7 +2869,7 @@
 ! 0.0.0.0 old.yummyani.me
 ! 0.0.0.0 oldcomicsworld.blogspot.com
 ! 0.0.0.0 oldgamemags.tumblr.com
-! 0.0.0.0 olympicstreams.im
+! 0.0.0.0 olympicweb.me
 ! 0.0.0.0 omega.gg
 ! 0.0.0.0 on.jetanimes.com
 ! 0.0.0.0 one.plaza.nightwaveplaza
@@ -2892,7 +2895,6 @@
 ! 0.0.0.0 osssoftware.org
 ! 0.0.0.0 osvault.weebly.com
 ! 0.0.0.0 otakucalendar.com
-! 0.0.0.0 otakudesu.cloud
 ! 0.0.0.0 otcs.minuspoint.com
 ! 0.0.0.0 ouo.si
 ! 0.0.0.0 overlook.cx
@@ -2964,7 +2966,6 @@
 ! 0.0.0.0 radio.animenexus.net
 ! 0.0.0.0 radio.nogi46.me
 ! 0.0.0.0 radio.wapchan.org
-! 0.0.0.0 raijin-scans.fr
 ! 0.0.0.0 rainwave.cc
 ! 0.0.0.0 ramenparados.com
 ! 0.0.0.0 randime.moe
@@ -3111,6 +3112,7 @@
 ! 0.0.0.0 skiley.net
 ! 0.0.0.0 skip-and-loafer.mikeblocky.com
 ! 0.0.0.0 slow.pics
+! 0.0.0.0 smacke.net
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
 ! 0.0.0.0 smovies.co
@@ -3251,7 +3253,6 @@
 ! 0.0.0.0 tivimate.com
 ! 0.0.0.0 tiz-cycling.tv
 ! 0.0.0.0 tizentube.app
-! 0.0.0.0 tkor155.com
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toku.fun
@@ -3264,6 +3265,7 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
+! 0.0.0.0 toonkor0.org
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf
@@ -3326,9 +3328,9 @@
 ! 0.0.0.0 utaitedb.net
 ! 0.0.0.0 utaten.com
 ! 0.0.0.0 v13.anidub.digital
-! 0.0.0.0 v2.gostreameast.link
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
+! 0.0.0.0 v5.gostreameast.link
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
@@ -3347,7 +3349,7 @@
 ! 0.0.0.0 videodictionary.kwebpia.net
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
-! 0.0.0.0 vipleague.vg
+! 0.0.0.0 vipleague.me
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
 ! 0.0.0.0 viv.st
@@ -3390,6 +3392,7 @@
 ! 0.0.0.0 watchsports.st
 ! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchsurface.stream
+! 0.0.0.0 watchttn.com
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
 ! 0.0.0.0 way2movies.live
@@ -3507,7 +3510,6 @@
 ! 0.0.0.0 www.beatz-anime.net
 ! 0.0.0.0 www.behindthemanga.com
 ! 0.0.0.0 www.best-moviez.ws
-! 0.0.0.0 www.bimiacg.icu
 ! 0.0.0.0 www.bimiacg14.net
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bintv.cc
@@ -3561,7 +3563,7 @@
 ! 0.0.0.0 www.fansub.id
 ! 0.0.0.0 www.fansubs.cat
 ! 0.0.0.0 www.fawanews.sc
-! 0.0.0.0 www.fctv33hd.bar
+! 0.0.0.0 www.fctv33hd.co
 ! 0.0.0.0 www.fender.com
 ! 0.0.0.0 www.fileeagle.com
 ! 0.0.0.0 www.filepuma.com
@@ -3681,7 +3683,6 @@
 ! 0.0.0.0 www.panix.com
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
-! 0.0.0.0 www.pracdev.org
 ! 0.0.0.0 www.primeshows.org
 ! 0.0.0.0 www.primewire.mov
 ! 0.0.0.0 www.publicdomaintorrents.info
@@ -3831,7 +3832,6 @@
 ! 0.0.0.0 zekozimo.blogspot.com
 ! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenko.online
-! 0.0.0.0 zenox.lol
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zetmoon.live

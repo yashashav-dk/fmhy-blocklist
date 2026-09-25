@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1915 domains | updated 2026-09-24T08:15:08Z
+# 1915 domains | updated 2026-09-25T08:37:55Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -191,6 +191,7 @@ anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
+aniwatch.rest
 aniwaves.ru
 aniworld.to
 anixtv.in
@@ -264,7 +265,7 @@ bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
 bilibili.tv
-bingebang.tv
+bingebang.st
 bingebox.ac
 bingeflix.tv
 bingr.one
@@ -276,7 +277,6 @@ blog.sakugabooru.com
 bookplayer.app
 booksonic.org
 bookwalker.com
-boomflix.qzz.io
 bstsrs.in
 bszip.com
 btorrent.xyz
@@ -315,6 +315,7 @@ cinemaos.live
 cinemaos.tech
 cinemata.org
 cinemove.cc
+cinestream.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -350,6 +351,7 @@ comicmafia.to
 comics.codes
 comicskingdom.com
 comix.to
+comix.ws
 commodore.software
 commons.wikimedia
 community.bisafans.de
@@ -425,7 +427,7 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenwk.com
+dualeotruyenbw.com
 dubolt.com
 due.moe
 dumanwu.com
@@ -485,6 +487,7 @@ flicker-proxy.md
 flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
+flive.dpdns.org
 flixer.cx
 flixer.gd
 flixer.su
@@ -608,7 +611,6 @@ indexsubtitle.cc
 indiancine.ma
 inkstory.net
 inmanga.com
-instances.md
 interviewfor.red
 introduction.html
 iptv-player.me
@@ -674,6 +676,7 @@ komikindo.ch
 komiku.org
 kontrast.top
 kool.to
+kool.ws
 korsite.net
 koryo.tv
 kototv.to
@@ -944,7 +947,7 @@ old.klz9.com
 old.yummyani.me
 oldcomicsworld.blogspot.com
 oldgamemags.tumblr.com
-olympicstreams.im
+olympicweb.me
 omega.gg
 on.jetanimes.com
 one.plaza.nightwaveplaza
@@ -970,7 +973,6 @@ oss.gallery
 osssoftware.org
 osvault.weebly.com
 otakucalendar.com
-otakudesu.cloud
 otcs.minuspoint.com
 ouo.si
 overlook.cx
@@ -1042,7 +1044,6 @@ radio.animebits.moe
 radio.animenexus.net
 radio.nogi46.me
 radio.wapchan.org
-raijin-scans.fr
 rainwave.cc
 ramenparados.com
 randime.moe
@@ -1189,6 +1190,7 @@ siptv.eu
 skiley.net
 skip-and-loafer.mikeblocky.com
 slow.pics
+smacke.net
 smashystream.xyz
 smoores.gitlab.io
 smovies.co
@@ -1329,7 +1331,6 @@ tiodonghua.com
 tivimate.com
 tiz-cycling.tv
 tizentube.app
-tkor155.com
 tlmc.pf-n.co
 tmkk.undo.jp
 toku.fun
@@ -1342,6 +1343,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
+toonkor0.org
 toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
@@ -1404,9 +1406,9 @@ utaite-key.info
 utaitedb.net
 utaten.com
 v13.anidub.digital
-v2.gostreameast.link
 v2.samehadaku.how
 v2.sportsurge.net
+v5.gostreameast.link
 vaughn.live
 vaultplayer.co.uk
 vavoo.to
@@ -1425,7 +1427,7 @@ videa.hu
 videodictionary.kwebpia.net
 vidplay.to
 viewtopic.php
-vipleague.vg
+vipleague.me
 vipotv.com
 virgil.samidy.com
 viv.st
@@ -1468,6 +1470,7 @@ watchseries.show
 watchsports.st
 watchsports.su
 watchsurface.stream
+watchttn.com
 watchtvs.live
 watchwrestling.ae
 way2movies.live
@@ -1585,7 +1588,6 @@ www.baozimh.com
 www.beatz-anime.net
 www.behindthemanga.com
 www.best-moviez.ws
-www.bimiacg.icu
 www.bimiacg14.net
 www.bingeclock.com
 www.bintv.cc
@@ -1639,7 +1641,7 @@ www.eyedex.org
 www.fansub.id
 www.fansubs.cat
 www.fawanews.sc
-www.fctv33hd.bar
+www.fctv33hd.co
 www.fender.com
 www.fileeagle.com
 www.filepuma.com
@@ -1759,7 +1761,6 @@ www.ourstarblazers.com
 www.panix.com
 www.pirateboard.net
 www.playary.com
-www.pracdev.org
 www.primeshows.org
 www.primewire.mov
 www.publicdomaintorrents.info
@@ -1909,7 +1910,6 @@ zeepubs.wordpress.com
 zekozimo.blogspot.com
 zencine.org
 zenko.online
-zenox.lol
 zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live
