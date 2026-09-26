@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1915 domains | updated 2026-09-25T08:37:55Z
+# 1918 domains | updated 2026-09-26T08:24:53Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -162,7 +162,7 @@ animesub.lt
 animesuge.bid
 animesuge.cz
 animethemes.moe
-animetosho.xyz
+animetosho.net
 animetudes.com
 animetv-jp.net
 animeua.club
@@ -194,6 +194,7 @@ anitube.in.ua
 aniwatch.rest
 aniwaves.ru
 aniworld.to
+anixo.online
 anixtv.in
 anixtv.us.cc
 anixx.fun
@@ -265,6 +266,7 @@ bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
 bilibili.tv
+bingebang.club
 bingebang.st
 bingebox.ac
 bingeflix.tv
@@ -411,7 +413,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
-dokiraw.click
+dokiraw.icu
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -474,6 +476,7 @@ fbstream.cc
 fcast.org
 ffmovies.org
 filmcave.ru
+filmdilemma.com
 filmfans.org
 filmo.platfo.es
 filmo.to
@@ -503,7 +506,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc128.asia
+foc129.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -627,7 +630,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.actor
+jmanga.locker
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -764,7 +767,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.beer
+mangarawad.casa
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -868,7 +871,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee116.asia
+namee117.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
