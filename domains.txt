@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1918 domains | updated 2026-09-26T08:24:53Z
+# 1919 domains | updated 2026-09-27T09:02:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -173,7 +173,7 @@ animevsub.eu.org
 animex.one
 animexin.dev
 animezid.cam
-animotvslash.nl
+animotv.ru
 animusic.moe
 aninado.com
 aninami.site
@@ -1065,7 +1065,7 @@ raw-cans.net
 raw1001.net
 rawbaka.site
 rawdevart.art
-rawfree.pics
+rawfree.bid
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1336,6 +1336,7 @@ tiz-cycling.tv
 tizentube.app
 tlmc.pf-n.co
 tmkk.undo.jp
+toflix.co
 toku.fun
 tokusatsu-fc.jp
 tokusatsunetwork.com

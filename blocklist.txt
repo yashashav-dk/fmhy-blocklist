@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1918 domains)
-! Last updated: 2026-09-26T08:24:53Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1919 domains)
+! Last updated: 2026-09-27T09:02:46Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -177,7 +177,7 @@
 ||animex.one^
 ||animexin.dev^
 ||animezid.cam^
-||animotvslash.nl^
+||animotv.ru^
 ||animusic.moe^
 ||aninado.com^
 ||aninami.site^
@@ -1069,7 +1069,7 @@
 ||raw1001.net^
 ||rawbaka.site^
 ||rawdevart.art^
-||rawfree.pics^
+||rawfree.bid^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1340,6 +1340,7 @@
 ||tizentube.app^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
+||toflix.co^
 ||toku.fun^
 ||tokusatsu-fc.jp^
 ||tokusatsunetwork.com^
@@ -2098,7 +2099,7 @@
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
 ! 0.0.0.0 animezid.cam
-! 0.0.0.0 animotvslash.nl
+! 0.0.0.0 animotv.ru
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 aninado.com
 ! 0.0.0.0 aninami.site
@@ -2990,7 +2991,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.site
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.pics
+! 0.0.0.0 rawfree.bid
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3261,6 +3262,7 @@
 ! 0.0.0.0 tizentube.app
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
+! 0.0.0.0 toflix.co
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsu-fc.jp
 ! 0.0.0.0 tokusatsunetwork.com
