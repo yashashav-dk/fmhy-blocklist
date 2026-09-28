@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1919 domains)
-! Last updated: 2026-09-27T09:02:46Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1925 domains)
+! Last updated: 2026-09-28T09:30:29Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -73,10 +73,10 @@
 ||amvnews.ru^
 ||an1me.to^
 ||andlibria.qt^
+||ani.pm^
 ||ani4u.org^
 ||anianimals.moe^
 ||anibase.net^
-||anibd.app^
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
 ||anica.jp^
@@ -148,7 +148,6 @@
 ||animelayer.ru^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
-||animelistesi.com^
 ||animemusicquiz.com^
 ||animenosub.to^
 ||animeonsen.xyz^
@@ -283,6 +282,7 @@
 ||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
+||boomflix.qzz.io^
 ||bstsrs.in^
 ||bszip.com^
 ||btorrent.xyz^
@@ -332,7 +332,7 @@
 ||clients.md^
 ||closet-picks.com^
 ||cmvlinks.lovable.app^
-||cmvsp.lovable.app^
+||cmvwd.lovable.app^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
 ||com.flyersoft.moonreader^
@@ -436,6 +436,7 @@
 ||dualeotruyenbw.com^
 ||dubolt.com^
 ||due.moe^
+||dulo.mov^
 ||dumanwu.com^
 ||dw-anime.net^
 ||e.html^
@@ -476,7 +477,7 @@
 ||fansubs.cat^
 ||fansubs.ru^
 ||fantasticsoda.com^
-||fbstream.cc^
+||fbstream.is^
 ||fcast.org^
 ||ffmovies.org^
 ||filmcave.ru^
@@ -549,7 +550,6 @@
 ||git.private.coffee^
 ||git.rebelonion.dev^
 ||global.toptoon.com^
-||globeradio.app^
 ||go.aftvnews.com^
 ||goctruyentranh.com^
 ||goplay.ml^
@@ -689,7 +689,6 @@
 ||kototv.to^
 ||krdl.moe^
 ||kuramanime.red^
-||kuroanime.lol^
 ||kuroiru.co^
 ||kurotoshiro.dev^
 ||kurozora.app^
@@ -703,6 +702,7 @@
 ||leemiau.com^
 ||lermangas.me^
 ||letsanime.blogspot.com^
+||lfmx.app^
 ||libgen.li^
 ||library.cufiy.net^
 ||libremdb.iket.me^
@@ -713,6 +713,7 @@
 ||listen.moe^
 ||lists.fun^
 ||livelive24.com^
+||livelive24.st^
 ||livepush.io^
 ||livetv.sx^
 ||livextv.hybrows.workers.dev^
@@ -827,7 +828,6 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
-||monochrome.st^
 ||monoschinos.st^
 ||moonflix.com^
 ||moonflix.website^
@@ -841,12 +841,14 @@
 ||moviebox.co^
 ||movieboxonline.net^
 ||movielens.org^
+||movienerds.site^
 ||movienestbd.best^
 ||movienig.ht^
 ||movieo.me^
 ||movieparadise-code.md^
 ||movieparadise.org^
 ||moviepire.org^
+||movieplex.online^
 ||moviepooper.com^
 ||movies.php^
 ||moviescenemap.com^
@@ -1328,6 +1330,7 @@
 ||thewiki.moe^
 ||theyshootzombies.com^
 ||thwiki.cc^
+||tidal.odskyler.com^
 ||tiii.me^
 ||timeldred.com^
 ||times.abema.tv^
@@ -1365,6 +1368,7 @@
 ||touhou-memories.com^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
+||toustream.xyz^
 ||trace.moe^
 ||trailerpunk.com^
 ||transcripts.foreverdreaming.org^
@@ -1433,6 +1437,7 @@
 ||vidbox.website^
 ||videa.hu^
 ||videodictionary.kwebpia.net^
+||vidflix.live^
 ||vidplay.to^
 ||viewtopic.php^
 ||vipleague.me^
@@ -1507,6 +1512,7 @@
 ||willow.arlen.icu^
 ||willowmovies.com^
 ||witanime.you^
+||witchculttranslation.com^
 ||withsubtitles.com^
 ||wiztorrent.com^
 ||wjungle.net^
@@ -1580,7 +1586,6 @@
 ||www.anirena.com^
 ||www.anisil.com^
 ||www.anisurge.lol^
-||www.anmosugoi.com^
 ||www.anniversaryjump.com^
 ||www.antbyw.com^
 ||www.anzmanga25.com^
@@ -1880,6 +1885,7 @@
 ||x27.html^
 ||x3dl.net^
 ||xalosach.com^
+||xcomic.me^
 ||xdcc.eu^
 ||xmanhua.com^
 ||xn--ph1bph0az41x.com^
@@ -1995,10 +2001,10 @@
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
 ! 0.0.0.0 andlibria.qt
+! 0.0.0.0 ani.pm
 ! 0.0.0.0 ani4u.org
 ! 0.0.0.0 anianimals.moe
 ! 0.0.0.0 anibase.net
-! 0.0.0.0 anibd.app
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
 ! 0.0.0.0 anica.jp
@@ -2070,7 +2076,6 @@
 ! 0.0.0.0 animelayer.ru
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
-! 0.0.0.0 animelistesi.com
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
@@ -2205,6 +2210,7 @@
 ! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
+! 0.0.0.0 boomflix.qzz.io
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
 ! 0.0.0.0 btorrent.xyz
@@ -2254,7 +2260,7 @@
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 closet-picks.com
 ! 0.0.0.0 cmvlinks.lovable.app
-! 0.0.0.0 cmvsp.lovable.app
+! 0.0.0.0 cmvwd.lovable.app
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
 ! 0.0.0.0 com.flyersoft.moonreader
@@ -2358,6 +2364,7 @@
 ! 0.0.0.0 dualeotruyenbw.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
+! 0.0.0.0 dulo.mov
 ! 0.0.0.0 dumanwu.com
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 e.html
@@ -2398,7 +2405,7 @@
 ! 0.0.0.0 fansubs.cat
 ! 0.0.0.0 fansubs.ru
 ! 0.0.0.0 fantasticsoda.com
-! 0.0.0.0 fbstream.cc
+! 0.0.0.0 fbstream.is
 ! 0.0.0.0 fcast.org
 ! 0.0.0.0 ffmovies.org
 ! 0.0.0.0 filmcave.ru
@@ -2471,7 +2478,6 @@
 ! 0.0.0.0 git.private.coffee
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
-! 0.0.0.0 globeradio.app
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goctruyentranh.com
 ! 0.0.0.0 goplay.ml
@@ -2611,7 +2617,6 @@
 ! 0.0.0.0 kototv.to
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kuramanime.red
-! 0.0.0.0 kuroanime.lol
 ! 0.0.0.0 kuroiru.co
 ! 0.0.0.0 kurotoshiro.dev
 ! 0.0.0.0 kurozora.app
@@ -2625,6 +2630,7 @@
 ! 0.0.0.0 leemiau.com
 ! 0.0.0.0 lermangas.me
 ! 0.0.0.0 letsanime.blogspot.com
+! 0.0.0.0 lfmx.app
 ! 0.0.0.0 libgen.li
 ! 0.0.0.0 library.cufiy.net
 ! 0.0.0.0 libremdb.iket.me
@@ -2635,6 +2641,7 @@
 ! 0.0.0.0 listen.moe
 ! 0.0.0.0 lists.fun
 ! 0.0.0.0 livelive24.com
+! 0.0.0.0 livelive24.st
 ! 0.0.0.0 livepush.io
 ! 0.0.0.0 livetv.sx
 ! 0.0.0.0 livextv.hybrows.workers.dev
@@ -2749,7 +2756,6 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
-! 0.0.0.0 monochrome.st
 ! 0.0.0.0 monoschinos.st
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moonflix.website
@@ -2763,12 +2769,14 @@
 ! 0.0.0.0 moviebox.co
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
+! 0.0.0.0 movienerds.site
 ! 0.0.0.0 movienestbd.best
 ! 0.0.0.0 movienig.ht
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise-code.md
 ! 0.0.0.0 movieparadise.org
 ! 0.0.0.0 moviepire.org
+! 0.0.0.0 movieplex.online
 ! 0.0.0.0 moviepooper.com
 ! 0.0.0.0 movies.php
 ! 0.0.0.0 moviescenemap.com
@@ -3250,6 +3258,7 @@
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thwiki.cc
+! 0.0.0.0 tidal.odskyler.com
 ! 0.0.0.0 tiii.me
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
@@ -3287,6 +3296,7 @@
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
+! 0.0.0.0 toustream.xyz
 ! 0.0.0.0 trace.moe
 ! 0.0.0.0 trailerpunk.com
 ! 0.0.0.0 transcripts.foreverdreaming.org
@@ -3355,6 +3365,7 @@
 ! 0.0.0.0 vidbox.website
 ! 0.0.0.0 videa.hu
 ! 0.0.0.0 videodictionary.kwebpia.net
+! 0.0.0.0 vidflix.live
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
 ! 0.0.0.0 vipleague.me
@@ -3429,6 +3440,7 @@
 ! 0.0.0.0 willow.arlen.icu
 ! 0.0.0.0 willowmovies.com
 ! 0.0.0.0 witanime.you
+! 0.0.0.0 witchculttranslation.com
 ! 0.0.0.0 withsubtitles.com
 ! 0.0.0.0 wiztorrent.com
 ! 0.0.0.0 wjungle.net
@@ -3502,7 +3514,6 @@
 ! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisil.com
 ! 0.0.0.0 www.anisurge.lol
-! 0.0.0.0 www.anmosugoi.com
 ! 0.0.0.0 www.anniversaryjump.com
 ! 0.0.0.0 www.antbyw.com
 ! 0.0.0.0 www.anzmanga25.com
@@ -3802,6 +3813,7 @@
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 x3dl.net
 ! 0.0.0.0 xalosach.com
+! 0.0.0.0 xcomic.me
 ! 0.0.0.0 xdcc.eu
 ! 0.0.0.0 xmanhua.com
 ! 0.0.0.0 xn--ph1bph0az41x.com

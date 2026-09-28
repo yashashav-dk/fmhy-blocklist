@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1919 domains | updated 2026-09-27T09:02:46Z
+# 1925 domains | updated 2026-09-28T09:30:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -69,10 +69,10 @@ amvenfer.fr
 amvnews.ru
 an1me.to
 andlibria.qt
+ani.pm
 ani4u.org
 anianimals.moe
 anibase.net
-anibd.app
 aniblogtracker.app
 anibridge.eliasbenb.dev
 anica.jp
@@ -144,7 +144,6 @@ animeko.ws
 animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
-animelistesi.com
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
@@ -279,6 +278,7 @@ blog.sakugabooru.com
 bookplayer.app
 booksonic.org
 bookwalker.com
+boomflix.qzz.io
 bstsrs.in
 bszip.com
 btorrent.xyz
@@ -328,7 +328,7 @@ cli.club
 clients.md
 closet-picks.com
 cmvlinks.lovable.app
-cmvsp.lovable.app
+cmvwd.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -432,6 +432,7 @@ duafile.net
 dualeotruyenbw.com
 dubolt.com
 due.moe
+dulo.mov
 dumanwu.com
 dw-anime.net
 e.html
@@ -472,7 +473,7 @@ fansubdb.it
 fansubs.cat
 fansubs.ru
 fantasticsoda.com
-fbstream.cc
+fbstream.is
 fcast.org
 ffmovies.org
 filmcave.ru
@@ -545,7 +546,6 @@ ggflix.pro
 git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
-globeradio.app
 go.aftvnews.com
 goctruyentranh.com
 goplay.ml
@@ -685,7 +685,6 @@ koryo.tv
 kototv.to
 krdl.moe
 kuramanime.red
-kuroanime.lol
 kuroiru.co
 kurotoshiro.dev
 kurozora.app
@@ -699,6 +698,7 @@ latestmovies.net
 leemiau.com
 lermangas.me
 letsanime.blogspot.com
+lfmx.app
 libgen.li
 library.cufiy.net
 libremdb.iket.me
@@ -709,6 +709,7 @@ listen-to-euterpe.eu
 listen.moe
 lists.fun
 livelive24.com
+livelive24.st
 livepush.io
 livetv.sx
 livextv.hybrows.workers.dev
@@ -823,7 +824,6 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
-monochrome.st
 monoschinos.st
 moonflix.com
 moonflix.website
@@ -837,12 +837,14 @@ moviebite.org
 moviebox.co
 movieboxonline.net
 movielens.org
+movienerds.site
 movienestbd.best
 movienig.ht
 movieo.me
 movieparadise-code.md
 movieparadise.org
 moviepire.org
+movieplex.online
 moviepooper.com
 movies.php
 moviescenemap.com
@@ -1324,6 +1326,7 @@ thetvapp.plus
 thewiki.moe
 theyshootzombies.com
 thwiki.cc
+tidal.odskyler.com
 tiii.me
 timeldred.com
 times.abema.tv
@@ -1361,6 +1364,7 @@ total-sportekk.st
 touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
+toustream.xyz
 trace.moe
 trailerpunk.com
 transcripts.foreverdreaming.org
@@ -1429,6 +1433,7 @@ vidbox.vc
 vidbox.website
 videa.hu
 videodictionary.kwebpia.net
+vidflix.live
 vidplay.to
 viewtopic.php
 vipleague.me
@@ -1503,6 +1508,7 @@ wikizilla.org
 willow.arlen.icu
 willowmovies.com
 witanime.you
+witchculttranslation.com
 withsubtitles.com
 wiztorrent.com
 wjungle.net
@@ -1576,7 +1582,6 @@ www.animu.moe
 www.anirena.com
 www.anisil.com
 www.anisurge.lol
-www.anmosugoi.com
 www.anniversaryjump.com
 www.antbyw.com
 www.anzmanga25.com
@@ -1876,6 +1881,7 @@ www.zophar.net
 x27.html
 x3dl.net
 xalosach.com
+xcomic.me
 xdcc.eu
 xmanhua.com
 xn--ph1bph0az41x.com
