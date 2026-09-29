@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1925 domains)
-! Last updated: 2026-09-28T09:30:29Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1927 domains)
+! Last updated: 2026-09-29T09:34:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -95,6 +95,7 @@
 ||anify.to^
 ||aniguessr.com^
 ||anihq.cc^
+||anikage.cc^
 ||anikoto.site^
 ||anikototv.to^
 ||anikura.club^
@@ -258,7 +259,7 @@
 ||basketballreplays.net^
 ||batcave.biz^
 ||bbflix.one^
-||bcine.ru^
+||bciney.to^
 ||bechdeltest.com^
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
@@ -327,6 +328,7 @@
 ||cinetrii.com^
 ||cinevibe.cc^
 ||cinevid.st^
+||cinex.lol^
 ||circle.ms^
 ||cli.club^
 ||clients.md^
@@ -814,7 +816,7 @@
 ||mirrors.st^
 ||miru.js.org^
 ||miruro.bz^
-||miruro.ru^
+||miruro.cx^
 ||miruro.to^
 ||miruro.tv^
 ||mitsukeru.timschneeberger.me^
@@ -845,8 +847,6 @@
 ||movienestbd.best^
 ||movienig.ht^
 ||movieo.me^
-||movieparadise-code.md^
-||movieparadise.org^
 ||moviepire.org^
 ||movieplex.online^
 ||moviepooper.com^
@@ -1114,8 +1114,8 @@
 ||rips.cc^
 ||ristoanime.me^
 ||ristohentai.com^
-||rivestream.pw^
 ||rivestream.ru^
+||rivestream.win^
 ||rizzking.org^
 ||rlsbb.cc^
 ||rlsbb.in^
@@ -1156,7 +1156,6 @@
 ||scenelist.org^
 ||schedule.html^
 ||scnlog.me^
-||score808hd.tv^
 ||screenscape.me^
 ||scripts-onscreen.com^
 ||scripts.com^
@@ -1273,6 +1272,7 @@
 ||strexoplayer.onrender.com^
 ||strims24.pl^
 ||strmd.link^
+||strmfree.st^
 ||strumyk.domains^
 ||strumyk.pk^
 ||sub-scene.com^
@@ -1420,7 +1420,9 @@
 ||v13.anidub.digital^
 ||v2.samehadaku.how^
 ||v2.sportsurge.net^
+||v2.streameast.ga^
 ||v5.gostreameast.link^
+||vanillo.tv^
 ||vaughn.live^
 ||vaultplayer.co.uk^
 ||vavoo.to^
@@ -1615,7 +1617,7 @@
 ||www.chil-chil.net^
 ||www.chosic.com^
 ||www.cineapse.net^
-||www.cinezo.org^
+||www.cinezo.st^
 ||www.classreal.com^
 ||www.comicbookherald.com^
 ||www.comicbooktreasury.com^
@@ -1654,7 +1656,7 @@
 ||www.fansub.id^
 ||www.fansubs.cat^
 ||www.fawanews.sc^
-||www.fctv33hd.co^
+||www.fctv33hd.uno^
 ||www.fender.com^
 ||www.fileeagle.com^
 ||www.filepuma.com^
@@ -1782,6 +1784,7 @@
 ||www.rapidseedbox.com^
 ||www.raredoramas.com^
 ||www.ratingraph.com^
+||www.redbull.tv^
 ||www.reelscary.com^
 ||www.releases.com^
 ||www.rivestream.app^
@@ -1810,7 +1813,6 @@
 ||www.strawberrymusicplayer.org^
 ||www.streameast.cf^
 ||www.streameast.ch^
-||www.streameast.ec^
 ||www.streameast.fi^
 ||www.sublimemanga.com^
 ||www.subs4free.info^
@@ -2023,6 +2025,7 @@
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihq.cc
+! 0.0.0.0 anikage.cc
 ! 0.0.0.0 anikoto.site
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikura.club
@@ -2186,7 +2189,7 @@
 ! 0.0.0.0 basketballreplays.net
 ! 0.0.0.0 batcave.biz
 ! 0.0.0.0 bbflix.one
-! 0.0.0.0 bcine.ru
+! 0.0.0.0 bciney.to
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
@@ -2255,6 +2258,7 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
+! 0.0.0.0 cinex.lol
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2742,7 +2746,7 @@
 ! 0.0.0.0 mirrors.st
 ! 0.0.0.0 miru.js.org
 ! 0.0.0.0 miruro.bz
-! 0.0.0.0 miruro.ru
+! 0.0.0.0 miruro.cx
 ! 0.0.0.0 miruro.to
 ! 0.0.0.0 miruro.tv
 ! 0.0.0.0 mitsukeru.timschneeberger.me
@@ -2773,8 +2777,6 @@
 ! 0.0.0.0 movienestbd.best
 ! 0.0.0.0 movienig.ht
 ! 0.0.0.0 movieo.me
-! 0.0.0.0 movieparadise-code.md
-! 0.0.0.0 movieparadise.org
 ! 0.0.0.0 moviepire.org
 ! 0.0.0.0 movieplex.online
 ! 0.0.0.0 moviepooper.com
@@ -3042,8 +3044,8 @@
 ! 0.0.0.0 rips.cc
 ! 0.0.0.0 ristoanime.me
 ! 0.0.0.0 ristohentai.com
-! 0.0.0.0 rivestream.pw
 ! 0.0.0.0 rivestream.ru
+! 0.0.0.0 rivestream.win
 ! 0.0.0.0 rizzking.org
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
@@ -3084,7 +3086,6 @@
 ! 0.0.0.0 scenelist.org
 ! 0.0.0.0 schedule.html
 ! 0.0.0.0 scnlog.me
-! 0.0.0.0 score808hd.tv
 ! 0.0.0.0 screenscape.me
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
@@ -3201,6 +3202,7 @@
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.pl
 ! 0.0.0.0 strmd.link
+! 0.0.0.0 strmfree.st
 ! 0.0.0.0 strumyk.domains
 ! 0.0.0.0 strumyk.pk
 ! 0.0.0.0 sub-scene.com
@@ -3348,7 +3350,9 @@
 ! 0.0.0.0 v13.anidub.digital
 ! 0.0.0.0 v2.samehadaku.how
 ! 0.0.0.0 v2.sportsurge.net
+! 0.0.0.0 v2.streameast.ga
 ! 0.0.0.0 v5.gostreameast.link
+! 0.0.0.0 vanillo.tv
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
@@ -3543,7 +3547,7 @@
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
 ! 0.0.0.0 www.cineapse.net
-! 0.0.0.0 www.cinezo.org
+! 0.0.0.0 www.cinezo.st
 ! 0.0.0.0 www.classreal.com
 ! 0.0.0.0 www.comicbookherald.com
 ! 0.0.0.0 www.comicbooktreasury.com
@@ -3582,7 +3586,7 @@
 ! 0.0.0.0 www.fansub.id
 ! 0.0.0.0 www.fansubs.cat
 ! 0.0.0.0 www.fawanews.sc
-! 0.0.0.0 www.fctv33hd.co
+! 0.0.0.0 www.fctv33hd.uno
 ! 0.0.0.0 www.fender.com
 ! 0.0.0.0 www.fileeagle.com
 ! 0.0.0.0 www.filepuma.com
@@ -3710,6 +3714,7 @@
 ! 0.0.0.0 www.rapidseedbox.com
 ! 0.0.0.0 www.raredoramas.com
 ! 0.0.0.0 www.ratingraph.com
+! 0.0.0.0 www.redbull.tv
 ! 0.0.0.0 www.reelscary.com
 ! 0.0.0.0 www.releases.com
 ! 0.0.0.0 www.rivestream.app
@@ -3738,7 +3743,6 @@
 ! 0.0.0.0 www.strawberrymusicplayer.org
 ! 0.0.0.0 www.streameast.cf
 ! 0.0.0.0 www.streameast.ch
-! 0.0.0.0 www.streameast.ec
 ! 0.0.0.0 www.streameast.fi
 ! 0.0.0.0 www.sublimemanga.com
 ! 0.0.0.0 www.subs4free.info
