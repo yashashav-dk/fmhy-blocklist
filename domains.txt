@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1927 domains | updated 2026-09-29T09:34:47Z
+# 1928 domains | updated 2026-09-30T09:26:59Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -300,7 +300,6 @@ chiikawa.international
 chikianimation.com
 chikianimation.online
 chillflix.lol
-cineby.gdn
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
@@ -531,7 +530,7 @@ fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe677.com
+funbe678.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -673,6 +672,7 @@ kisskh.or.at
 kisskh.ovh
 kitsunekko.net
 kmmovies.shop
+kmworks.date
 kodasusaka.com
 koddo.ch
 kofi.mov
@@ -1095,6 +1095,7 @@ refooty.com
 reindex.to
 relatedanime.com
 releasefeed.elomatreb.eu
+releasehive.com
 releases.com
 releases.moe
 remanga.org
@@ -1350,7 +1351,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor0.org
+toonkor1.org
 toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
@@ -1441,7 +1442,7 @@ viewtopic.php
 vipleague.me
 vipotv.com
 virgil.samidy.com
-viv.st
+vivarium.su
 vk.ru
 vknext.net
 vkvideo.ru
@@ -1477,7 +1478,7 @@ watchorbit.me
 watchott.org
 watchprowrestling.store
 watchreplay.net
-watchseries.show
+watchseries.free
 watchsports.st
 watchsports.su
 watchsurface.stream
