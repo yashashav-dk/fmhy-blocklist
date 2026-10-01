@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1928 domains | updated 2026-09-30T09:26:59Z
+# 1928 domains | updated 2026-10-01T09:53:31Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -303,7 +303,6 @@ chillflix.lol
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
-cineflixd.fstream.app
 cinefork.net
 cinefy.cc
 cinego.co
@@ -1289,7 +1288,7 @@ sugoi.gitbook.io
 supernova.to
 sushi.net
 sushiscan.net
-suwatte.mantton.com
+suwatte.app
 svstream.cc
 swimrewind.com
 sync.coconono.org
@@ -1770,6 +1769,7 @@ www.omoi.com
 www.openutau.com
 www.otakunews.com
 www.ourstarblazers.com
+www.panels.app
 www.panix.com
 www.pirateboard.net
 www.playary.com

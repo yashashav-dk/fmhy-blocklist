@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1928 domains)
-! Last updated: 2026-09-30T09:26:59Z
+! Last updated: 2026-10-01T09:53:31Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -307,7 +307,6 @@
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
-||cineflixd.fstream.app^
 ||cinefork.net^
 ||cinefy.cc^
 ||cinego.co^
@@ -1293,7 +1292,7 @@
 ||supernova.to^
 ||sushi.net^
 ||sushiscan.net^
-||suwatte.mantton.com^
+||suwatte.app^
 ||svstream.cc^
 ||swimrewind.com^
 ||sync.coconono.org^
@@ -1774,6 +1773,7 @@
 ||www.openutau.com^
 ||www.otakunews.com^
 ||www.ourstarblazers.com^
+||www.panels.app^
 ||www.panix.com^
 ||www.pirateboard.net^
 ||www.playary.com^
@@ -2238,7 +2238,6 @@
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
-! 0.0.0.0 cineflixd.fstream.app
 ! 0.0.0.0 cinefork.net
 ! 0.0.0.0 cinefy.cc
 ! 0.0.0.0 cinego.co
@@ -3224,7 +3223,7 @@
 ! 0.0.0.0 supernova.to
 ! 0.0.0.0 sushi.net
 ! 0.0.0.0 sushiscan.net
-! 0.0.0.0 suwatte.mantton.com
+! 0.0.0.0 suwatte.app
 ! 0.0.0.0 svstream.cc
 ! 0.0.0.0 swimrewind.com
 ! 0.0.0.0 sync.coconono.org
@@ -3705,6 +3704,7 @@
 ! 0.0.0.0 www.openutau.com
 ! 0.0.0.0 www.otakunews.com
 ! 0.0.0.0 www.ourstarblazers.com
+! 0.0.0.0 www.panels.app
 ! 0.0.0.0 www.panix.com
 ! 0.0.0.0 www.pirateboard.net
 ! 0.0.0.0 www.playary.com
