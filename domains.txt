@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1928 domains | updated 2026-10-01T09:53:31Z
+# 1924 domains | updated 2026-10-02T09:29:56Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -156,7 +156,7 @@ animes.garden
 animesalt.cx
 animeschedule.net
 animesongs.org
-animestars.org
+animesss.com
 animesub.info
 animesub.lt
 animesuge.bid
@@ -475,7 +475,6 @@ fansubs.ru
 fantasticsoda.com
 fbstream.is
 fcast.org
-ffmovies.org
 filmcave.ru
 filmdilemma.com
 filmfans.org
@@ -489,7 +488,6 @@ find-movie.info
 fireani.me
 flicker-proxy.md
 flickmetrix.com
-flickystream.mov
 fliker.freebuff.app
 flive.dpdns.org
 flixer.cx
@@ -507,7 +505,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc129.asia
+foc130.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -525,7 +523,6 @@ freetvz.com
 french-anime.com
 frixysubs.pl
 fsharetv.co
-fstream.app
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
@@ -657,6 +654,7 @@ ketto.com
 keyframe-staff-list.com
 keygenmusic.tk
 kibo.fm
+kid3.kde.org
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
@@ -694,7 +692,6 @@ kyren.moe
 lama.watch
 last.timer
 lastfmstats.com
-latanime.org
 latestmovies.net
 leemiau.com
 lermangas.me
@@ -825,7 +822,6 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
-monoschinos.st
 moonflix.com
 moonflix.website
 moovie.fun
@@ -852,8 +848,9 @@ moviesfoundonline.com
 moviesnipipay.me
 moviezmad.co
 movish.to
+movy.fyi
 msft-store.tplant.com.au
-mtoon155.asia
+mtoon156.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -872,7 +869,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee117.asia
+namee118.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1197,7 +1194,6 @@ slow.pics
 smacke.net
 smashystream.xyz
 smoores.gitlab.io
-smovies.co
 soapgo.to
 soccerfull.net
 soft.ac
@@ -1532,7 +1528,6 @@ www.55comic.com
 www.69shuba.com
 www.8comic.com
 www.90minutes.pro
-www.a-zmanga.net
 www.addic7ed.com
 www.adit-hd.com
 www.aftvnews.com
@@ -1584,6 +1579,7 @@ www.animu.moe
 www.anirena.com
 www.anisil.com
 www.anisurge.lol
+www.anmosugoi.com
 www.anniversaryjump.com
 www.antbyw.com
 www.anzmanga25.com
