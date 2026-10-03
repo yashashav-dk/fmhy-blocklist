@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1924 domains | updated 2026-10-02T09:29:56Z
+# 1927 domains | updated 2026-10-03T08:57:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -108,7 +108,6 @@ animan.ru
 anime-archive.com
 anime-bingo.aikats.us
 anime-community-germany.de
-anime-dunya.com
 anime-fansubs.de
 anime-odcinki.pl
 anime-sama.pw
@@ -128,6 +127,7 @@ animeav1.com
 animeawards.moe
 animebalkan.org
 animebathscenewiki.com
+animebbg.net
 animeco.link
 animecons.com
 animecorner.me
@@ -429,12 +429,13 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenbw.com
+dualeotruyenpet.com
 dubolt.com
 due.moe
 dulo.mov
 dumanwu.com
 dw-anime.net
+dynasty-scans.com
 e.html
 easterneuropeanmovies.com
 eddvault.notion.site
@@ -639,7 +640,7 @@ kaa.lt
 kagane.org
 kagane.to
 kara.moe
-kartoons.me
+kartoons.to
 katzddl.net
 kawaiianime.cc
 kawaiimanga.org
@@ -674,7 +675,6 @@ kodasusaka.com
 koddo.ch
 kofi.mov
 komiic.com
-komikindo.ch
 komiku.org
 kontrast.top
 kool.to
@@ -692,6 +692,7 @@ kyren.moe
 lama.watch
 last.timer
 lastfmstats.com
+latanime.org
 latestmovies.net
 leemiau.com
 lermangas.me
@@ -713,7 +714,6 @@ livetv.sx
 livextv.hybrows.workers.dev
 lmanime.com
 lnbmange.com
-lnori.com
 log.rlsbb.ru
 logs.musichoarders.xyz
 lookmovie2.la
@@ -838,6 +838,7 @@ movienerds.site
 movienestbd.best
 movienig.ht
 movieo.me
+movieparadise.org
 moviepire.org
 movieplex.online
 moviepooper.com
@@ -907,6 +908,7 @@ noirx.me
 nomorflix.cc
 nomorflix.com
 note.com
+notebin.de
 nothing-to-watch.port80.ch
 notscare.me
 novahd.cc
@@ -983,6 +985,7 @@ pahe.ink
 palanq.win
 pantyflix.com
 partitioned-cookies.md
+paste.to
 pawflix.foo.ng
 pdftoshokan.com
 peestream.in
@@ -1327,7 +1330,7 @@ tiii.me
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timst.cfd
+timst.top
 tioanime.com
 tiodonghua.com
 tivimate.com
@@ -1561,7 +1564,6 @@ www.animeil-tv.com
 www.animemusicvideos.org
 www.animenano.com
 www.animenexus.net
-www.animeonsen.xyz
 www.animeout.xyz
 www.animeparadise.moe
 www.animeradio.de
@@ -1678,7 +1680,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon005.com
+www.goodtoon006.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1726,6 +1728,7 @@ www.manga-passion.de
 www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
+www.mangageeks.com.ua
 www.mangasplaining.com
 www.mangaworld.mx
 www.mangaworldadult.net
