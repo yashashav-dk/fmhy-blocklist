@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1927 domains)
-! Last updated: 2026-10-03T08:57:29Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1934 domains)
+! Last updated: 2026-10-04T09:29:01Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -46,7 +46,6 @@
 ||aaronperris.com^
 ||abibli.com^
 ||absorbiendomangas2.blogspot.com^
-||acestreamid.com^
 ||acg.rip^
 ||acheriya.com^
 ||adding-repos.html^
@@ -208,7 +207,7 @@
 ||annict.com^
 ||anonops.com^
 ||antra.hoshi.cfd^
-||apexmovies.net^
+||anything.rip^
 ||app.animevsub.eu.org^
 ||app.asbplayer.dev^
 ||arabshentai.com^
@@ -326,7 +325,6 @@
 ||cinetrii.com^
 ||cinevibe.cc^
 ||cinevid.st^
-||cinex.lol^
 ||circle.ms^
 ||cli.club^
 ||clients.md^
@@ -395,6 +393,7 @@
 ||desu.me^
 ||desu.uno^
 ||desuarchive.org^
+||dexter.pw^
 ||dgbfansub.carrd.co^
 ||digitalcomicmuseum.com^
 ||digitaldreamdoor.com^
@@ -542,6 +541,7 @@
 ||gensokyoradio.net^
 ||get4all.org^
 ||getcomics.org^
+||getindevice.com^
 ||getlibation.com^
 ||getwacup.com^
 ||ggflix.pro^
@@ -732,6 +732,7 @@
 ||luna-stream.me^
 ||lunarx.to^
 ||m-p.sakura.ne.jp^
+||m-zone.org^
 ||m2box.org^
 ||m3u-ip.tv^
 ||m3u4u.com^
@@ -826,6 +827,7 @@
 ||moe.emi.aluminium^
 ||moelist.net^
 ||momovod.app^
+||monoschinos.st^
 ||moonflix.com^
 ||moonflix.website^
 ||moovie.fun^
@@ -1126,6 +1128,7 @@
 ||rmzmirrors.com^
 ||rockvalleynovels.wixsite.com^
 ||rouman5.com^
+||roxiestreams.biz^
 ||roxiestreams.cc^
 ||roxiestreams.info^
 ||roxiestreams.su^
@@ -1140,6 +1143,7 @@
 ||rutube.ru^
 ||sadscans.net^
 ||sakuranovel.id^
+||sakusaku.to^
 ||sambl.lioncat6.com^
 ||samehadaku.care^
 ||sanet-warning.md^
@@ -1224,7 +1228,6 @@
 ||sportarr.net^
 ||sportontv.click^
 ||sportsbite.org^
-||sportsindx.st^
 ||sportsurge.st^
 ||squid.wtf^
 ||srstop.link^
@@ -1328,6 +1331,7 @@
 ||thetvapp.plus^
 ||thewiki.moe^
 ||theyshootzombies.com^
+||thugtv.online^
 ||thwiki.cc^
 ||tidal.odskyler.com^
 ||tiii.me^
@@ -1481,7 +1485,6 @@
 ||watchprowrestling.store^
 ||watchreplay.net^
 ||watchseries.free^
-||watchsports.st^
 ||watchsports.su^
 ||watchsurface.stream^
 ||watchttn.com^
@@ -1535,6 +1538,7 @@
 ||www.69shuba.com^
 ||www.8comic.com^
 ||www.90minutes.pro^
+||www.a-zmanga.net^
 ||www.addic7ed.com^
 ||www.adit-hd.com^
 ||www.aftvnews.com^
@@ -1794,6 +1798,7 @@
 ||www.scnsrc.me^
 ||www.scripts.com^
 ||www.scriptslug.com^
+||www.shahflix.net^
 ||www.shanaproject.com^
 ||www.shortverse.com^
 ||www.showbox.media^
@@ -1894,7 +1899,8 @@
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
-||yatoon252.asia^
+||yamayurikai-subs.eu^
+||yatoon254.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1931,6 +1937,7 @@
 ||zetmoon.live^
 ||zflix.me^
 ||zlive.st^
+||zoryva.me^
 ||zxcprime.icu^
 ||zxpinstaller.com^
 !
@@ -1976,7 +1983,6 @@
 ! 0.0.0.0 aaronperris.com
 ! 0.0.0.0 abibli.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
-! 0.0.0.0 acestreamid.com
 ! 0.0.0.0 acg.rip
 ! 0.0.0.0 acheriya.com
 ! 0.0.0.0 adding-repos.html
@@ -2138,7 +2144,7 @@
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 antra.hoshi.cfd
-! 0.0.0.0 apexmovies.net
+! 0.0.0.0 anything.rip
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.asbplayer.dev
 ! 0.0.0.0 arabshentai.com
@@ -2256,7 +2262,6 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
-! 0.0.0.0 cinex.lol
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2325,6 +2330,7 @@
 ! 0.0.0.0 desu.me
 ! 0.0.0.0 desu.uno
 ! 0.0.0.0 desuarchive.org
+! 0.0.0.0 dexter.pw
 ! 0.0.0.0 dgbfansub.carrd.co
 ! 0.0.0.0 digitalcomicmuseum.com
 ! 0.0.0.0 digitaldreamdoor.com
@@ -2472,6 +2478,7 @@
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 get4all.org
 ! 0.0.0.0 getcomics.org
+! 0.0.0.0 getindevice.com
 ! 0.0.0.0 getlibation.com
 ! 0.0.0.0 getwacup.com
 ! 0.0.0.0 ggflix.pro
@@ -2662,6 +2669,7 @@
 ! 0.0.0.0 luna-stream.me
 ! 0.0.0.0 lunarx.to
 ! 0.0.0.0 m-p.sakura.ne.jp
+! 0.0.0.0 m-zone.org
 ! 0.0.0.0 m2box.org
 ! 0.0.0.0 m3u-ip.tv
 ! 0.0.0.0 m3u4u.com
@@ -2756,6 +2764,7 @@
 ! 0.0.0.0 moe.emi.aluminium
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 momovod.app
+! 0.0.0.0 monoschinos.st
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moonflix.website
 ! 0.0.0.0 moovie.fun
@@ -3056,6 +3065,7 @@
 ! 0.0.0.0 rmzmirrors.com
 ! 0.0.0.0 rockvalleynovels.wixsite.com
 ! 0.0.0.0 rouman5.com
+! 0.0.0.0 roxiestreams.biz
 ! 0.0.0.0 roxiestreams.cc
 ! 0.0.0.0 roxiestreams.info
 ! 0.0.0.0 roxiestreams.su
@@ -3070,6 +3080,7 @@
 ! 0.0.0.0 rutube.ru
 ! 0.0.0.0 sadscans.net
 ! 0.0.0.0 sakuranovel.id
+! 0.0.0.0 sakusaku.to
 ! 0.0.0.0 sambl.lioncat6.com
 ! 0.0.0.0 samehadaku.care
 ! 0.0.0.0 sanet-warning.md
@@ -3154,7 +3165,6 @@
 ! 0.0.0.0 sportarr.net
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
-! 0.0.0.0 sportsindx.st
 ! 0.0.0.0 sportsurge.st
 ! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
@@ -3258,6 +3268,7 @@
 ! 0.0.0.0 thetvapp.plus
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
+! 0.0.0.0 thugtv.online
 ! 0.0.0.0 thwiki.cc
 ! 0.0.0.0 tidal.odskyler.com
 ! 0.0.0.0 tiii.me
@@ -3411,7 +3422,6 @@
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchseries.free
-! 0.0.0.0 watchsports.st
 ! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchttn.com
@@ -3465,6 +3475,7 @@
 ! 0.0.0.0 www.69shuba.com
 ! 0.0.0.0 www.8comic.com
 ! 0.0.0.0 www.90minutes.pro
+! 0.0.0.0 www.a-zmanga.net
 ! 0.0.0.0 www.addic7ed.com
 ! 0.0.0.0 www.adit-hd.com
 ! 0.0.0.0 www.aftvnews.com
@@ -3724,6 +3735,7 @@
 ! 0.0.0.0 www.scnsrc.me
 ! 0.0.0.0 www.scripts.com
 ! 0.0.0.0 www.scriptslug.com
+! 0.0.0.0 www.shahflix.net
 ! 0.0.0.0 www.shanaproject.com
 ! 0.0.0.0 www.shortverse.com
 ! 0.0.0.0 www.showbox.media
@@ -3824,7 +3836,8 @@
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
-! 0.0.0.0 yatoon252.asia
+! 0.0.0.0 yamayurikai-subs.eu
+! 0.0.0.0 yatoon254.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
@@ -3861,5 +3874,6 @@
 ! 0.0.0.0 zetmoon.live
 ! 0.0.0.0 zflix.me
 ! 0.0.0.0 zlive.st
+! 0.0.0.0 zoryva.me
 ! 0.0.0.0 zxcprime.icu
 ! 0.0.0.0 zxpinstaller.com

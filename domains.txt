@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1927 domains | updated 2026-10-03T08:57:29Z
+# 1934 domains | updated 2026-10-04T09:29:01Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -42,7 +42,6 @@
 aaronperris.com
 abibli.com
 absorbiendomangas2.blogspot.com
-acestreamid.com
 acg.rip
 acheriya.com
 adding-repos.html
@@ -204,7 +203,7 @@ annas-archive.gl
 annict.com
 anonops.com
 antra.hoshi.cfd
-apexmovies.net
+anything.rip
 app.animevsub.eu.org
 app.asbplayer.dev
 arabshentai.com
@@ -322,7 +321,6 @@ cinetimes.org
 cinetrii.com
 cinevibe.cc
 cinevid.st
-cinex.lol
 circle.ms
 cli.club
 clients.md
@@ -391,6 +389,7 @@ desu-online.pl
 desu.me
 desu.uno
 desuarchive.org
+dexter.pw
 dgbfansub.carrd.co
 digitalcomicmuseum.com
 digitaldreamdoor.com
@@ -538,6 +537,7 @@ gataket.com
 gensokyoradio.net
 get4all.org
 getcomics.org
+getindevice.com
 getlibation.com
 getwacup.com
 ggflix.pro
@@ -728,6 +728,7 @@ lumotv.co.uk
 luna-stream.me
 lunarx.to
 m-p.sakura.ne.jp
+m-zone.org
 m2box.org
 m3u-ip.tv
 m3u4u.com
@@ -822,6 +823,7 @@ modlist.in
 moe.emi.aluminium
 moelist.net
 momovod.app
+monoschinos.st
 moonflix.com
 moonflix.website
 moovie.fun
@@ -1122,6 +1124,7 @@ rmz.cr
 rmzmirrors.com
 rockvalleynovels.wixsite.com
 rouman5.com
+roxiestreams.biz
 roxiestreams.cc
 roxiestreams.info
 roxiestreams.su
@@ -1136,6 +1139,7 @@ rutracker.org
 rutube.ru
 sadscans.net
 sakuranovel.id
+sakusaku.to
 sambl.lioncat6.com
 samehadaku.care
 sanet-warning.md
@@ -1220,7 +1224,6 @@ spin.moe
 sportarr.net
 sportontv.click
 sportsbite.org
-sportsindx.st
 sportsurge.st
 squid.wtf
 srstop.link
@@ -1324,6 +1327,7 @@ thesilentlibrary.com
 thetvapp.plus
 thewiki.moe
 theyshootzombies.com
+thugtv.online
 thwiki.cc
 tidal.odskyler.com
 tiii.me
@@ -1477,7 +1481,6 @@ watchott.org
 watchprowrestling.store
 watchreplay.net
 watchseries.free
-watchsports.st
 watchsports.su
 watchsurface.stream
 watchttn.com
@@ -1531,6 +1534,7 @@ www.55comic.com
 www.69shuba.com
 www.8comic.com
 www.90minutes.pro
+www.a-zmanga.net
 www.addic7ed.com
 www.adit-hd.com
 www.aftvnews.com
@@ -1790,6 +1794,7 @@ www.scenesource.me
 www.scnsrc.me
 www.scripts.com
 www.scriptslug.com
+www.shahflix.net
 www.shanaproject.com
 www.shortverse.com
 www.showbox.media
@@ -1890,7 +1895,8 @@ xn--ph1bph0az41x.com
 xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
-yatoon252.asia
+yamayurikai-subs.eu
+yatoon254.asia
 yattatachi.com
 yenime.net
 yeshd.net
@@ -1927,5 +1933,6 @@ zerostream.alwaysdata.net
 zetmoon.live
 zflix.me
 zlive.st
+zoryva.me
 zxcprime.icu
 zxpinstaller.com
