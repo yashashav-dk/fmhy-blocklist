@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1934 domains | updated 2026-10-04T09:29:01Z
+# 1936 domains | updated 2026-10-05T10:09:23Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -125,6 +125,7 @@ anime7.download
 animeav1.com
 animeawards.moe
 animebalkan.org
+animebashindia.me
 animebathscenewiki.com
 animebbg.net
 animeco.link
@@ -190,6 +191,7 @@ anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
+aniverse.fr
 aniwatch.rest
 aniwaves.ru
 aniworld.to
@@ -245,7 +247,7 @@ baked.live
 bambooua.com
 bangumi.moe
 bangumi.tv
-banime.dedyn.io
+banime.top
 baozimh.com
 baozimh.org
 basementx.lol
@@ -254,7 +256,6 @@ basketball-video.com
 basketballreplays.net
 batcave.biz
 bbflix.one
-bciney.to
 bechdeltest.com
 bendodson.com
 berekescrubs.wordpress.com
@@ -321,6 +322,7 @@ cinetimes.org
 cinetrii.com
 cinevibe.cc
 cinevid.st
+cineyz.com
 circle.ms
 cli.club
 clients.md
@@ -389,7 +391,6 @@ desu-online.pl
 desu.me
 desu.uno
 desuarchive.org
-dexter.pw
 dgbfansub.carrd.co
 digitalcomicmuseum.com
 digitaldreamdoor.com
@@ -412,7 +413,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
-dokiraw.icu
+dokiraw.link
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -505,7 +506,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc130.asia
+foc131.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -628,7 +629,7 @@ japanpaw.com
 japanradio.de
 jefusion.blogspot.com
 jkanime.net
-jmanga.locker
+jmanga.media
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -767,7 +768,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.casa
+mangarawad.wiki
 mangarawjp.me
 mangaseek.net
 mangashelf.co.il
@@ -872,7 +873,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee118.asia
+namee119.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1068,7 +1069,7 @@ raw-cans.net
 raw1001.net
 rawbaka.site
 rawdevart.art
-rawfree.bid
+rawfree.llc
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1231,6 +1232,7 @@ ssrmovies.blue
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
+status.banime.top
 status.miruro.com
 status.streamea.st
 status.stremio-status.com
@@ -1733,6 +1735,7 @@ www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
 www.mangageeks.com.ua
+www.mangakawaii.fr
 www.mangasplaining.com
 www.mangaworld.mx
 www.mangaworldadult.net
@@ -1794,7 +1797,6 @@ www.scenesource.me
 www.scnsrc.me
 www.scripts.com
 www.scriptslug.com
-www.shahflix.net
 www.shanaproject.com
 www.shortverse.com
 www.showbox.media

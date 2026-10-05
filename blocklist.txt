@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1934 domains)
-! Last updated: 2026-10-04T09:29:01Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1936 domains)
+! Last updated: 2026-10-05T10:09:23Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -129,6 +129,7 @@
 ||animeav1.com^
 ||animeawards.moe^
 ||animebalkan.org^
+||animebashindia.me^
 ||animebathscenewiki.com^
 ||animebbg.net^
 ||animeco.link^
@@ -194,6 +195,7 @@
 ||anitrakt.huere.net^
 ||anitrendz.net^
 ||anitube.in.ua^
+||aniverse.fr^
 ||aniwatch.rest^
 ||aniwaves.ru^
 ||aniworld.to^
@@ -249,7 +251,7 @@
 ||bambooua.com^
 ||bangumi.moe^
 ||bangumi.tv^
-||banime.dedyn.io^
+||banime.top^
 ||baozimh.com^
 ||baozimh.org^
 ||basementx.lol^
@@ -258,7 +260,6 @@
 ||basketballreplays.net^
 ||batcave.biz^
 ||bbflix.one^
-||bciney.to^
 ||bechdeltest.com^
 ||bendodson.com^
 ||berekescrubs.wordpress.com^
@@ -325,6 +326,7 @@
 ||cinetrii.com^
 ||cinevibe.cc^
 ||cinevid.st^
+||cineyz.com^
 ||circle.ms^
 ||cli.club^
 ||clients.md^
@@ -393,7 +395,6 @@
 ||desu.me^
 ||desu.uno^
 ||desuarchive.org^
-||dexter.pw^
 ||dgbfansub.carrd.co^
 ||digitalcomicmuseum.com^
 ||digitaldreamdoor.com^
@@ -416,7 +417,7 @@
 ||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.io^
-||dokiraw.icu^
+||dokiraw.link^
 ||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
@@ -509,7 +510,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc130.asia^
+||foc131.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -632,7 +633,7 @@
 ||japanradio.de^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.locker^
+||jmanga.media^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -771,7 +772,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.casa^
+||mangarawad.wiki^
 ||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
@@ -876,7 +877,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee118.asia^
+||namee119.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1072,7 +1073,7 @@
 ||raw1001.net^
 ||rawbaka.site^
 ||rawdevart.art^
-||rawfree.bid^
+||rawfree.llc^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1235,6 +1236,7 @@
 ||staff.iklone.org^
 ||staging.ranobe.app^
 ||static.sneedex.moe^
+||status.banime.top^
 ||status.miruro.com^
 ||status.streamea.st^
 ||status.stremio-status.com^
@@ -1737,6 +1739,7 @@
 ||www.mangacodex.com^
 ||www.mangadraft.com^
 ||www.mangageeks.com.ua^
+||www.mangakawaii.fr^
 ||www.mangasplaining.com^
 ||www.mangaworld.mx^
 ||www.mangaworldadult.net^
@@ -1798,7 +1801,6 @@
 ||www.scnsrc.me^
 ||www.scripts.com^
 ||www.scriptslug.com^
-||www.shahflix.net^
 ||www.shanaproject.com^
 ||www.shortverse.com^
 ||www.showbox.media^
@@ -2066,6 +2068,7 @@
 ! 0.0.0.0 animeav1.com
 ! 0.0.0.0 animeawards.moe
 ! 0.0.0.0 animebalkan.org
+! 0.0.0.0 animebashindia.me
 ! 0.0.0.0 animebathscenewiki.com
 ! 0.0.0.0 animebbg.net
 ! 0.0.0.0 animeco.link
@@ -2131,6 +2134,7 @@
 ! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anitube.in.ua
+! 0.0.0.0 aniverse.fr
 ! 0.0.0.0 aniwatch.rest
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
@@ -2186,7 +2190,7 @@
 ! 0.0.0.0 bambooua.com
 ! 0.0.0.0 bangumi.moe
 ! 0.0.0.0 bangumi.tv
-! 0.0.0.0 banime.dedyn.io
+! 0.0.0.0 banime.top
 ! 0.0.0.0 baozimh.com
 ! 0.0.0.0 baozimh.org
 ! 0.0.0.0 basementx.lol
@@ -2195,7 +2199,6 @@
 ! 0.0.0.0 basketballreplays.net
 ! 0.0.0.0 batcave.biz
 ! 0.0.0.0 bbflix.one
-! 0.0.0.0 bciney.to
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 berekescrubs.wordpress.com
@@ -2262,6 +2265,7 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
+! 0.0.0.0 cineyz.com
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2330,7 +2334,6 @@
 ! 0.0.0.0 desu.me
 ! 0.0.0.0 desu.uno
 ! 0.0.0.0 desuarchive.org
-! 0.0.0.0 dexter.pw
 ! 0.0.0.0 dgbfansub.carrd.co
 ! 0.0.0.0 digitalcomicmuseum.com
 ! 0.0.0.0 digitaldreamdoor.com
@@ -2353,7 +2356,7 @@
 ! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
-! 0.0.0.0 dokiraw.icu
+! 0.0.0.0 dokiraw.link
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
@@ -2446,7 +2449,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc130.asia
+! 0.0.0.0 foc131.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2569,7 +2572,7 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.locker
+! 0.0.0.0 jmanga.media
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2708,7 +2711,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.casa
+! 0.0.0.0 mangarawad.wiki
 ! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
@@ -2813,7 +2816,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee118.asia
+! 0.0.0.0 namee119.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3009,7 +3012,7 @@
 ! 0.0.0.0 raw1001.net
 ! 0.0.0.0 rawbaka.site
 ! 0.0.0.0 rawdevart.art
-! 0.0.0.0 rawfree.bid
+! 0.0.0.0 rawfree.llc
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3172,6 +3175,7 @@
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
+! 0.0.0.0 status.banime.top
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 status.streamea.st
 ! 0.0.0.0 status.stremio-status.com
@@ -3674,6 +3678,7 @@
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
 ! 0.0.0.0 www.mangageeks.com.ua
+! 0.0.0.0 www.mangakawaii.fr
 ! 0.0.0.0 www.mangasplaining.com
 ! 0.0.0.0 www.mangaworld.mx
 ! 0.0.0.0 www.mangaworldadult.net
@@ -3735,7 +3740,6 @@
 ! 0.0.0.0 www.scnsrc.me
 ! 0.0.0.0 www.scripts.com
 ! 0.0.0.0 www.scriptslug.com
-! 0.0.0.0 www.shahflix.net
 ! 0.0.0.0 www.shanaproject.com
 ! 0.0.0.0 www.shortverse.com
 ! 0.0.0.0 www.showbox.media
