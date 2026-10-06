@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1936 domains)
-! Last updated: 2026-10-05T10:09:23Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1937 domains)
+! Last updated: 2026-10-06T09:53:04Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -138,7 +138,6 @@
 ||animecountdown.com^
 ||animedb.jp^
 ||animedex.fun^
-||animedrive.hu^
 ||animefire.plus^
 ||animehay.in^
 ||animejoker.com^
@@ -467,6 +466,7 @@
 ||extranet.torrentbay.st^
 ||extto.com^
 ||eztvx.to^
+||f-droid.org^
 ||f1live.dpdns.org^
 ||falconstreams.app^
 ||fameboxd.com^
@@ -531,7 +531,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe678.com^
+||funbe679.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -579,7 +579,6 @@
 ||hentai-time.com^
 ||hentai.cat^
 ||hentaicube.xyz^
-||hentaijl.com^
 ||hentaila.com^
 ||hentaiukr.com^
 ||hentaivn.show^
@@ -631,6 +630,7 @@
 ||japanesetorrents.wordpress.com^
 ||japanpaw.com^
 ||japanradio.de^
+||jcionx.dev^
 ||jefusion.blogspot.com^
 ||jkanime.net^
 ||jmanga.media^
@@ -680,6 +680,7 @@
 ||koddo.ch^
 ||kofi.mov^
 ||komiic.com^
+||komikindo.ch^
 ||komiku.org^
 ||kontrast.top^
 ||kool.to^
@@ -858,7 +859,7 @@
 ||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon156.asia^
+||mtoon157.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -892,6 +893,7 @@
 ||nepu.app^
 ||nepu.io^
 ||nepu.is^
+||net.yumicoradio.android^
 ||netnaija.film^
 ||netplayz.icu^
 ||netshows.xyz^
@@ -1359,7 +1361,7 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
-||toonkor1.org^
+||toonkor2.org^
 ||toonstream.us^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
@@ -1557,7 +1559,6 @@
 ||www.anianimals.moe^
 ||www.anibunker.com^
 ||www.animatetimes.com^
-||www.anime-jl.net^
 ||www.anime-loads.org^
 ||www.anime-overdose.com^
 ||www.anime-sharing.com^
@@ -1758,7 +1759,6 @@
 ||www.moviestowatch.top^
 ||www.movy.sx^
 ||www.mrqe.com^
-||www.muitohentai.com^
 ||www.mundodonghua.com^
 ||www.music-map.com^
 ||www.musicbutler.io^
@@ -1863,6 +1863,7 @@
 ||www.vipvgm.net^
 ||www.vn-meido.com^
 ||www.vocaloidradio.com^
+||www.watchanimehentai.com^
 ||www.wco.tv^
 ||www.wcoanimedub.tv^
 ||www.wcoanimesub.tv^
@@ -2077,7 +2078,6 @@
 ! 0.0.0.0 animecountdown.com
 ! 0.0.0.0 animedb.jp
 ! 0.0.0.0 animedex.fun
-! 0.0.0.0 animedrive.hu
 ! 0.0.0.0 animefire.plus
 ! 0.0.0.0 animehay.in
 ! 0.0.0.0 animejoker.com
@@ -2406,6 +2406,7 @@
 ! 0.0.0.0 extranet.torrentbay.st
 ! 0.0.0.0 extto.com
 ! 0.0.0.0 eztvx.to
+! 0.0.0.0 f-droid.org
 ! 0.0.0.0 f1live.dpdns.org
 ! 0.0.0.0 falconstreams.app
 ! 0.0.0.0 fameboxd.com
@@ -2470,7 +2471,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe678.com
+! 0.0.0.0 funbe679.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2518,7 +2519,6 @@
 ! 0.0.0.0 hentai-time.com
 ! 0.0.0.0 hentai.cat
 ! 0.0.0.0 hentaicube.xyz
-! 0.0.0.0 hentaijl.com
 ! 0.0.0.0 hentaila.com
 ! 0.0.0.0 hentaiukr.com
 ! 0.0.0.0 hentaivn.show
@@ -2570,6 +2570,7 @@
 ! 0.0.0.0 japanesetorrents.wordpress.com
 ! 0.0.0.0 japanpaw.com
 ! 0.0.0.0 japanradio.de
+! 0.0.0.0 jcionx.dev
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
 ! 0.0.0.0 jmanga.media
@@ -2619,6 +2620,7 @@
 ! 0.0.0.0 koddo.ch
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
+! 0.0.0.0 komikindo.ch
 ! 0.0.0.0 komiku.org
 ! 0.0.0.0 kontrast.top
 ! 0.0.0.0 kool.to
@@ -2797,7 +2799,7 @@
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon156.asia
+! 0.0.0.0 mtoon157.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2831,6 +2833,7 @@
 ! 0.0.0.0 nepu.app
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
+! 0.0.0.0 net.yumicoradio.android
 ! 0.0.0.0 netnaija.film
 ! 0.0.0.0 netplayz.icu
 ! 0.0.0.0 netshows.xyz
@@ -3298,7 +3301,7 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
-! 0.0.0.0 toonkor1.org
+! 0.0.0.0 toonkor2.org
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf
@@ -3496,7 +3499,6 @@
 ! 0.0.0.0 www.anianimals.moe
 ! 0.0.0.0 www.anibunker.com
 ! 0.0.0.0 www.animatetimes.com
-! 0.0.0.0 www.anime-jl.net
 ! 0.0.0.0 www.anime-loads.org
 ! 0.0.0.0 www.anime-overdose.com
 ! 0.0.0.0 www.anime-sharing.com
@@ -3697,7 +3699,6 @@
 ! 0.0.0.0 www.moviestowatch.top
 ! 0.0.0.0 www.movy.sx
 ! 0.0.0.0 www.mrqe.com
-! 0.0.0.0 www.muitohentai.com
 ! 0.0.0.0 www.mundodonghua.com
 ! 0.0.0.0 www.music-map.com
 ! 0.0.0.0 www.musicbutler.io
@@ -3802,6 +3803,7 @@
 ! 0.0.0.0 www.vipvgm.net
 ! 0.0.0.0 www.vn-meido.com
 ! 0.0.0.0 www.vocaloidradio.com
+! 0.0.0.0 www.watchanimehentai.com
 ! 0.0.0.0 www.wco.tv
 ! 0.0.0.0 www.wcoanimedub.tv
 ! 0.0.0.0 www.wcoanimesub.tv

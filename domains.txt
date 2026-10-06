@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1936 domains | updated 2026-10-05T10:09:23Z
+# 1937 domains | updated 2026-10-06T09:53:04Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -134,7 +134,6 @@ animecorner.me
 animecountdown.com
 animedb.jp
 animedex.fun
-animedrive.hu
 animefire.plus
 animehay.in
 animejoker.com
@@ -463,6 +462,7 @@ ext.to
 extranet.torrentbay.st
 extto.com
 eztvx.to
+f-droid.org
 f1live.dpdns.org
 falconstreams.app
 fameboxd.com
@@ -527,7 +527,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe678.com
+funbe679.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -575,7 +575,6 @@ henshingrid.blogspot.com
 hentai-time.com
 hentai.cat
 hentaicube.xyz
-hentaijl.com
 hentaila.com
 hentaiukr.com
 hentaivn.show
@@ -627,6 +626,7 @@ iteraplay.com
 japanesetorrents.wordpress.com
 japanpaw.com
 japanradio.de
+jcionx.dev
 jefusion.blogspot.com
 jkanime.net
 jmanga.media
@@ -676,6 +676,7 @@ kodasusaka.com
 koddo.ch
 kofi.mov
 komiic.com
+komikindo.ch
 komiku.org
 kontrast.top
 kool.to
@@ -854,7 +855,7 @@ moviezmad.co
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon156.asia
+mtoon157.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -888,6 +889,7 @@ neonflix.st
 nepu.app
 nepu.io
 nepu.is
+net.yumicoradio.android
 netnaija.film
 netplayz.icu
 netshows.xyz
@@ -1355,7 +1357,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor1.org
+toonkor2.org
 toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
@@ -1553,7 +1555,6 @@ www.androidtv-guide.com
 www.anianimals.moe
 www.anibunker.com
 www.animatetimes.com
-www.anime-jl.net
 www.anime-loads.org
 www.anime-overdose.com
 www.anime-sharing.com
@@ -1754,7 +1755,6 @@ www.moviemistakes.com
 www.moviestowatch.top
 www.movy.sx
 www.mrqe.com
-www.muitohentai.com
 www.mundodonghua.com
 www.music-map.com
 www.musicbutler.io
@@ -1859,6 +1859,7 @@ www.viki.com
 www.vipvgm.net
 www.vn-meido.com
 www.vocaloidradio.com
+www.watchanimehentai.com
 www.wco.tv
 www.wcoanimedub.tv
 www.wcoanimesub.tv
