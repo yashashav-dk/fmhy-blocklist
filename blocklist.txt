@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1937 domains)
-! Last updated: 2026-10-06T09:53:04Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
+! Last updated: 2026-10-07T09:59:41Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -33,6 +33,7 @@
 ||4search.neocities.org^
 ||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
+||678dl.net^
 ||67movies.st^
 ||720pier.ru^
 ||735ee7b.html^
@@ -233,8 +234,10 @@
 ||at4klauncher.com^
 ||atisket.pulsewidth.org.uk^
 ||atlantic.st^
+||atlas.hls.lol^
 ||atsu.moe^
 ||audiovault.net^
+||aurasports.xyz^
 ||aurorascreen.org^
 ||av1core.cyou^
 ||avac.moe^
@@ -437,6 +440,7 @@
 ||due.moe^
 ||dulo.mov^
 ||dumanwu.com^
+||dvdeez.top^
 ||dw-anime.net^
 ||dynasty-scans.com^
 ||e.html^
@@ -565,6 +569,7 @@
 ||guides.htm^
 ||guides.viren070.me^
 ||guidetv.live^
+||hachiraw.net^
 ||halcyonrealms.com^
 ||hanime1.me^
 ||harbor.elfhosted.com^
@@ -863,6 +868,7 @@
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
+||multinime.site^
 ||multishows.top^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -926,7 +932,6 @@
 ||novashow.live^
 ||novel.sumikko.info^
 ||novelasligeras.net^
-||novera.tv^
 ||noxx.gg^
 ||nsk.sh^
 ||ntv.cx^
@@ -1052,6 +1057,7 @@
 ||quicksandscans.wordpress.com^
 ||quiz.animesongs.org^
 ||r-a-d.io^
+||r18.678dl.net^
 ||radio-anime24.pls^
 ||radio.animebits.moe^
 ||radio.animenexus.net^
@@ -1073,13 +1079,13 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawbaka.site^
 ||rawdevart.art^
 ||rawfree.llc^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
 ||rawotaku.com^
+||rawsakura.org^
 ||rawsmanga.com^
 ||rawuwu.net^
 ||react.tv^
@@ -1369,13 +1375,11 @@
 ||topsters.org^
 ||torbox.app^
 ||torlink.bairon.dev^
-||torrents.youplex.site^
 ||torrentsurf.to^
 ||total-sportekk.st^
 ||touhou-memories.com^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
-||toustream.xyz^
 ||trace.moe^
 ||trailerpunk.com^
 ||transcripts.foreverdreaming.org^
@@ -1479,7 +1483,6 @@
 ||watch.corsflix.dpdns.org^
 ||watch.corsflix.net^
 ||watch.foundtv.com^
-||watch.spencerdevs.xyz^
 ||watch.typetype.video^
 ||watch.versusmedia.com^
 ||watchanimeworld.one^
@@ -1490,7 +1493,6 @@
 ||watchreplay.net^
 ||watchseries.free^
 ||watchsports.su^
-||watchsurface.stream^
 ||watchttn.com^
 ||watchtvs.live^
 ||watchwrestling.ae^
@@ -1914,6 +1916,7 @@
 ||yinhuadm.one^
 ||yomi.to^
 ||youflex.top^
+||youplex.cc^
 ||yourcountdown.to^
 ||youshows.org^
 ||youtube-music.app^
@@ -1973,6 +1976,7 @@
 ! 0.0.0.0 4search.neocities.org
 ! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
+! 0.0.0.0 678dl.net
 ! 0.0.0.0 67movies.st
 ! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
@@ -2173,8 +2177,10 @@
 ! 0.0.0.0 at4klauncher.com
 ! 0.0.0.0 atisket.pulsewidth.org.uk
 ! 0.0.0.0 atlantic.st
+! 0.0.0.0 atlas.hls.lol
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
+! 0.0.0.0 aurasports.xyz
 ! 0.0.0.0 aurorascreen.org
 ! 0.0.0.0 av1core.cyou
 ! 0.0.0.0 avac.moe
@@ -2377,6 +2383,7 @@
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
 ! 0.0.0.0 dumanwu.com
+! 0.0.0.0 dvdeez.top
 ! 0.0.0.0 dw-anime.net
 ! 0.0.0.0 dynasty-scans.com
 ! 0.0.0.0 e.html
@@ -2505,6 +2512,7 @@
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
 ! 0.0.0.0 guidetv.live
+! 0.0.0.0 hachiraw.net
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
 ! 0.0.0.0 harbor.elfhosted.com
@@ -2803,6 +2811,7 @@
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
+! 0.0.0.0 multinime.site
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
@@ -2866,7 +2875,6 @@
 ! 0.0.0.0 novashow.live
 ! 0.0.0.0 novel.sumikko.info
 ! 0.0.0.0 novelasligeras.net
-! 0.0.0.0 novera.tv
 ! 0.0.0.0 noxx.gg
 ! 0.0.0.0 nsk.sh
 ! 0.0.0.0 ntv.cx
@@ -2992,6 +3000,7 @@
 ! 0.0.0.0 quicksandscans.wordpress.com
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
+! 0.0.0.0 r18.678dl.net
 ! 0.0.0.0 radio-anime24.pls
 ! 0.0.0.0 radio.animebits.moe
 ! 0.0.0.0 radio.animenexus.net
@@ -3013,13 +3022,13 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawbaka.site
 ! 0.0.0.0 rawdevart.art
 ! 0.0.0.0 rawfree.llc
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
 ! 0.0.0.0 rawotaku.com
+! 0.0.0.0 rawsakura.org
 ! 0.0.0.0 rawsmanga.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
@@ -3309,13 +3318,11 @@
 ! 0.0.0.0 topsters.org
 ! 0.0.0.0 torbox.app
 ! 0.0.0.0 torlink.bairon.dev
-! 0.0.0.0 torrents.youplex.site
 ! 0.0.0.0 torrentsurf.to
 ! 0.0.0.0 total-sportekk.st
 ! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
-! 0.0.0.0 toustream.xyz
 ! 0.0.0.0 trace.moe
 ! 0.0.0.0 trailerpunk.com
 ! 0.0.0.0 transcripts.foreverdreaming.org
@@ -3419,7 +3426,6 @@
 ! 0.0.0.0 watch.corsflix.dpdns.org
 ! 0.0.0.0 watch.corsflix.net
 ! 0.0.0.0 watch.foundtv.com
-! 0.0.0.0 watch.spencerdevs.xyz
 ! 0.0.0.0 watch.typetype.video
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.one
@@ -3430,7 +3436,6 @@
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchseries.free
 ! 0.0.0.0 watchsports.su
-! 0.0.0.0 watchsurface.stream
 ! 0.0.0.0 watchttn.com
 ! 0.0.0.0 watchtvs.live
 ! 0.0.0.0 watchwrestling.ae
@@ -3854,6 +3859,7 @@
 ! 0.0.0.0 yinhuadm.one
 ! 0.0.0.0 yomi.to
 ! 0.0.0.0 youflex.top
+! 0.0.0.0 youplex.cc
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youshows.org
 ! 0.0.0.0 youtube-music.app

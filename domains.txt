@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1937 domains | updated 2026-10-06T09:53:04Z
+# 1940 domains | updated 2026-10-07T09:59:41Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -29,6 +29,7 @@
 4search.neocities.org
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
+678dl.net
 67movies.st
 720pier.ru
 735ee7b.html
@@ -229,8 +230,10 @@ aside-manga.news
 at4klauncher.com
 atisket.pulsewidth.org.uk
 atlantic.st
+atlas.hls.lol
 atsu.moe
 audiovault.net
+aurasports.xyz
 aurorascreen.org
 av1core.cyou
 avac.moe
@@ -433,6 +436,7 @@ dubolt.com
 due.moe
 dulo.mov
 dumanwu.com
+dvdeez.top
 dw-anime.net
 dynasty-scans.com
 e.html
@@ -561,6 +565,7 @@ guide.encode.moe
 guides.htm
 guides.viren070.me
 guidetv.live
+hachiraw.net
 halcyonrealms.com
 hanime1.me
 harbor.elfhosted.com
@@ -859,6 +864,7 @@ mtoon157.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
+multinime.site
 multishows.top
 musicalyst.com
 musichoarders.xyz
@@ -922,7 +928,6 @@ novanon.net
 novashow.live
 novel.sumikko.info
 novelasligeras.net
-novera.tv
 noxx.gg
 nsk.sh
 ntv.cx
@@ -1048,6 +1053,7 @@ pwrestling.com
 quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
+r18.678dl.net
 radio-anime24.pls
 radio.animebits.moe
 radio.animenexus.net
@@ -1069,13 +1075,13 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawbaka.site
 rawdevart.art
 rawfree.llc
 rawinstant.net
 rawkuma.net
 rawlazy.io
 rawotaku.com
+rawsakura.org
 rawsmanga.com
 rawuwu.net
 react.tv
@@ -1365,13 +1371,11 @@ topsrs.day
 topsters.org
 torbox.app
 torlink.bairon.dev
-torrents.youplex.site
 torrentsurf.to
 total-sportekk.st
 touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
-toustream.xyz
 trace.moe
 trailerpunk.com
 transcripts.foreverdreaming.org
@@ -1475,7 +1479,6 @@ watch.cinewave.qzz.io
 watch.corsflix.dpdns.org
 watch.corsflix.net
 watch.foundtv.com
-watch.spencerdevs.xyz
 watch.typetype.video
 watch.versusmedia.com
 watchanimeworld.one
@@ -1486,7 +1489,6 @@ watchprowrestling.store
 watchreplay.net
 watchseries.free
 watchsports.su
-watchsurface.stream
 watchttn.com
 watchtvs.live
 watchwrestling.ae
@@ -1910,6 +1912,7 @@ yifysubtitles.ch
 yinhuadm.one
 yomi.to
 youflex.top
+youplex.cc
 yourcountdown.to
 youshows.org
 youtube-music.app
