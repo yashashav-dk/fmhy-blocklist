@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-10-07T09:59:41Z
+# 1940 domains | updated 2026-10-08T10:12:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -83,7 +83,6 @@ anichin.bio
 anicine.xyz
 aniclipse.com
 anidap.lol
-anidb.app
 anidl.org
 anidoor.me
 anifilm.pro
@@ -145,6 +144,7 @@ animeko.ws
 animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
+animelistesi.com
 animemusicquiz.com
 animenosub.to
 animeonsen.xyz
@@ -880,7 +880,7 @@ myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee119.asia
+namee120.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1524,6 +1524,7 @@ wiztorrent.com
 wjungle.net
 worldfree4u.expert
 worldnews24.tv
+worldscinema.org
 wotaku.wiki
 wowtopix.com
 wtwt335.com
@@ -1534,7 +1535,6 @@ wwv.veranimes.net
 wwv21.kissasian.com.lv
 www.1flex.org
 www.1tube.org
-www.23qb.net
 www.3cat.cat
 www.55comic.com
 www.69shuba.com

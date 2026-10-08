@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-10-07T09:59:41Z
+! Last updated: 2026-10-08T10:12:24Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -87,7 +87,6 @@
 ||anicine.xyz^
 ||aniclipse.com^
 ||anidap.lol^
-||anidb.app^
 ||anidl.org^
 ||anidoor.me^
 ||anifilm.pro^
@@ -149,6 +148,7 @@
 ||animelayer.ru^
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
+||animelistesi.com^
 ||animemusicquiz.com^
 ||animenosub.to^
 ||animeonsen.xyz^
@@ -884,7 +884,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee119.asia^
+||namee120.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1528,6 +1528,7 @@
 ||wjungle.net^
 ||worldfree4u.expert^
 ||worldnews24.tv^
+||worldscinema.org^
 ||wotaku.wiki^
 ||wowtopix.com^
 ||wtwt335.com^
@@ -1538,7 +1539,6 @@
 ||wwv21.kissasian.com.lv^
 ||www.1flex.org^
 ||www.1tube.org^
-||www.23qb.net^
 ||www.3cat.cat^
 ||www.55comic.com^
 ||www.69shuba.com^
@@ -2030,7 +2030,6 @@
 ! 0.0.0.0 anicine.xyz
 ! 0.0.0.0 aniclipse.com
 ! 0.0.0.0 anidap.lol
-! 0.0.0.0 anidb.app
 ! 0.0.0.0 anidl.org
 ! 0.0.0.0 anidoor.me
 ! 0.0.0.0 anifilm.pro
@@ -2092,6 +2091,7 @@
 ! 0.0.0.0 animelayer.ru
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
+! 0.0.0.0 animelistesi.com
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animenosub.to
 ! 0.0.0.0 animeonsen.xyz
@@ -2827,7 +2827,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee119.asia
+! 0.0.0.0 namee120.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3471,6 +3471,7 @@
 ! 0.0.0.0 wjungle.net
 ! 0.0.0.0 worldfree4u.expert
 ! 0.0.0.0 worldnews24.tv
+! 0.0.0.0 worldscinema.org
 ! 0.0.0.0 wotaku.wiki
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wtwt335.com
@@ -3481,7 +3482,6 @@
 ! 0.0.0.0 wwv21.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1tube.org
-! 0.0.0.0 www.23qb.net
 ! 0.0.0.0 www.3cat.cat
 ! 0.0.0.0 www.55comic.com
 ! 0.0.0.0 www.69shuba.com
