@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-10-08T10:12:24Z
+# 1942 domains | updated 2026-10-09T10:13:29Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -56,6 +56,7 @@ aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
+allaboutmovies.xyz
 allcomic.noor.jp
 alldebrid.com
 alley.moe
@@ -500,6 +501,7 @@ flixer.gd
 flixer.su
 flixhop.com
 flixhouse.com
+flixmix.site
 flixtrz.com
 flixvo.fun
 flixvo.live
@@ -539,6 +541,7 @@ fxfx332.com
 gadgeteer.co.za
 gaiaflix.live
 gataket.com
+geekdot.live
 gensokyoradio.net
 get4all.org
 getcomics.org
@@ -735,6 +738,7 @@ lumotv.co.uk
 luna-stream.me
 lunarx.to
 m-p.sakura.ne.jp
+m-zone.cc
 m-zone.org
 m2box.org
 m3u-ip.tv
@@ -775,7 +779,6 @@ mangaplaza.com
 mangaraw.ac
 mangaraw.best
 mangarawad.wiki
-mangarawjp.me
 mangaseek.net
 mangashelf.co.il
 manhuabika.com
@@ -811,6 +814,7 @@ michaelsapps.dk
 midloop.net
 mikanani.me
 mikudb.moe
+milkbox.sytes.net
 mindmine.audiobook
 miraianime.net
 mirrors.st
@@ -876,7 +880,6 @@ myasiantv.com.bz
 mydublist.com
 myfluneo.eu
 mygully.com
-myneworm.katsurin.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
@@ -887,7 +890,6 @@ narjomusic.com
 navic.app
 nbamonster.com
 nekobt.to
-nekomitai.net
 nekopoi.care
 nekowatch.xyz
 neoapo.com
@@ -1054,6 +1056,7 @@ quicksandscans.wordpress.com
 quiz.animesongs.org
 r-a-d.io
 r18.678dl.net
+rabbitmeow.online
 radio-anime24.pls
 radio.animebits.moe
 radio.animenexus.net
@@ -1075,13 +1078,11 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawdevart.art
 rawfree.llc
 rawinstant.net
 rawkuma.net
 rawlazy.io
 rawotaku.com
-rawsakura.org
 rawsmanga.com
 rawuwu.net
 react.tv
@@ -1689,7 +1690,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon006.com
+www.goodtoon007.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1901,7 +1902,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
-yatoon254.asia
+yatoon255.asia
 yattatachi.com
 yenime.net
 yeshd.net
@@ -1913,6 +1914,7 @@ yinhuadm.one
 yomi.to
 youflex.top
 youplex.cc
+youplex.site
 yourcountdown.to
 youshows.org
 youtube-music.app

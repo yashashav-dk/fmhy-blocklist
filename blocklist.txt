@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-10-08T10:12:24Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1942 domains)
+! Last updated: 2026-10-09T10:13:29Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -60,6 +60,7 @@
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
+||allaboutmovies.xyz^
 ||allcomic.noor.jp^
 ||alldebrid.com^
 ||alley.moe^
@@ -504,6 +505,7 @@
 ||flixer.su^
 ||flixhop.com^
 ||flixhouse.com^
+||flixmix.site^
 ||flixtrz.com^
 ||flixvo.fun^
 ||flixvo.live^
@@ -543,6 +545,7 @@
 ||gadgeteer.co.za^
 ||gaiaflix.live^
 ||gataket.com^
+||geekdot.live^
 ||gensokyoradio.net^
 ||get4all.org^
 ||getcomics.org^
@@ -739,6 +742,7 @@
 ||luna-stream.me^
 ||lunarx.to^
 ||m-p.sakura.ne.jp^
+||m-zone.cc^
 ||m-zone.org^
 ||m2box.org^
 ||m3u-ip.tv^
@@ -779,7 +783,6 @@
 ||mangaraw.ac^
 ||mangaraw.best^
 ||mangarawad.wiki^
-||mangarawjp.me^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||manhuabika.com^
@@ -815,6 +818,7 @@
 ||midloop.net^
 ||mikanani.me^
 ||mikudb.moe^
+||milkbox.sytes.net^
 ||mindmine.audiobook^
 ||miraianime.net^
 ||mirrors.st^
@@ -880,7 +884,6 @@
 ||mydublist.com^
 ||myfluneo.eu^
 ||mygully.com^
-||myneworm.katsurin.com^
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
@@ -891,7 +894,6 @@
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
-||nekomitai.net^
 ||nekopoi.care^
 ||nekowatch.xyz^
 ||neoapo.com^
@@ -1058,6 +1060,7 @@
 ||quiz.animesongs.org^
 ||r-a-d.io^
 ||r18.678dl.net^
+||rabbitmeow.online^
 ||radio-anime24.pls^
 ||radio.animebits.moe^
 ||radio.animenexus.net^
@@ -1079,13 +1082,11 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawdevart.art^
 ||rawfree.llc^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
 ||rawotaku.com^
-||rawsakura.org^
 ||rawsmanga.com^
 ||rawuwu.net^
 ||react.tv^
@@ -1693,7 +1694,7 @@
 ||www.gokuhd.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
-||www.goodtoon006.com^
+||www.goodtoon007.com^
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
@@ -1905,7 +1906,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
-||yatoon254.asia^
+||yatoon255.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1917,6 +1918,7 @@
 ||yomi.to^
 ||youflex.top^
 ||youplex.cc^
+||youplex.site^
 ||yourcountdown.to^
 ||youshows.org^
 ||youtube-music.app^
@@ -2003,6 +2005,7 @@
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
+! 0.0.0.0 allaboutmovies.xyz
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
 ! 0.0.0.0 alley.moe
@@ -2447,6 +2450,7 @@
 ! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
+! 0.0.0.0 flixmix.site
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
@@ -2486,6 +2490,7 @@
 ! 0.0.0.0 gadgeteer.co.za
 ! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 gataket.com
+! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
 ! 0.0.0.0 get4all.org
 ! 0.0.0.0 getcomics.org
@@ -2682,6 +2687,7 @@
 ! 0.0.0.0 luna-stream.me
 ! 0.0.0.0 lunarx.to
 ! 0.0.0.0 m-p.sakura.ne.jp
+! 0.0.0.0 m-zone.cc
 ! 0.0.0.0 m-zone.org
 ! 0.0.0.0 m2box.org
 ! 0.0.0.0 m3u-ip.tv
@@ -2722,7 +2728,6 @@
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangarawad.wiki
-! 0.0.0.0 mangarawjp.me
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 manhuabika.com
@@ -2758,6 +2763,7 @@
 ! 0.0.0.0 midloop.net
 ! 0.0.0.0 mikanani.me
 ! 0.0.0.0 mikudb.moe
+! 0.0.0.0 milkbox.sytes.net
 ! 0.0.0.0 mindmine.audiobook
 ! 0.0.0.0 miraianime.net
 ! 0.0.0.0 mirrors.st
@@ -2823,7 +2829,6 @@
 ! 0.0.0.0 mydublist.com
 ! 0.0.0.0 myfluneo.eu
 ! 0.0.0.0 mygully.com
-! 0.0.0.0 myneworm.katsurin.com
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
@@ -2834,7 +2839,6 @@
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
-! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
@@ -3001,6 +3005,7 @@
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 r-a-d.io
 ! 0.0.0.0 r18.678dl.net
+! 0.0.0.0 rabbitmeow.online
 ! 0.0.0.0 radio-anime24.pls
 ! 0.0.0.0 radio.animebits.moe
 ! 0.0.0.0 radio.animenexus.net
@@ -3022,13 +3027,11 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawdevart.art
 ! 0.0.0.0 rawfree.llc
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
 ! 0.0.0.0 rawotaku.com
-! 0.0.0.0 rawsakura.org
 ! 0.0.0.0 rawsmanga.com
 ! 0.0.0.0 rawuwu.net
 ! 0.0.0.0 react.tv
@@ -3636,7 +3639,7 @@
 ! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
-! 0.0.0.0 www.goodtoon006.com
+! 0.0.0.0 www.goodtoon007.com
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
@@ -3848,7 +3851,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
-! 0.0.0.0 yatoon254.asia
+! 0.0.0.0 yatoon255.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
@@ -3860,6 +3863,7 @@
 ! 0.0.0.0 yomi.to
 ! 0.0.0.0 youflex.top
 ! 0.0.0.0 youplex.cc
+! 0.0.0.0 youplex.site
 ! 0.0.0.0 yourcountdown.to
 ! 0.0.0.0 youshows.org
 ! 0.0.0.0 youtube-music.app
