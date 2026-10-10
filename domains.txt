@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1942 domains | updated 2026-10-09T10:13:29Z
+# 1946 domains | updated 2026-10-10T09:34:40Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -83,6 +83,7 @@ anicheck.moe
 anichin.bio
 anicine.xyz
 aniclipse.com
+aniclover.cc
 anidap.lol
 anidl.org
 anidoor.me
@@ -282,6 +283,7 @@ blog.sakugabooru.com
 bookplayer.app
 booksonic.org
 bookwalker.com
+bookwalker.jp
 boomflix.qzz.io
 bstsrs.in
 bszip.com
@@ -461,7 +463,6 @@ esp32.nontonx.com
 estrenosanime.net
 eta.animerco.org
 everythingmoe.com
-everythingmoe.org
 exp.tv
 ext.to
 extranet.torrentbay.st
@@ -494,6 +495,7 @@ find-movie.info
 fireani.me
 flicker-proxy.md
 flickmetrix.com
+flickystream.mov
 fliker.freebuff.app
 flive.dpdns.org
 flixer.cx
@@ -512,7 +514,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc131.asia
+foc132.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -533,7 +535,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe679.com
+funbe680.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -577,6 +579,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
+hdhub4u.bi
 hdmovieshub.fyi
 heavenmanga.com
 henshingrid.blogspot.com
@@ -890,6 +893,7 @@ narjomusic.com
 navic.app
 nbamonster.com
 nekobt.to
+nekomitai.net
 nekopoi.care
 nekowatch.xyz
 neoapo.com
@@ -927,7 +931,6 @@ notscare.me
 novahd.cc
 novamovie.net
 novanon.net
-novashow.live
 novel.sumikko.info
 novelasligeras.net
 noxx.gg
@@ -1364,7 +1367,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor2.org
+toonkor3.org
 toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
@@ -1934,6 +1937,7 @@ z-lib.sk
 z1.anichin.blog
 zeepubs.wordpress.com
 zekozimo.blogspot.com
+zen-bu.cc
 zencine.org
 zenko.online
 zero1cine.com

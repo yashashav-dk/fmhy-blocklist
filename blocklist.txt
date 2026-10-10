@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1942 domains)
-! Last updated: 2026-10-09T10:13:29Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1946 domains)
+! Last updated: 2026-10-10T09:34:40Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -87,6 +87,7 @@
 ||anichin.bio^
 ||anicine.xyz^
 ||aniclipse.com^
+||aniclover.cc^
 ||anidap.lol^
 ||anidl.org^
 ||anidoor.me^
@@ -286,6 +287,7 @@
 ||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
+||bookwalker.jp^
 ||boomflix.qzz.io^
 ||bstsrs.in^
 ||bszip.com^
@@ -465,7 +467,6 @@
 ||estrenosanime.net^
 ||eta.animerco.org^
 ||everythingmoe.com^
-||everythingmoe.org^
 ||exp.tv^
 ||ext.to^
 ||extranet.torrentbay.st^
@@ -498,6 +499,7 @@
 ||fireani.me^
 ||flicker-proxy.md^
 ||flickmetrix.com^
+||flickystream.mov^
 ||fliker.freebuff.app^
 ||flive.dpdns.org^
 ||flixer.cx^
@@ -516,7 +518,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc131.asia^
+||foc132.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -537,7 +539,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe679.com^
+||funbe680.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -581,6 +583,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
+||hdhub4u.bi^
 ||hdmovieshub.fyi^
 ||heavenmanga.com^
 ||henshingrid.blogspot.com^
@@ -894,6 +897,7 @@
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
+||nekomitai.net^
 ||nekopoi.care^
 ||nekowatch.xyz^
 ||neoapo.com^
@@ -931,7 +935,6 @@
 ||novahd.cc^
 ||novamovie.net^
 ||novanon.net^
-||novashow.live^
 ||novel.sumikko.info^
 ||novelasligeras.net^
 ||noxx.gg^
@@ -1368,7 +1371,7 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
-||toonkor2.org^
+||toonkor3.org^
 ||toonstream.us^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
@@ -1938,6 +1941,7 @@
 ||z1.anichin.blog^
 ||zeepubs.wordpress.com^
 ||zekozimo.blogspot.com^
+||zen-bu.cc^
 ||zencine.org^
 ||zenko.online^
 ||zero1cine.com^
@@ -2032,6 +2036,7 @@
 ! 0.0.0.0 anichin.bio
 ! 0.0.0.0 anicine.xyz
 ! 0.0.0.0 aniclipse.com
+! 0.0.0.0 aniclover.cc
 ! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidl.org
 ! 0.0.0.0 anidoor.me
@@ -2231,6 +2236,7 @@
 ! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
+! 0.0.0.0 bookwalker.jp
 ! 0.0.0.0 boomflix.qzz.io
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
@@ -2410,7 +2416,6 @@
 ! 0.0.0.0 estrenosanime.net
 ! 0.0.0.0 eta.animerco.org
 ! 0.0.0.0 everythingmoe.com
-! 0.0.0.0 everythingmoe.org
 ! 0.0.0.0 exp.tv
 ! 0.0.0.0 ext.to
 ! 0.0.0.0 extranet.torrentbay.st
@@ -2443,6 +2448,7 @@
 ! 0.0.0.0 fireani.me
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
+! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
 ! 0.0.0.0 flive.dpdns.org
 ! 0.0.0.0 flixer.cx
@@ -2461,7 +2467,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc131.asia
+! 0.0.0.0 foc132.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2482,7 +2488,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe679.com
+! 0.0.0.0 funbe680.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2526,6 +2532,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
+! 0.0.0.0 hdhub4u.bi
 ! 0.0.0.0 hdmovieshub.fyi
 ! 0.0.0.0 heavenmanga.com
 ! 0.0.0.0 henshingrid.blogspot.com
@@ -2839,6 +2846,7 @@
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
+! 0.0.0.0 nekomitai.net
 ! 0.0.0.0 nekopoi.care
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
@@ -2876,7 +2884,6 @@
 ! 0.0.0.0 novahd.cc
 ! 0.0.0.0 novamovie.net
 ! 0.0.0.0 novanon.net
-! 0.0.0.0 novashow.live
 ! 0.0.0.0 novel.sumikko.info
 ! 0.0.0.0 novelasligeras.net
 ! 0.0.0.0 noxx.gg
@@ -3313,7 +3320,7 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
-! 0.0.0.0 toonkor2.org
+! 0.0.0.0 toonkor3.org
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf
@@ -3883,6 +3890,7 @@
 ! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
 ! 0.0.0.0 zekozimo.blogspot.com
+! 0.0.0.0 zen-bu.cc
 ! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenko.online
 ! 0.0.0.0 zero1cine.com
