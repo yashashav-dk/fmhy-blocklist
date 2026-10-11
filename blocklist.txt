@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1946 domains)
-! Last updated: 2026-10-10T09:34:40Z
+! Last updated: 2026-10-11T09:47:22Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -438,7 +438,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenpet.com^
+||dualeotruyenvie.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.mov^
@@ -559,7 +559,6 @@
 ||git.rebelonion.dev^
 ||global.toptoon.com^
 ||go.aftvnews.com^
-||goctruyentranh.com^
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
@@ -871,7 +870,7 @@
 ||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon157.asia^
+||mtoon158.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -1372,6 +1371,7 @@
 ||toonamisquad.com^
 ||toonhub4u.live^
 ||toonkor3.org^
+||toonkotsu.com^
 ||toonstream.us^
 ||toonworld4all.me^
 ||top.xdmovies.wtf^
@@ -2387,7 +2387,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenpet.com
+! 0.0.0.0 dualeotruyenvie.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
@@ -2508,7 +2508,6 @@
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 go.aftvnews.com
-! 0.0.0.0 goctruyentranh.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
@@ -2820,7 +2819,7 @@
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon157.asia
+! 0.0.0.0 mtoon158.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -3321,6 +3320,7 @@
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
 ! 0.0.0.0 toonkor3.org
+! 0.0.0.0 toonkotsu.com
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
 ! 0.0.0.0 top.xdmovies.wtf

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1946 domains | updated 2026-10-10T09:34:40Z
+# 1946 domains | updated 2026-10-11T09:47:22Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -434,7 +434,7 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenpet.com
+dualeotruyenvie.com
 dubolt.com
 due.moe
 dulo.mov
@@ -555,7 +555,6 @@ git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
 go.aftvnews.com
-goctruyentranh.com
 goplay.ml
 goplay.su
 goradio.gr
@@ -867,7 +866,7 @@ moviezmad.co
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon157.asia
+mtoon158.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -1368,6 +1367,7 @@ toomics.com
 toonamisquad.com
 toonhub4u.live
 toonkor3.org
+toonkotsu.com
 toonstream.us
 toonworld4all.me
 top.xdmovies.wtf
