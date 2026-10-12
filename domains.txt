@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1946 domains | updated 2026-10-11T09:47:22Z
+# 1946 domains | updated 2026-10-12T10:26:48Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -82,7 +82,6 @@ anichart.net
 anicheck.moe
 anichin.bio
 anicine.xyz
-aniclipse.com
 aniclover.cc
 anidap.lol
 anidl.org
@@ -147,8 +146,8 @@ animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
+animelover.site
 animemusicquiz.com
-animenosub.to
 animeonsen.xyz
 animepahe.pw
 animeradio.de
@@ -193,6 +192,7 @@ anitools.koopz.rocks
 anitrakt.huere.net
 anitrendz.net
 anitube.in.ua
+anivault.tv
 aniverse.fr
 aniwatch.rest
 aniwaves.ru
@@ -243,7 +243,6 @@ avistaz.to
 azmovies.to
 azorafly.com
 azseries.org
-babyanime.top
 bacalightnovel.co
 baechusquad.download
 bakabt.me
@@ -254,6 +253,7 @@ bangumi.tv
 banime.top
 baozimh.com
 baozimh.org
+barelystarted.miruro.tv
 basementx.lol
 basic.pp.ua
 basketball-video.com
@@ -327,12 +327,13 @@ cinetimes.org
 cinetrii.com
 cinevibe.cc
 cinevid.st
+cinex.lol
 cineyz.com
 circle.ms
 cli.club
 clients.md
 closet-picks.com
-cmvlinks.lovable.app
+cmvlr.lovable.app
 cmvwd.lovable.app
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
@@ -390,7 +391,6 @@ deaffestonlinecinema.eventive.org
 deafmovie.org
 debrid-link.com
 debridmediamanager.com
-debridr.com
 debridvault.elfhosted.com
 desu-online.pl
 desu.me
@@ -521,7 +521,7 @@ fooyin.org
 foro.unionfansub.com
 forum.mobilism.org
 foundfootagecritic.com
-framextv.tech
+framextv.xyz
 franime.fr
 free-movies.to
 freepopular.htm
@@ -696,6 +696,7 @@ koryo.tv
 kototv.to
 krdl.moe
 kuramanime.red
+kuroanime.lol
 kuroiru.co
 kurotoshiro.dev
 kurozora.app
@@ -816,7 +817,7 @@ michaelsapps.dk
 midloop.net
 mikanani.me
 mikudb.moe
-milkbox.sytes.net
+milkbox.ddns.net
 mindmine.audiobook
 miraianime.net
 mirrors.st
@@ -877,7 +878,6 @@ musichoarders.xyz
 musicorumapp.com
 my9games.com
 myani.org
-myanime.live
 myasiantv.com.bz
 mydublist.com
 myfluneo.eu
@@ -1040,7 +1040,7 @@ ppv.st
 ppv.tj
 ppv.to
 ppvs.pk
-pressplayz.to
+pressplayx.to
 primewire.nexus
 primewire.pw
 primewire.zip
@@ -1282,6 +1282,7 @@ stremio-addons.net
 stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.pl
+strims24.st
 strmd.link
 strmfree.st
 strumyk.domains
@@ -1907,7 +1908,6 @@ xyzstreams.st
 yamayurikai-subs.eu
 yatoon255.asia
 yattatachi.com
-yenime.net
 yeshd.net
 yggdrasilradio.com
 yifymovies.xyz
