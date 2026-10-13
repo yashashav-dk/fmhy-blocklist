@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1946 domains)
-! Last updated: 2026-10-12T10:26:48Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
+! Last updated: 2026-10-13T10:17:10Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -22,6 +22,7 @@
 ||1max.top^
 ||1shows-note.md^
 ||1shows.bz^
+||1vegamovies.baby^
 ||24-7-channels.php^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||30.html^
@@ -177,11 +178,10 @@
 ||animevsub.eu.org^
 ||animex.one^
 ||animexin.dev^
-||animezid.cam^
+||animezid.org^
 ||animotv.ru^
 ||animusic.moe^
 ||aninado.com^
-||aninami.site^
 ||aninzb.moe^
 ||anipiece.net^
 ||aniplaylist.com^
@@ -308,7 +308,6 @@
 ||chiikawa.international^
 ||chikianimation.com^
 ||chikianimation.online^
-||chillflix.lol^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -331,7 +330,6 @@
 ||cinetrii.com^
 ||cinevibe.cc^
 ||cinevid.st^
-||cinex.lol^
 ||cineyz.com^
 ||circle.ms^
 ||cli.club^
@@ -422,7 +420,7 @@
 ||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.io^
-||dokiraw.link^
+||dokiraw.guru^
 ||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
@@ -518,7 +516,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc132.asia^
+||foc133.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -643,7 +641,6 @@
 ||jcionx.dev^
 ||jefusion.blogspot.com^
 ||jkanime.net^
-||jmanga.media^
 ||jpfiles.net^
 ||jpopsuki-stream.pls^
 ||jpopsuki.fm^
@@ -742,7 +739,6 @@
 ||luffytv.live^
 ||luffytv.online^
 ||lumotv.co.uk^
-||luna-stream.me^
 ||lunarx.to^
 ||m-p.sakura.ne.jp^
 ||m-zone.cc^
@@ -785,7 +781,7 @@
 ||mangaplaza.com^
 ||mangaraw.ac^
 ||mangaraw.best^
-||mangarawad.wiki^
+||mangarawad.link^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||manhuabika.com^
@@ -889,7 +885,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee120.asia^
+||namee121.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1084,7 +1080,7 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawfree.llc^
+||rawfree.you^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1360,7 +1356,6 @@
 ||tizentube.app^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
-||toflix.co^
 ||toku.fun^
 ||tokusatsu-fc.jp^
 ||tokusatsunetwork.com^
@@ -1442,7 +1437,6 @@
 ||vaughn.live^
 ||vaultplayer.co.uk^
 ||vavoo.to^
-||vegamovies.market^
 ||vegetatv.duckdns.org^
 ||venuevault.live^
 ||ver.animeonline.ninja^
@@ -1473,7 +1467,6 @@
 ||vole.wtf^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
-||vuflix.co^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
@@ -1538,6 +1531,7 @@
 ||wowtopix.com^
 ||wtwt335.com^
 ||ww1.goojara.to^
+||ww1.jmanga.media^
 ||ww1.sportsurge.st^
 ||ww1.yesmovies.ag^
 ||wwv.veranimes.net^
@@ -1910,7 +1904,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
-||yatoon255.asia^
+||yatoon256.asia^
 ||yattatachi.com^
 ||yeshd.net^
 ||yggdrasilradio.com^
@@ -1971,6 +1965,7 @@
 ! 0.0.0.0 1max.top
 ! 0.0.0.0 1shows-note.md
 ! 0.0.0.0 1shows.bz
+! 0.0.0.0 1vegamovies.baby
 ! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 30.html
@@ -2126,11 +2121,10 @@
 ! 0.0.0.0 animevsub.eu.org
 ! 0.0.0.0 animex.one
 ! 0.0.0.0 animexin.dev
-! 0.0.0.0 animezid.cam
+! 0.0.0.0 animezid.org
 ! 0.0.0.0 animotv.ru
 ! 0.0.0.0 animusic.moe
 ! 0.0.0.0 aninado.com
-! 0.0.0.0 aninami.site
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 anipiece.net
 ! 0.0.0.0 aniplaylist.com
@@ -2257,7 +2251,6 @@
 ! 0.0.0.0 chiikawa.international
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
-! 0.0.0.0 chillflix.lol
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
@@ -2280,7 +2273,6 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
-! 0.0.0.0 cinex.lol
 ! 0.0.0.0 cineyz.com
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
@@ -2371,7 +2363,7 @@
 ! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
-! 0.0.0.0 dokiraw.link
+! 0.0.0.0 dokiraw.guru
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
@@ -2467,7 +2459,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc132.asia
+! 0.0.0.0 foc133.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2592,7 +2584,6 @@
 ! 0.0.0.0 jcionx.dev
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.media
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpopsuki-stream.pls
 ! 0.0.0.0 jpopsuki.fm
@@ -2691,7 +2682,6 @@
 ! 0.0.0.0 luffytv.live
 ! 0.0.0.0 luffytv.online
 ! 0.0.0.0 lumotv.co.uk
-! 0.0.0.0 luna-stream.me
 ! 0.0.0.0 lunarx.to
 ! 0.0.0.0 m-p.sakura.ne.jp
 ! 0.0.0.0 m-zone.cc
@@ -2734,7 +2724,7 @@
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangarawad.wiki
+! 0.0.0.0 mangarawad.link
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 manhuabika.com
@@ -2838,7 +2828,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee120.asia
+! 0.0.0.0 namee121.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3033,7 +3023,7 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawfree.llc
+! 0.0.0.0 rawfree.you
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3309,7 +3299,6 @@
 ! 0.0.0.0 tizentube.app
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
-! 0.0.0.0 toflix.co
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsu-fc.jp
 ! 0.0.0.0 tokusatsunetwork.com
@@ -3391,7 +3380,6 @@
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
-! 0.0.0.0 vegamovies.market
 ! 0.0.0.0 vegetatv.duckdns.org
 ! 0.0.0.0 venuevault.live
 ! 0.0.0.0 ver.animeonline.ninja
@@ -3422,7 +3410,6 @@
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
-! 0.0.0.0 vuflix.co
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
@@ -3487,6 +3474,7 @@
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wtwt335.com
 ! 0.0.0.0 ww1.goojara.to
+! 0.0.0.0 ww1.jmanga.media
 ! 0.0.0.0 ww1.sportsurge.st
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 wwv.veranimes.net
@@ -3859,7 +3847,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
-! 0.0.0.0 yatoon255.asia
+! 0.0.0.0 yatoon256.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yeshd.net
 ! 0.0.0.0 yggdrasilradio.com

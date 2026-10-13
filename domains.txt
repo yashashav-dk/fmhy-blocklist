@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1946 domains | updated 2026-10-12T10:26:48Z
+# 1940 domains | updated 2026-10-13T10:17:10Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -18,6 +18,7 @@
 1max.top
 1shows-note.md
 1shows.bz
+1vegamovies.baby
 24-7-channels.php
 2ecbbd610840-trakt.baby-beamup.club
 30.html
@@ -173,11 +174,10 @@ animevost.org
 animevsub.eu.org
 animex.one
 animexin.dev
-animezid.cam
+animezid.org
 animotv.ru
 animusic.moe
 aninado.com
-aninami.site
 aninzb.moe
 anipiece.net
 aniplaylist.com
@@ -304,7 +304,6 @@ chiaki.site
 chiikawa.international
 chikianimation.com
 chikianimation.online
-chillflix.lol
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
@@ -327,7 +326,6 @@ cinetimes.org
 cinetrii.com
 cinevibe.cc
 cinevid.st
-cinex.lol
 cineyz.com
 circle.ms
 cli.club
@@ -418,7 +416,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
-dokiraw.link
+dokiraw.guru
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -514,7 +512,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc132.asia
+foc133.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -639,7 +637,6 @@ japanradio.de
 jcionx.dev
 jefusion.blogspot.com
 jkanime.net
-jmanga.media
 jpfiles.net
 jpopsuki-stream.pls
 jpopsuki.fm
@@ -738,7 +735,6 @@ luciferdonghua.in
 luffytv.live
 luffytv.online
 lumotv.co.uk
-luna-stream.me
 lunarx.to
 m-p.sakura.ne.jp
 m-zone.cc
@@ -781,7 +777,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
-mangarawad.wiki
+mangarawad.link
 mangaseek.net
 mangashelf.co.il
 manhuabika.com
@@ -885,7 +881,7 @@ mygully.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee120.asia
+namee121.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1080,7 +1076,7 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawfree.llc
+rawfree.you
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1356,7 +1352,6 @@ tiz-cycling.tv
 tizentube.app
 tlmc.pf-n.co
 tmkk.undo.jp
-toflix.co
 toku.fun
 tokusatsu-fc.jp
 tokusatsunetwork.com
@@ -1438,7 +1433,6 @@ vanillo.tv
 vaughn.live
 vaultplayer.co.uk
 vavoo.to
-vegamovies.market
 vegetatv.duckdns.org
 venuevault.live
 ver.animeonline.ninja
@@ -1469,7 +1463,6 @@ voirdrama.to
 vole.wtf
 vrx.piro.moe
 vsedoramy.ru
-vuflix.co
 vyla.cc
 vyla.qzz.io
 w1.anime4up.rest
@@ -1534,6 +1527,7 @@ wotaku.wiki
 wowtopix.com
 wtwt335.com
 ww1.goojara.to
+ww1.jmanga.media
 ww1.sportsurge.st
 ww1.yesmovies.ag
 wwv.veranimes.net
@@ -1906,7 +1900,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
-yatoon255.asia
+yatoon256.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com
