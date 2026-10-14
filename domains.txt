@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-10-13T10:17:10Z
+# 1941 domains | updated 2026-10-14T08:30:01Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -404,8 +404,7 @@ directory.html
 dl-raw.si
 dl-zip.com
 dlive.sx
-dlraw.net
-dlraw.tv
+dlraw.me
 dmhy.org
 dmtalkies.com
 doblatgeanimecatala.blogspot.com
@@ -638,6 +637,7 @@ jcionx.dev
 jefusion.blogspot.com
 jkanime.net
 jpfiles.net
+jpop.si
 jpopsuki-stream.pls
 jpopsuki.fm
 jukebox.today
@@ -777,6 +777,7 @@ mangalib.me
 mangaplaza.com
 mangaraw.ac
 mangaraw.best
+mangaraw.shop
 mangarawad.link
 mangaseek.net
 mangashelf.co.il
@@ -1900,7 +1901,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
-yatoon256.asia
+yatoon257.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com
