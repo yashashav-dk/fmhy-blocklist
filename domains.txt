@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1941 domains | updated 2026-10-14T08:30:01Z
+# 1947 domains | updated 2026-10-15T08:04:54Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -194,7 +194,6 @@ anitrendz.net
 anitube.in.ua
 anivault.tv
 aniverse.fr
-aniwatch.rest
 aniwaves.ru
 aniworld.to
 anixo.online
@@ -210,6 +209,7 @@ antra.hoshi.cfd
 anything.rip
 app.animevsub.eu.org
 app.asbplayer.dev
+app.kosmi.io
 arabshentai.com
 arc018.stream
 arch.b4k.dev
@@ -273,6 +273,7 @@ bilibili.tv
 bingebang.club
 bingebang.st
 bingebox.ac
+binged.net
 bingeflix.tv
 bingr.one
 binsearch.info
@@ -304,6 +305,8 @@ chiaki.site
 chiikawa.international
 chikianimation.com
 chikianimation.online
+chillflix.lol
+cine.su
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
@@ -326,7 +329,7 @@ cinetimes.org
 cinetrii.com
 cinevibe.cc
 cinevid.st
-cineyz.com
+cinex.lol
 circle.ms
 cli.club
 clients.md
@@ -521,6 +524,7 @@ foundfootagecritic.com
 framextv.xyz
 franime.fr
 free-movies.to
+freekz.to
 freepopular.htm
 freestreams-live1h.pk
 freesub.live
@@ -532,7 +536,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe680.com
+funbe681.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -587,6 +591,7 @@ hentaiukr.com
 hentaivn.show
 hexa.su
 hi10anime.com
+hianime.help
 hianimes.ru
 hikka.io
 hindmoviez.cafe
@@ -605,7 +610,6 @@ hydrahd.info
 hydrahd.ws
 i.wotaku.wiki
 iamscum.wordpress.com
-icefy.top
 igmdb.com
 iklone.org
 in.krosbits.musicolet
@@ -642,11 +646,11 @@ jpopsuki-stream.pls
 jpopsuki.fm
 jukebox.today
 justanime.to
+justindex.cc
 justsubtitles.com
 k-drama.in
 kaa.lt
 kagane.org
-kagane.to
 kara.moe
 kartoons.to
 katzddl.net
@@ -680,7 +684,6 @@ kitsunekko.net
 kmmovies.shop
 kmworks.date
 kodasusaka.com
-koddo.ch
 kofi.mov
 komiic.com
 komikindo.ch
@@ -1101,7 +1104,6 @@ reedstreams.st
 reedstreams.to
 reelix.ac
 reelzone.icu
-refooty.com
 reindex.to
 relatedanime.com
 releasefeed.elomatreb.eu
@@ -1169,6 +1171,7 @@ screenscape.me
 scripts-onscreen.com
 scripts.com
 sdtoons.com
+seadex.moe
 seanime.app
 search-22.com
 search-ace.stream
@@ -1228,6 +1231,7 @@ soundbound.app
 sozo.azamov.me
 space.olamovies.dad
 spacedom.live
+spelunkr.tv
 sphinxanime.com
 spin.moe
 sportarr.net
@@ -1353,6 +1357,7 @@ tiz-cycling.tv
 tizentube.app
 tlmc.pf-n.co
 tmkk.undo.jp
+toflix.co
 toku.fun
 tokusatsu-fc.jp
 tokusatsunetwork.com
@@ -1363,7 +1368,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor3.org
+toonkor4.org
 toonkotsu.com
 toonstream.us
 toonworld4all.me
@@ -1435,7 +1440,6 @@ vaughn.live
 vaultplayer.co.uk
 vavoo.to
 vegetatv.duckdns.org
-venuevault.live
 ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
@@ -1464,6 +1468,7 @@ voirdrama.to
 vole.wtf
 vrx.piro.moe
 vsedoramy.ru
+vuflix.co
 vyla.cc
 vyla.qzz.io
 w1.anime4up.rest
@@ -1549,6 +1554,7 @@ www.ageratingjuju.com
 www.aimp.ru
 www.akaboo.jp
 www.akross.ru
+www.alienbooks.com
 www.allcinema.net
 www.allthebestfights.com
 www.amberflix.xyz
@@ -1677,7 +1683,6 @@ www.freegreatmovies.com
 www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
-www.futbol-x.sryze.cc
 www.futbol-x.top
 www.futbol-x.xyz
 www.gamingalexandria.com
@@ -1925,6 +1930,7 @@ ytsproxies.com
 ytsubdl.com
 yukisubs.wordpress.com
 yumemi.moe
+yumezone.live
 yumicoradio.net
 yurionair.top
 yuumanga.blogspot.com

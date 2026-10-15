@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1941 domains)
-! Last updated: 2026-10-14T08:30:01Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1947 domains)
+! Last updated: 2026-10-15T08:04:54Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -198,7 +198,6 @@
 ||anitube.in.ua^
 ||anivault.tv^
 ||aniverse.fr^
-||aniwatch.rest^
 ||aniwaves.ru^
 ||aniworld.to^
 ||anixo.online^
@@ -214,6 +213,7 @@
 ||anything.rip^
 ||app.animevsub.eu.org^
 ||app.asbplayer.dev^
+||app.kosmi.io^
 ||arabshentai.com^
 ||arc018.stream^
 ||arch.b4k.dev^
@@ -277,6 +277,7 @@
 ||bingebang.club^
 ||bingebang.st^
 ||bingebox.ac^
+||binged.net^
 ||bingeflix.tv^
 ||bingr.one^
 ||binsearch.info^
@@ -308,6 +309,8 @@
 ||chiikawa.international^
 ||chikianimation.com^
 ||chikianimation.online^
+||chillflix.lol^
+||cine.su^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -330,7 +333,7 @@
 ||cinetrii.com^
 ||cinevibe.cc^
 ||cinevid.st^
-||cineyz.com^
+||cinex.lol^
 ||circle.ms^
 ||cli.club^
 ||clients.md^
@@ -525,6 +528,7 @@
 ||framextv.xyz^
 ||franime.fr^
 ||free-movies.to^
+||freekz.to^
 ||freepopular.htm^
 ||freestreams-live1h.pk^
 ||freesub.live^
@@ -536,7 +540,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe680.com^
+||funbe681.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -591,6 +595,7 @@
 ||hentaivn.show^
 ||hexa.su^
 ||hi10anime.com^
+||hianime.help^
 ||hianimes.ru^
 ||hikka.io^
 ||hindmoviez.cafe^
@@ -609,7 +614,6 @@
 ||hydrahd.ws^
 ||i.wotaku.wiki^
 ||iamscum.wordpress.com^
-||icefy.top^
 ||igmdb.com^
 ||iklone.org^
 ||in.krosbits.musicolet^
@@ -646,11 +650,11 @@
 ||jpopsuki.fm^
 ||jukebox.today^
 ||justanime.to^
+||justindex.cc^
 ||justsubtitles.com^
 ||k-drama.in^
 ||kaa.lt^
 ||kagane.org^
-||kagane.to^
 ||kara.moe^
 ||kartoons.to^
 ||katzddl.net^
@@ -684,7 +688,6 @@
 ||kmmovies.shop^
 ||kmworks.date^
 ||kodasusaka.com^
-||koddo.ch^
 ||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
@@ -1105,7 +1108,6 @@
 ||reedstreams.to^
 ||reelix.ac^
 ||reelzone.icu^
-||refooty.com^
 ||reindex.to^
 ||relatedanime.com^
 ||releasefeed.elomatreb.eu^
@@ -1173,6 +1175,7 @@
 ||scripts-onscreen.com^
 ||scripts.com^
 ||sdtoons.com^
+||seadex.moe^
 ||seanime.app^
 ||search-22.com^
 ||search-ace.stream^
@@ -1232,6 +1235,7 @@
 ||sozo.azamov.me^
 ||space.olamovies.dad^
 ||spacedom.live^
+||spelunkr.tv^
 ||sphinxanime.com^
 ||spin.moe^
 ||sportarr.net^
@@ -1357,6 +1361,7 @@
 ||tizentube.app^
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
+||toflix.co^
 ||toku.fun^
 ||tokusatsu-fc.jp^
 ||tokusatsunetwork.com^
@@ -1367,7 +1372,7 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
-||toonkor3.org^
+||toonkor4.org^
 ||toonkotsu.com^
 ||toonstream.us^
 ||toonworld4all.me^
@@ -1439,7 +1444,6 @@
 ||vaultplayer.co.uk^
 ||vavoo.to^
 ||vegetatv.duckdns.org^
-||venuevault.live^
 ||ver.animeonline.ninja^
 ||vgm.hcs64.com^
 ||vgm.impulseinformatica.com.br^
@@ -1468,6 +1472,7 @@
 ||vole.wtf^
 ||vrx.piro.moe^
 ||vsedoramy.ru^
+||vuflix.co^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||w1.anime4up.rest^
@@ -1553,6 +1558,7 @@
 ||www.aimp.ru^
 ||www.akaboo.jp^
 ||www.akross.ru^
+||www.alienbooks.com^
 ||www.allcinema.net^
 ||www.allthebestfights.com^
 ||www.amberflix.xyz^
@@ -1681,7 +1687,6 @@
 ||www.freeintertv.com^
 ||www.funniermoments.net^
 ||www.furinkan.com^
-||www.futbol-x.sryze.cc^
 ||www.futbol-x.top^
 ||www.futbol-x.xyz^
 ||www.gamingalexandria.com^
@@ -1929,6 +1934,7 @@
 ||ytsubdl.com^
 ||yukisubs.wordpress.com^
 ||yumemi.moe^
+||yumezone.live^
 ||yumicoradio.net^
 ||yurionair.top^
 ||yuumanga.blogspot.com^
@@ -2142,7 +2148,6 @@
 ! 0.0.0.0 anitube.in.ua
 ! 0.0.0.0 anivault.tv
 ! 0.0.0.0 aniverse.fr
-! 0.0.0.0 aniwatch.rest
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 aniworld.to
 ! 0.0.0.0 anixo.online
@@ -2158,6 +2163,7 @@
 ! 0.0.0.0 anything.rip
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.asbplayer.dev
+! 0.0.0.0 app.kosmi.io
 ! 0.0.0.0 arabshentai.com
 ! 0.0.0.0 arc018.stream
 ! 0.0.0.0 arch.b4k.dev
@@ -2221,6 +2227,7 @@
 ! 0.0.0.0 bingebang.club
 ! 0.0.0.0 bingebang.st
 ! 0.0.0.0 bingebox.ac
+! 0.0.0.0 binged.net
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
 ! 0.0.0.0 binsearch.info
@@ -2252,6 +2259,8 @@
 ! 0.0.0.0 chiikawa.international
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
+! 0.0.0.0 chillflix.lol
+! 0.0.0.0 cine.su
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
@@ -2274,7 +2283,7 @@
 ! 0.0.0.0 cinetrii.com
 ! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
-! 0.0.0.0 cineyz.com
+! 0.0.0.0 cinex.lol
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
@@ -2469,6 +2478,7 @@
 ! 0.0.0.0 framextv.xyz
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
+! 0.0.0.0 freekz.to
 ! 0.0.0.0 freepopular.htm
 ! 0.0.0.0 freestreams-live1h.pk
 ! 0.0.0.0 freesub.live
@@ -2480,7 +2490,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe680.com
+! 0.0.0.0 funbe681.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2535,6 +2545,7 @@
 ! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
+! 0.0.0.0 hianime.help
 ! 0.0.0.0 hianimes.ru
 ! 0.0.0.0 hikka.io
 ! 0.0.0.0 hindmoviez.cafe
@@ -2553,7 +2564,6 @@
 ! 0.0.0.0 hydrahd.ws
 ! 0.0.0.0 i.wotaku.wiki
 ! 0.0.0.0 iamscum.wordpress.com
-! 0.0.0.0 icefy.top
 ! 0.0.0.0 igmdb.com
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
@@ -2590,11 +2600,11 @@
 ! 0.0.0.0 jpopsuki.fm
 ! 0.0.0.0 jukebox.today
 ! 0.0.0.0 justanime.to
+! 0.0.0.0 justindex.cc
 ! 0.0.0.0 justsubtitles.com
 ! 0.0.0.0 k-drama.in
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
-! 0.0.0.0 kagane.to
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.to
 ! 0.0.0.0 katzddl.net
@@ -2628,7 +2638,6 @@
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmworks.date
 ! 0.0.0.0 kodasusaka.com
-! 0.0.0.0 koddo.ch
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
@@ -3049,7 +3058,6 @@
 ! 0.0.0.0 reedstreams.to
 ! 0.0.0.0 reelix.ac
 ! 0.0.0.0 reelzone.icu
-! 0.0.0.0 refooty.com
 ! 0.0.0.0 reindex.to
 ! 0.0.0.0 relatedanime.com
 ! 0.0.0.0 releasefeed.elomatreb.eu
@@ -3117,6 +3125,7 @@
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
 ! 0.0.0.0 sdtoons.com
+! 0.0.0.0 seadex.moe
 ! 0.0.0.0 seanime.app
 ! 0.0.0.0 search-22.com
 ! 0.0.0.0 search-ace.stream
@@ -3176,6 +3185,7 @@
 ! 0.0.0.0 sozo.azamov.me
 ! 0.0.0.0 space.olamovies.dad
 ! 0.0.0.0 spacedom.live
+! 0.0.0.0 spelunkr.tv
 ! 0.0.0.0 sphinxanime.com
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 sportarr.net
@@ -3301,6 +3311,7 @@
 ! 0.0.0.0 tizentube.app
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
+! 0.0.0.0 toflix.co
 ! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsu-fc.jp
 ! 0.0.0.0 tokusatsunetwork.com
@@ -3311,7 +3322,7 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
-! 0.0.0.0 toonkor3.org
+! 0.0.0.0 toonkor4.org
 ! 0.0.0.0 toonkotsu.com
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
@@ -3383,7 +3394,6 @@
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegetatv.duckdns.org
-! 0.0.0.0 venuevault.live
 ! 0.0.0.0 ver.animeonline.ninja
 ! 0.0.0.0 vgm.hcs64.com
 ! 0.0.0.0 vgm.impulseinformatica.com.br
@@ -3412,6 +3422,7 @@
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vsedoramy.ru
+! 0.0.0.0 vuflix.co
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 w1.anime4up.rest
@@ -3497,6 +3508,7 @@
 ! 0.0.0.0 www.aimp.ru
 ! 0.0.0.0 www.akaboo.jp
 ! 0.0.0.0 www.akross.ru
+! 0.0.0.0 www.alienbooks.com
 ! 0.0.0.0 www.allcinema.net
 ! 0.0.0.0 www.allthebestfights.com
 ! 0.0.0.0 www.amberflix.xyz
@@ -3625,7 +3637,6 @@
 ! 0.0.0.0 www.freeintertv.com
 ! 0.0.0.0 www.funniermoments.net
 ! 0.0.0.0 www.furinkan.com
-! 0.0.0.0 www.futbol-x.sryze.cc
 ! 0.0.0.0 www.futbol-x.top
 ! 0.0.0.0 www.futbol-x.xyz
 ! 0.0.0.0 www.gamingalexandria.com
@@ -3873,6 +3884,7 @@
 ! 0.0.0.0 ytsubdl.com
 ! 0.0.0.0 yukisubs.wordpress.com
 ! 0.0.0.0 yumemi.moe
+! 0.0.0.0 yumezone.live
 ! 0.0.0.0 yumicoradio.net
 ! 0.0.0.0 yurionair.top
 ! 0.0.0.0 yuumanga.blogspot.com
