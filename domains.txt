@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1947 domains | updated 2026-10-15T08:04:54Z
+# 1939 domains | updated 2026-10-16T07:58:42Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -82,11 +82,10 @@ anichan.to
 anichart.net
 anicheck.moe
 anichin.bio
-anicine.xyz
+anicine.sbs
 aniclover.cc
 anidap.lol
 anidl.org
-anidoor.me
 anifilm.pro
 aniflix.us
 anify.to
@@ -174,6 +173,7 @@ animevost.org
 animevsub.eu.org
 animex.one
 animexin.dev
+animey.to
 animezid.org
 animotv.ru
 animusic.moe
@@ -312,7 +312,6 @@ cinebytv.com
 cinecat.eu
 cinefork.net
 cinefy.cc
-cinego.co
 cinegram.tv
 cinehd.vc
 cinejoy.pk
@@ -448,7 +447,6 @@ eddvault.notion.site
 ee3.me
 einthusan.tv
 emmau680.driveraudiencej2zeu49.sbs
-emnexmovies.tech
 en.anison.fm
 en.gundam-official.com
 en.kinorium.com
@@ -503,7 +501,6 @@ flixer.gd
 flixer.su
 flixhop.com
 flixhouse.com
-flixmix.site
 flixtrz.com
 flixvo.fun
 flixvo.live
@@ -573,7 +570,6 @@ guidetv.live
 hachiraw.net
 halcyonrealms.com
 hanime1.me
-harbor.elfhosted.com
 hardcover.app
 harmony.pulsewidth.org.uk
 hayase.watch
@@ -651,6 +647,7 @@ justsubtitles.com
 k-drama.in
 kaa.lt
 kagane.org
+kagane.si
 kara.moe
 kartoons.to
 katzddl.net
@@ -817,7 +814,7 @@ michaelsapps.dk
 midloop.net
 mikanani.me
 mikudb.moe
-milkbox.ddns.net
+milkbox.zapto.org
 mindmine.audiobook
 miraianime.net
 mirrors.st
@@ -867,7 +864,7 @@ moviezmad.co
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon158.asia
+mtoon159.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -910,7 +907,7 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
-newxtoon1.com
+newxtoon2.com
 nextnovels.com
 nfl-replays.com
 nfl-video.com
@@ -1015,7 +1012,6 @@ pixeldrain-bypass.gamedrive.to
 pixeldrain.md
 planete-bd.org
 plappa.me
-player.xtra.wtf
 playlist.pls
 playlists.at
 playtorrio.xyz
@@ -1125,7 +1121,6 @@ ristoanime.me
 ristohentai.com
 rivestream.ru
 rivestream.win
-rizzking.org
 rlsbb.cc
 rlsbb.in
 rlsbb.ru
@@ -1264,7 +1259,7 @@ streameast.ga
 streameast.ph
 streamed.pk
 streamed.st
-streamex.sh
+streamex.hn
 streamex.ws
 streamfree.top
 streamgoblin.cc
@@ -1273,6 +1268,7 @@ streaming-integrale.com
 streaming.cineverse.com
 streamingunity.vip
 streamo.pro
+streamo.st
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1282,7 +1278,6 @@ streamwatch.online
 stremio-addons.net
 stremio.ar0.eu
 strexoplayer.onrender.com
-strims24.pl
 strims24.st
 strmd.link
 strmfree.st
@@ -1488,10 +1483,11 @@ watch.versusmedia.com
 watchanimeworld.one
 watchfooty.st
 watchorbit.me
-watchott.org
 watchprowrestling.store
 watchreplay.net
-watchseries.free
+watchseries.bar
+watchseries.cool
+watchseries.domains
 watchsports.su
 watchttn.com
 watchtvs.live
@@ -1504,9 +1500,9 @@ webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
 wetrakr.com
-wftoon227.com
+wftoon233.com
 wfty.link
-wfwf492.com
+wfwf517.com
 whatsatmovie.com
 whattowatchon.tv
 wheresthejump.com
@@ -1557,7 +1553,6 @@ www.akross.ru
 www.alienbooks.com
 www.allcinema.net
 www.allthebestfights.com
-www.amberflix.xyz
 www.amvhell.com
 www.androidtv-guide.com
 www.anianimals.moe
@@ -1680,7 +1675,6 @@ www.footreplays.com
 www.forgottenworlds.net
 www.framemovie.online
 www.freegreatmovies.com
-www.freeintertv.com
 www.funniermoments.net
 www.furinkan.com
 www.futbol-x.top
@@ -1906,7 +1900,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
-yatoon257.asia
+yatoon259.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com
@@ -1944,8 +1938,6 @@ zenko.online
 zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live
-zflix.me
 zlive.st
-zoryva.me
-zxcprime.icu
+zxcstream.com
 zxpinstaller.com
