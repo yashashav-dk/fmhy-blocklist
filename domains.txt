@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1939 domains | updated 2026-10-16T07:58:42Z
+# 1945 domains | updated 2026-10-17T07:36:32Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -36,6 +36,7 @@
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
 7movies.ac
+7movies.ws
 7plus.com.au
 7reels.cc
 80s-ova.com
@@ -166,6 +167,7 @@ animethemes.moe
 animetosho.net
 animetudes.com
 animetv-jp.net
+animetvplus.xyz
 animeua.club
 animeuknews.net
 animevilla.org
@@ -273,7 +275,6 @@ bilibili.tv
 bingebang.club
 bingebang.st
 bingebox.ac
-binged.net
 bingeflix.tv
 bingr.one
 binsearch.info
@@ -315,6 +316,7 @@ cinefy.cc
 cinegram.tv
 cinehd.vc
 cinejoy.pk
+cinelite.xyz
 cinelove.live
 cinema.army
 cinemacity.cc
@@ -322,6 +324,7 @@ cinemaos.live
 cinemaos.tech
 cinemata.org
 cinemove.cc
+cineruv.website
 cinestream.kje.us
 cinetaro.to
 cinetimes.org
@@ -433,7 +436,7 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenvie.com
+dualeotruyenbet.com
 dubolt.com
 due.moe
 dulo.mov
@@ -460,6 +463,7 @@ es.mangacrab.org
 esp32.nontonx.com
 estrenosanime.net
 eta.animerco.org
+ev01.ws
 everythingmoe.com
 exp.tv
 ext.to
@@ -511,7 +515,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc133.asia
+foc134.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -636,6 +640,7 @@ japanradio.de
 jcionx.dev
 jefusion.blogspot.com
 jkanime.net
+jmanga.buzz
 jpfiles.net
 jpop.si
 jpopsuki-stream.pls
@@ -775,12 +780,14 @@ mangakatana.com
 mangakuro.net
 mangalib.me
 mangaplaza.com
-mangaraw.ac
 mangaraw.best
+mangaraw.lc
 mangaraw.shop
 mangarawad.link
 mangaseek.net
 mangashelf.co.il
+mangavyvy.com
+mangavyvy.net
 manhuabika.com
 mannavi.net
 manta.net
@@ -882,7 +889,7 @@ mygully.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee121.asia
+namee122.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1267,7 +1274,6 @@ streamic.st
 streaming-integrale.com
 streaming.cineverse.com
 streamingunity.vip
-streamo.pro
 streamo.st
 streamsports99.ru
 streamsports99.su
@@ -1374,7 +1380,6 @@ torbox.app
 torlink.bairon.dev
 torrentsurf.to
 total-sportekk.st
-touhou-memories.com
 touhou.kuukunen.net
 touhoudb.com
 trace.moe
@@ -1391,6 +1396,7 @@ truyenfull.live
 truyenqqko.com
 tsquareplaza.blogspot.com
 tsukihime.org
+tsukuyomi.tv
 tundra.moe
 tuoverse.com
 tv.html
@@ -1529,7 +1535,6 @@ wotaku.wiki
 wowtopix.com
 wtwt335.com
 ww1.goojara.to
-ww1.jmanga.media
 ww1.sportsurge.st
 ww1.yesmovies.ag
 wwv.veranimes.net
@@ -1652,7 +1657,6 @@ www.edrlab.org
 www.eiren.org
 www.elsubtitle.com
 www.emule-project.com
-www.enma.lol
 www.entertainme.fun
 www.eshita.jp
 www.esjzone.cc
@@ -1737,6 +1741,7 @@ www.manga-zone.org
 www.mangacodex.com
 www.mangadraft.com
 www.mangageeks.com.ua
+www.mangago.me
 www.mangakawaii.fr
 www.mangasplaining.com
 www.mangaworld.mx
@@ -1900,6 +1905,7 @@ xoxocomic.com
 xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
+yaoi.me
 yatoon259.asia
 yattatachi.com
 yeshd.net

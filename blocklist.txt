@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1939 domains)
-! Last updated: 2026-10-16T07:58:42Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1945 domains)
+! Last updated: 2026-10-17T07:36:32Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -40,6 +40,7 @@
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
 ||7movies.ac^
+||7movies.ws^
 ||7plus.com.au^
 ||7reels.cc^
 ||80s-ova.com^
@@ -170,6 +171,7 @@
 ||animetosho.net^
 ||animetudes.com^
 ||animetv-jp.net^
+||animetvplus.xyz^
 ||animeua.club^
 ||animeuknews.net^
 ||animevilla.org^
@@ -277,7 +279,6 @@
 ||bingebang.club^
 ||bingebang.st^
 ||bingebox.ac^
-||binged.net^
 ||bingeflix.tv^
 ||bingr.one^
 ||binsearch.info^
@@ -319,6 +320,7 @@
 ||cinegram.tv^
 ||cinehd.vc^
 ||cinejoy.pk^
+||cinelite.xyz^
 ||cinelove.live^
 ||cinema.army^
 ||cinemacity.cc^
@@ -326,6 +328,7 @@
 ||cinemaos.tech^
 ||cinemata.org^
 ||cinemove.cc^
+||cineruv.website^
 ||cinestream.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
@@ -437,7 +440,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenvie.com^
+||dualeotruyenbet.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.mov^
@@ -464,6 +467,7 @@
 ||esp32.nontonx.com^
 ||estrenosanime.net^
 ||eta.animerco.org^
+||ev01.ws^
 ||everythingmoe.com^
 ||exp.tv^
 ||ext.to^
@@ -515,7 +519,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc133.asia^
+||foc134.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -640,6 +644,7 @@
 ||jcionx.dev^
 ||jefusion.blogspot.com^
 ||jkanime.net^
+||jmanga.buzz^
 ||jpfiles.net^
 ||jpop.si^
 ||jpopsuki-stream.pls^
@@ -779,12 +784,14 @@
 ||mangakuro.net^
 ||mangalib.me^
 ||mangaplaza.com^
-||mangaraw.ac^
 ||mangaraw.best^
+||mangaraw.lc^
 ||mangaraw.shop^
 ||mangarawad.link^
 ||mangaseek.net^
 ||mangashelf.co.il^
+||mangavyvy.com^
+||mangavyvy.net^
 ||manhuabika.com^
 ||mannavi.net^
 ||manta.net^
@@ -886,7 +893,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee121.asia^
+||namee122.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1271,7 +1278,6 @@
 ||streaming-integrale.com^
 ||streaming.cineverse.com^
 ||streamingunity.vip^
-||streamo.pro^
 ||streamo.st^
 ||streamsports99.ru^
 ||streamsports99.su^
@@ -1378,7 +1384,6 @@
 ||torlink.bairon.dev^
 ||torrentsurf.to^
 ||total-sportekk.st^
-||touhou-memories.com^
 ||touhou.kuukunen.net^
 ||touhoudb.com^
 ||trace.moe^
@@ -1395,6 +1400,7 @@
 ||truyenqqko.com^
 ||tsquareplaza.blogspot.com^
 ||tsukihime.org^
+||tsukuyomi.tv^
 ||tundra.moe^
 ||tuoverse.com^
 ||tv.html^
@@ -1533,7 +1539,6 @@
 ||wowtopix.com^
 ||wtwt335.com^
 ||ww1.goojara.to^
-||ww1.jmanga.media^
 ||ww1.sportsurge.st^
 ||ww1.yesmovies.ag^
 ||wwv.veranimes.net^
@@ -1656,7 +1661,6 @@
 ||www.eiren.org^
 ||www.elsubtitle.com^
 ||www.emule-project.com^
-||www.enma.lol^
 ||www.entertainme.fun^
 ||www.eshita.jp^
 ||www.esjzone.cc^
@@ -1741,6 +1745,7 @@
 ||www.mangacodex.com^
 ||www.mangadraft.com^
 ||www.mangageeks.com.ua^
+||www.mangago.me^
 ||www.mangakawaii.fr^
 ||www.mangasplaining.com^
 ||www.mangaworld.mx^
@@ -1904,6 +1909,7 @@
 ||xtreme-wrestling-downloads.com^
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
+||yaoi.me^
 ||yatoon259.asia^
 ||yattatachi.com^
 ||yeshd.net^
@@ -1982,6 +1988,7 @@
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
 ! 0.0.0.0 7movies.ac
+! 0.0.0.0 7movies.ws
 ! 0.0.0.0 7plus.com.au
 ! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
@@ -2112,6 +2119,7 @@
 ! 0.0.0.0 animetosho.net
 ! 0.0.0.0 animetudes.com
 ! 0.0.0.0 animetv-jp.net
+! 0.0.0.0 animetvplus.xyz
 ! 0.0.0.0 animeua.club
 ! 0.0.0.0 animeuknews.net
 ! 0.0.0.0 animevilla.org
@@ -2219,7 +2227,6 @@
 ! 0.0.0.0 bingebang.club
 ! 0.0.0.0 bingebang.st
 ! 0.0.0.0 bingebox.ac
-! 0.0.0.0 binged.net
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.one
 ! 0.0.0.0 binsearch.info
@@ -2261,6 +2268,7 @@
 ! 0.0.0.0 cinegram.tv
 ! 0.0.0.0 cinehd.vc
 ! 0.0.0.0 cinejoy.pk
+! 0.0.0.0 cinelite.xyz
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.army
 ! 0.0.0.0 cinemacity.cc
@@ -2268,6 +2276,7 @@
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
+! 0.0.0.0 cineruv.website
 ! 0.0.0.0 cinestream.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
@@ -2379,7 +2388,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenvie.com
+! 0.0.0.0 dualeotruyenbet.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
@@ -2406,6 +2415,7 @@
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
 ! 0.0.0.0 eta.animerco.org
+! 0.0.0.0 ev01.ws
 ! 0.0.0.0 everythingmoe.com
 ! 0.0.0.0 exp.tv
 ! 0.0.0.0 ext.to
@@ -2457,7 +2467,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc133.asia
+! 0.0.0.0 foc134.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2582,6 +2592,7 @@
 ! 0.0.0.0 jcionx.dev
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jkanime.net
+! 0.0.0.0 jmanga.buzz
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpop.si
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2721,12 +2732,14 @@
 ! 0.0.0.0 mangakuro.net
 ! 0.0.0.0 mangalib.me
 ! 0.0.0.0 mangaplaza.com
-! 0.0.0.0 mangaraw.ac
 ! 0.0.0.0 mangaraw.best
+! 0.0.0.0 mangaraw.lc
 ! 0.0.0.0 mangaraw.shop
 ! 0.0.0.0 mangarawad.link
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
+! 0.0.0.0 mangavyvy.com
+! 0.0.0.0 mangavyvy.net
 ! 0.0.0.0 manhuabika.com
 ! 0.0.0.0 mannavi.net
 ! 0.0.0.0 manta.net
@@ -2828,7 +2841,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee121.asia
+! 0.0.0.0 namee122.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3213,7 +3226,6 @@
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streaming.cineverse.com
 ! 0.0.0.0 streamingunity.vip
-! 0.0.0.0 streamo.pro
 ! 0.0.0.0 streamo.st
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
@@ -3320,7 +3332,6 @@
 ! 0.0.0.0 torlink.bairon.dev
 ! 0.0.0.0 torrentsurf.to
 ! 0.0.0.0 total-sportekk.st
-! 0.0.0.0 touhou-memories.com
 ! 0.0.0.0 touhou.kuukunen.net
 ! 0.0.0.0 touhoudb.com
 ! 0.0.0.0 trace.moe
@@ -3337,6 +3348,7 @@
 ! 0.0.0.0 truyenqqko.com
 ! 0.0.0.0 tsquareplaza.blogspot.com
 ! 0.0.0.0 tsukihime.org
+! 0.0.0.0 tsukuyomi.tv
 ! 0.0.0.0 tundra.moe
 ! 0.0.0.0 tuoverse.com
 ! 0.0.0.0 tv.html
@@ -3475,7 +3487,6 @@
 ! 0.0.0.0 wowtopix.com
 ! 0.0.0.0 wtwt335.com
 ! 0.0.0.0 ww1.goojara.to
-! 0.0.0.0 ww1.jmanga.media
 ! 0.0.0.0 ww1.sportsurge.st
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 wwv.veranimes.net
@@ -3598,7 +3609,6 @@
 ! 0.0.0.0 www.eiren.org
 ! 0.0.0.0 www.elsubtitle.com
 ! 0.0.0.0 www.emule-project.com
-! 0.0.0.0 www.enma.lol
 ! 0.0.0.0 www.entertainme.fun
 ! 0.0.0.0 www.eshita.jp
 ! 0.0.0.0 www.esjzone.cc
@@ -3683,6 +3693,7 @@
 ! 0.0.0.0 www.mangacodex.com
 ! 0.0.0.0 www.mangadraft.com
 ! 0.0.0.0 www.mangageeks.com.ua
+! 0.0.0.0 www.mangago.me
 ! 0.0.0.0 www.mangakawaii.fr
 ! 0.0.0.0 www.mangasplaining.com
 ! 0.0.0.0 www.mangaworld.mx
@@ -3846,6 +3857,7 @@
 ! 0.0.0.0 xtreme-wrestling-downloads.com
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
+! 0.0.0.0 yaoi.me
 ! 0.0.0.0 yatoon259.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yeshd.net
