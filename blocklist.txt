@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1945 domains)
-! Last updated: 2026-10-17T07:36:32Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1950 domains)
+! Last updated: 2026-10-18T07:52:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -127,6 +127,7 @@
 ||anime.uniquestream.net^
 ||anime3rb.com^
 ||anime47.best^
+||anime4i.com^
 ||anime7.download^
 ||animeav1.com^
 ||animeawards.moe^
@@ -138,6 +139,7 @@
 ||animecons.com^
 ||animecorner.me^
 ||animecountdown.com^
+||animecube.live^
 ||animedb.jp^
 ||animedex.fun^
 ||animefire.plus^
@@ -424,7 +426,7 @@
 ||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.io^
-||dokiraw.guru^
+||dokiraw.cam^
 ||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
@@ -575,6 +577,7 @@
 ||guides.htm^
 ||guides.viren070.me^
 ||guidetv.live^
+||h-donghua.com^
 ||hachiraw.net^
 ||halcyonrealms.com^
 ||hanime1.me^
@@ -643,8 +646,9 @@
 ||japanradio.de^
 ||jcionx.dev^
 ||jefusion.blogspot.com^
+||jjba.lol^
 ||jkanime.net^
-||jmanga.buzz^
+||jmanga.voto^
 ||jpfiles.net^
 ||jpop.si^
 ||jpopsuki-stream.pls^
@@ -787,7 +791,7 @@
 ||mangaraw.best^
 ||mangaraw.lc^
 ||mangaraw.shop^
-||mangarawad.link^
+||mangarawad.city^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||mangavyvy.com^
@@ -897,6 +901,7 @@
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
+||naruldonghua.com^
 ||navic.app^
 ||nbamonster.com^
 ||nekobt.to^
@@ -1087,7 +1092,7 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawfree.you^
+||rawfree.blue^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -2075,6 +2080,7 @@
 ! 0.0.0.0 anime.uniquestream.net
 ! 0.0.0.0 anime3rb.com
 ! 0.0.0.0 anime47.best
+! 0.0.0.0 anime4i.com
 ! 0.0.0.0 anime7.download
 ! 0.0.0.0 animeav1.com
 ! 0.0.0.0 animeawards.moe
@@ -2086,6 +2092,7 @@
 ! 0.0.0.0 animecons.com
 ! 0.0.0.0 animecorner.me
 ! 0.0.0.0 animecountdown.com
+! 0.0.0.0 animecube.live
 ! 0.0.0.0 animedb.jp
 ! 0.0.0.0 animedex.fun
 ! 0.0.0.0 animefire.plus
@@ -2372,7 +2379,7 @@
 ! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
-! 0.0.0.0 dokiraw.guru
+! 0.0.0.0 dokiraw.cam
 ! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
@@ -2523,6 +2530,7 @@
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
 ! 0.0.0.0 guidetv.live
+! 0.0.0.0 h-donghua.com
 ! 0.0.0.0 hachiraw.net
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
@@ -2591,8 +2599,9 @@
 ! 0.0.0.0 japanradio.de
 ! 0.0.0.0 jcionx.dev
 ! 0.0.0.0 jefusion.blogspot.com
+! 0.0.0.0 jjba.lol
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.buzz
+! 0.0.0.0 jmanga.voto
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpop.si
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2735,7 +2744,7 @@
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangaraw.lc
 ! 0.0.0.0 mangaraw.shop
-! 0.0.0.0 mangarawad.link
+! 0.0.0.0 mangarawad.city
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangavyvy.com
@@ -2845,6 +2854,7 @@
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
+! 0.0.0.0 naruldonghua.com
 ! 0.0.0.0 navic.app
 ! 0.0.0.0 nbamonster.com
 ! 0.0.0.0 nekobt.to
@@ -3035,7 +3045,7 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawfree.you
+! 0.0.0.0 rawfree.blue
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io

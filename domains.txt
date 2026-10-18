@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1945 domains | updated 2026-10-17T07:36:32Z
+# 1950 domains | updated 2026-10-18T07:52:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -123,6 +123,7 @@ anime.plus
 anime.uniquestream.net
 anime3rb.com
 anime47.best
+anime4i.com
 anime7.download
 animeav1.com
 animeawards.moe
@@ -134,6 +135,7 @@ animeco.link
 animecons.com
 animecorner.me
 animecountdown.com
+animecube.live
 animedb.jp
 animedex.fun
 animefire.plus
@@ -420,7 +422,7 @@ docs.cal.syoboi.jp
 docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
-dokiraw.guru
+dokiraw.cam
 donghua.site
 donghua4k.net
 donghuastream.org
@@ -571,6 +573,7 @@ guide.encode.moe
 guides.htm
 guides.viren070.me
 guidetv.live
+h-donghua.com
 hachiraw.net
 halcyonrealms.com
 hanime1.me
@@ -639,8 +642,9 @@ japanpaw.com
 japanradio.de
 jcionx.dev
 jefusion.blogspot.com
+jjba.lol
 jkanime.net
-jmanga.buzz
+jmanga.voto
 jpfiles.net
 jpop.si
 jpopsuki-stream.pls
@@ -783,7 +787,7 @@ mangaplaza.com
 mangaraw.best
 mangaraw.lc
 mangaraw.shop
-mangarawad.link
+mangarawad.city
 mangaseek.net
 mangashelf.co.il
 mangavyvy.com
@@ -893,6 +897,7 @@ namee122.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
+naruldonghua.com
 navic.app
 nbamonster.com
 nekobt.to
@@ -1083,7 +1088,7 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawfree.you
+rawfree.blue
 rawinstant.net
 rawkuma.net
 rawlazy.io
