@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1950 domains)
-! Last updated: 2026-10-18T07:52:13Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1949 domains)
+! Last updated: 2026-10-19T08:36:37Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -62,7 +62,6 @@
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
-||allaboutmovies.xyz^
 ||allcomic.noor.jp^
 ||alldebrid.com^
 ||alley.moe^
@@ -214,6 +213,7 @@
 ||annict.com^
 ||anonops.com^
 ||antra.hoshi.cfd^
+||anv.to^
 ||anything.rip^
 ||app.animevsub.eu.org^
 ||app.asbplayer.dev^
@@ -292,7 +292,6 @@
 ||booksonic.org^
 ||bookwalker.com^
 ||bookwalker.jp^
-||boomflix.qzz.io^
 ||bstsrs.in^
 ||bszip.com^
 ||btorrent.xyz^
@@ -427,7 +426,6 @@
 ||docs.squidify.org^
 ||docs.wyzie.io^
 ||dokiraw.cam^
-||donghua.site^
 ||donghua4k.net^
 ||donghuastream.org^
 ||dorabash.in^
@@ -577,7 +575,6 @@
 ||guides.htm^
 ||guides.viren070.me^
 ||guidetv.live^
-||h-donghua.com^
 ||hachiraw.net^
 ||halcyonrealms.com^
 ||hanime1.me^
@@ -661,6 +658,7 @@
 ||kaa.lt^
 ||kagane.org^
 ||kagane.si^
+||kaitotv.com^
 ||kara.moe^
 ||kartoons.to^
 ||katzddl.net^
@@ -690,6 +688,7 @@
 ||kisskh.is^
 ||kisskh.or.at^
 ||kisskh.ovh^
+||kissneo.co^
 ||kitsunekko.net^
 ||kmmovies.shop^
 ||kmworks.date^
@@ -774,6 +773,7 @@
 ||manga.properties^
 ||manga.tumeo.space^
 ||mangabaka.org^
+||mangabalkan.org^
 ||mangaball.net^
 ||mangabookshelf.com^
 ||mangadot.net^
@@ -1724,7 +1724,6 @@
 ||www.jam-cons.net^
 ||www.jame-world.com^
 ||www.japscan.foo^
-||www.kaitovault.com^
 ||www.kansou.me^
 ||www.kanzenshuu.com^
 ||www.kogyotsushin.com^
@@ -2015,7 +2014,6 @@
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
-! 0.0.0.0 allaboutmovies.xyz
 ! 0.0.0.0 allcomic.noor.jp
 ! 0.0.0.0 alldebrid.com
 ! 0.0.0.0 alley.moe
@@ -2167,6 +2165,7 @@
 ! 0.0.0.0 annict.com
 ! 0.0.0.0 anonops.com
 ! 0.0.0.0 antra.hoshi.cfd
+! 0.0.0.0 anv.to
 ! 0.0.0.0 anything.rip
 ! 0.0.0.0 app.animevsub.eu.org
 ! 0.0.0.0 app.asbplayer.dev
@@ -2245,7 +2244,6 @@
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
 ! 0.0.0.0 bookwalker.jp
-! 0.0.0.0 boomflix.qzz.io
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 bszip.com
 ! 0.0.0.0 btorrent.xyz
@@ -2380,7 +2378,6 @@
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
 ! 0.0.0.0 dokiraw.cam
-! 0.0.0.0 donghua.site
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2530,7 +2527,6 @@
 ! 0.0.0.0 guides.htm
 ! 0.0.0.0 guides.viren070.me
 ! 0.0.0.0 guidetv.live
-! 0.0.0.0 h-donghua.com
 ! 0.0.0.0 hachiraw.net
 ! 0.0.0.0 halcyonrealms.com
 ! 0.0.0.0 hanime1.me
@@ -2614,6 +2610,7 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kagane.si
+! 0.0.0.0 kaitotv.com
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 kartoons.to
 ! 0.0.0.0 katzddl.net
@@ -2643,6 +2640,7 @@
 ! 0.0.0.0 kisskh.is
 ! 0.0.0.0 kisskh.or.at
 ! 0.0.0.0 kisskh.ovh
+! 0.0.0.0 kissneo.co
 ! 0.0.0.0 kitsunekko.net
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmworks.date
@@ -2727,6 +2725,7 @@
 ! 0.0.0.0 manga.properties
 ! 0.0.0.0 manga.tumeo.space
 ! 0.0.0.0 mangabaka.org
+! 0.0.0.0 mangabalkan.org
 ! 0.0.0.0 mangaball.net
 ! 0.0.0.0 mangabookshelf.com
 ! 0.0.0.0 mangadot.net
@@ -3677,7 +3676,6 @@
 ! 0.0.0.0 www.jam-cons.net
 ! 0.0.0.0 www.jame-world.com
 ! 0.0.0.0 www.japscan.foo
-! 0.0.0.0 www.kaitovault.com
 ! 0.0.0.0 www.kansou.me
 ! 0.0.0.0 www.kanzenshuu.com
 ! 0.0.0.0 www.kogyotsushin.com

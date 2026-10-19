@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1950 domains | updated 2026-10-18T07:52:13Z
+# 1949 domains | updated 2026-10-19T08:36:37Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -58,7 +58,6 @@ aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
-allaboutmovies.xyz
 allcomic.noor.jp
 alldebrid.com
 alley.moe
@@ -210,6 +209,7 @@ annas-archive.gl
 annict.com
 anonops.com
 antra.hoshi.cfd
+anv.to
 anything.rip
 app.animevsub.eu.org
 app.asbplayer.dev
@@ -288,7 +288,6 @@ bookplayer.app
 booksonic.org
 bookwalker.com
 bookwalker.jp
-boomflix.qzz.io
 bstsrs.in
 bszip.com
 btorrent.xyz
@@ -423,7 +422,6 @@ docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
 dokiraw.cam
-donghua.site
 donghua4k.net
 donghuastream.org
 dorabash.in
@@ -573,7 +571,6 @@ guide.encode.moe
 guides.htm
 guides.viren070.me
 guidetv.live
-h-donghua.com
 hachiraw.net
 halcyonrealms.com
 hanime1.me
@@ -657,6 +654,7 @@ k-drama.in
 kaa.lt
 kagane.org
 kagane.si
+kaitotv.com
 kara.moe
 kartoons.to
 katzddl.net
@@ -686,6 +684,7 @@ kisskh.id
 kisskh.is
 kisskh.or.at
 kisskh.ovh
+kissneo.co
 kitsunekko.net
 kmmovies.shop
 kmworks.date
@@ -770,6 +769,7 @@ manga.madokami.al
 manga.properties
 manga.tumeo.space
 mangabaka.org
+mangabalkan.org
 mangaball.net
 mangabookshelf.com
 mangadot.net
@@ -1720,7 +1720,6 @@ www.jajanken.net
 www.jam-cons.net
 www.jame-world.com
 www.japscan.foo
-www.kaitovault.com
 www.kansou.me
 www.kanzenshuu.com
 www.kogyotsushin.com
