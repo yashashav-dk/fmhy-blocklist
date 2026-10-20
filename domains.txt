@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1949 domains | updated 2026-10-19T08:36:37Z
+# 1951 domains | updated 2026-10-20T08:17:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -337,8 +337,10 @@ circle.ms
 cli.club
 clients.md
 closet-picks.com
-cmvlr.lovable.app
+cmvh.lovable.app
 cmvwd.lovable.app
+cno.to
+cno.tv
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -447,7 +449,6 @@ dynasty-scans.com
 e.html
 easterneuropeanmovies.com
 eddvault.notion.site
-ee3.me
 einthusan.tv
 emmau680.driveraudiencej2zeu49.sbs
 en.anison.fm
@@ -537,7 +538,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe681.com
+funbe682.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -1128,7 +1129,6 @@ retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
 ridomovies.is
-rips.cc
 ristoanime.me
 ristohentai.com
 rivestream.ru
@@ -1374,7 +1374,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor4.org
+toonkor5.org
 toonkotsu.com
 toonstream.us
 toonworld4all.me
@@ -1454,6 +1454,7 @@ vgmrips.net
 vgmusic.com
 vidbox.vc
 vidbox.website
+vidbox.wtf
 videa.hu
 videodictionary.kwebpia.net
 vidflix.live
@@ -1949,5 +1950,6 @@ zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live
 zlive.st
+zoryva.me
 zxcstream.com
 zxpinstaller.com
