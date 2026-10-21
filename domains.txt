@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1951 domains | updated 2026-10-20T08:17:46Z
+# 1951 domains | updated 2026-10-21T08:22:07Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -64,6 +64,7 @@ alley.moe
 allmanga.to
 allwrestling24.com
 allyoucanwatch.net
+alqanime.net
 althub.co.za
 amalgam-fansubs.moe
 amenzb.moe
@@ -412,7 +413,7 @@ directory.html
 dl-raw.si
 dl-zip.com
 dlive.sx
-dlraw.me
+dlraw.tv
 dmhy.org
 dmtalkies.com
 doblatgeanimecatala.blogspot.com
@@ -701,12 +702,10 @@ korsite.net
 koryo.tv
 kototv.to
 krdl.moe
-kuramanime.red
 kuroanime.lol
 kuroiru.co
 kurotoshiro.dev
 kurozora.app
-kusonime.com
 kyren.moe
 lama.watch
 last.timer
@@ -1025,7 +1024,6 @@ pixeldrain-bypass.gamedrive.to
 pixeldrain.md
 planete-bd.org
 plappa.me
-playlist.pls
 playlists.at
 playtorrio.xyz
 plaza.one
@@ -1072,7 +1070,6 @@ radio-anime24.pls
 radio.animebits.moe
 radio.animenexus.net
 radio.nogi46.me
-radio.wapchan.org
 rainwave.cc
 ramenparados.com
 randime.moe
@@ -1165,6 +1162,7 @@ sanet.lc
 sanet.sb
 sanet.st
 sanet.ws
+sankanime.web.id
 sastatus.com
 saucenao.com
 saudihentai.com
@@ -1440,6 +1438,7 @@ v13.anidub.digital
 v2.samehadaku.how
 v2.sportsurge.net
 v2.streameast.ga
+v20.kuramanime.ing
 v5.gostreameast.link
 vanillo.tv
 vaughn.live
@@ -1698,7 +1697,7 @@ www.globalfreetv.com
 www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon007.com
+www.goodtoon008.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
@@ -1842,6 +1841,7 @@ www.thewutangcollection.com
 www.theyshootpictures.com
 www.todaytvseries1.com
 www.tokyoinsider.com
+www.tokyoinsider.net
 www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
@@ -1911,7 +1911,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon259.asia
+yatoon260.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com
