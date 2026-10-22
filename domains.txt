@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1951 domains | updated 2026-10-21T08:22:07Z
+# 1956 domains | updated 2026-10-22T08:24:24Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -12,7 +12,6 @@
 1337x.to
 13thdimension.com
 143190.xyz
-1ani.me
 1ddl.org
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
@@ -180,6 +179,7 @@ animexin.dev
 animey.to
 animezid.org
 animotv.ru
+animotvslash.org
 animusic.moe
 aninado.com
 aninzb.moe
@@ -341,7 +341,6 @@ closet-picks.com
 cmvh.lovable.app
 cmvwd.lovable.app
 cno.to
-cno.tv
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
 com.flyersoft.moonreader
@@ -517,7 +516,7 @@ flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc134.asia
+foc135.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -657,6 +656,7 @@ kaa.lt
 kagane.org
 kagane.si
 kaitotv.com
+kaptain.stream
 kara.moe
 kartoons.to
 katzddl.net
@@ -702,10 +702,10 @@ korsite.net
 koryo.tv
 kototv.to
 krdl.moe
-kuroanime.lol
 kuroiru.co
 kurotoshiro.dev
 kurozora.app
+kusonime.com
 kyren.moe
 lama.watch
 last.timer
@@ -893,7 +893,7 @@ mygully.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee122.asia
+namee123.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -919,7 +919,7 @@ news.animenomics.com
 news.tokunation.com
 news.xml
 newstream.html
-newxtoon2.com
+newxtoon3.com
 nextnovels.com
 nfl-replays.com
 nfl-video.com
@@ -1066,6 +1066,7 @@ quiz.animesongs.org
 r-a-d.io
 r18.678dl.net
 rabbitmeow.online
+racinglap.net
 radio-anime24.pls
 radio.animebits.moe
 radio.animenexus.net
@@ -1310,6 +1311,7 @@ supernova.to
 sushi.net
 sushiscan.net
 suwatte.app
+sv-archive.surge.sh
 svstream.cc
 swimrewind.com
 sync.coconono.org
@@ -1492,6 +1494,7 @@ watch.foundtv.com
 watch.typetype.video
 watch.versusmedia.com
 watchanimeworld.one
+watchanimez.me
 watchfooty.st
 watchorbit.me
 watchprowrestling.store
@@ -1502,6 +1505,7 @@ watchseries.domains
 watchsports.su
 watchttn.com
 watchtvs.live
+watchwave.pro
 watchwrestling.ae
 way2movies.live
 web.nxsha.app
@@ -1662,6 +1666,7 @@ www.edrlab.org
 www.eiren.org
 www.elsubtitle.com
 www.emule-project.com
+www.enma.lol
 www.entertainme.fun
 www.eshita.jp
 www.esjzone.cc
@@ -1911,7 +1916,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon260.asia
+yatoon261.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com
