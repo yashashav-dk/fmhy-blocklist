@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1956 domains)
-! Last updated: 2026-10-22T08:24:24Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1954 domains)
+! Last updated: 2026-10-23T08:20:55Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -81,6 +81,7 @@
 ||anibase.net^
 ||aniblogtracker.app^
 ||anibridge.eliasbenb.dev^
+||anibt.net^
 ||anica.jp^
 ||anichan.to^
 ||anichart.net^
@@ -271,10 +272,10 @@
 ||bbflix.one^
 ||bechdeltest.com^
 ||bendodson.com^
-||berekescrubs.wordpress.com^
 ||bestsimilar.com^
 ||beta.way2movies.live^
 ||betterlyrics.org^
+||bgm.tv^
 ||bgmd.bytex.space^
 ||bgmlist.com^
 ||bgmx.mysxl.cn^
@@ -542,7 +543,7 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe682.com^
+||funbe683.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -565,6 +566,7 @@
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
+||gotaku.to^
 ||goyabu.io^
 ||gptsubtitler.com^
 ||greekota.pls^
@@ -810,7 +812,6 @@
 ||medeberiya.net^
 ||mediafiretrend.com^
 ||mega.archive^
-||megabeastempire.wordpress.com^
 ||meguanime.com^
 ||meionovels.com^
 ||melon-subs.de^
@@ -820,7 +821,6 @@
 ||meramifan.wordpress.com^
 ||merlinwz.com^
 ||meshmanga.com^
-||metallicsubs.wordpress.com^
 ||metrolist.meowery.eu^
 ||metron.cloud^
 ||metruyenhotvn.com^
@@ -1378,7 +1378,7 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
-||toonkor5.org^
+||toonkor6.org^
 ||toonkotsu.com^
 ||toonstream.us^
 ||toonworld4all.me^
@@ -1451,7 +1451,6 @@
 ||vaultplayer.co.uk^
 ||vavoo.to^
 ||vegetatv.duckdns.org^
-||ver.animeonline.ninja^
 ||vgm.hcs64.com^
 ||vgm.impulseinformatica.com.br^
 ||vgmdb.net^
@@ -1550,7 +1549,7 @@
 ||ww1.goojara.to^
 ||ww1.sportsurge.st^
 ||ww1.yesmovies.ag^
-||wwv.veranimes.net^
+||ww3.animeonline.ninja^
 ||wwv21.kissasian.com.lv^
 ||www.1flex.org^
 ||www.1tube.org^
@@ -1951,7 +1950,6 @@
 ||z-lib.sk^
 ||z1.anichin.blog^
 ||zeepubs.wordpress.com^
-||zekozimo.blogspot.com^
 ||zen-bu.cc^
 ||zencine.org^
 ||zenko.online^
@@ -2040,6 +2038,7 @@
 ! 0.0.0.0 anibase.net
 ! 0.0.0.0 aniblogtracker.app
 ! 0.0.0.0 anibridge.eliasbenb.dev
+! 0.0.0.0 anibt.net
 ! 0.0.0.0 anica.jp
 ! 0.0.0.0 anichan.to
 ! 0.0.0.0 anichart.net
@@ -2230,10 +2229,10 @@
 ! 0.0.0.0 bbflix.one
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
-! 0.0.0.0 berekescrubs.wordpress.com
 ! 0.0.0.0 bestsimilar.com
 ! 0.0.0.0 beta.way2movies.live
 ! 0.0.0.0 betterlyrics.org
+! 0.0.0.0 bgm.tv
 ! 0.0.0.0 bgmd.bytex.space
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bgmx.mysxl.cn
@@ -2501,7 +2500,7 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe682.com
+! 0.0.0.0 funbe683.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2524,6 +2523,7 @@
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
+! 0.0.0.0 gotaku.to
 ! 0.0.0.0 goyabu.io
 ! 0.0.0.0 gptsubtitler.com
 ! 0.0.0.0 greekota.pls
@@ -2769,7 +2769,6 @@
 ! 0.0.0.0 medeberiya.net
 ! 0.0.0.0 mediafiretrend.com
 ! 0.0.0.0 mega.archive
-! 0.0.0.0 megabeastempire.wordpress.com
 ! 0.0.0.0 meguanime.com
 ! 0.0.0.0 meionovels.com
 ! 0.0.0.0 melon-subs.de
@@ -2779,7 +2778,6 @@
 ! 0.0.0.0 meramifan.wordpress.com
 ! 0.0.0.0 merlinwz.com
 ! 0.0.0.0 meshmanga.com
-! 0.0.0.0 metallicsubs.wordpress.com
 ! 0.0.0.0 metrolist.meowery.eu
 ! 0.0.0.0 metron.cloud
 ! 0.0.0.0 metruyenhotvn.com
@@ -3337,7 +3335,7 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
-! 0.0.0.0 toonkor5.org
+! 0.0.0.0 toonkor6.org
 ! 0.0.0.0 toonkotsu.com
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
@@ -3410,7 +3408,6 @@
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
 ! 0.0.0.0 vegetatv.duckdns.org
-! 0.0.0.0 ver.animeonline.ninja
 ! 0.0.0.0 vgm.hcs64.com
 ! 0.0.0.0 vgm.impulseinformatica.com.br
 ! 0.0.0.0 vgmdb.net
@@ -3509,7 +3506,7 @@
 ! 0.0.0.0 ww1.goojara.to
 ! 0.0.0.0 ww1.sportsurge.st
 ! 0.0.0.0 ww1.yesmovies.ag
-! 0.0.0.0 wwv.veranimes.net
+! 0.0.0.0 ww3.animeonline.ninja
 ! 0.0.0.0 wwv21.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1tube.org
@@ -3910,7 +3907,6 @@
 ! 0.0.0.0 z-lib.sk
 ! 0.0.0.0 z1.anichin.blog
 ! 0.0.0.0 zeepubs.wordpress.com
-! 0.0.0.0 zekozimo.blogspot.com
 ! 0.0.0.0 zen-bu.cc
 ! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenko.online

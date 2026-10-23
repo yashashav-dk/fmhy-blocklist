@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1956 domains | updated 2026-10-22T08:24:24Z
+# 1954 domains | updated 2026-10-23T08:20:55Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -77,6 +77,7 @@ anianimals.moe
 anibase.net
 aniblogtracker.app
 anibridge.eliasbenb.dev
+anibt.net
 anica.jp
 anichan.to
 anichart.net
@@ -267,10 +268,10 @@ batcave.biz
 bbflix.one
 bechdeltest.com
 bendodson.com
-berekescrubs.wordpress.com
 bestsimilar.com
 beta.way2movies.live
 betterlyrics.org
+bgm.tv
 bgmd.bytex.space
 bgmlist.com
 bgmx.mysxl.cn
@@ -538,7 +539,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe682.com
+funbe683.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -561,6 +562,7 @@ go.aftvnews.com
 goplay.ml
 goplay.su
 goradio.gr
+gotaku.to
 goyabu.io
 gptsubtitler.com
 greekota.pls
@@ -806,7 +808,6 @@ me.timschneeberger.jdsp
 medeberiya.net
 mediafiretrend.com
 mega.archive
-megabeastempire.wordpress.com
 meguanime.com
 meionovels.com
 melon-subs.de
@@ -816,7 +817,6 @@ meowtv.ru
 meramifan.wordpress.com
 merlinwz.com
 meshmanga.com
-metallicsubs.wordpress.com
 metrolist.meowery.eu
 metron.cloud
 metruyenhotvn.com
@@ -1374,7 +1374,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor5.org
+toonkor6.org
 toonkotsu.com
 toonstream.us
 toonworld4all.me
@@ -1447,7 +1447,6 @@ vaughn.live
 vaultplayer.co.uk
 vavoo.to
 vegetatv.duckdns.org
-ver.animeonline.ninja
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
 vgmdb.net
@@ -1546,7 +1545,7 @@ wtwt335.com
 ww1.goojara.to
 ww1.sportsurge.st
 ww1.yesmovies.ag
-wwv.veranimes.net
+ww3.animeonline.ninja
 wwv21.kissasian.com.lv
 www.1flex.org
 www.1tube.org
@@ -1947,7 +1946,6 @@ yuumanga.blogspot.com
 z-lib.sk
 z1.anichin.blog
 zeepubs.wordpress.com
-zekozimo.blogspot.com
 zen-bu.cc
 zencine.org
 zenko.online
