@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1954 domains | updated 2026-10-23T08:20:55Z
+# 1955 domains | updated 2026-10-24T07:57:38Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -53,6 +53,7 @@ adrama.app
 aether.cx
 aether.ist
 aether.st
+afterdusk.app
 aha-music.com
 aidn.jp
 ak.alizandro.smartaudiobookplayer
@@ -371,6 +372,7 @@ commodore.software
 commons.wikimedia
 community.bisafans.de
 condensedaudiocatalog.com
+consumit.online
 cooljapanportal.com
 coolmic.me
 coreflix.tv
@@ -421,7 +423,6 @@ docchi.pl
 docln.net
 docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
-docs.pstream.cfd
 docs.squidify.org
 docs.wyzie.io
 dokiraw.cam
@@ -439,7 +440,7 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenbet.com
+dualeotruyenday.com
 dubolt.com
 due.moe
 dulo.mov
@@ -606,6 +607,7 @@ home.html
 home.php
 hoofoot.net
 hotflix.to
+huh.xdmovies.wtf
 huhu.to
 hyakanime.fr
 hydrahd.com
@@ -920,6 +922,7 @@ news.tokunation.com
 news.xml
 newstream.html
 newxtoon3.com
+nexa.mov
 nextnovels.com
 nfl-replays.com
 nfl-video.com
@@ -1055,7 +1058,6 @@ prodlist.php
 projectjust.xyz
 proxer.me
 psa.wf
-pstream.cfd
 pstream.site
 psychodownloads.com
 pulsedmedia.com
@@ -1254,7 +1256,6 @@ status.banime.top
 status.miruro.com
 status.streamea.st
 status.stremio-status.com
-stellar.gdn
 stellar.rip
 stigstream.ru
 store.mangamavericks.com
@@ -1378,7 +1379,6 @@ toonkor6.org
 toonkotsu.com
 toonstream.us
 toonworld4all.me
-top.xdmovies.wtf
 topsrs.day
 topsters.org
 torbox.app
@@ -1908,6 +1908,7 @@ x3dl.net
 xalosach.com
 xcomic.me
 xdcc.eu
+xdmovies.com
 xmanhua.com
 xn--ph1bph0az41x.com
 xoxocomic.com
@@ -1915,7 +1916,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon261.asia
+yatoon262.asia
 yattatachi.com
 yeshd.net
 yggdrasilradio.com

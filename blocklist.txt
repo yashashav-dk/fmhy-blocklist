@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1954 domains)
-! Last updated: 2026-10-23T08:20:55Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1955 domains)
+! Last updated: 2026-10-24T07:57:38Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -57,6 +57,7 @@
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
+||afterdusk.app^
 ||aha-music.com^
 ||aidn.jp^
 ||ak.alizandro.smartaudiobookplayer^
@@ -375,6 +376,7 @@
 ||commons.wikimedia^
 ||community.bisafans.de^
 ||condensedaudiocatalog.com^
+||consumit.online^
 ||cooljapanportal.com^
 ||coolmic.me^
 ||coreflix.tv^
@@ -425,7 +427,6 @@
 ||docln.net^
 ||docs.aiostreams.viren070.me^
 ||docs.cal.syoboi.jp^
-||docs.pstream.cfd^
 ||docs.squidify.org^
 ||docs.wyzie.io^
 ||dokiraw.cam^
@@ -443,7 +444,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenbet.com^
+||dualeotruyenday.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.mov^
@@ -610,6 +611,7 @@
 ||home.php^
 ||hoofoot.net^
 ||hotflix.to^
+||huh.xdmovies.wtf^
 ||huhu.to^
 ||hyakanime.fr^
 ||hydrahd.com^
@@ -924,6 +926,7 @@
 ||news.xml^
 ||newstream.html^
 ||newxtoon3.com^
+||nexa.mov^
 ||nextnovels.com^
 ||nfl-replays.com^
 ||nfl-video.com^
@@ -1059,7 +1062,6 @@
 ||projectjust.xyz^
 ||proxer.me^
 ||psa.wf^
-||pstream.cfd^
 ||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
@@ -1258,7 +1260,6 @@
 ||status.miruro.com^
 ||status.streamea.st^
 ||status.stremio-status.com^
-||stellar.gdn^
 ||stellar.rip^
 ||stigstream.ru^
 ||store.mangamavericks.com^
@@ -1382,7 +1383,6 @@
 ||toonkotsu.com^
 ||toonstream.us^
 ||toonworld4all.me^
-||top.xdmovies.wtf^
 ||topsrs.day^
 ||topsters.org^
 ||torbox.app^
@@ -1912,6 +1912,7 @@
 ||xalosach.com^
 ||xcomic.me^
 ||xdcc.eu^
+||xdmovies.com^
 ||xmanhua.com^
 ||xn--ph1bph0az41x.com^
 ||xoxocomic.com^
@@ -1919,7 +1920,7 @@
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
 ||yaoi.me^
-||yatoon261.asia^
+||yatoon262.asia^
 ||yattatachi.com^
 ||yeshd.net^
 ||yggdrasilradio.com^
@@ -2014,6 +2015,7 @@
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 aether.st
+! 0.0.0.0 afterdusk.app
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
@@ -2332,6 +2334,7 @@
 ! 0.0.0.0 commons.wikimedia
 ! 0.0.0.0 community.bisafans.de
 ! 0.0.0.0 condensedaudiocatalog.com
+! 0.0.0.0 consumit.online
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 coreflix.tv
@@ -2382,7 +2385,6 @@
 ! 0.0.0.0 docln.net
 ! 0.0.0.0 docs.aiostreams.viren070.me
 ! 0.0.0.0 docs.cal.syoboi.jp
-! 0.0.0.0 docs.pstream.cfd
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
 ! 0.0.0.0 dokiraw.cam
@@ -2400,7 +2402,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenbet.com
+! 0.0.0.0 dualeotruyenday.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
@@ -2567,6 +2569,7 @@
 ! 0.0.0.0 home.php
 ! 0.0.0.0 hoofoot.net
 ! 0.0.0.0 hotflix.to
+! 0.0.0.0 huh.xdmovies.wtf
 ! 0.0.0.0 huhu.to
 ! 0.0.0.0 hyakanime.fr
 ! 0.0.0.0 hydrahd.com
@@ -2881,6 +2884,7 @@
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
 ! 0.0.0.0 newxtoon3.com
+! 0.0.0.0 nexa.mov
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
 ! 0.0.0.0 nfl-video.com
@@ -3016,7 +3020,6 @@
 ! 0.0.0.0 projectjust.xyz
 ! 0.0.0.0 proxer.me
 ! 0.0.0.0 psa.wf
-! 0.0.0.0 pstream.cfd
 ! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
@@ -3215,7 +3218,6 @@
 ! 0.0.0.0 status.miruro.com
 ! 0.0.0.0 status.streamea.st
 ! 0.0.0.0 status.stremio-status.com
-! 0.0.0.0 stellar.gdn
 ! 0.0.0.0 stellar.rip
 ! 0.0.0.0 stigstream.ru
 ! 0.0.0.0 store.mangamavericks.com
@@ -3339,7 +3341,6 @@
 ! 0.0.0.0 toonkotsu.com
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
-! 0.0.0.0 top.xdmovies.wtf
 ! 0.0.0.0 topsrs.day
 ! 0.0.0.0 topsters.org
 ! 0.0.0.0 torbox.app
@@ -3869,6 +3870,7 @@
 ! 0.0.0.0 xalosach.com
 ! 0.0.0.0 xcomic.me
 ! 0.0.0.0 xdcc.eu
+! 0.0.0.0 xdmovies.com
 ! 0.0.0.0 xmanhua.com
 ! 0.0.0.0 xn--ph1bph0az41x.com
 ! 0.0.0.0 xoxocomic.com
@@ -3876,7 +3878,7 @@
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
 ! 0.0.0.0 yaoi.me
-! 0.0.0.0 yatoon261.asia
+! 0.0.0.0 yatoon262.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yeshd.net
 ! 0.0.0.0 yggdrasilradio.com
