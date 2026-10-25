@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1955 domains)
-! Last updated: 2026-10-24T07:57:38Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1957 domains)
+! Last updated: 2026-10-25T08:12:42Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -274,6 +274,7 @@
 ||bechdeltest.com^
 ||bendodson.com^
 ||bestsimilar.com^
+||beta.cno.to^
 ||beta.way2movies.live^
 ||betterlyrics.org^
 ||bgm.tv^
@@ -315,7 +316,6 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||chillflix.lol^
-||cine.su^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -333,7 +333,7 @@
 ||cinemata.org^
 ||cinemove.cc^
 ||cineruv.website^
-||cinestream.kje.us^
+||cinestream2.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
@@ -344,7 +344,7 @@
 ||cli.club^
 ||clients.md^
 ||closet-picks.com^
-||cmvh.lovable.app^
+||cmvv.lovable.app^
 ||cmvwd.lovable.app^
 ||cno.to^
 ||com.aimp.player^
@@ -429,7 +429,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.io^
-||dokiraw.cam^
+||dokiraw.city^
 ||donghua4k.net^
 ||donghuastream.org^
 ||dorabash.in^
@@ -516,13 +516,14 @@
 ||flixvo.fun^
 ||flixvo.live^
 ||flixway.ru^
+||flixzy.mooo.com^
 ||flnk.fun^
 ||fluxtv.co.uk^
 ||flyflix.net^
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc135.asia^
+||foc136.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -564,6 +565,7 @@
 ||git.rebelonion.dev^
 ||global.toptoon.com^
 ||go.aftvnews.com^
+||gokuhd.cc^
 ||goplay.ml^
 ||goplay.su^
 ||goradio.gr^
@@ -650,7 +652,7 @@
 ||jefusion.blogspot.com^
 ||jjba.lol^
 ||jkanime.net^
-||jmanga.voto^
+||jmanga.cool^
 ||jpfiles.net^
 ||jpop.si^
 ||jpopsuki-stream.pls^
@@ -795,7 +797,7 @@
 ||mangaraw.best^
 ||mangaraw.lc^
 ||mangaraw.shop^
-||mangarawad.city^
+||mangarawad.icu^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||mangavyvy.com^
@@ -881,7 +883,7 @@
 ||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon159.asia^
+||mtoon160.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -899,7 +901,7 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee123.asia^
+||namee124.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1093,7 +1095,7 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawfree.blue^
+||rawfree.click^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1231,7 +1233,7 @@
 ||soft98.ir^
 ||softarchive.download^
 ||softarchive.is^
-||softkomik.co^
+||softkomik.app^
 ||some-guy.org^
 ||song-bottle.app^
 ||songle.jp^
@@ -1702,7 +1704,6 @@
 ||www.gingadaddy.com^
 ||www.gledajcrtace.rs^
 ||www.globalfreetv.com^
-||www.gokuhd.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
 ||www.goodtoon008.com^
@@ -1808,6 +1809,7 @@
 ||www.redbull.tv^
 ||www.reelscary.com^
 ||www.releases.com^
+||www.rerace.net^
 ||www.rivestream.app^
 ||www.rpgamers.net^
 ||www.savesubs.com^
@@ -2232,6 +2234,7 @@
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 bestsimilar.com
+! 0.0.0.0 beta.cno.to
 ! 0.0.0.0 beta.way2movies.live
 ! 0.0.0.0 betterlyrics.org
 ! 0.0.0.0 bgm.tv
@@ -2273,7 +2276,6 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
-! 0.0.0.0 cine.su
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
@@ -2291,7 +2293,7 @@
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cineruv.website
-! 0.0.0.0 cinestream.kje.us
+! 0.0.0.0 cinestream2.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
@@ -2302,7 +2304,7 @@
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 closet-picks.com
-! 0.0.0.0 cmvh.lovable.app
+! 0.0.0.0 cmvv.lovable.app
 ! 0.0.0.0 cmvwd.lovable.app
 ! 0.0.0.0 cno.to
 ! 0.0.0.0 com.aimp.player
@@ -2387,7 +2389,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
-! 0.0.0.0 dokiraw.cam
+! 0.0.0.0 dokiraw.city
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2474,13 +2476,14 @@
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
 ! 0.0.0.0 flixway.ru
+! 0.0.0.0 flixzy.mooo.com
 ! 0.0.0.0 flnk.fun
 ! 0.0.0.0 fluxtv.co.uk
 ! 0.0.0.0 flyflix.net
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc135.asia
+! 0.0.0.0 foc136.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2522,6 +2525,7 @@
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 go.aftvnews.com
+! 0.0.0.0 gokuhd.cc
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 goradio.gr
@@ -2608,7 +2612,7 @@
 ! 0.0.0.0 jefusion.blogspot.com
 ! 0.0.0.0 jjba.lol
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.voto
+! 0.0.0.0 jmanga.cool
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpop.si
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2753,7 +2757,7 @@
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangaraw.lc
 ! 0.0.0.0 mangaraw.shop
-! 0.0.0.0 mangarawad.city
+! 0.0.0.0 mangarawad.icu
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangavyvy.com
@@ -2839,7 +2843,7 @@
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon159.asia
+! 0.0.0.0 mtoon160.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2857,7 +2861,7 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee123.asia
+! 0.0.0.0 namee124.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3051,7 +3055,7 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawfree.blue
+! 0.0.0.0 rawfree.click
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3189,7 +3193,7 @@
 ! 0.0.0.0 soft98.ir
 ! 0.0.0.0 softarchive.download
 ! 0.0.0.0 softarchive.is
-! 0.0.0.0 softkomik.co
+! 0.0.0.0 softkomik.app
 ! 0.0.0.0 some-guy.org
 ! 0.0.0.0 song-bottle.app
 ! 0.0.0.0 songle.jp
@@ -3660,7 +3664,6 @@
 ! 0.0.0.0 www.gingadaddy.com
 ! 0.0.0.0 www.gledajcrtace.rs
 ! 0.0.0.0 www.globalfreetv.com
-! 0.0.0.0 www.gokuhd.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
 ! 0.0.0.0 www.goodtoon008.com
@@ -3766,6 +3769,7 @@
 ! 0.0.0.0 www.redbull.tv
 ! 0.0.0.0 www.reelscary.com
 ! 0.0.0.0 www.releases.com
+! 0.0.0.0 www.rerace.net
 ! 0.0.0.0 www.rivestream.app
 ! 0.0.0.0 www.rpgamers.net
 ! 0.0.0.0 www.savesubs.com

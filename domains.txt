@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1955 domains | updated 2026-10-24T07:57:38Z
+# 1957 domains | updated 2026-10-25T08:12:42Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -270,6 +270,7 @@ bbflix.one
 bechdeltest.com
 bendodson.com
 bestsimilar.com
+beta.cno.to
 beta.way2movies.live
 betterlyrics.org
 bgm.tv
@@ -311,7 +312,6 @@ chiikawa.international
 chikianimation.com
 chikianimation.online
 chillflix.lol
-cine.su
 cinebytv-note.md
 cinebytv.com
 cinecat.eu
@@ -329,7 +329,7 @@ cinemaos.tech
 cinemata.org
 cinemove.cc
 cineruv.website
-cinestream.kje.us
+cinestream2.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
@@ -340,7 +340,7 @@ circle.ms
 cli.club
 clients.md
 closet-picks.com
-cmvh.lovable.app
+cmvv.lovable.app
 cmvwd.lovable.app
 cno.to
 com.aimp.player
@@ -425,7 +425,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.io
-dokiraw.cam
+dokiraw.city
 donghua4k.net
 donghuastream.org
 dorabash.in
@@ -512,13 +512,14 @@ flixtrz.com
 flixvo.fun
 flixvo.live
 flixway.ru
+flixzy.mooo.com
 flnk.fun
 fluxtv.co.uk
 flyflix.net
 flystream.net
 fmfau.com
 fmstream.org
-foc135.asia
+foc136.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -560,6 +561,7 @@ git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
 go.aftvnews.com
+gokuhd.cc
 goplay.ml
 goplay.su
 goradio.gr
@@ -646,7 +648,7 @@ jcionx.dev
 jefusion.blogspot.com
 jjba.lol
 jkanime.net
-jmanga.voto
+jmanga.cool
 jpfiles.net
 jpop.si
 jpopsuki-stream.pls
@@ -791,7 +793,7 @@ mangaplaza.com
 mangaraw.best
 mangaraw.lc
 mangaraw.shop
-mangarawad.city
+mangarawad.icu
 mangaseek.net
 mangashelf.co.il
 mangavyvy.com
@@ -877,7 +879,7 @@ moviezmad.co
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon159.asia
+mtoon160.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -895,7 +897,7 @@ mygully.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee123.asia
+namee124.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1089,7 +1091,7 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawfree.blue
+rawfree.click
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1227,7 +1229,7 @@ soft.ac
 soft98.ir
 softarchive.download
 softarchive.is
-softkomik.co
+softkomik.app
 some-guy.org
 song-bottle.app
 songle.jp
@@ -1698,7 +1700,6 @@ www.getmusicbee.com
 www.gingadaddy.com
 www.gledajcrtace.rs
 www.globalfreetv.com
-www.gokuhd.com
 www.gomitier.tech
 www.goodjobmedia.com
 www.goodtoon008.com
@@ -1804,6 +1805,7 @@ www.ratingraph.com
 www.redbull.tv
 www.reelscary.com
 www.releases.com
+www.rerace.net
 www.rivestream.app
 www.rpgamers.net
 www.savesubs.com
