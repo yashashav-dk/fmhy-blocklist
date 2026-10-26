@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1957 domains | updated 2026-10-25T08:12:42Z
+# 1955 domains | updated 2026-10-26T08:39:04Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -56,6 +56,7 @@ aether.st
 afterdusk.app
 aha-music.com
 aidn.jp
+aja.gr.jp
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
 allcomic.noor.jp
@@ -243,7 +244,6 @@ atlas.hls.lol
 atsu.moe
 audiovault.net
 aurasports.xyz
-aurorascreen.org
 av1core.cyou
 avac.moe
 avistaz.to
@@ -317,7 +317,6 @@ cinebytv.com
 cinecat.eu
 cinefork.net
 cinefy.cc
-cinegram.tv
 cinehd.vc
 cinejoy.pk
 cinelite.xyz
@@ -369,7 +368,6 @@ comicskingdom.com
 comix.to
 comix.ws
 commodore.software
-commons.wikimedia
 community.bisafans.de
 condensedaudiocatalog.com
 consumit.online
@@ -377,7 +375,6 @@ cooljapanportal.com
 coolmic.me
 coreflix.tv
 corsflix.net
-cosectv.com
 countdown.tv
 covers.musichoarders.xyz
 cracksurl.com
@@ -487,7 +484,6 @@ fansubs.ru
 fantasticsoda.com
 fbstream.is
 fcast.org
-filmcave.ru
 filmdilemma.com
 filmfans.org
 filmo.platfo.es
@@ -513,9 +509,7 @@ flixvo.fun
 flixvo.live
 flixway.ru
 flixzy.mooo.com
-flnk.fun
-fluxtv.co.uk
-flyflix.net
+flyflix.cc
 flystream.net
 fmfau.com
 fmstream.org
@@ -556,8 +550,6 @@ getcomics.org
 getindevice.com
 getlibation.com
 getwacup.com
-ggflix.pro
-git.private.coffee
 git.rebelonion.dev
 global.toptoon.com
 go.aftvnews.com
@@ -647,6 +639,7 @@ japanradio.de
 jcionx.dev
 jefusion.blogspot.com
 jjba.lol
+jjba.site
 jkanime.net
 jmanga.cool
 jpfiles.net
@@ -697,6 +690,7 @@ kitsunekko.net
 kmmovies.shop
 kmworks.date
 kodasusaka.com
+koddo.to
 kofi.mov
 komiic.com
 komikindo.ch
@@ -740,8 +734,12 @@ lmanime.com
 lnbmange.com
 log.rlsbb.ru
 logs.musichoarders.xyz
+lookmovie0.to
 lookmovie2.la
 lookmovie2.to
+lookmovie4.to
+lookmovie5.to
+lookmovie6.to
 lrclib.net
 lrepacks.net
 lucida.to
@@ -855,6 +853,7 @@ moonflix.website
 moovie.fun
 moriyashrine.org
 morphinlegacy.com
+motomundo.net
 moum.top
 movie-home.html
 movie-web-sources.md
@@ -875,7 +874,6 @@ moviescenemap.com
 moviescountdown.com
 moviesfoundonline.com
 moviesnipipay.me
-moviezmad.co
 movish.to
 movy.fyi
 msft-store.tplant.com.au
@@ -991,7 +989,6 @@ onetouchtv.xyz
 onhockey.tv
 onionplay.st
 onisaga.com
-onoflix.com
 onoflix.live
 open-slum.org
 openscrobbler.com
@@ -1135,6 +1132,7 @@ ristoanime.me
 ristohentai.com
 rivestream.ru
 rivestream.win
+rivo.st
 rlsbb.cc
 rlsbb.in
 rlsbb.ru
@@ -1148,7 +1146,6 @@ roxiestreams.biz
 roxiestreams.cc
 roxiestreams.info
 roxiestreams.su
-rreelstream.live
 rss.php
 rss.xml
 rstream.app
@@ -1259,7 +1256,6 @@ status.miruro.com
 status.streamea.st
 status.stremio-status.com
 stellar.rip
-stigstream.ru
 store.mangamavericks.com
 store.rg
 stream.gensokyoradio.net
@@ -1286,7 +1282,6 @@ streamsports99.ru
 streamsports99.su
 streamsports99.website
 streamtim.com
-streamvaults.ru
 streamwatch.online
 stremio-addons.net
 stremio.ar0.eu
@@ -1515,6 +1510,7 @@ webcomicsapp.com
 webdramaturkey2.com
 weblinhtinh1.net
 weebcentral.com
+weebtube.cc
 wetrakr.com
 wftoon233.com
 wfty.link
@@ -1529,7 +1525,6 @@ wiki.bakabt.me
 wiki.d-addicts.com
 wiki.hayase.watch
 wiki.servarr.com
-wikiflix.toolforge.org
 wikizilla.org
 willow.arlen.icu
 willowmovies.com
@@ -1688,7 +1683,6 @@ www.fontsquirrel.com
 www.footballorgin.com
 www.footreplays.com
 www.forgottenworlds.net
-www.framemovie.online
 www.freegreatmovies.com
 www.funniermoments.net
 www.furinkan.com
@@ -1851,6 +1845,7 @@ www.tokyoinsider.net
 www.tokyotosho.info
 www.toonamiaftermath.com
 www.toonamiremastered.com
+www.toonshub.my.id
 www.toontales.net
 www.totsrucs.cat
 www.tranimeizle.co
@@ -1920,6 +1915,7 @@ yamayurikai-subs.eu
 yaoi.me
 yatoon262.asia
 yattatachi.com
+yenime.net
 yeshd.net
 yggdrasilradio.com
 yifymovies.xyz
@@ -1948,10 +1944,12 @@ yurionair.top
 yuumanga.blogspot.com
 z-lib.sk
 z1.anichin.blog
+zanix.tr
 zeepubs.wordpress.com
 zen-bu.cc
 zencine.org
 zenko.online
+zenox.lol
 zero1cine.com
 zerostream.alwaysdata.net
 zetmoon.live
