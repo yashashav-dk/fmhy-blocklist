@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1955 domains | updated 2026-10-26T08:39:04Z
+# 1952 domains | updated 2026-10-27T08:45:38Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -45,7 +45,6 @@ aaronperris.com
 abibli.com
 absorbiendomangas2.blogspot.com
 acg.rip
-acheriya.com
 adding-repos.html
 addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
@@ -535,7 +534,7 @@ fsharetv.co
 fullfrontal.moe
 fullmatchshows.com
 fullraces.com
-funbe683.com
+funbe684.com
 furaba-animeseichi.blog.jp
 futon.wtf
 futxtv.indevs.in
@@ -1069,7 +1068,6 @@ r18.678dl.net
 rabbitmeow.online
 racinglap.net
 radio-anime24.pls
-radio.animebits.moe
 radio.animenexus.net
 radio.nogi46.me
 rainwave.cc
@@ -1259,7 +1257,6 @@ stellar.rip
 store.mangamavericks.com
 store.rg
 stream.gensokyoradio.net
-stream192.mp
 streamaggregator.in
 streamcorner.cloud
 streamcorner.foo
@@ -1372,7 +1369,7 @@ tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
-toonkor6.org
+toonkor7.org
 toonkotsu.com
 toonstream.us
 toonworld4all.me
@@ -1754,7 +1751,7 @@ www.mau2.com
 www.megacartoons.net
 www.miobt.com
 www.miruro.com
-www.miruro.to
+www.miruro.cx
 www.mmnt.net
 www.mmnt.ru
 www.movie-censorship.com
@@ -1913,7 +1910,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon262.asia
+yatoon263.asia
 yattatachi.com
 yenime.net
 yeshd.net
