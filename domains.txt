@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1952 domains | updated 2026-10-27T08:45:38Z
+# 1940 domains | updated 2026-10-28T09:25:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -8,7 +8,6 @@
 123animehub.cc
 123moviesfree.club
 123wrestling.com
-128kbps.pls
 1337x.to
 13thdimension.com
 143190.xyz
@@ -72,6 +71,7 @@ amvenfer.fr
 amvnews.ru
 an1me.to
 andlibria.qt
+ani.nz
 ani.pm
 ani4u.org
 anianimals.moe
@@ -155,7 +155,6 @@ animemusicquiz.com
 animeonsen.xyz
 animepahe.pw
 animeradio.de
-animerank.top
 animerss.com
 animes.garden
 animesalt.cx
@@ -259,7 +258,6 @@ bangumi.tv
 banime.top
 baozimh.com
 baozimh.org
-barelystarted.miruro.tv
 basementx.lol
 basic.pp.ua
 basketball-video.com
@@ -296,6 +294,7 @@ bszip.com
 btorrent.xyz
 bunko.sumikko.info
 bunkoranoberanking.blog.fc2.com
+ca.pls
 cal.syoboi.jp
 calendar.html
 candlestream.xyz
@@ -540,7 +539,6 @@ futon.wtf
 futxtv.indevs.in
 fxfx332.com
 gadgeteer.co.za
-gaiaflix.live
 gataket.com
 geekdot.live
 gensokyoradio.net
@@ -651,8 +649,8 @@ justindex.cc
 justsubtitles.com
 k-drama.in
 kaa.lt
+kagane.cx
 kagane.org
-kagane.si
 kaitotv.com
 kaptain.stream
 kara.moe
@@ -689,7 +687,6 @@ kitsunekko.net
 kmmovies.shop
 kmworks.date
 kodasusaka.com
-koddo.to
 kofi.mov
 komiic.com
 komikindo.ch
@@ -831,10 +828,7 @@ mindmine.audiobook
 miraianime.net
 mirrors.st
 miru.js.org
-miruro.bz
 miruro.cx
-miruro.to
-miruro.tv
 mitsukeru.timschneeberger.me
 mixmoose.com
 mkissa.to
@@ -1114,7 +1108,6 @@ reindex.to
 relatedanime.com
 releasefeed.elomatreb.eu
 releasehive.com
-releases.com
 releases.moe
 remanga.org
 replay.nontonx.com
@@ -1264,8 +1257,6 @@ streamcorner.fun
 streamcorner.st
 streameast.ga
 streameast.ph
-streamed.pk
-streamed.st
 streamex.hn
 streamex.ws
 streamfree.top
@@ -1284,7 +1275,6 @@ stremio-addons.net
 stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.st
-strmd.link
 strmfree.st
 strumyk.domains
 strumyk.pk
@@ -1359,7 +1349,6 @@ tizentube.app
 tlmc.pf-n.co
 tmkk.undo.jp
 toflix.co
-toku.fun
 tokusatsu-fc.jp
 tokusatsunetwork.com
 tokyo-tosho.net
@@ -1489,6 +1478,7 @@ watch.versusmedia.com
 watchanimeworld.one
 watchanimez.me
 watchfooty.st
+watchly.mom
 watchorbit.me
 watchprowrestling.store
 watchreplay.net
@@ -1523,7 +1513,6 @@ wiki.d-addicts.com
 wiki.hayase.watch
 wiki.servarr.com
 wikizilla.org
-willow.arlen.icu
 willowmovies.com
 witanime.you
 witchculttranslation.com
@@ -1653,7 +1642,6 @@ www.downloadha.com
 www.downloads-anymovies.co
 www.downturk.net
 www.dozaanimata.net
-www.dvdsreleasedates.com
 www.ebookrenta.com
 www.edrlab.org
 www.eiren.org
@@ -1667,7 +1655,7 @@ www.eyedex.org
 www.fansub.id
 www.fansubs.cat
 www.fawanews.sc
-www.fctv33hd.uno
+www.fctv33go.hair
 www.fender.com
 www.fileeagle.com
 www.filepuma.com

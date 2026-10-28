@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1952 domains)
-! Last updated: 2026-10-27T08:45:38Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
+! Last updated: 2026-10-28T09:25:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -12,7 +12,6 @@
 ||123animehub.cc^
 ||123moviesfree.club^
 ||123wrestling.com^
-||128kbps.pls^
 ||1337x.to^
 ||13thdimension.com^
 ||143190.xyz^
@@ -76,6 +75,7 @@
 ||amvnews.ru^
 ||an1me.to^
 ||andlibria.qt^
+||ani.nz^
 ||ani.pm^
 ||ani4u.org^
 ||anianimals.moe^
@@ -159,7 +159,6 @@
 ||animeonsen.xyz^
 ||animepahe.pw^
 ||animeradio.de^
-||animerank.top^
 ||animerss.com^
 ||animes.garden^
 ||animesalt.cx^
@@ -263,7 +262,6 @@
 ||banime.top^
 ||baozimh.com^
 ||baozimh.org^
-||barelystarted.miruro.tv^
 ||basementx.lol^
 ||basic.pp.ua^
 ||basketball-video.com^
@@ -300,6 +298,7 @@
 ||btorrent.xyz^
 ||bunko.sumikko.info^
 ||bunkoranoberanking.blog.fc2.com^
+||ca.pls^
 ||cal.syoboi.jp^
 ||calendar.html^
 ||candlestream.xyz^
@@ -544,7 +543,6 @@
 ||futxtv.indevs.in^
 ||fxfx332.com^
 ||gadgeteer.co.za^
-||gaiaflix.live^
 ||gataket.com^
 ||geekdot.live^
 ||gensokyoradio.net^
@@ -655,8 +653,8 @@
 ||justsubtitles.com^
 ||k-drama.in^
 ||kaa.lt^
+||kagane.cx^
 ||kagane.org^
-||kagane.si^
 ||kaitotv.com^
 ||kaptain.stream^
 ||kara.moe^
@@ -693,7 +691,6 @@
 ||kmmovies.shop^
 ||kmworks.date^
 ||kodasusaka.com^
-||koddo.to^
 ||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
@@ -835,10 +832,7 @@
 ||miraianime.net^
 ||mirrors.st^
 ||miru.js.org^
-||miruro.bz^
 ||miruro.cx^
-||miruro.to^
-||miruro.tv^
 ||mitsukeru.timschneeberger.me^
 ||mixmoose.com^
 ||mkissa.to^
@@ -1118,7 +1112,6 @@
 ||relatedanime.com^
 ||releasefeed.elomatreb.eu^
 ||releasehive.com^
-||releases.com^
 ||releases.moe^
 ||remanga.org^
 ||replay.nontonx.com^
@@ -1268,8 +1261,6 @@
 ||streamcorner.st^
 ||streameast.ga^
 ||streameast.ph^
-||streamed.pk^
-||streamed.st^
 ||streamex.hn^
 ||streamex.ws^
 ||streamfree.top^
@@ -1288,7 +1279,6 @@
 ||stremio.ar0.eu^
 ||strexoplayer.onrender.com^
 ||strims24.st^
-||strmd.link^
 ||strmfree.st^
 ||strumyk.domains^
 ||strumyk.pk^
@@ -1363,7 +1353,6 @@
 ||tlmc.pf-n.co^
 ||tmkk.undo.jp^
 ||toflix.co^
-||toku.fun^
 ||tokusatsu-fc.jp^
 ||tokusatsunetwork.com^
 ||tokyo-tosho.net^
@@ -1493,6 +1482,7 @@
 ||watchanimeworld.one^
 ||watchanimez.me^
 ||watchfooty.st^
+||watchly.mom^
 ||watchorbit.me^
 ||watchprowrestling.store^
 ||watchreplay.net^
@@ -1527,7 +1517,6 @@
 ||wiki.hayase.watch^
 ||wiki.servarr.com^
 ||wikizilla.org^
-||willow.arlen.icu^
 ||willowmovies.com^
 ||witanime.you^
 ||witchculttranslation.com^
@@ -1657,7 +1646,6 @@
 ||www.downloads-anymovies.co^
 ||www.downturk.net^
 ||www.dozaanimata.net^
-||www.dvdsreleasedates.com^
 ||www.ebookrenta.com^
 ||www.edrlab.org^
 ||www.eiren.org^
@@ -1671,7 +1659,7 @@
 ||www.fansub.id^
 ||www.fansubs.cat^
 ||www.fawanews.sc^
-||www.fctv33hd.uno^
+||www.fctv33go.hair^
 ||www.fender.com^
 ||www.fileeagle.com^
 ||www.filepuma.com^
@@ -1967,7 +1955,6 @@
 ! 0.0.0.0 123animehub.cc
 ! 0.0.0.0 123moviesfree.club
 ! 0.0.0.0 123wrestling.com
-! 0.0.0.0 128kbps.pls
 ! 0.0.0.0 1337x.to
 ! 0.0.0.0 13thdimension.com
 ! 0.0.0.0 143190.xyz
@@ -2031,6 +2018,7 @@
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 an1me.to
 ! 0.0.0.0 andlibria.qt
+! 0.0.0.0 ani.nz
 ! 0.0.0.0 ani.pm
 ! 0.0.0.0 ani4u.org
 ! 0.0.0.0 anianimals.moe
@@ -2114,7 +2102,6 @@
 ! 0.0.0.0 animeonsen.xyz
 ! 0.0.0.0 animepahe.pw
 ! 0.0.0.0 animeradio.de
-! 0.0.0.0 animerank.top
 ! 0.0.0.0 animerss.com
 ! 0.0.0.0 animes.garden
 ! 0.0.0.0 animesalt.cx
@@ -2218,7 +2205,6 @@
 ! 0.0.0.0 banime.top
 ! 0.0.0.0 baozimh.com
 ! 0.0.0.0 baozimh.org
-! 0.0.0.0 barelystarted.miruro.tv
 ! 0.0.0.0 basementx.lol
 ! 0.0.0.0 basic.pp.ua
 ! 0.0.0.0 basketball-video.com
@@ -2255,6 +2241,7 @@
 ! 0.0.0.0 btorrent.xyz
 ! 0.0.0.0 bunko.sumikko.info
 ! 0.0.0.0 bunkoranoberanking.blog.fc2.com
+! 0.0.0.0 ca.pls
 ! 0.0.0.0 cal.syoboi.jp
 ! 0.0.0.0 calendar.html
 ! 0.0.0.0 candlestream.xyz
@@ -2499,7 +2486,6 @@
 ! 0.0.0.0 futxtv.indevs.in
 ! 0.0.0.0 fxfx332.com
 ! 0.0.0.0 gadgeteer.co.za
-! 0.0.0.0 gaiaflix.live
 ! 0.0.0.0 gataket.com
 ! 0.0.0.0 geekdot.live
 ! 0.0.0.0 gensokyoradio.net
@@ -2610,8 +2596,8 @@
 ! 0.0.0.0 justsubtitles.com
 ! 0.0.0.0 k-drama.in
 ! 0.0.0.0 kaa.lt
+! 0.0.0.0 kagane.cx
 ! 0.0.0.0 kagane.org
-! 0.0.0.0 kagane.si
 ! 0.0.0.0 kaitotv.com
 ! 0.0.0.0 kaptain.stream
 ! 0.0.0.0 kara.moe
@@ -2648,7 +2634,6 @@
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmworks.date
 ! 0.0.0.0 kodasusaka.com
-! 0.0.0.0 koddo.to
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
@@ -2790,10 +2775,7 @@
 ! 0.0.0.0 miraianime.net
 ! 0.0.0.0 mirrors.st
 ! 0.0.0.0 miru.js.org
-! 0.0.0.0 miruro.bz
 ! 0.0.0.0 miruro.cx
-! 0.0.0.0 miruro.to
-! 0.0.0.0 miruro.tv
 ! 0.0.0.0 mitsukeru.timschneeberger.me
 ! 0.0.0.0 mixmoose.com
 ! 0.0.0.0 mkissa.to
@@ -3073,7 +3055,6 @@
 ! 0.0.0.0 relatedanime.com
 ! 0.0.0.0 releasefeed.elomatreb.eu
 ! 0.0.0.0 releasehive.com
-! 0.0.0.0 releases.com
 ! 0.0.0.0 releases.moe
 ! 0.0.0.0 remanga.org
 ! 0.0.0.0 replay.nontonx.com
@@ -3223,8 +3204,6 @@
 ! 0.0.0.0 streamcorner.st
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
-! 0.0.0.0 streamed.pk
-! 0.0.0.0 streamed.st
 ! 0.0.0.0 streamex.hn
 ! 0.0.0.0 streamex.ws
 ! 0.0.0.0 streamfree.top
@@ -3243,7 +3222,6 @@
 ! 0.0.0.0 stremio.ar0.eu
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.st
-! 0.0.0.0 strmd.link
 ! 0.0.0.0 strmfree.st
 ! 0.0.0.0 strumyk.domains
 ! 0.0.0.0 strumyk.pk
@@ -3318,7 +3296,6 @@
 ! 0.0.0.0 tlmc.pf-n.co
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toflix.co
-! 0.0.0.0 toku.fun
 ! 0.0.0.0 tokusatsu-fc.jp
 ! 0.0.0.0 tokusatsunetwork.com
 ! 0.0.0.0 tokyo-tosho.net
@@ -3448,6 +3425,7 @@
 ! 0.0.0.0 watchanimeworld.one
 ! 0.0.0.0 watchanimez.me
 ! 0.0.0.0 watchfooty.st
+! 0.0.0.0 watchly.mom
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
@@ -3482,7 +3460,6 @@
 ! 0.0.0.0 wiki.hayase.watch
 ! 0.0.0.0 wiki.servarr.com
 ! 0.0.0.0 wikizilla.org
-! 0.0.0.0 willow.arlen.icu
 ! 0.0.0.0 willowmovies.com
 ! 0.0.0.0 witanime.you
 ! 0.0.0.0 witchculttranslation.com
@@ -3612,7 +3589,6 @@
 ! 0.0.0.0 www.downloads-anymovies.co
 ! 0.0.0.0 www.downturk.net
 ! 0.0.0.0 www.dozaanimata.net
-! 0.0.0.0 www.dvdsreleasedates.com
 ! 0.0.0.0 www.ebookrenta.com
 ! 0.0.0.0 www.edrlab.org
 ! 0.0.0.0 www.eiren.org
@@ -3626,7 +3602,7 @@
 ! 0.0.0.0 www.fansub.id
 ! 0.0.0.0 www.fansubs.cat
 ! 0.0.0.0 www.fawanews.sc
-! 0.0.0.0 www.fctv33hd.uno
+! 0.0.0.0 www.fctv33go.hair
 ! 0.0.0.0 www.fender.com
 ! 0.0.0.0 www.fileeagle.com
 ! 0.0.0.0 www.filepuma.com
