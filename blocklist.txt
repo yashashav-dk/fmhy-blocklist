@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-10-28T09:25:26Z
+! Last updated: 2026-10-29T09:36:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -19,7 +19,7 @@
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
 ||1shows-note.md^
-||1shows.bz^
+||1shows.org^
 ||1vegamovies.baby^
 ||24-7-channels.php^
 ||2ecbbd610840-trakt.baby-beamup.club^
@@ -303,7 +303,6 @@
 ||calendar.html^
 ||candlestream.xyz^
 ||canibinge.com^
-||caps-a-holic.com^
 ||cartooncartoons.thatsoretro.com^
 ||cc.edatribe.com^
 ||cd.textfiles^
@@ -495,7 +494,6 @@
 ||filmvault.xyz^
 ||filmzie.com^
 ||find-movie.info^
-||fireani.me^
 ||flicker-proxy.md^
 ||flickmetrix.com^
 ||flickystream.mov^
@@ -515,7 +513,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc136.asia^
+||foc137.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -691,6 +689,7 @@
 ||kmmovies.shop^
 ||kmworks.date^
 ||kodasusaka.com^
+||koddo.to^
 ||kofi.mov^
 ||komiic.com^
 ||komikindo.ch^
@@ -776,6 +775,7 @@
 ||mangabalkan.org^
 ||mangaball.net^
 ||mangabookshelf.com^
+||mangacodex.com^
 ||mangadot.net^
 ||mangafire.to^
 ||mangafonts.carrd.co^
@@ -874,7 +874,7 @@
 ||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon160.asia^
+||mtoon161.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -892,9 +892,8 @@
 ||myrunningman.com^
 ||mysoccerpulse.com^
 ||naikamu.com^
-||namee124.asia^
+||namee125.asia^
 ||namu.wiki^
-||nanasubs.com.pl^
 ||narjomusic.com^
 ||naruldonghua.com^
 ||navic.app^
@@ -1279,6 +1278,7 @@
 ||stremio.ar0.eu^
 ||strexoplayer.onrender.com^
 ||strims24.st^
+||strmfree.link^
 ||strmfree.st^
 ||strumyk.domains^
 ||strumyk.pk^
@@ -1341,10 +1341,10 @@
 ||thwiki.cc^
 ||tidal.odskyler.com^
 ||tiii.me^
+||tim-streams.com^
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
-||timst.top^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
@@ -1902,7 +1902,7 @@
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
 ||yaoi.me^
-||yatoon263.asia^
+||yatoon264.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1962,7 +1962,7 @@
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
 ! 0.0.0.0 1shows-note.md
-! 0.0.0.0 1shows.bz
+! 0.0.0.0 1shows.org
 ! 0.0.0.0 1vegamovies.baby
 ! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
@@ -2246,7 +2246,6 @@
 ! 0.0.0.0 calendar.html
 ! 0.0.0.0 candlestream.xyz
 ! 0.0.0.0 canibinge.com
-! 0.0.0.0 caps-a-holic.com
 ! 0.0.0.0 cartooncartoons.thatsoretro.com
 ! 0.0.0.0 cc.edatribe.com
 ! 0.0.0.0 cd.textfiles
@@ -2438,7 +2437,6 @@
 ! 0.0.0.0 filmvault.xyz
 ! 0.0.0.0 filmzie.com
 ! 0.0.0.0 find-movie.info
-! 0.0.0.0 fireani.me
 ! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
@@ -2458,7 +2456,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc136.asia
+! 0.0.0.0 foc137.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2634,6 +2632,7 @@
 ! 0.0.0.0 kmmovies.shop
 ! 0.0.0.0 kmworks.date
 ! 0.0.0.0 kodasusaka.com
+! 0.0.0.0 koddo.to
 ! 0.0.0.0 kofi.mov
 ! 0.0.0.0 komiic.com
 ! 0.0.0.0 komikindo.ch
@@ -2719,6 +2718,7 @@
 ! 0.0.0.0 mangabalkan.org
 ! 0.0.0.0 mangaball.net
 ! 0.0.0.0 mangabookshelf.com
+! 0.0.0.0 mangacodex.com
 ! 0.0.0.0 mangadot.net
 ! 0.0.0.0 mangafire.to
 ! 0.0.0.0 mangafonts.carrd.co
@@ -2817,7 +2817,7 @@
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon160.asia
+! 0.0.0.0 mtoon161.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2835,9 +2835,8 @@
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee124.asia
+! 0.0.0.0 namee125.asia
 ! 0.0.0.0 namu.wiki
-! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 naruldonghua.com
 ! 0.0.0.0 navic.app
@@ -3222,6 +3221,7 @@
 ! 0.0.0.0 stremio.ar0.eu
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.st
+! 0.0.0.0 strmfree.link
 ! 0.0.0.0 strmfree.st
 ! 0.0.0.0 strumyk.domains
 ! 0.0.0.0 strumyk.pk
@@ -3284,10 +3284,10 @@
 ! 0.0.0.0 thwiki.cc
 ! 0.0.0.0 tidal.odskyler.com
 ! 0.0.0.0 tiii.me
+! 0.0.0.0 tim-streams.com
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
-! 0.0.0.0 timst.top
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
@@ -3845,7 +3845,7 @@
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
 ! 0.0.0.0 yaoi.me
-! 0.0.0.0 yatoon263.asia
+! 0.0.0.0 yatoon264.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

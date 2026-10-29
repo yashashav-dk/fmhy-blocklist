@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-10-28T09:25:26Z
+# 1940 domains | updated 2026-10-29T09:36:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -15,7 +15,7 @@
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
 1shows-note.md
-1shows.bz
+1shows.org
 1vegamovies.baby
 24-7-channels.php
 2ecbbd610840-trakt.baby-beamup.club
@@ -299,7 +299,6 @@ cal.syoboi.jp
 calendar.html
 candlestream.xyz
 canibinge.com
-caps-a-holic.com
 cartooncartoons.thatsoretro.com
 cc.edatribe.com
 cd.textfiles
@@ -491,7 +490,6 @@ films.waploaded.com
 filmvault.xyz
 filmzie.com
 find-movie.info
-fireani.me
 flicker-proxy.md
 flickmetrix.com
 flickystream.mov
@@ -511,7 +509,7 @@ flyflix.cc
 flystream.net
 fmfau.com
 fmstream.org
-foc136.asia
+foc137.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -687,6 +685,7 @@ kitsunekko.net
 kmmovies.shop
 kmworks.date
 kodasusaka.com
+koddo.to
 kofi.mov
 komiic.com
 komikindo.ch
@@ -772,6 +771,7 @@ mangabaka.org
 mangabalkan.org
 mangaball.net
 mangabookshelf.com
+mangacodex.com
 mangadot.net
 mangafire.to
 mangafonts.carrd.co
@@ -870,7 +870,7 @@ moviesnipipay.me
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon160.asia
+mtoon161.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -888,9 +888,8 @@ mygully.com
 myrunningman.com
 mysoccerpulse.com
 naikamu.com
-namee124.asia
+namee125.asia
 namu.wiki
-nanasubs.com.pl
 narjomusic.com
 naruldonghua.com
 navic.app
@@ -1275,6 +1274,7 @@ stremio-addons.net
 stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.st
+strmfree.link
 strmfree.st
 strumyk.domains
 strumyk.pk
@@ -1337,10 +1337,10 @@ thugtv.online
 thwiki.cc
 tidal.odskyler.com
 tiii.me
+tim-streams.com
 timeldred.com
 times.abema.tv
 timesoccertv.com
-timst.top
 tioanime.com
 tiodonghua.com
 tivimate.com
@@ -1898,7 +1898,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon263.asia
+yatoon264.asia
 yattatachi.com
 yenime.net
 yeshd.net
