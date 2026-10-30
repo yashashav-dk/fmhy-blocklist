@@ -1,11 +1,13 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-10-29T09:36:13Z
+! Last updated: 2026-10-30T09:44:17Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
 ! ── uBlock Origin filters ──
 !
+||001.funbe.org^
+||001.toonkor.net^
 ||0115765.com^
 ||0xdb.org^
 ||1024teradl.com^
@@ -48,7 +50,6 @@
 ||abibli.com^
 ||absorbiendomangas2.blogspot.com^
 ||acg.rip^
-||adding-repos.html^
 ||addon-manager.viren070.me^
 ||addonsfortheweebs.midnightignite.me^
 ||adrama.app^
@@ -252,6 +253,7 @@
 ||azmovies.to^
 ||azorafly.com^
 ||azseries.org^
+||b5.blacktoon.black^
 ||bacalightnovel.co^
 ||baechusquad.download^
 ||bakabt.me^
@@ -535,7 +537,6 @@
 ||fullfrontal.moe^
 ||fullmatchshows.com^
 ||fullraces.com^
-||funbe684.com^
 ||furaba-animeseichi.blog.jp^
 ||futon.wtf^
 ||futxtv.indevs.in^
@@ -651,7 +652,7 @@
 ||justsubtitles.com^
 ||k-drama.in^
 ||kaa.lt^
-||kagane.cx^
+||kagane.moe^
 ||kagane.org^
 ||kaitotv.com^
 ||kaptain.stream^
@@ -891,9 +892,11 @@
 ||mygully.com^
 ||myrunningman.com^
 ||mysoccerpulse.com^
+||n5.newtoki.top^
 ||naikamu.com^
 ||namee125.asia^
 ||namu.wiki^
+||nanasubs.com.pl^
 ||narjomusic.com^
 ||naruldonghua.com^
 ||navic.app^
@@ -917,7 +920,7 @@
 ||news.tokunation.com^
 ||news.xml^
 ||newstream.html^
-||newxtoon3.com^
+||newxtoon4.com^
 ||nexa.mov^
 ||nextnovels.com^
 ||nfl-replays.com^
@@ -1362,7 +1365,6 @@
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
-||toonkor7.org^
 ||toonkotsu.com^
 ||toonstream.us^
 ||toonworld4all.me^
@@ -1503,9 +1505,9 @@
 ||weebcentral.com^
 ||weebtube.cc^
 ||wetrakr.com^
-||wftoon233.com^
+||wftoon235.com^
 ||wfty.link^
-||wfwf517.com^
+||wfwf527.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
 ||wheresthejump.com^
@@ -1685,7 +1687,7 @@
 ||www.globalfreetv.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
-||www.goodtoon008.com^
+||www.goodtoon009.com^
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
@@ -1742,8 +1744,6 @@
 ||www.mau2.com^
 ||www.megacartoons.net^
 ||www.miobt.com^
-||www.miruro.com^
-||www.miruro.cx^
 ||www.mmnt.net^
 ||www.mmnt.ru^
 ||www.movie-censorship.com^
@@ -1949,6 +1949,8 @@
 !
 ! ── /etc/hosts format (for apply-hosts.sh) ──
 !
+! 0.0.0.0 001.funbe.org
+! 0.0.0.0 001.toonkor.net
 ! 0.0.0.0 0115765.com
 ! 0.0.0.0 0xdb.org
 ! 0.0.0.0 1024teradl.com
@@ -1991,7 +1993,6 @@
 ! 0.0.0.0 abibli.com
 ! 0.0.0.0 absorbiendomangas2.blogspot.com
 ! 0.0.0.0 acg.rip
-! 0.0.0.0 adding-repos.html
 ! 0.0.0.0 addon-manager.viren070.me
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
 ! 0.0.0.0 adrama.app
@@ -2195,6 +2196,7 @@
 ! 0.0.0.0 azmovies.to
 ! 0.0.0.0 azorafly.com
 ! 0.0.0.0 azseries.org
+! 0.0.0.0 b5.blacktoon.black
 ! 0.0.0.0 bacalightnovel.co
 ! 0.0.0.0 baechusquad.download
 ! 0.0.0.0 bakabt.me
@@ -2478,7 +2480,6 @@
 ! 0.0.0.0 fullfrontal.moe
 ! 0.0.0.0 fullmatchshows.com
 ! 0.0.0.0 fullraces.com
-! 0.0.0.0 funbe684.com
 ! 0.0.0.0 furaba-animeseichi.blog.jp
 ! 0.0.0.0 futon.wtf
 ! 0.0.0.0 futxtv.indevs.in
@@ -2594,7 +2595,7 @@
 ! 0.0.0.0 justsubtitles.com
 ! 0.0.0.0 k-drama.in
 ! 0.0.0.0 kaa.lt
-! 0.0.0.0 kagane.cx
+! 0.0.0.0 kagane.moe
 ! 0.0.0.0 kagane.org
 ! 0.0.0.0 kaitotv.com
 ! 0.0.0.0 kaptain.stream
@@ -2834,9 +2835,11 @@
 ! 0.0.0.0 mygully.com
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
+! 0.0.0.0 n5.newtoki.top
 ! 0.0.0.0 naikamu.com
 ! 0.0.0.0 namee125.asia
 ! 0.0.0.0 namu.wiki
+! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 naruldonghua.com
 ! 0.0.0.0 navic.app
@@ -2860,7 +2863,7 @@
 ! 0.0.0.0 news.tokunation.com
 ! 0.0.0.0 news.xml
 ! 0.0.0.0 newstream.html
-! 0.0.0.0 newxtoon3.com
+! 0.0.0.0 newxtoon4.com
 ! 0.0.0.0 nexa.mov
 ! 0.0.0.0 nextnovels.com
 ! 0.0.0.0 nfl-replays.com
@@ -3305,7 +3308,6 @@
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
-! 0.0.0.0 toonkor7.org
 ! 0.0.0.0 toonkotsu.com
 ! 0.0.0.0 toonstream.us
 ! 0.0.0.0 toonworld4all.me
@@ -3446,9 +3448,9 @@
 ! 0.0.0.0 weebcentral.com
 ! 0.0.0.0 weebtube.cc
 ! 0.0.0.0 wetrakr.com
-! 0.0.0.0 wftoon233.com
+! 0.0.0.0 wftoon235.com
 ! 0.0.0.0 wfty.link
-! 0.0.0.0 wfwf517.com
+! 0.0.0.0 wfwf527.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
 ! 0.0.0.0 wheresthejump.com
@@ -3628,7 +3630,7 @@
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
-! 0.0.0.0 www.goodtoon008.com
+! 0.0.0.0 www.goodtoon009.com
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net
@@ -3685,8 +3687,6 @@
 ! 0.0.0.0 www.mau2.com
 ! 0.0.0.0 www.megacartoons.net
 ! 0.0.0.0 www.miobt.com
-! 0.0.0.0 www.miruro.com
-! 0.0.0.0 www.miruro.cx
 ! 0.0.0.0 www.mmnt.net
 ! 0.0.0.0 www.mmnt.ru
 ! 0.0.0.0 www.movie-censorship.com
