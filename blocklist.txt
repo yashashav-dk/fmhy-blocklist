@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-10-30T09:44:17Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1945 domains)
+! Last updated: 2026-10-31T09:23:49Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -342,8 +342,8 @@
 ||cli.club^
 ||clients.md^
 ||closet-picks.com^
-||cmvv.lovable.app^
 ||cmvwd.lovable.app^
+||cmvxd.lovable.app^
 ||cno.to^
 ||com.aimp.player^
 ||com.extreamsd.usbaudioplayerpro^
@@ -425,7 +425,7 @@
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.io^
-||dokiraw.city^
+||dokiraw.pink^
 ||donghua4k.net^
 ||donghuastream.org^
 ||dorabash.in^
@@ -440,7 +440,7 @@
 ||dramahood.mom^
 ||dramanice.boo^
 ||duafile.net^
-||dualeotruyenday.com^
+||dualeotruyenqo.com^
 ||dubolt.com^
 ||due.moe^
 ||dulo.mov^
@@ -489,6 +489,7 @@
 ||fcast.org^
 ||filmdilemma.com^
 ||filmfans.org^
+||filmo.domains^
 ||filmo.platfo.es^
 ||filmo.to^
 ||filmpolski.pl^
@@ -522,6 +523,7 @@
 ||foro.unionfansub.com^
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
+||fprime.at^
 ||framextv.xyz^
 ||franime.fr^
 ||free-movies.to^
@@ -641,7 +643,7 @@
 ||jjba.lol^
 ||jjba.site^
 ||jkanime.net^
-||jmanga.cool^
+||jmanga.golf^
 ||jpfiles.net^
 ||jpop.si^
 ||jpopsuki-stream.pls^
@@ -676,6 +678,7 @@
 ||kids-in-mind.com^
 ||kimoitv.com^
 ||kindlemodding.org^
+||kissasian.com.gr^
 ||kissasian.video^
 ||kisskh.club^
 ||kisskh.co^
@@ -792,7 +795,7 @@
 ||mangaraw.best^
 ||mangaraw.lc^
 ||mangaraw.shop^
-||mangarawad.icu^
+||mangarawad.click^
 ||mangaseek.net^
 ||mangashelf.co.il^
 ||mangavyvy.com^
@@ -1046,7 +1049,7 @@
 ||ppv.rw^
 ||ppv.st^
 ||ppv.tj^
-||ppv.to^
+||ppv.ug^
 ||ppvs.pk^
 ||pressplayx.to^
 ||primewire.nexus^
@@ -1086,7 +1089,7 @@
 ||ravencentri.cc^
 ||raw-cans.net^
 ||raw1001.net^
-||rawfree.click^
+||rawfree.gives^
 ||rawinstant.net^
 ||rawkuma.net^
 ||rawlazy.io^
@@ -1200,9 +1203,11 @@
 ||shimeken.com^
 ||shinden.pl^
 ||shokoanime.com^
+||shonen.to^
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
 ||showrss.info^
+||shuttletv.cr^
 ||shuttletv.me^
 ||shuttletv.pk^
 ||shuttletv.su^
@@ -1271,7 +1276,6 @@
 ||streaming-integrale.com^
 ||streaming.cineverse.com^
 ||streamingunity.vip^
-||streamo.st^
 ||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
@@ -1348,6 +1352,7 @@
 ||timeldred.com^
 ||times.abema.tv^
 ||timesoccertv.com^
+||timstreams.co.rw^
 ||tioanime.com^
 ||tiodonghua.com^
 ||tivimate.com^
@@ -1413,6 +1418,7 @@
 ||ukiku.app^
 ||ultra.cc^
 ||ultrasonic.gitlab.io^
+||ume.to^
 ||unimay.media^
 ||uniquestream.net^
 ||unogs.com^
@@ -1535,7 +1541,6 @@
 ||ww1.sportsurge.st^
 ||ww1.yesmovies.ag^
 ||ww3.animeonline.ninja^
-||wwv21.kissasian.com.lv^
 ||www.1flex.org^
 ||www.1tube.org^
 ||www.3cat.cat^
@@ -2285,8 +2290,8 @@
 ! 0.0.0.0 cli.club
 ! 0.0.0.0 clients.md
 ! 0.0.0.0 closet-picks.com
-! 0.0.0.0 cmvv.lovable.app
 ! 0.0.0.0 cmvwd.lovable.app
+! 0.0.0.0 cmvxd.lovable.app
 ! 0.0.0.0 cno.to
 ! 0.0.0.0 com.aimp.player
 ! 0.0.0.0 com.extreamsd.usbaudioplayerpro
@@ -2368,7 +2373,7 @@
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
-! 0.0.0.0 dokiraw.city
+! 0.0.0.0 dokiraw.pink
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
 ! 0.0.0.0 dorabash.in
@@ -2383,7 +2388,7 @@
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
 ! 0.0.0.0 duafile.net
-! 0.0.0.0 dualeotruyenday.com
+! 0.0.0.0 dualeotruyenqo.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
@@ -2432,6 +2437,7 @@
 ! 0.0.0.0 fcast.org
 ! 0.0.0.0 filmdilemma.com
 ! 0.0.0.0 filmfans.org
+! 0.0.0.0 filmo.domains
 ! 0.0.0.0 filmo.platfo.es
 ! 0.0.0.0 filmo.to
 ! 0.0.0.0 filmpolski.pl
@@ -2465,6 +2471,7 @@
 ! 0.0.0.0 foro.unionfansub.com
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
+! 0.0.0.0 fprime.at
 ! 0.0.0.0 framextv.xyz
 ! 0.0.0.0 franime.fr
 ! 0.0.0.0 free-movies.to
@@ -2584,7 +2591,7 @@
 ! 0.0.0.0 jjba.lol
 ! 0.0.0.0 jjba.site
 ! 0.0.0.0 jkanime.net
-! 0.0.0.0 jmanga.cool
+! 0.0.0.0 jmanga.golf
 ! 0.0.0.0 jpfiles.net
 ! 0.0.0.0 jpop.si
 ! 0.0.0.0 jpopsuki-stream.pls
@@ -2619,6 +2626,7 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
+! 0.0.0.0 kissasian.com.gr
 ! 0.0.0.0 kissasian.video
 ! 0.0.0.0 kisskh.club
 ! 0.0.0.0 kisskh.co
@@ -2735,7 +2743,7 @@
 ! 0.0.0.0 mangaraw.best
 ! 0.0.0.0 mangaraw.lc
 ! 0.0.0.0 mangaraw.shop
-! 0.0.0.0 mangarawad.icu
+! 0.0.0.0 mangarawad.click
 ! 0.0.0.0 mangaseek.net
 ! 0.0.0.0 mangashelf.co.il
 ! 0.0.0.0 mangavyvy.com
@@ -2989,7 +2997,7 @@
 ! 0.0.0.0 ppv.rw
 ! 0.0.0.0 ppv.st
 ! 0.0.0.0 ppv.tj
-! 0.0.0.0 ppv.to
+! 0.0.0.0 ppv.ug
 ! 0.0.0.0 ppvs.pk
 ! 0.0.0.0 pressplayx.to
 ! 0.0.0.0 primewire.nexus
@@ -3029,7 +3037,7 @@
 ! 0.0.0.0 ravencentri.cc
 ! 0.0.0.0 raw-cans.net
 ! 0.0.0.0 raw1001.net
-! 0.0.0.0 rawfree.click
+! 0.0.0.0 rawfree.gives
 ! 0.0.0.0 rawinstant.net
 ! 0.0.0.0 rawkuma.net
 ! 0.0.0.0 rawlazy.io
@@ -3143,9 +3151,11 @@
 ! 0.0.0.0 shimeken.com
 ! 0.0.0.0 shinden.pl
 ! 0.0.0.0 shokoanime.com
+! 0.0.0.0 shonen.to
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
 ! 0.0.0.0 showrss.info
+! 0.0.0.0 shuttletv.cr
 ! 0.0.0.0 shuttletv.me
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
@@ -3214,7 +3224,6 @@
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streaming.cineverse.com
 ! 0.0.0.0 streamingunity.vip
-! 0.0.0.0 streamo.st
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
@@ -3291,6 +3300,7 @@
 ! 0.0.0.0 timeldred.com
 ! 0.0.0.0 times.abema.tv
 ! 0.0.0.0 timesoccertv.com
+! 0.0.0.0 timstreams.co.rw
 ! 0.0.0.0 tioanime.com
 ! 0.0.0.0 tiodonghua.com
 ! 0.0.0.0 tivimate.com
@@ -3356,6 +3366,7 @@
 ! 0.0.0.0 ukiku.app
 ! 0.0.0.0 ultra.cc
 ! 0.0.0.0 ultrasonic.gitlab.io
+! 0.0.0.0 ume.to
 ! 0.0.0.0 unimay.media
 ! 0.0.0.0 uniquestream.net
 ! 0.0.0.0 unogs.com
@@ -3478,7 +3489,6 @@
 ! 0.0.0.0 ww1.sportsurge.st
 ! 0.0.0.0 ww1.yesmovies.ag
 ! 0.0.0.0 ww3.animeonline.ninja
-! 0.0.0.0 wwv21.kissasian.com.lv
 ! 0.0.0.0 www.1flex.org
 ! 0.0.0.0 www.1tube.org
 ! 0.0.0.0 www.3cat.cat

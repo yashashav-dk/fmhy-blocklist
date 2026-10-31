@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-10-30T09:44:17Z
+# 1945 domains | updated 2026-10-31T09:23:49Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 001.funbe.org
@@ -338,8 +338,8 @@ circle.ms
 cli.club
 clients.md
 closet-picks.com
-cmvv.lovable.app
 cmvwd.lovable.app
+cmvxd.lovable.app
 cno.to
 com.aimp.player
 com.extreamsd.usbaudioplayerpro
@@ -421,7 +421,7 @@ docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.io
-dokiraw.city
+dokiraw.pink
 donghua4k.net
 donghuastream.org
 dorabash.in
@@ -436,7 +436,7 @@ dramafren.org
 dramahood.mom
 dramanice.boo
 duafile.net
-dualeotruyenday.com
+dualeotruyenqo.com
 dubolt.com
 due.moe
 dulo.mov
@@ -485,6 +485,7 @@ fbstream.is
 fcast.org
 filmdilemma.com
 filmfans.org
+filmo.domains
 filmo.platfo.es
 filmo.to
 filmpolski.pl
@@ -518,6 +519,7 @@ fooyin.org
 foro.unionfansub.com
 forum.mobilism.org
 foundfootagecritic.com
+fprime.at
 framextv.xyz
 franime.fr
 free-movies.to
@@ -637,7 +639,7 @@ jefusion.blogspot.com
 jjba.lol
 jjba.site
 jkanime.net
-jmanga.cool
+jmanga.golf
 jpfiles.net
 jpop.si
 jpopsuki-stream.pls
@@ -672,6 +674,7 @@ kid3.kde.org
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
+kissasian.com.gr
 kissasian.video
 kisskh.club
 kisskh.co
@@ -788,7 +791,7 @@ mangaplaza.com
 mangaraw.best
 mangaraw.lc
 mangaraw.shop
-mangarawad.icu
+mangarawad.click
 mangaseek.net
 mangashelf.co.il
 mangavyvy.com
@@ -1042,7 +1045,7 @@ ppv.ms
 ppv.rw
 ppv.st
 ppv.tj
-ppv.to
+ppv.ug
 ppvs.pk
 pressplayx.to
 primewire.nexus
@@ -1082,7 +1085,7 @@ rarefilmm.com
 ravencentri.cc
 raw-cans.net
 raw1001.net
-rawfree.click
+rawfree.gives
 rawinstant.net
 rawkuma.net
 rawlazy.io
@@ -1196,9 +1199,11 @@ shikimori.rip
 shimeken.com
 shinden.pl
 shokoanime.com
+shonen.to
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
+shuttletv.cr
 shuttletv.me
 shuttletv.pk
 shuttletv.su
@@ -1267,7 +1272,6 @@ streamic.st
 streaming-integrale.com
 streaming.cineverse.com
 streamingunity.vip
-streamo.st
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1344,6 +1348,7 @@ tim-streams.com
 timeldred.com
 times.abema.tv
 timesoccertv.com
+timstreams.co.rw
 tioanime.com
 tiodonghua.com
 tivimate.com
@@ -1409,6 +1414,7 @@ ubu.com
 ukiku.app
 ultra.cc
 ultrasonic.gitlab.io
+ume.to
 unimay.media
 uniquestream.net
 unogs.com
@@ -1531,7 +1537,6 @@ ww1.goojara.to
 ww1.sportsurge.st
 ww1.yesmovies.ag
 ww3.animeonline.ninja
-wwv21.kissasian.com.lv
 www.1flex.org
 www.1tube.org
 www.3cat.cat
