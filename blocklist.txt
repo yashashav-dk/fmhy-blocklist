@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1945 domains)
-! Last updated: 2026-10-31T09:23:49Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
+! Last updated: 2026-11-01T10:13:22Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -102,9 +102,6 @@
 ||anikoto.site^
 ||anikototv.to^
 ||anikura.club^
-||anikuro.ru^
-||anikuro.site^
-||anikuro.to^
 ||anilib.me^
 ||aniliberty.top^
 ||anilight.live^
@@ -516,7 +513,7 @@
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc137.asia^
+||foc138.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -724,7 +721,6 @@
 ||libremdb.iket.me^
 ||lightcone.org^
 ||lightflix.app^
-||likemanga.ink^
 ||listen-to-euterpe.eu^
 ||listen.moe^
 ||lists.fun^
@@ -897,7 +893,7 @@
 ||mysoccerpulse.com^
 ||n5.newtoki.top^
 ||naikamu.com^
-||namee125.asia^
+||namee126.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -1322,6 +1318,7 @@
 ||tap4sport.link^
 ||tap4sport.pw^
 ||tap4sport.st^
+||taroflix.net^
 ||tauonmusicbox.rocks^
 ||tennojim.xyz^
 ||terabox.hnn.workers.dev^
@@ -1489,7 +1486,6 @@
 ||watch.versusmedia.com^
 ||watchanimeworld.one^
 ||watchanimez.me^
-||watchfooty.st^
 ||watchly.mom^
 ||watchorbit.me^
 ||watchprowrestling.store^
@@ -1512,7 +1508,6 @@
 ||weebtube.cc^
 ||wetrakr.com^
 ||wftoon235.com^
-||wfty.link^
 ||wfwf527.com^
 ||whatsatmovie.com^
 ||whattowatchon.tv^
@@ -1907,7 +1902,7 @@
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
 ||yaoi.me^
-||yatoon264.asia^
+||yatoon265.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -2050,9 +2045,6 @@
 ! 0.0.0.0 anikoto.site
 ! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikura.club
-! 0.0.0.0 anikuro.ru
-! 0.0.0.0 anikuro.site
-! 0.0.0.0 anikuro.to
 ! 0.0.0.0 anilib.me
 ! 0.0.0.0 aniliberty.top
 ! 0.0.0.0 anilight.live
@@ -2464,7 +2456,7 @@
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc137.asia
+! 0.0.0.0 foc138.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2672,7 +2664,6 @@
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
 ! 0.0.0.0 lightflix.app
-! 0.0.0.0 likemanga.ink
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
 ! 0.0.0.0 lists.fun
@@ -2845,7 +2836,7 @@
 ! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 n5.newtoki.top
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee125.asia
+! 0.0.0.0 namee126.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -3270,6 +3261,7 @@
 ! 0.0.0.0 tap4sport.link
 ! 0.0.0.0 tap4sport.pw
 ! 0.0.0.0 tap4sport.st
+! 0.0.0.0 taroflix.net
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 tennojim.xyz
 ! 0.0.0.0 terabox.hnn.workers.dev
@@ -3437,7 +3429,6 @@
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimeworld.one
 ! 0.0.0.0 watchanimez.me
-! 0.0.0.0 watchfooty.st
 ! 0.0.0.0 watchly.mom
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchprowrestling.store
@@ -3460,7 +3451,6 @@
 ! 0.0.0.0 weebtube.cc
 ! 0.0.0.0 wetrakr.com
 ! 0.0.0.0 wftoon235.com
-! 0.0.0.0 wfty.link
 ! 0.0.0.0 wfwf527.com
 ! 0.0.0.0 whatsatmovie.com
 ! 0.0.0.0 whattowatchon.tv
@@ -3855,7 +3845,7 @@
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
 ! 0.0.0.0 yaoi.me
-! 0.0.0.0 yatoon264.asia
+! 0.0.0.0 yatoon265.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1945 domains | updated 2026-10-31T09:23:49Z
+# 1940 domains | updated 2026-11-01T10:13:22Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 001.funbe.org
@@ -98,9 +98,6 @@ anikage.cc
 anikoto.site
 anikototv.to
 anikura.club
-anikuro.ru
-anikuro.site
-anikuro.to
 anilib.me
 aniliberty.top
 anilight.live
@@ -512,7 +509,7 @@ flyflix.cc
 flystream.net
 fmfau.com
 fmstream.org
-foc137.asia
+foc138.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -720,7 +717,6 @@ library.cufiy.net
 libremdb.iket.me
 lightcone.org
 lightflix.app
-likemanga.ink
 listen-to-euterpe.eu
 listen.moe
 lists.fun
@@ -893,7 +889,7 @@ myrunningman.com
 mysoccerpulse.com
 n5.newtoki.top
 naikamu.com
-namee125.asia
+namee126.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -1318,6 +1314,7 @@ tap4sport.ci
 tap4sport.link
 tap4sport.pw
 tap4sport.st
+taroflix.net
 tauonmusicbox.rocks
 tennojim.xyz
 terabox.hnn.workers.dev
@@ -1485,7 +1482,6 @@ watch.typetype.video
 watch.versusmedia.com
 watchanimeworld.one
 watchanimez.me
-watchfooty.st
 watchly.mom
 watchorbit.me
 watchprowrestling.store
@@ -1508,7 +1504,6 @@ weebcentral.com
 weebtube.cc
 wetrakr.com
 wftoon235.com
-wfty.link
 wfwf527.com
 whatsatmovie.com
 whattowatchon.tv
@@ -1903,7 +1898,7 @@ xtreme-wrestling-downloads.com
 xyzstreams.st
 yamayurikai-subs.eu
 yaoi.me
-yatoon264.asia
+yatoon265.asia
 yattatachi.com
 yenime.net
 yeshd.net
