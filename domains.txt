@@ -1,9 +1,9 @@
 # FMHY Binge Blocker — plain domain list
-# 1940 domains | updated 2026-11-01T10:13:22Z
+# 1942 domains | updated 2026-11-02T10:42:19Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
-001.funbe.org
-001.toonkor.net
+002.funbe.org
+002.toonkor.net
 0115765.com
 0xdb.org
 1024teradl.com
@@ -93,6 +93,7 @@ anifilm.pro
 aniflix.us
 anify.to
 aniguessr.com
+anihosts.xyz
 anihq.cc
 anikage.cc
 anikoto.site
@@ -246,7 +247,7 @@ avistaz.to
 azmovies.to
 azorafly.com
 azseries.org
-b5.blacktoon.black
+b6.blacktoon.black
 bacalightnovel.co
 baechusquad.download
 bakabt.me
@@ -699,6 +700,7 @@ koryo.tv
 kototv.to
 krdl.moe
 kuroiru.co
+kuroko.cc
 kurotoshiro.dev
 kurozora.app
 kusonime.com
@@ -870,7 +872,7 @@ moviesnipipay.me
 movish.to
 movy.fyi
 msft-store.tplant.com.au
-mtoon161.asia
+mtoon162.asia
 mugen.karaokes.moe
 multi.tonkacine.watch
 multiending.carrd.co
@@ -887,7 +889,7 @@ myfluneo.eu
 mygully.com
 myrunningman.com
 mysoccerpulse.com
-n5.newtoki.top
+n6.newtoki.top
 naikamu.com
 namee126.asia
 namu.wiki
@@ -1315,8 +1317,8 @@ tap4sport.link
 tap4sport.pw
 tap4sport.st
 taroflix.net
+tatakai.me
 tauonmusicbox.rocks
-tennojim.xyz
 terabox.hnn.workers.dev
 terafetch.com
 tfpdl.se

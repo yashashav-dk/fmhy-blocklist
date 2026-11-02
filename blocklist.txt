@@ -1,13 +1,13 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1940 domains)
-! Last updated: 2026-11-01T10:13:22Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1942 domains)
+! Last updated: 2026-11-02T10:42:19Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
 ! ── uBlock Origin filters ──
 !
-||001.funbe.org^
-||001.toonkor.net^
+||002.funbe.org^
+||002.toonkor.net^
 ||0115765.com^
 ||0xdb.org^
 ||1024teradl.com^
@@ -97,6 +97,7 @@
 ||aniflix.us^
 ||anify.to^
 ||aniguessr.com^
+||anihosts.xyz^
 ||anihq.cc^
 ||anikage.cc^
 ||anikoto.site^
@@ -250,7 +251,7 @@
 ||azmovies.to^
 ||azorafly.com^
 ||azseries.org^
-||b5.blacktoon.black^
+||b6.blacktoon.black^
 ||bacalightnovel.co^
 ||baechusquad.download^
 ||bakabt.me^
@@ -703,6 +704,7 @@
 ||kototv.to^
 ||krdl.moe^
 ||kuroiru.co^
+||kuroko.cc^
 ||kurotoshiro.dev^
 ||kurozora.app^
 ||kusonime.com^
@@ -874,7 +876,7 @@
 ||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon161.asia^
+||mtoon162.asia^
 ||mugen.karaokes.moe^
 ||multi.tonkacine.watch^
 ||multiending.carrd.co^
@@ -891,7 +893,7 @@
 ||mygully.com^
 ||myrunningman.com^
 ||mysoccerpulse.com^
-||n5.newtoki.top^
+||n6.newtoki.top^
 ||naikamu.com^
 ||namee126.asia^
 ||namu.wiki^
@@ -1319,8 +1321,8 @@
 ||tap4sport.pw^
 ||tap4sport.st^
 ||taroflix.net^
+||tatakai.me^
 ||tauonmusicbox.rocks^
-||tennojim.xyz^
 ||terabox.hnn.workers.dev^
 ||terafetch.com^
 ||tfpdl.se^
@@ -1949,8 +1951,8 @@
 !
 ! ── /etc/hosts format (for apply-hosts.sh) ──
 !
-! 0.0.0.0 001.funbe.org
-! 0.0.0.0 001.toonkor.net
+! 0.0.0.0 002.funbe.org
+! 0.0.0.0 002.toonkor.net
 ! 0.0.0.0 0115765.com
 ! 0.0.0.0 0xdb.org
 ! 0.0.0.0 1024teradl.com
@@ -2040,6 +2042,7 @@
 ! 0.0.0.0 aniflix.us
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
+! 0.0.0.0 anihosts.xyz
 ! 0.0.0.0 anihq.cc
 ! 0.0.0.0 anikage.cc
 ! 0.0.0.0 anikoto.site
@@ -2193,7 +2196,7 @@
 ! 0.0.0.0 azmovies.to
 ! 0.0.0.0 azorafly.com
 ! 0.0.0.0 azseries.org
-! 0.0.0.0 b5.blacktoon.black
+! 0.0.0.0 b6.blacktoon.black
 ! 0.0.0.0 bacalightnovel.co
 ! 0.0.0.0 baechusquad.download
 ! 0.0.0.0 bakabt.me
@@ -2646,6 +2649,7 @@
 ! 0.0.0.0 kototv.to
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kuroiru.co
+! 0.0.0.0 kuroko.cc
 ! 0.0.0.0 kurotoshiro.dev
 ! 0.0.0.0 kurozora.app
 ! 0.0.0.0 kusonime.com
@@ -2817,7 +2821,7 @@
 ! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon161.asia
+! 0.0.0.0 mtoon162.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
@@ -2834,7 +2838,7 @@
 ! 0.0.0.0 mygully.com
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
-! 0.0.0.0 n5.newtoki.top
+! 0.0.0.0 n6.newtoki.top
 ! 0.0.0.0 naikamu.com
 ! 0.0.0.0 namee126.asia
 ! 0.0.0.0 namu.wiki
@@ -3262,8 +3266,8 @@
 ! 0.0.0.0 tap4sport.pw
 ! 0.0.0.0 tap4sport.st
 ! 0.0.0.0 taroflix.net
+! 0.0.0.0 tatakai.me
 ! 0.0.0.0 tauonmusicbox.rocks
-! 0.0.0.0 tennojim.xyz
 ! 0.0.0.0 terabox.hnn.workers.dev
 ! 0.0.0.0 terafetch.com
 ! 0.0.0.0 tfpdl.se
