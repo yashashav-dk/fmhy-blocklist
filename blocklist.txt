@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1942 domains)
-! Last updated: 2026-11-02T10:42:19Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
+! Last updated: 2026-11-03T10:33:30Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -26,7 +26,6 @@
 ||24-7-channels.php^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||30.html^
-||321movies.xyz^
 ||35mm.online^
 ||3asq.online^
 ||3eyedraven.watch^
@@ -42,7 +41,6 @@
 ||7movies.ac^
 ||7movies.ws^
 ||7plus.com.au^
-||7reels.cc^
 ||80s-ova.com^
 ||888dl.ps^
 ||9animstv.to^
@@ -56,6 +54,7 @@
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
+||aficatalog.afi.com^
 ||afterdusk.app^
 ||aha-music.com^
 ||aidn.jp^
@@ -289,6 +288,7 @@
 ||blkom.com^
 ||blog.decryption.net.au^
 ||blog.sakugabooru.com^
+||bluraynime.my.id^
 ||bookplayer.app^
 ||booksonic.org^
 ||bookwalker.com^
@@ -458,7 +458,6 @@
 ||english.html^
 ||episodehive.com^
 ||epub.moe^
-||ernax.pro^
 ||erogemusicquiz.com^
 ||es.mangacrab.org^
 ||esp32.nontonx.com^
@@ -485,6 +484,7 @@
 ||fantasticsoda.com^
 ||fbstream.is^
 ||fcast.org^
+||fedsr.us^
 ||filmdilemma.com^
 ||filmfans.org^
 ||filmo.domains^
@@ -495,7 +495,6 @@
 ||filmvault.xyz^
 ||filmzie.com^
 ||find-movie.info^
-||flicker-proxy.md^
 ||flickmetrix.com^
 ||flickystream.mov^
 ||fliker.freebuff.app^
@@ -508,7 +507,6 @@
 ||flixtrz.com^
 ||flixvo.fun^
 ||flixvo.live^
-||flixway.ru^
 ||flixzy.mooo.com^
 ||flyflix.cc^
 ||flystream.net^
@@ -520,6 +518,7 @@
 ||fooyin.org^
 ||foro.unionfansub.com^
 ||forum.mobilism.org^
+||forum.totsrucs.cat^
 ||foundfootagecritic.com^
 ||fprime.at^
 ||framextv.xyz^
@@ -586,7 +585,6 @@
 ||hentaicube.xyz^
 ||hentaila.com^
 ||hentaiukr.com^
-||hentaivn.show^
 ||hexa.su^
 ||hi10anime.com^
 ||hianime.help^
@@ -713,7 +711,6 @@
 ||last.timer^
 ||lastfmstats.com^
 ||latanime.org^
-||latestmovies.net^
 ||leemiau.com^
 ||lermangas.me^
 ||letsanime.blogspot.com^
@@ -775,7 +772,7 @@
 ||manga.tumeo.space^
 ||mangabaka.org^
 ||mangabalkan.org^
-||mangaball.net^
+||mangaball.com^
 ||mangabookshelf.com^
 ||mangacodex.com^
 ||mangadot.net^
@@ -837,6 +834,7 @@
 ||miruro.cx^
 ||mitsukeru.timschneeberger.me^
 ||mixmoose.com^
+||mizuki.to^
 ||mkissa.to^
 ||mkvbase.site^
 ||mkvdrama.net^
@@ -865,7 +863,7 @@
 ||movienig.ht^
 ||movieo.me^
 ||movieparadise.org^
-||moviepire.org^
+||moviepire.ru^
 ||movieplex.online^
 ||moviepooper.com^
 ||movies.php^
@@ -873,12 +871,10 @@
 ||moviescountdown.com^
 ||moviesfoundonline.com^
 ||moviesnipipay.me^
-||movish.to^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon162.asia^
+||mtoon163.asia^
 ||mugen.karaokes.moe^
-||multi.tonkacine.watch^
 ||multiending.carrd.co^
 ||multinime.site^
 ||multishows.top^
@@ -1019,6 +1015,7 @@
 ||phi-phenomenon.org^
 ||phland.org^
 ||phonofilm.cc^
+||pikahd.co^
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.st^
@@ -1110,7 +1107,6 @@
 ||reedstreams.st^
 ||reedstreams.to^
 ||reelix.ac^
-||reelzone.icu^
 ||reindex.to^
 ||relatedanime.com^
 ||releasefeed.elomatreb.eu^
@@ -1269,7 +1265,6 @@
 ||streamex.hn^
 ||streamex.ws^
 ||streamfree.top^
-||streamgoblin.cc^
 ||streamic.st^
 ||streaming-integrale.com^
 ||streaming.cineverse.com^
@@ -1361,11 +1356,9 @@
 ||tmkk.undo.jp^
 ||toflix.co^
 ||tokusatsu-fc.jp^
-||tokusatsunetwork.com^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
-||tonkacine.watch^
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
@@ -1461,7 +1454,6 @@
 ||vk.ru^
 ||vknext.net^
 ||vkvideo.ru^
-||vnkeyfc.com^
 ||vocadb.net^
 ||vocaloid.radioca.st^
 ||voir-anime.to^
@@ -1594,7 +1586,6 @@
 ||www.animu.moe^
 ||www.anirena.com^
 ||www.anisil.com^
-||www.anisurge.lol^
 ||www.anmosugoi.com^
 ||www.anniversaryjump.com^
 ||www.antbyw.com^
@@ -1838,7 +1829,6 @@
 ||www.toonamiremastered.com^
 ||www.toonshub.my.id^
 ||www.toontales.net^
-||www.totsrucs.cat^
 ||www.tranimeizle.co^
 ||www.tsdm39.com^
 ||www.turkanime.tv^
@@ -1904,7 +1894,7 @@
 ||xyzstreams.st^
 ||yamayurikai-subs.eu^
 ||yaoi.me^
-||yatoon265.asia^
+||yatoon266.asia^
 ||yattatachi.com^
 ||yenime.net^
 ||yeshd.net^
@@ -1971,7 +1961,6 @@
 ! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 30.html
-! 0.0.0.0 321movies.xyz
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3asq.online
 ! 0.0.0.0 3eyedraven.watch
@@ -1987,7 +1976,6 @@
 ! 0.0.0.0 7movies.ac
 ! 0.0.0.0 7movies.ws
 ! 0.0.0.0 7plus.com.au
-! 0.0.0.0 7reels.cc
 ! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 888dl.ps
 ! 0.0.0.0 9animstv.to
@@ -2001,6 +1989,7 @@
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 aether.st
+! 0.0.0.0 aficatalog.afi.com
 ! 0.0.0.0 afterdusk.app
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
@@ -2234,6 +2223,7 @@
 ! 0.0.0.0 blkom.com
 ! 0.0.0.0 blog.decryption.net.au
 ! 0.0.0.0 blog.sakugabooru.com
+! 0.0.0.0 bluraynime.my.id
 ! 0.0.0.0 bookplayer.app
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
@@ -2403,7 +2393,6 @@
 ! 0.0.0.0 english.html
 ! 0.0.0.0 episodehive.com
 ! 0.0.0.0 epub.moe
-! 0.0.0.0 ernax.pro
 ! 0.0.0.0 erogemusicquiz.com
 ! 0.0.0.0 es.mangacrab.org
 ! 0.0.0.0 esp32.nontonx.com
@@ -2430,6 +2419,7 @@
 ! 0.0.0.0 fantasticsoda.com
 ! 0.0.0.0 fbstream.is
 ! 0.0.0.0 fcast.org
+! 0.0.0.0 fedsr.us
 ! 0.0.0.0 filmdilemma.com
 ! 0.0.0.0 filmfans.org
 ! 0.0.0.0 filmo.domains
@@ -2440,7 +2430,6 @@
 ! 0.0.0.0 filmvault.xyz
 ! 0.0.0.0 filmzie.com
 ! 0.0.0.0 find-movie.info
-! 0.0.0.0 flicker-proxy.md
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
@@ -2453,7 +2442,6 @@
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.live
-! 0.0.0.0 flixway.ru
 ! 0.0.0.0 flixzy.mooo.com
 ! 0.0.0.0 flyflix.cc
 ! 0.0.0.0 flystream.net
@@ -2465,6 +2453,7 @@
 ! 0.0.0.0 fooyin.org
 ! 0.0.0.0 foro.unionfansub.com
 ! 0.0.0.0 forum.mobilism.org
+! 0.0.0.0 forum.totsrucs.cat
 ! 0.0.0.0 foundfootagecritic.com
 ! 0.0.0.0 fprime.at
 ! 0.0.0.0 framextv.xyz
@@ -2531,7 +2520,6 @@
 ! 0.0.0.0 hentaicube.xyz
 ! 0.0.0.0 hentaila.com
 ! 0.0.0.0 hentaiukr.com
-! 0.0.0.0 hentaivn.show
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
 ! 0.0.0.0 hianime.help
@@ -2658,7 +2646,6 @@
 ! 0.0.0.0 last.timer
 ! 0.0.0.0 lastfmstats.com
 ! 0.0.0.0 latanime.org
-! 0.0.0.0 latestmovies.net
 ! 0.0.0.0 leemiau.com
 ! 0.0.0.0 lermangas.me
 ! 0.0.0.0 letsanime.blogspot.com
@@ -2720,7 +2707,7 @@
 ! 0.0.0.0 manga.tumeo.space
 ! 0.0.0.0 mangabaka.org
 ! 0.0.0.0 mangabalkan.org
-! 0.0.0.0 mangaball.net
+! 0.0.0.0 mangaball.com
 ! 0.0.0.0 mangabookshelf.com
 ! 0.0.0.0 mangacodex.com
 ! 0.0.0.0 mangadot.net
@@ -2782,6 +2769,7 @@
 ! 0.0.0.0 miruro.cx
 ! 0.0.0.0 mitsukeru.timschneeberger.me
 ! 0.0.0.0 mixmoose.com
+! 0.0.0.0 mizuki.to
 ! 0.0.0.0 mkissa.to
 ! 0.0.0.0 mkvbase.site
 ! 0.0.0.0 mkvdrama.net
@@ -2810,7 +2798,7 @@
 ! 0.0.0.0 movienig.ht
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise.org
-! 0.0.0.0 moviepire.org
+! 0.0.0.0 moviepire.ru
 ! 0.0.0.0 movieplex.online
 ! 0.0.0.0 moviepooper.com
 ! 0.0.0.0 movies.php
@@ -2818,12 +2806,10 @@
 ! 0.0.0.0 moviescountdown.com
 ! 0.0.0.0 moviesfoundonline.com
 ! 0.0.0.0 moviesnipipay.me
-! 0.0.0.0 movish.to
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon162.asia
+! 0.0.0.0 mtoon163.asia
 ! 0.0.0.0 mugen.karaokes.moe
-! 0.0.0.0 multi.tonkacine.watch
 ! 0.0.0.0 multiending.carrd.co
 ! 0.0.0.0 multinime.site
 ! 0.0.0.0 multishows.top
@@ -2964,6 +2950,7 @@
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
 ! 0.0.0.0 phonofilm.cc
+! 0.0.0.0 pikahd.co
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.st
@@ -3055,7 +3042,6 @@
 ! 0.0.0.0 reedstreams.st
 ! 0.0.0.0 reedstreams.to
 ! 0.0.0.0 reelix.ac
-! 0.0.0.0 reelzone.icu
 ! 0.0.0.0 reindex.to
 ! 0.0.0.0 relatedanime.com
 ! 0.0.0.0 releasefeed.elomatreb.eu
@@ -3214,7 +3200,6 @@
 ! 0.0.0.0 streamex.hn
 ! 0.0.0.0 streamex.ws
 ! 0.0.0.0 streamfree.top
-! 0.0.0.0 streamgoblin.cc
 ! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming-integrale.com
 ! 0.0.0.0 streaming.cineverse.com
@@ -3306,11 +3291,9 @@
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toflix.co
 ! 0.0.0.0 tokusatsu-fc.jp
-! 0.0.0.0 tokusatsunetwork.com
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
-! 0.0.0.0 tonkacine.watch
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
@@ -3406,7 +3389,6 @@
 ! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru
-! 0.0.0.0 vnkeyfc.com
 ! 0.0.0.0 vocadb.net
 ! 0.0.0.0 vocaloid.radioca.st
 ! 0.0.0.0 voir-anime.to
@@ -3539,7 +3521,6 @@
 ! 0.0.0.0 www.animu.moe
 ! 0.0.0.0 www.anirena.com
 ! 0.0.0.0 www.anisil.com
-! 0.0.0.0 www.anisurge.lol
 ! 0.0.0.0 www.anmosugoi.com
 ! 0.0.0.0 www.anniversaryjump.com
 ! 0.0.0.0 www.antbyw.com
@@ -3783,7 +3764,6 @@
 ! 0.0.0.0 www.toonamiremastered.com
 ! 0.0.0.0 www.toonshub.my.id
 ! 0.0.0.0 www.toontales.net
-! 0.0.0.0 www.totsrucs.cat
 ! 0.0.0.0 www.tranimeizle.co
 ! 0.0.0.0 www.tsdm39.com
 ! 0.0.0.0 www.turkanime.tv
@@ -3849,7 +3829,7 @@
 ! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yamayurikai-subs.eu
 ! 0.0.0.0 yaoi.me
-! 0.0.0.0 yatoon265.asia
+! 0.0.0.0 yatoon266.asia
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
 ! 0.0.0.0 yeshd.net
