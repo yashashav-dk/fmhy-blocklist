@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
-! Last updated: 2026-11-03T10:33:30Z
+! Last updated: 2026-11-04T10:37:59Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -711,7 +711,7 @@
 ||last.timer^
 ||lastfmstats.com^
 ||latanime.org^
-||leemiau.com^
+||leer.lectovela.com^
 ||lermangas.me^
 ||letsanime.blogspot.com^
 ||lfmx.app^
@@ -788,7 +788,7 @@
 ||mangalib.me^
 ||mangaplaza.com^
 ||mangaraw.best^
-||mangaraw.lc^
+||mangaraw.sc^
 ||mangaraw.shop^
 ||mangarawad.click^
 ||mangaseek.net^
@@ -873,7 +873,7 @@
 ||moviesnipipay.me^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon163.asia^
+||mtoon164.asia^
 ||mugen.karaokes.moe^
 ||multiending.carrd.co^
 ||multinime.site^
@@ -1148,6 +1148,7 @@
 ||russianfilmhub.com^
 ||rutracker.org^
 ||rutube.ru^
+||saavn.odskyler.com^
 ||sadscans.net^
 ||sakuranovel.id^
 ||sakusaku.to^
@@ -1241,7 +1242,6 @@
 ||sportontv.click^
 ||sportsbite.org^
 ||sportsurge.st^
-||squid.wtf^
 ||srstop.link^
 ||ssrmovies.blue^
 ||staff.iklone.org^
@@ -1302,7 +1302,6 @@
 ||suwatte.app^
 ||sv-archive.surge.sh^
 ||svstream.cc^
-||swimrewind.com^
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.info^
@@ -1406,6 +1405,7 @@
 ||twcclassics.com^
 ||typer.hayasaku.fr^
 ||typetype.video^
+||uamanga.com^
 ||ubu.com^
 ||ukiku.app^
 ||ultra.cc^
@@ -2646,7 +2646,7 @@
 ! 0.0.0.0 last.timer
 ! 0.0.0.0 lastfmstats.com
 ! 0.0.0.0 latanime.org
-! 0.0.0.0 leemiau.com
+! 0.0.0.0 leer.lectovela.com
 ! 0.0.0.0 lermangas.me
 ! 0.0.0.0 letsanime.blogspot.com
 ! 0.0.0.0 lfmx.app
@@ -2723,7 +2723,7 @@
 ! 0.0.0.0 mangalib.me
 ! 0.0.0.0 mangaplaza.com
 ! 0.0.0.0 mangaraw.best
-! 0.0.0.0 mangaraw.lc
+! 0.0.0.0 mangaraw.sc
 ! 0.0.0.0 mangaraw.shop
 ! 0.0.0.0 mangarawad.click
 ! 0.0.0.0 mangaseek.net
@@ -2808,7 +2808,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon163.asia
+! 0.0.0.0 mtoon164.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multiending.carrd.co
 ! 0.0.0.0 multinime.site
@@ -3083,6 +3083,7 @@
 ! 0.0.0.0 russianfilmhub.com
 ! 0.0.0.0 rutracker.org
 ! 0.0.0.0 rutube.ru
+! 0.0.0.0 saavn.odskyler.com
 ! 0.0.0.0 sadscans.net
 ! 0.0.0.0 sakuranovel.id
 ! 0.0.0.0 sakusaku.to
@@ -3176,7 +3177,6 @@
 ! 0.0.0.0 sportontv.click
 ! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsurge.st
-! 0.0.0.0 squid.wtf
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.blue
 ! 0.0.0.0 staff.iklone.org
@@ -3237,7 +3237,6 @@
 ! 0.0.0.0 suwatte.app
 ! 0.0.0.0 sv-archive.surge.sh
 ! 0.0.0.0 svstream.cc
-! 0.0.0.0 swimrewind.com
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
@@ -3341,6 +3340,7 @@
 ! 0.0.0.0 twcclassics.com
 ! 0.0.0.0 typer.hayasaku.fr
 ! 0.0.0.0 typetype.video
+! 0.0.0.0 uamanga.com
 ! 0.0.0.0 ubu.com
 ! 0.0.0.0 ukiku.app
 ! 0.0.0.0 ultra.cc

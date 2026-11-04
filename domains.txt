@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1932 domains | updated 2026-11-03T10:33:30Z
+# 1932 domains | updated 2026-11-04T10:37:59Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 002.funbe.org
@@ -707,7 +707,7 @@ lama.watch
 last.timer
 lastfmstats.com
 latanime.org
-leemiau.com
+leer.lectovela.com
 lermangas.me
 letsanime.blogspot.com
 lfmx.app
@@ -784,7 +784,7 @@ mangakuro.net
 mangalib.me
 mangaplaza.com
 mangaraw.best
-mangaraw.lc
+mangaraw.sc
 mangaraw.shop
 mangarawad.click
 mangaseek.net
@@ -869,7 +869,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movy.fyi
 msft-store.tplant.com.au
-mtoon163.asia
+mtoon164.asia
 mugen.karaokes.moe
 multiending.carrd.co
 multinime.site
@@ -1144,6 +1144,7 @@ rugby24.net
 russianfilmhub.com
 rutracker.org
 rutube.ru
+saavn.odskyler.com
 sadscans.net
 sakuranovel.id
 sakusaku.to
@@ -1237,7 +1238,6 @@ sportarr.net
 sportontv.click
 sportsbite.org
 sportsurge.st
-squid.wtf
 srstop.link
 ssrmovies.blue
 staff.iklone.org
@@ -1298,7 +1298,6 @@ sushiscan.net
 suwatte.app
 sv-archive.surge.sh
 svstream.cc
-swimrewind.com
 sync.coconono.org
 syncler.net
 synthv.info
@@ -1402,6 +1401,7 @@ tvshows4mobile.org
 twcclassics.com
 typer.hayasaku.fr
 typetype.video
+uamanga.com
 ubu.com
 ukiku.app
 ultra.cc
