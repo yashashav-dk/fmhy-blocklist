@@ -1,13 +1,13 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1932 domains)
-! Last updated: 2026-11-04T10:37:59Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1929 domains)
+! Last updated: 2026-11-05T10:30:18Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
 ! ── uBlock Origin filters ──
 !
-||002.funbe.org^
-||002.toonkor.net^
+||003.funbe.org^
+||003.toonkor.net^
 ||0115765.com^
 ||0xdb.org^
 ||1024teradl.com^
@@ -152,6 +152,7 @@
 ||animelib.org^
 ||animelistdiff.zerolabs.fyi^
 ||animelistesi.com^
+||animelok.cc^
 ||animelover.site^
 ||animemusicquiz.com^
 ||animeonsen.xyz^
@@ -250,7 +251,7 @@
 ||azmovies.to^
 ||azorafly.com^
 ||azseries.org^
-||b6.blacktoon.black^
+||b7.blacktoon.black^
 ||bacalightnovel.co^
 ||baechusquad.download^
 ||bakabt.me^
@@ -329,11 +330,9 @@
 ||cinemata.org^
 ||cinemove.cc^
 ||cineruv.website^
-||cinestream2.kje.us^
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
-||cinevibe.cc^
 ||cinevid.st^
 ||cinex.lol^
 ||circle.ms^
@@ -437,7 +436,6 @@
 ||dramafren.org^
 ||dramahood.mom^
 ||dramanice.boo^
-||duafile.net^
 ||dualeotruyenqo.com^
 ||dubolt.com^
 ||due.moe^
@@ -463,7 +461,6 @@
 ||esp32.nontonx.com^
 ||estrenosanime.net^
 ||eta.animerco.org^
-||ev01.ws^
 ||everythingmoe.com^
 ||exp.tv^
 ||ext.to^
@@ -484,7 +481,6 @@
 ||fantasticsoda.com^
 ||fbstream.is^
 ||fcast.org^
-||fedsr.us^
 ||filmdilemma.com^
 ||filmfans.org^
 ||filmo.domains^
@@ -502,17 +498,17 @@
 ||flixer.cx^
 ||flixer.gd^
 ||flixer.su^
+||flixfusion.cyou^
 ||flixhop.com^
 ||flixhouse.com^
 ||flixtrz.com^
 ||flixvo.fun^
-||flixvo.live^
-||flixzy.mooo.com^
+||flixvo.pro^
 ||flyflix.cc^
 ||flystream.net^
 ||fmfau.com^
 ||fmstream.org^
-||foc138.asia^
+||foc139.asia^
 ||footballia.eu^
 ||footballia.net^
 ||fooyin.org^
@@ -549,6 +545,7 @@
 ||getindevice.com^
 ||getlibation.com^
 ||getwacup.com^
+||ghostflix.st^
 ||git.rebelonion.dev^
 ||global.toptoon.com^
 ||go.aftvnews.com^
@@ -598,13 +595,12 @@
 ||home.html^
 ||home.php^
 ||hoofoot.net^
-||hotflix.to^
 ||huh.xdmovies.wtf^
 ||huhu.to^
 ||hyakanime.fr^
 ||hydrahd.com^
+||hydrahd.gd^
 ||hydrahd.info^
-||hydrahd.ws^
 ||i.wotaku.wiki^
 ||iamscum.wordpress.com^
 ||igmdb.com^
@@ -716,7 +712,6 @@
 ||letsanime.blogspot.com^
 ||lfmx.app^
 ||libgen.li^
-||library.cufiy.net^
 ||libremdb.iket.me^
 ||lightcone.org^
 ||lightflix.app^
@@ -873,7 +868,7 @@
 ||moviesnipipay.me^
 ||movy.fyi^
 ||msft-store.tplant.com.au^
-||mtoon164.asia^
+||mtoon165.asia^
 ||mugen.karaokes.moe^
 ||multiending.carrd.co^
 ||multinime.site^
@@ -889,9 +884,9 @@
 ||mygully.com^
 ||myrunningman.com^
 ||mysoccerpulse.com^
-||n6.newtoki.top^
+||n7.newtoki.top^
 ||naikamu.com^
-||namee126.asia^
+||namee127.asia^
 ||namu.wiki^
 ||nanasubs.com.pl^
 ||narjomusic.com^
@@ -924,7 +919,6 @@
 ||nfl-video.com^
 ||nhattruyenqq.com^
 ||nibl.co.uk^
-||nippleflix.com^
 ||nipponsei.minglong.org^
 ||nmovies.cc^
 ||noirx.live^
@@ -1010,7 +1004,6 @@
 ||pawflix.foo.ng^
 ||pdftoshokan.com^
 ||peestream.in^
-||phantomflix.net^
 ||phate.io^
 ||phi-phenomenon.org^
 ||phland.org^
@@ -1033,7 +1026,6 @@
 ||pop.dnslc.net^
 ||popcornflix.com^
 ||popcornmovies.ac^
-||popwatch.to^
 ||portableappz.blogspot.com^
 ||portal.circle.ms^
 ||portapps.io^
@@ -1061,6 +1053,7 @@
 ||pwrestling.com^
 ||quicksandscans.wordpress.com^
 ||quiz.animesongs.org^
+||quiz.wyzie.io^
 ||r-a-d.io^
 ||r18.678dl.net^
 ||rabbitmeow.online^
@@ -1254,6 +1247,7 @@
 ||stellar.rip^
 ||store.mangamavericks.com^
 ||store.rg^
+||store.wyzie.io^
 ||stream.gensokyoradio.net^
 ||streamaggregator.in^
 ||streamcorner.cloud^
@@ -1279,6 +1273,7 @@
 ||strexoplayer.onrender.com^
 ||strims24.st^
 ||strmfree.link^
+||strmfree.pk^
 ||strmfree.st^
 ||strumyk.domains^
 ||strumyk.pk^
@@ -1302,6 +1297,7 @@
 ||suwatte.app^
 ||sv-archive.surge.sh^
 ||svstream.cc^
+||sweetfox.app^
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.info^
@@ -1358,6 +1354,7 @@
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tomeko.net^
+||tonkacine.watch^
 ||toomics.com^
 ||toonamisquad.com^
 ||toonhub4u.live^
@@ -1680,7 +1677,7 @@
 ||www.globalfreetv.com^
 ||www.gomitier.tech^
 ||www.goodjobmedia.com^
-||www.goodtoon009.com^
+||www.goodtoon010.com^
 ||www.grindhousedatabase.com^
 ||www.grupa-mirai.pl^
 ||www.hancinema.net^
@@ -1941,8 +1938,8 @@
 !
 ! ── /etc/hosts format (for apply-hosts.sh) ──
 !
-! 0.0.0.0 002.funbe.org
-! 0.0.0.0 002.toonkor.net
+! 0.0.0.0 003.funbe.org
+! 0.0.0.0 003.toonkor.net
 ! 0.0.0.0 0115765.com
 ! 0.0.0.0 0xdb.org
 ! 0.0.0.0 1024teradl.com
@@ -2087,6 +2084,7 @@
 ! 0.0.0.0 animelib.org
 ! 0.0.0.0 animelistdiff.zerolabs.fyi
 ! 0.0.0.0 animelistesi.com
+! 0.0.0.0 animelok.cc
 ! 0.0.0.0 animelover.site
 ! 0.0.0.0 animemusicquiz.com
 ! 0.0.0.0 animeonsen.xyz
@@ -2185,7 +2183,7 @@
 ! 0.0.0.0 azmovies.to
 ! 0.0.0.0 azorafly.com
 ! 0.0.0.0 azseries.org
-! 0.0.0.0 b6.blacktoon.black
+! 0.0.0.0 b7.blacktoon.black
 ! 0.0.0.0 bacalightnovel.co
 ! 0.0.0.0 baechusquad.download
 ! 0.0.0.0 bakabt.me
@@ -2264,11 +2262,9 @@
 ! 0.0.0.0 cinemata.org
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cineruv.website
-! 0.0.0.0 cinestream2.kje.us
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
-! 0.0.0.0 cinevibe.cc
 ! 0.0.0.0 cinevid.st
 ! 0.0.0.0 cinex.lol
 ! 0.0.0.0 circle.ms
@@ -2372,7 +2368,6 @@
 ! 0.0.0.0 dramafren.org
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
-! 0.0.0.0 duafile.net
 ! 0.0.0.0 dualeotruyenqo.com
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
@@ -2398,7 +2393,6 @@
 ! 0.0.0.0 esp32.nontonx.com
 ! 0.0.0.0 estrenosanime.net
 ! 0.0.0.0 eta.animerco.org
-! 0.0.0.0 ev01.ws
 ! 0.0.0.0 everythingmoe.com
 ! 0.0.0.0 exp.tv
 ! 0.0.0.0 ext.to
@@ -2419,7 +2413,6 @@
 ! 0.0.0.0 fantasticsoda.com
 ! 0.0.0.0 fbstream.is
 ! 0.0.0.0 fcast.org
-! 0.0.0.0 fedsr.us
 ! 0.0.0.0 filmdilemma.com
 ! 0.0.0.0 filmfans.org
 ! 0.0.0.0 filmo.domains
@@ -2437,17 +2430,17 @@
 ! 0.0.0.0 flixer.cx
 ! 0.0.0.0 flixer.gd
 ! 0.0.0.0 flixer.su
+! 0.0.0.0 flixfusion.cyou
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
-! 0.0.0.0 flixvo.live
-! 0.0.0.0 flixzy.mooo.com
+! 0.0.0.0 flixvo.pro
 ! 0.0.0.0 flyflix.cc
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
-! 0.0.0.0 foc138.asia
+! 0.0.0.0 foc139.asia
 ! 0.0.0.0 footballia.eu
 ! 0.0.0.0 footballia.net
 ! 0.0.0.0 fooyin.org
@@ -2484,6 +2477,7 @@
 ! 0.0.0.0 getindevice.com
 ! 0.0.0.0 getlibation.com
 ! 0.0.0.0 getwacup.com
+! 0.0.0.0 ghostflix.st
 ! 0.0.0.0 git.rebelonion.dev
 ! 0.0.0.0 global.toptoon.com
 ! 0.0.0.0 go.aftvnews.com
@@ -2533,13 +2527,12 @@
 ! 0.0.0.0 home.html
 ! 0.0.0.0 home.php
 ! 0.0.0.0 hoofoot.net
-! 0.0.0.0 hotflix.to
 ! 0.0.0.0 huh.xdmovies.wtf
 ! 0.0.0.0 huhu.to
 ! 0.0.0.0 hyakanime.fr
 ! 0.0.0.0 hydrahd.com
+! 0.0.0.0 hydrahd.gd
 ! 0.0.0.0 hydrahd.info
-! 0.0.0.0 hydrahd.ws
 ! 0.0.0.0 i.wotaku.wiki
 ! 0.0.0.0 iamscum.wordpress.com
 ! 0.0.0.0 igmdb.com
@@ -2651,7 +2644,6 @@
 ! 0.0.0.0 letsanime.blogspot.com
 ! 0.0.0.0 lfmx.app
 ! 0.0.0.0 libgen.li
-! 0.0.0.0 library.cufiy.net
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
 ! 0.0.0.0 lightflix.app
@@ -2808,7 +2800,7 @@
 ! 0.0.0.0 moviesnipipay.me
 ! 0.0.0.0 movy.fyi
 ! 0.0.0.0 msft-store.tplant.com.au
-! 0.0.0.0 mtoon164.asia
+! 0.0.0.0 mtoon165.asia
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multiending.carrd.co
 ! 0.0.0.0 multinime.site
@@ -2824,9 +2816,9 @@
 ! 0.0.0.0 mygully.com
 ! 0.0.0.0 myrunningman.com
 ! 0.0.0.0 mysoccerpulse.com
-! 0.0.0.0 n6.newtoki.top
+! 0.0.0.0 n7.newtoki.top
 ! 0.0.0.0 naikamu.com
-! 0.0.0.0 namee126.asia
+! 0.0.0.0 namee127.asia
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 nanasubs.com.pl
 ! 0.0.0.0 narjomusic.com
@@ -2859,7 +2851,6 @@
 ! 0.0.0.0 nfl-video.com
 ! 0.0.0.0 nhattruyenqq.com
 ! 0.0.0.0 nibl.co.uk
-! 0.0.0.0 nippleflix.com
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nmovies.cc
 ! 0.0.0.0 noirx.live
@@ -2945,7 +2936,6 @@
 ! 0.0.0.0 pawflix.foo.ng
 ! 0.0.0.0 pdftoshokan.com
 ! 0.0.0.0 peestream.in
-! 0.0.0.0 phantomflix.net
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
@@ -2968,7 +2958,6 @@
 ! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
 ! 0.0.0.0 popcornmovies.ac
-! 0.0.0.0 popwatch.to
 ! 0.0.0.0 portableappz.blogspot.com
 ! 0.0.0.0 portal.circle.ms
 ! 0.0.0.0 portapps.io
@@ -2996,6 +2985,7 @@
 ! 0.0.0.0 pwrestling.com
 ! 0.0.0.0 quicksandscans.wordpress.com
 ! 0.0.0.0 quiz.animesongs.org
+! 0.0.0.0 quiz.wyzie.io
 ! 0.0.0.0 r-a-d.io
 ! 0.0.0.0 r18.678dl.net
 ! 0.0.0.0 rabbitmeow.online
@@ -3189,6 +3179,7 @@
 ! 0.0.0.0 stellar.rip
 ! 0.0.0.0 store.mangamavericks.com
 ! 0.0.0.0 store.rg
+! 0.0.0.0 store.wyzie.io
 ! 0.0.0.0 stream.gensokyoradio.net
 ! 0.0.0.0 streamaggregator.in
 ! 0.0.0.0 streamcorner.cloud
@@ -3214,6 +3205,7 @@
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.st
 ! 0.0.0.0 strmfree.link
+! 0.0.0.0 strmfree.pk
 ! 0.0.0.0 strmfree.st
 ! 0.0.0.0 strumyk.domains
 ! 0.0.0.0 strumyk.pk
@@ -3237,6 +3229,7 @@
 ! 0.0.0.0 suwatte.app
 ! 0.0.0.0 sv-archive.surge.sh
 ! 0.0.0.0 svstream.cc
+! 0.0.0.0 sweetfox.app
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.info
@@ -3293,6 +3286,7 @@
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tomeko.net
+! 0.0.0.0 tonkacine.watch
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
 ! 0.0.0.0 toonhub4u.live
@@ -3615,7 +3609,7 @@
 ! 0.0.0.0 www.globalfreetv.com
 ! 0.0.0.0 www.gomitier.tech
 ! 0.0.0.0 www.goodjobmedia.com
-! 0.0.0.0 www.goodtoon009.com
+! 0.0.0.0 www.goodtoon010.com
 ! 0.0.0.0 www.grindhousedatabase.com
 ! 0.0.0.0 www.grupa-mirai.pl
 ! 0.0.0.0 www.hancinema.net

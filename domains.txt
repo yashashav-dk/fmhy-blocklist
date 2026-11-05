@@ -1,9 +1,9 @@
 # FMHY Binge Blocker — plain domain list
-# 1932 domains | updated 2026-11-04T10:37:59Z
+# 1929 domains | updated 2026-11-05T10:30:18Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
-002.funbe.org
-002.toonkor.net
+003.funbe.org
+003.toonkor.net
 0115765.com
 0xdb.org
 1024teradl.com
@@ -148,6 +148,7 @@ animelayer.ru
 animelib.org
 animelistdiff.zerolabs.fyi
 animelistesi.com
+animelok.cc
 animelover.site
 animemusicquiz.com
 animeonsen.xyz
@@ -246,7 +247,7 @@ avistaz.to
 azmovies.to
 azorafly.com
 azseries.org
-b6.blacktoon.black
+b7.blacktoon.black
 bacalightnovel.co
 baechusquad.download
 bakabt.me
@@ -325,11 +326,9 @@ cinemaos.tech
 cinemata.org
 cinemove.cc
 cineruv.website
-cinestream2.kje.us
 cinetaro.to
 cinetimes.org
 cinetrii.com
-cinevibe.cc
 cinevid.st
 cinex.lol
 circle.ms
@@ -433,7 +432,6 @@ dramaday.me
 dramafren.org
 dramahood.mom
 dramanice.boo
-duafile.net
 dualeotruyenqo.com
 dubolt.com
 due.moe
@@ -459,7 +457,6 @@ es.mangacrab.org
 esp32.nontonx.com
 estrenosanime.net
 eta.animerco.org
-ev01.ws
 everythingmoe.com
 exp.tv
 ext.to
@@ -480,7 +477,6 @@ fansubs.ru
 fantasticsoda.com
 fbstream.is
 fcast.org
-fedsr.us
 filmdilemma.com
 filmfans.org
 filmo.domains
@@ -498,17 +494,17 @@ flive.dpdns.org
 flixer.cx
 flixer.gd
 flixer.su
+flixfusion.cyou
 flixhop.com
 flixhouse.com
 flixtrz.com
 flixvo.fun
-flixvo.live
-flixzy.mooo.com
+flixvo.pro
 flyflix.cc
 flystream.net
 fmfau.com
 fmstream.org
-foc138.asia
+foc139.asia
 footballia.eu
 footballia.net
 fooyin.org
@@ -545,6 +541,7 @@ getcomics.org
 getindevice.com
 getlibation.com
 getwacup.com
+ghostflix.st
 git.rebelonion.dev
 global.toptoon.com
 go.aftvnews.com
@@ -594,13 +591,12 @@ hollymoviehd.cc
 home.html
 home.php
 hoofoot.net
-hotflix.to
 huh.xdmovies.wtf
 huhu.to
 hyakanime.fr
 hydrahd.com
+hydrahd.gd
 hydrahd.info
-hydrahd.ws
 i.wotaku.wiki
 iamscum.wordpress.com
 igmdb.com
@@ -712,7 +708,6 @@ lermangas.me
 letsanime.blogspot.com
 lfmx.app
 libgen.li
-library.cufiy.net
 libremdb.iket.me
 lightcone.org
 lightflix.app
@@ -869,7 +864,7 @@ moviesfoundonline.com
 moviesnipipay.me
 movy.fyi
 msft-store.tplant.com.au
-mtoon164.asia
+mtoon165.asia
 mugen.karaokes.moe
 multiending.carrd.co
 multinime.site
@@ -885,9 +880,9 @@ myfluneo.eu
 mygully.com
 myrunningman.com
 mysoccerpulse.com
-n6.newtoki.top
+n7.newtoki.top
 naikamu.com
-namee126.asia
+namee127.asia
 namu.wiki
 nanasubs.com.pl
 narjomusic.com
@@ -920,7 +915,6 @@ nfl-replays.com
 nfl-video.com
 nhattruyenqq.com
 nibl.co.uk
-nippleflix.com
 nipponsei.minglong.org
 nmovies.cc
 noirx.live
@@ -1006,7 +1000,6 @@ paste.to
 pawflix.foo.ng
 pdftoshokan.com
 peestream.in
-phantomflix.net
 phate.io
 phi-phenomenon.org
 phland.org
@@ -1029,7 +1022,6 @@ plugin.php
 pop.dnslc.net
 popcornflix.com
 popcornmovies.ac
-popwatch.to
 portableappz.blogspot.com
 portal.circle.ms
 portapps.io
@@ -1057,6 +1049,7 @@ puretoons.in
 pwrestling.com
 quicksandscans.wordpress.com
 quiz.animesongs.org
+quiz.wyzie.io
 r-a-d.io
 r18.678dl.net
 rabbitmeow.online
@@ -1250,6 +1243,7 @@ status.stremio-status.com
 stellar.rip
 store.mangamavericks.com
 store.rg
+store.wyzie.io
 stream.gensokyoradio.net
 streamaggregator.in
 streamcorner.cloud
@@ -1275,6 +1269,7 @@ stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.st
 strmfree.link
+strmfree.pk
 strmfree.st
 strumyk.domains
 strumyk.pk
@@ -1298,6 +1293,7 @@ sushiscan.net
 suwatte.app
 sv-archive.surge.sh
 svstream.cc
+sweetfox.app
 sync.coconono.org
 syncler.net
 synthv.info
@@ -1354,6 +1350,7 @@ tokusatsu-fc.jp
 tokyo-tosho.net
 tokyodross.blogspot.com
 tomeko.net
+tonkacine.watch
 toomics.com
 toonamisquad.com
 toonhub4u.live
@@ -1676,7 +1673,7 @@ www.gledajcrtace.rs
 www.globalfreetv.com
 www.gomitier.tech
 www.goodjobmedia.com
-www.goodtoon009.com
+www.goodtoon010.com
 www.grindhousedatabase.com
 www.grupa-mirai.pl
 www.hancinema.net
