@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1585 domains)
-! Last updated: 2026-11-06T10:33:20Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1579 domains)
+! Last updated: 2026-11-07T09:45:19Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -22,6 +22,7 @@
 ||1shows.org^
 ||1vegamovies.baby^
 ||24-7-channels.php^
+||2dhive.com^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||35mm.online^
 ||3eyedraven.watch^
@@ -147,7 +148,6 @@
 ||anistream.one^
 ||anitabi.cn^
 ||anitools.koopz.rocks^
-||anitrakt.huere.net^
 ||anitrendz.net^
 ||anivault.tv^
 ||aniwaves.ru^
@@ -202,7 +202,6 @@
 ||basketball-video.com^
 ||basketballreplays.net^
 ||batcave.biz^
-||bbflix.one^
 ||bechdeltest.com^
 ||bendodson.com^
 ||bestsimilar.com^
@@ -314,7 +313,6 @@
 ||daddylive.pk^
 ||dailycommercials.com^
 ||damitv.st^
-||db.trakt.anitrakt^
 ||ddlbase.com^
 ||deaffestonlinecinema.eventive.org^
 ||deafmovie.org^
@@ -791,7 +789,7 @@
 ||onepiecetracklist.com^
 ||onetouchtv.xyz^
 ||onhockey.tv^
-||onionplay.st^
+||onionplay.ae^
 ||onisaga.com^
 ||onoflix.live^
 ||open-slum.org^
@@ -806,7 +804,6 @@
 ||osvault.weebly.com^
 ||otakucalendar.com^
 ||otcs.minuspoint.com^
-||overlook.cx^
 ||overtakefans.com^
 ||pahe-note.md^
 ||pahe.ink^
@@ -831,7 +828,6 @@
 ||playtorrio.xyz^
 ||plaza.one^
 ||plezy.app^
-||plugin.audio.navidrome^
 ||plugin.audio.subsonic^
 ||pop.dnslc.net^
 ||popcornflix.com^
@@ -1035,7 +1031,7 @@
 ||streamfree.top^
 ||streamic.st^
 ||streaming.cineverse.com^
-||streamingunity.vip^
+||streamingunity.fun^
 ||streamsports99.ru^
 ||streamsports99.su^
 ||streamsports99.website^
@@ -1168,7 +1164,6 @@
 ||ultra.cc^
 ||ultrasonic.gitlab.io^
 ||ume.to^
-||uniquestream.net^
 ||unogs.com^
 ||unpackerr.zip^
 ||up-next.dontwanttos.top^
@@ -1311,6 +1306,7 @@
 ||www.arcod.xyz^
 ||www.atlasofwonders.com^
 ||www.atomcentral.com^
+||www.aurorascreen.mov^
 ||www.aurorascreen.org^
 ||www.b98.tv^
 ||www.baka-tsuki.org^
@@ -1327,7 +1323,6 @@
 ||www.cdisplayex.com^
 ||www.chil-chil.net^
 ||www.chosic.com^
-||www.cineapse.net^
 ||www.cinezo.st^
 ||www.classreal.com^
 ||www.comicbookherald.com^
@@ -1582,7 +1577,6 @@
 ||z-lib.sk^
 ||zanix.tr^
 ||zen-bu.cc^
-||zencine.org^
 ||zenox.lol^
 ||zero1cine.com^
 ||zerostream.alwaysdata.net^
@@ -1610,6 +1604,7 @@
 ! 0.0.0.0 1shows.org
 ! 0.0.0.0 1vegamovies.baby
 ! 0.0.0.0 24-7-channels.php
+! 0.0.0.0 2dhive.com
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3eyedraven.watch
@@ -1735,7 +1730,6 @@
 ! 0.0.0.0 anistream.one
 ! 0.0.0.0 anitabi.cn
 ! 0.0.0.0 anitools.koopz.rocks
-! 0.0.0.0 anitrakt.huere.net
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anivault.tv
 ! 0.0.0.0 aniwaves.ru
@@ -1790,7 +1784,6 @@
 ! 0.0.0.0 basketball-video.com
 ! 0.0.0.0 basketballreplays.net
 ! 0.0.0.0 batcave.biz
-! 0.0.0.0 bbflix.one
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 bestsimilar.com
@@ -1902,7 +1895,6 @@
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.st
-! 0.0.0.0 db.trakt.anitrakt
 ! 0.0.0.0 ddlbase.com
 ! 0.0.0.0 deaffestonlinecinema.eventive.org
 ! 0.0.0.0 deafmovie.org
@@ -2379,7 +2371,7 @@
 ! 0.0.0.0 onepiecetracklist.com
 ! 0.0.0.0 onetouchtv.xyz
 ! 0.0.0.0 onhockey.tv
-! 0.0.0.0 onionplay.st
+! 0.0.0.0 onionplay.ae
 ! 0.0.0.0 onisaga.com
 ! 0.0.0.0 onoflix.live
 ! 0.0.0.0 open-slum.org
@@ -2394,7 +2386,6 @@
 ! 0.0.0.0 osvault.weebly.com
 ! 0.0.0.0 otakucalendar.com
 ! 0.0.0.0 otcs.minuspoint.com
-! 0.0.0.0 overlook.cx
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
@@ -2419,7 +2410,6 @@
 ! 0.0.0.0 playtorrio.xyz
 ! 0.0.0.0 plaza.one
 ! 0.0.0.0 plezy.app
-! 0.0.0.0 plugin.audio.navidrome
 ! 0.0.0.0 plugin.audio.subsonic
 ! 0.0.0.0 pop.dnslc.net
 ! 0.0.0.0 popcornflix.com
@@ -2623,7 +2613,7 @@
 ! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming.cineverse.com
-! 0.0.0.0 streamingunity.vip
+! 0.0.0.0 streamingunity.fun
 ! 0.0.0.0 streamsports99.ru
 ! 0.0.0.0 streamsports99.su
 ! 0.0.0.0 streamsports99.website
@@ -2756,7 +2746,6 @@
 ! 0.0.0.0 ultra.cc
 ! 0.0.0.0 ultrasonic.gitlab.io
 ! 0.0.0.0 ume.to
-! 0.0.0.0 uniquestream.net
 ! 0.0.0.0 unogs.com
 ! 0.0.0.0 unpackerr.zip
 ! 0.0.0.0 up-next.dontwanttos.top
@@ -2899,6 +2888,7 @@
 ! 0.0.0.0 www.arcod.xyz
 ! 0.0.0.0 www.atlasofwonders.com
 ! 0.0.0.0 www.atomcentral.com
+! 0.0.0.0 www.aurorascreen.mov
 ! 0.0.0.0 www.aurorascreen.org
 ! 0.0.0.0 www.b98.tv
 ! 0.0.0.0 www.baka-tsuki.org
@@ -2915,7 +2905,6 @@
 ! 0.0.0.0 www.cdisplayex.com
 ! 0.0.0.0 www.chil-chil.net
 ! 0.0.0.0 www.chosic.com
-! 0.0.0.0 www.cineapse.net
 ! 0.0.0.0 www.cinezo.st
 ! 0.0.0.0 www.classreal.com
 ! 0.0.0.0 www.comicbookherald.com
@@ -3170,7 +3159,6 @@
 ! 0.0.0.0 z-lib.sk
 ! 0.0.0.0 zanix.tr
 ! 0.0.0.0 zen-bu.cc
-! 0.0.0.0 zencine.org
 ! 0.0.0.0 zenox.lol
 ! 0.0.0.0 zero1cine.com
 ! 0.0.0.0 zerostream.alwaysdata.net

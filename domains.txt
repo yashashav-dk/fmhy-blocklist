@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1585 domains | updated 2026-11-06T10:33:20Z
+# 1579 domains | updated 2026-11-07T09:45:19Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -18,6 +18,7 @@
 1shows.org
 1vegamovies.baby
 24-7-channels.php
+2dhive.com
 2ecbbd610840-trakt.baby-beamup.club
 35mm.online
 3eyedraven.watch
@@ -143,7 +144,6 @@ anisongdb.com
 anistream.one
 anitabi.cn
 anitools.koopz.rocks
-anitrakt.huere.net
 anitrendz.net
 anivault.tv
 aniwaves.ru
@@ -198,7 +198,6 @@ basic.pp.ua
 basketball-video.com
 basketballreplays.net
 batcave.biz
-bbflix.one
 bechdeltest.com
 bendodson.com
 bestsimilar.com
@@ -310,7 +309,6 @@ daddylive.mov
 daddylive.pk
 dailycommercials.com
 damitv.st
-db.trakt.anitrakt
 ddlbase.com
 deaffestonlinecinema.eventive.org
 deafmovie.org
@@ -787,7 +785,7 @@ onepace.net
 onepiecetracklist.com
 onetouchtv.xyz
 onhockey.tv
-onionplay.st
+onionplay.ae
 onisaga.com
 onoflix.live
 open-slum.org
@@ -802,7 +800,6 @@ osssoftware.org
 osvault.weebly.com
 otakucalendar.com
 otcs.minuspoint.com
-overlook.cx
 overtakefans.com
 pahe-note.md
 pahe.ink
@@ -827,7 +824,6 @@ playlists.at
 playtorrio.xyz
 plaza.one
 plezy.app
-plugin.audio.navidrome
 plugin.audio.subsonic
 pop.dnslc.net
 popcornflix.com
@@ -1031,7 +1027,7 @@ streamex.ws
 streamfree.top
 streamic.st
 streaming.cineverse.com
-streamingunity.vip
+streamingunity.fun
 streamsports99.ru
 streamsports99.su
 streamsports99.website
@@ -1164,7 +1160,6 @@ ubu.com
 ultra.cc
 ultrasonic.gitlab.io
 ume.to
-uniquestream.net
 unogs.com
 unpackerr.zip
 up-next.dontwanttos.top
@@ -1307,6 +1302,7 @@ www.anniversaryjump.com
 www.arcod.xyz
 www.atlasofwonders.com
 www.atomcentral.com
+www.aurorascreen.mov
 www.aurorascreen.org
 www.b98.tv
 www.baka-tsuki.org
@@ -1323,7 +1319,6 @@ www.cclm.cl
 www.cdisplayex.com
 www.chil-chil.net
 www.chosic.com
-www.cineapse.net
 www.cinezo.st
 www.classreal.com
 www.comicbookherald.com
@@ -1578,7 +1573,6 @@ yumicoradio.net
 z-lib.sk
 zanix.tr
 zen-bu.cc
-zencine.org
 zenox.lol
 zero1cine.com
 zerostream.alwaysdata.net
