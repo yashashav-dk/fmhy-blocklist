@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1579 domains | updated 2026-11-07T09:45:19Z
+# 1576 domains | updated 2026-11-08T09:57:43Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -592,8 +592,6 @@ lrclib.net
 lrepacks.net
 lucida.to
 luciferdonghua.in
-luffytv.live
-luffytv.online
 lumotv.co.uk
 lunarx.to
 m-p.sakura.ne.jp
@@ -698,7 +696,6 @@ movy.fyi
 msft-store.tplant.com.au
 mugen.karaokes.moe
 multiending.carrd.co
-multinime.site
 multishows.top
 musicalyst.com
 musichoarders.xyz

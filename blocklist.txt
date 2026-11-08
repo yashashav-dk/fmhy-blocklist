@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1579 domains)
-! Last updated: 2026-11-07T09:45:19Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1576 domains)
+! Last updated: 2026-11-08T09:57:43Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -596,8 +596,6 @@
 ||lrepacks.net^
 ||lucida.to^
 ||luciferdonghua.in^
-||luffytv.live^
-||luffytv.online^
 ||lumotv.co.uk^
 ||lunarx.to^
 ||m-p.sakura.ne.jp^
@@ -702,7 +700,6 @@
 ||msft-store.tplant.com.au^
 ||mugen.karaokes.moe^
 ||multiending.carrd.co^
-||multinime.site^
 ||multishows.top^
 ||musicalyst.com^
 ||musichoarders.xyz^
@@ -2178,8 +2175,6 @@
 ! 0.0.0.0 lrepacks.net
 ! 0.0.0.0 lucida.to
 ! 0.0.0.0 luciferdonghua.in
-! 0.0.0.0 luffytv.live
-! 0.0.0.0 luffytv.online
 ! 0.0.0.0 lumotv.co.uk
 ! 0.0.0.0 lunarx.to
 ! 0.0.0.0 m-p.sakura.ne.jp
@@ -2284,7 +2279,6 @@
 ! 0.0.0.0 msft-store.tplant.com.au
 ! 0.0.0.0 mugen.karaokes.moe
 ! 0.0.0.0 multiending.carrd.co
-! 0.0.0.0 multinime.site
 ! 0.0.0.0 multishows.top
 ! 0.0.0.0 musicalyst.com
 ! 0.0.0.0 musichoarders.xyz
