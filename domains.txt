@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1576 domains | updated 2026-11-08T09:57:43Z
+# 1575 domains | updated 2026-11-09T11:04:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -30,6 +30,7 @@
 720pier.ru
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
+7domains.fans
 7movies.ac
 7movies.ws
 7plus.com.au
@@ -733,8 +734,6 @@ nfl-video.com
 nibl.co.uk
 nipponsei.minglong.org
 nmovies.cc
-noirx.live
-noirx.me
 nomorflix.cc
 nomorflix.com
 note.com
@@ -814,7 +813,7 @@ pikahd.co
 piratexplay.cc
 piratexplay.com
 pitsport.st
-pixeldrain-bypass.gamedrive.to
+pixeldrain-bypass.gamedrive.org
 pixeldrain.md
 plappa.me
 playlists.at

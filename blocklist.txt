@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1576 domains)
-! Last updated: 2026-11-08T09:57:43Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1575 domains)
+! Last updated: 2026-11-09T11:04:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -34,6 +34,7 @@
 ||720pier.ru^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
+||7domains.fans^
 ||7movies.ac^
 ||7movies.ws^
 ||7plus.com.au^
@@ -737,8 +738,6 @@
 ||nibl.co.uk^
 ||nipponsei.minglong.org^
 ||nmovies.cc^
-||noirx.live^
-||noirx.me^
 ||nomorflix.cc^
 ||nomorflix.com^
 ||note.com^
@@ -818,7 +817,7 @@
 ||piratexplay.cc^
 ||piratexplay.com^
 ||pitsport.st^
-||pixeldrain-bypass.gamedrive.to^
+||pixeldrain-bypass.gamedrive.org^
 ||pixeldrain.md^
 ||plappa.me^
 ||playlists.at^
@@ -1613,6 +1612,7 @@
 ! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
+! 0.0.0.0 7domains.fans
 ! 0.0.0.0 7movies.ac
 ! 0.0.0.0 7movies.ws
 ! 0.0.0.0 7plus.com.au
@@ -2316,8 +2316,6 @@
 ! 0.0.0.0 nibl.co.uk
 ! 0.0.0.0 nipponsei.minglong.org
 ! 0.0.0.0 nmovies.cc
-! 0.0.0.0 noirx.live
-! 0.0.0.0 noirx.me
 ! 0.0.0.0 nomorflix.cc
 ! 0.0.0.0 nomorflix.com
 ! 0.0.0.0 note.com
@@ -2397,7 +2395,7 @@
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
 ! 0.0.0.0 pitsport.st
-! 0.0.0.0 pixeldrain-bypass.gamedrive.to
+! 0.0.0.0 pixeldrain-bypass.gamedrive.org
 ! 0.0.0.0 pixeldrain.md
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 playlists.at
