@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1575 domains)
-! Last updated: 2026-11-09T11:04:44Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1567 domains)
+! Last updated: 2026-11-10T10:52:06Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -27,6 +27,7 @@
 ||35mm.online^
 ||3eyedraven.watch^
 ||4khdhub.one^
+||4movie.in^
 ||4search.neocities.org^
 ||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
@@ -60,7 +61,6 @@
 ||alley.moe^
 ||allmanga.to^
 ||allwrestling24.com^
-||allyoucanwatch.net^
 ||althub.co.za^
 ||amenzb.moe^
 ||amvenfer.fr^
@@ -262,7 +262,8 @@
 ||cinetaro.to^
 ||cinetimes.org^
 ||cinetrii.com^
-||cinevid.st^
+||cinevid.link^
+||cinevid.sbs^
 ||cinex.lol^
 ||circle.ms^
 ||cli.club^
@@ -307,6 +308,7 @@
 ||crimsonfansubs.com^
 ||cringemdb.com^
 ||cs.rin.ru^
+||cybermovies.ru^
 ||cyrisia.com^
 ||daddylive.app^
 ||daddylive.li^
@@ -442,10 +444,8 @@
 ||go.aftvnews.com^
 ||goplay.ml^
 ||goplay.su^
-||goradio.gr^
 ||gotaku.to^
 ||gptsubtitler.com^
-||greekota.pls^
 ||grids.fun^
 ||gsc.tab^
 ||gttradio.com^
@@ -520,7 +520,6 @@
 ||kaa.lt^
 ||kagane.moe^
 ||kagane.org^
-||kaitotv.com^
 ||kaptain.stream^
 ||kara.moe^
 ||katzddl.net^
@@ -576,6 +575,7 @@
 ||libremdb.iket.me^
 ||lightcone.org^
 ||lightflix.app^
+||limusic.app^
 ||listen-to-euterpe.eu^
 ||listen.moe^
 ||lists.fun^
@@ -655,6 +655,7 @@
 ||michaelsapps.dk^
 ||midloop.net^
 ||mikudb.moe^
+||milkbox.fyi^
 ||milkbox.zapto.org^
 ||mindmine.audiobook^
 ||mirrors.st^
@@ -673,7 +674,6 @@
 ||moelist.net^
 ||moonflix.com^
 ||moonflix.website^
-||moovie.fun^
 ||moriyashrine.org^
 ||morphinlegacy.com^
 ||motomundo.net^
@@ -808,7 +808,6 @@
 ||partitioned-cookies.md^
 ||paste.to^
 ||pawflix.foo.ng^
-||peestream.in^
 ||phate.io^
 ||phi-phenomenon.org^
 ||phland.org^
@@ -845,7 +844,7 @@
 ||primewire.zip^
 ||prodlist.php^
 ||projectjust.xyz^
-||psa.rip^
+||psarips.com^
 ||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
@@ -950,7 +949,6 @@
 ||search.streamcheck.pro^
 ||seed.musichoarders.xyz^
 ||sekai.rl404.com^
-||senshi.to^
 ||seriesgraph.com^
 ||seriesvault.org^
 ||seriesvault.win^
@@ -973,6 +971,7 @@
 ||siptv.eu^
 ||skiley.net^
 ||skip-and-loafer.mikeblocky.com^
+||sleepy.lat^
 ||slow.pics^
 ||smacke.net^
 ||smashystream.xyz^
@@ -1002,7 +1001,6 @@
 ||sportsurges.st^
 ||srstop.link^
 ||ssrmovies.blue^
-||stability.taxidev.me^
 ||staff.iklone.org^
 ||staging.ranobe.app^
 ||static.sneedex.moe^
@@ -1015,7 +1013,6 @@
 ||store.rg^
 ||store.wyzie.io^
 ||stream.gensokyoradio.net^
-||streamaggregator.in^
 ||streamcorner.cloud^
 ||streamcorner.foo^
 ||streamcorner.fun^
@@ -1064,7 +1061,6 @@
 ||sweetfox.app^
 ||sync.coconono.org^
 ||syncler.net^
-||synthv.info^
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
@@ -1223,9 +1219,6 @@
 ||watchorbit.me^
 ||watchprowrestling.store^
 ||watchreplay.net^
-||watchseries.bar^
-||watchseries.cool^
-||watchseries.domains^
 ||watchsports.su^
 ||watchttn.com^
 ||watchtvs.live^
@@ -1575,7 +1568,6 @@
 ||zen-bu.cc^
 ||zenox.lol^
 ||zero1cine.com^
-||zerostream.alwaysdata.net^
 ||zetmoon.live^
 ||zlive.st^
 ||zoryva.me^
@@ -1605,6 +1597,7 @@
 ! 0.0.0.0 35mm.online
 ! 0.0.0.0 3eyedraven.watch
 ! 0.0.0.0 4khdhub.one
+! 0.0.0.0 4movie.in
 ! 0.0.0.0 4search.neocities.org
 ! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
@@ -1638,7 +1631,6 @@
 ! 0.0.0.0 alley.moe
 ! 0.0.0.0 allmanga.to
 ! 0.0.0.0 allwrestling24.com
-! 0.0.0.0 allyoucanwatch.net
 ! 0.0.0.0 althub.co.za
 ! 0.0.0.0 amenzb.moe
 ! 0.0.0.0 amvenfer.fr
@@ -1840,7 +1832,8 @@
 ! 0.0.0.0 cinetaro.to
 ! 0.0.0.0 cinetimes.org
 ! 0.0.0.0 cinetrii.com
-! 0.0.0.0 cinevid.st
+! 0.0.0.0 cinevid.link
+! 0.0.0.0 cinevid.sbs
 ! 0.0.0.0 cinex.lol
 ! 0.0.0.0 circle.ms
 ! 0.0.0.0 cli.club
@@ -1885,6 +1878,7 @@
 ! 0.0.0.0 crimsonfansubs.com
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cs.rin.ru
+! 0.0.0.0 cybermovies.ru
 ! 0.0.0.0 cyrisia.com
 ! 0.0.0.0 daddylive.app
 ! 0.0.0.0 daddylive.li
@@ -2020,10 +2014,8 @@
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
-! 0.0.0.0 goradio.gr
 ! 0.0.0.0 gotaku.to
 ! 0.0.0.0 gptsubtitler.com
-! 0.0.0.0 greekota.pls
 ! 0.0.0.0 grids.fun
 ! 0.0.0.0 gsc.tab
 ! 0.0.0.0 gttradio.com
@@ -2098,7 +2090,6 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.moe
 ! 0.0.0.0 kagane.org
-! 0.0.0.0 kaitotv.com
 ! 0.0.0.0 kaptain.stream
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 katzddl.net
@@ -2154,6 +2145,7 @@
 ! 0.0.0.0 libremdb.iket.me
 ! 0.0.0.0 lightcone.org
 ! 0.0.0.0 lightflix.app
+! 0.0.0.0 limusic.app
 ! 0.0.0.0 listen-to-euterpe.eu
 ! 0.0.0.0 listen.moe
 ! 0.0.0.0 lists.fun
@@ -2233,6 +2225,7 @@
 ! 0.0.0.0 michaelsapps.dk
 ! 0.0.0.0 midloop.net
 ! 0.0.0.0 mikudb.moe
+! 0.0.0.0 milkbox.fyi
 ! 0.0.0.0 milkbox.zapto.org
 ! 0.0.0.0 mindmine.audiobook
 ! 0.0.0.0 mirrors.st
@@ -2251,7 +2244,6 @@
 ! 0.0.0.0 moelist.net
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moonflix.website
-! 0.0.0.0 moovie.fun
 ! 0.0.0.0 moriyashrine.org
 ! 0.0.0.0 morphinlegacy.com
 ! 0.0.0.0 motomundo.net
@@ -2386,7 +2378,6 @@
 ! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 paste.to
 ! 0.0.0.0 pawflix.foo.ng
-! 0.0.0.0 peestream.in
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
@@ -2423,7 +2414,7 @@
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
 ! 0.0.0.0 projectjust.xyz
-! 0.0.0.0 psa.rip
+! 0.0.0.0 psarips.com
 ! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
@@ -2528,7 +2519,6 @@
 ! 0.0.0.0 search.streamcheck.pro
 ! 0.0.0.0 seed.musichoarders.xyz
 ! 0.0.0.0 sekai.rl404.com
-! 0.0.0.0 senshi.to
 ! 0.0.0.0 seriesgraph.com
 ! 0.0.0.0 seriesvault.org
 ! 0.0.0.0 seriesvault.win
@@ -2551,6 +2541,7 @@
 ! 0.0.0.0 siptv.eu
 ! 0.0.0.0 skiley.net
 ! 0.0.0.0 skip-and-loafer.mikeblocky.com
+! 0.0.0.0 sleepy.lat
 ! 0.0.0.0 slow.pics
 ! 0.0.0.0 smacke.net
 ! 0.0.0.0 smashystream.xyz
@@ -2580,7 +2571,6 @@
 ! 0.0.0.0 sportsurges.st
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.blue
-! 0.0.0.0 stability.taxidev.me
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
@@ -2593,7 +2583,6 @@
 ! 0.0.0.0 store.rg
 ! 0.0.0.0 store.wyzie.io
 ! 0.0.0.0 stream.gensokyoradio.net
-! 0.0.0.0 streamaggregator.in
 ! 0.0.0.0 streamcorner.cloud
 ! 0.0.0.0 streamcorner.foo
 ! 0.0.0.0 streamcorner.fun
@@ -2642,7 +2631,6 @@
 ! 0.0.0.0 sweetfox.app
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
-! 0.0.0.0 synthv.info
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
@@ -2801,9 +2789,6 @@
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
-! 0.0.0.0 watchseries.bar
-! 0.0.0.0 watchseries.cool
-! 0.0.0.0 watchseries.domains
 ! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchttn.com
 ! 0.0.0.0 watchtvs.live
@@ -3153,7 +3138,6 @@
 ! 0.0.0.0 zen-bu.cc
 ! 0.0.0.0 zenox.lol
 ! 0.0.0.0 zero1cine.com
-! 0.0.0.0 zerostream.alwaysdata.net
 ! 0.0.0.0 zetmoon.live
 ! 0.0.0.0 zlive.st
 ! 0.0.0.0 zoryva.me

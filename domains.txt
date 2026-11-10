@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1575 domains | updated 2026-11-09T11:04:44Z
+# 1567 domains | updated 2026-11-10T10:52:06Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -23,6 +23,7 @@
 35mm.online
 3eyedraven.watch
 4khdhub.one
+4movie.in
 4search.neocities.org
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
@@ -56,7 +57,6 @@ alldebrid.com
 alley.moe
 allmanga.to
 allwrestling24.com
-allyoucanwatch.net
 althub.co.za
 amenzb.moe
 amvenfer.fr
@@ -258,7 +258,8 @@ cineruv.website
 cinetaro.to
 cinetimes.org
 cinetrii.com
-cinevid.st
+cinevid.link
+cinevid.sbs
 cinex.lol
 circle.ms
 cli.club
@@ -303,6 +304,7 @@ crichd.at
 crimsonfansubs.com
 cringemdb.com
 cs.rin.ru
+cybermovies.ru
 cyrisia.com
 daddylive.app
 daddylive.li
@@ -438,10 +440,8 @@ global.toptoon.com
 go.aftvnews.com
 goplay.ml
 goplay.su
-goradio.gr
 gotaku.to
 gptsubtitler.com
-greekota.pls
 grids.fun
 gsc.tab
 gttradio.com
@@ -516,7 +516,6 @@ k-drama.in
 kaa.lt
 kagane.moe
 kagane.org
-kaitotv.com
 kaptain.stream
 kara.moe
 katzddl.net
@@ -572,6 +571,7 @@ libgen.li
 libremdb.iket.me
 lightcone.org
 lightflix.app
+limusic.app
 listen-to-euterpe.eu
 listen.moe
 lists.fun
@@ -651,6 +651,7 @@ mgdb.himitsukichi.com
 michaelsapps.dk
 midloop.net
 mikudb.moe
+milkbox.fyi
 milkbox.zapto.org
 mindmine.audiobook
 mirrors.st
@@ -669,7 +670,6 @@ moe.emi.aluminium
 moelist.net
 moonflix.com
 moonflix.website
-moovie.fun
 moriyashrine.org
 morphinlegacy.com
 motomundo.net
@@ -804,7 +804,6 @@ pantyflix.com
 partitioned-cookies.md
 paste.to
 pawflix.foo.ng
-peestream.in
 phate.io
 phi-phenomenon.org
 phland.org
@@ -841,7 +840,7 @@ primewire.pw
 primewire.zip
 prodlist.php
 projectjust.xyz
-psa.rip
+psarips.com
 pstream.site
 psychodownloads.com
 pulsedmedia.com
@@ -946,7 +945,6 @@ search.php
 search.streamcheck.pro
 seed.musichoarders.xyz
 sekai.rl404.com
-senshi.to
 seriesgraph.com
 seriesvault.org
 seriesvault.win
@@ -969,6 +967,7 @@ silentaperture.gitlab.io
 siptv.eu
 skiley.net
 skip-and-loafer.mikeblocky.com
+sleepy.lat
 slow.pics
 smacke.net
 smashystream.xyz
@@ -998,7 +997,6 @@ sportsurge.st
 sportsurges.st
 srstop.link
 ssrmovies.blue
-stability.taxidev.me
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
@@ -1011,7 +1009,6 @@ store.mangamavericks.com
 store.rg
 store.wyzie.io
 stream.gensokyoradio.net
-streamaggregator.in
 streamcorner.cloud
 streamcorner.foo
 streamcorner.fun
@@ -1060,7 +1057,6 @@ svstream.cc
 sweetfox.app
 sync.coconono.org
 syncler.net
-synthv.info
 tachiyomiaz.apk
 tagger.site
 taiga.moe
@@ -1219,9 +1215,6 @@ watchly.mom
 watchorbit.me
 watchprowrestling.store
 watchreplay.net
-watchseries.bar
-watchseries.cool
-watchseries.domains
 watchsports.su
 watchttn.com
 watchtvs.live
@@ -1571,7 +1564,6 @@ zanix.tr
 zen-bu.cc
 zenox.lol
 zero1cine.com
-zerostream.alwaysdata.net
 zetmoon.live
 zlive.st
 zoryva.me
