@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1567 domains | updated 2026-11-10T10:52:06Z
+# 1572 domains | updated 2026-11-11T10:29:46Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -35,6 +35,7 @@
 7movies.ac
 7movies.ws
 7plus.com.au
+7shows.st
 80s-ova.com
 9animstv.to
 aaronperris.com
@@ -304,7 +305,6 @@ crichd.at
 crimsonfansubs.com
 cringemdb.com
 cs.rin.ru
-cybermovies.ru
 cyrisia.com
 daddylive.app
 daddylive.li
@@ -800,7 +800,6 @@ overtakefans.com
 pahe-note.md
 pahe.ink
 palanq.win
-pantyflix.com
 partitioned-cookies.md
 paste.to
 pawflix.foo.ng
@@ -834,7 +833,7 @@ ppv.st
 ppv.tj
 ppv.ug
 ppvs.pk
-pressplayx.to
+pressplayz.top
 primewire.nexus
 primewire.pw
 primewire.zip
@@ -876,6 +875,7 @@ reanime.cz
 reanime.to
 reanime.wtf
 redflix.club
+redflix.fans
 redflix.one
 redsquirrel87.com
 reedstreams.link
@@ -920,7 +920,7 @@ rutube.ru
 saavn.odskyler.com
 sakusaku.to
 sambl.lioncat6.com
-sanet-warning.md
+sanet-critical.md
 sanet.lc
 sanet.sb
 sanet.st
@@ -972,7 +972,6 @@ slow.pics
 smacke.net
 smashystream.xyz
 smoores.gitlab.io
-soapgo.to
 soccerfull.net
 soft.ac
 soft98.ir
@@ -1057,6 +1056,7 @@ svstream.cc
 sweetfox.app
 sync.coconono.org
 syncler.net
+synthv.me
 tachiyomiaz.apk
 tagger.site
 taiga.moe
@@ -1065,6 +1065,7 @@ tap4sport.link
 tap4sport.pw
 tap4sport.st
 taroflix.net
+tatakai.app
 tatakai.me
 tauonmusicbox.rocks
 terabox.hnn.workers.dev
@@ -1215,6 +1216,9 @@ watchly.mom
 watchorbit.me
 watchprowrestling.store
 watchreplay.net
+watchseries.bar
+watchseries.cool
+watchseries.domains
 watchsports.su
 watchttn.com
 watchtvs.live
@@ -1479,6 +1483,7 @@ www.todaytvseries1.com
 www.tokyoinsider.com
 www.tokyoinsider.net
 www.tokyotosho.info
+www.tokyvideo.com
 www.toonamiaftermath.com
 www.toonamiremastered.com
 www.toontales.net
@@ -1551,7 +1556,7 @@ youtube-music.app
 yow.tv
 ytch.tv
 yts-subs.com
-yts-yify-note.md
+yts-yify-critical.md
 yts.gg
 ytsproxies.com
 ytsubdl.com

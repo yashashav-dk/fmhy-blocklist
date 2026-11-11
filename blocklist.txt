@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1567 domains)
-! Last updated: 2026-11-10T10:52:06Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1572 domains)
+! Last updated: 2026-11-11T10:29:46Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -39,6 +39,7 @@
 ||7movies.ac^
 ||7movies.ws^
 ||7plus.com.au^
+||7shows.st^
 ||80s-ova.com^
 ||9animstv.to^
 ||aaronperris.com^
@@ -308,7 +309,6 @@
 ||crimsonfansubs.com^
 ||cringemdb.com^
 ||cs.rin.ru^
-||cybermovies.ru^
 ||cyrisia.com^
 ||daddylive.app^
 ||daddylive.li^
@@ -804,7 +804,6 @@
 ||pahe-note.md^
 ||pahe.ink^
 ||palanq.win^
-||pantyflix.com^
 ||partitioned-cookies.md^
 ||paste.to^
 ||pawflix.foo.ng^
@@ -838,7 +837,7 @@
 ||ppv.tj^
 ||ppv.ug^
 ||ppvs.pk^
-||pressplayx.to^
+||pressplayz.top^
 ||primewire.nexus^
 ||primewire.pw^
 ||primewire.zip^
@@ -880,6 +879,7 @@
 ||reanime.to^
 ||reanime.wtf^
 ||redflix.club^
+||redflix.fans^
 ||redflix.one^
 ||redsquirrel87.com^
 ||reedstreams.link^
@@ -924,7 +924,7 @@
 ||saavn.odskyler.com^
 ||sakusaku.to^
 ||sambl.lioncat6.com^
-||sanet-warning.md^
+||sanet-critical.md^
 ||sanet.lc^
 ||sanet.sb^
 ||sanet.st^
@@ -976,7 +976,6 @@
 ||smacke.net^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
-||soapgo.to^
 ||soccerfull.net^
 ||soft.ac^
 ||soft98.ir^
@@ -1061,6 +1060,7 @@
 ||sweetfox.app^
 ||sync.coconono.org^
 ||syncler.net^
+||synthv.me^
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
@@ -1069,6 +1069,7 @@
 ||tap4sport.pw^
 ||tap4sport.st^
 ||taroflix.net^
+||tatakai.app^
 ||tatakai.me^
 ||tauonmusicbox.rocks^
 ||terabox.hnn.workers.dev^
@@ -1219,6 +1220,9 @@
 ||watchorbit.me^
 ||watchprowrestling.store^
 ||watchreplay.net^
+||watchseries.bar^
+||watchseries.cool^
+||watchseries.domains^
 ||watchsports.su^
 ||watchttn.com^
 ||watchtvs.live^
@@ -1483,6 +1487,7 @@
 ||www.tokyoinsider.com^
 ||www.tokyoinsider.net^
 ||www.tokyotosho.info^
+||www.tokyvideo.com^
 ||www.toonamiaftermath.com^
 ||www.toonamiremastered.com^
 ||www.toontales.net^
@@ -1555,7 +1560,7 @@
 ||yow.tv^
 ||ytch.tv^
 ||yts-subs.com^
-||yts-yify-note.md^
+||yts-yify-critical.md^
 ||yts.gg^
 ||ytsproxies.com^
 ||ytsubdl.com^
@@ -1609,6 +1614,7 @@
 ! 0.0.0.0 7movies.ac
 ! 0.0.0.0 7movies.ws
 ! 0.0.0.0 7plus.com.au
+! 0.0.0.0 7shows.st
 ! 0.0.0.0 80s-ova.com
 ! 0.0.0.0 9animstv.to
 ! 0.0.0.0 aaronperris.com
@@ -1878,7 +1884,6 @@
 ! 0.0.0.0 crimsonfansubs.com
 ! 0.0.0.0 cringemdb.com
 ! 0.0.0.0 cs.rin.ru
-! 0.0.0.0 cybermovies.ru
 ! 0.0.0.0 cyrisia.com
 ! 0.0.0.0 daddylive.app
 ! 0.0.0.0 daddylive.li
@@ -2374,7 +2379,6 @@
 ! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 palanq.win
-! 0.0.0.0 pantyflix.com
 ! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 paste.to
 ! 0.0.0.0 pawflix.foo.ng
@@ -2408,7 +2412,7 @@
 ! 0.0.0.0 ppv.tj
 ! 0.0.0.0 ppv.ug
 ! 0.0.0.0 ppvs.pk
-! 0.0.0.0 pressplayx.to
+! 0.0.0.0 pressplayz.top
 ! 0.0.0.0 primewire.nexus
 ! 0.0.0.0 primewire.pw
 ! 0.0.0.0 primewire.zip
@@ -2450,6 +2454,7 @@
 ! 0.0.0.0 reanime.to
 ! 0.0.0.0 reanime.wtf
 ! 0.0.0.0 redflix.club
+! 0.0.0.0 redflix.fans
 ! 0.0.0.0 redflix.one
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 reedstreams.link
@@ -2494,7 +2499,7 @@
 ! 0.0.0.0 saavn.odskyler.com
 ! 0.0.0.0 sakusaku.to
 ! 0.0.0.0 sambl.lioncat6.com
-! 0.0.0.0 sanet-warning.md
+! 0.0.0.0 sanet-critical.md
 ! 0.0.0.0 sanet.lc
 ! 0.0.0.0 sanet.sb
 ! 0.0.0.0 sanet.st
@@ -2546,7 +2551,6 @@
 ! 0.0.0.0 smacke.net
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
-! 0.0.0.0 soapgo.to
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
 ! 0.0.0.0 soft98.ir
@@ -2631,6 +2635,7 @@
 ! 0.0.0.0 sweetfox.app
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
+! 0.0.0.0 synthv.me
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
@@ -2639,6 +2644,7 @@
 ! 0.0.0.0 tap4sport.pw
 ! 0.0.0.0 tap4sport.st
 ! 0.0.0.0 taroflix.net
+! 0.0.0.0 tatakai.app
 ! 0.0.0.0 tatakai.me
 ! 0.0.0.0 tauonmusicbox.rocks
 ! 0.0.0.0 terabox.hnn.workers.dev
@@ -2789,6 +2795,9 @@
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
+! 0.0.0.0 watchseries.bar
+! 0.0.0.0 watchseries.cool
+! 0.0.0.0 watchseries.domains
 ! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchttn.com
 ! 0.0.0.0 watchtvs.live
@@ -3053,6 +3062,7 @@
 ! 0.0.0.0 www.tokyoinsider.com
 ! 0.0.0.0 www.tokyoinsider.net
 ! 0.0.0.0 www.tokyotosho.info
+! 0.0.0.0 www.tokyvideo.com
 ! 0.0.0.0 www.toonamiaftermath.com
 ! 0.0.0.0 www.toonamiremastered.com
 ! 0.0.0.0 www.toontales.net
@@ -3125,7 +3135,7 @@
 ! 0.0.0.0 yow.tv
 ! 0.0.0.0 ytch.tv
 ! 0.0.0.0 yts-subs.com
-! 0.0.0.0 yts-yify-note.md
+! 0.0.0.0 yts-yify-critical.md
 ! 0.0.0.0 yts.gg
 ! 0.0.0.0 ytsproxies.com
 ! 0.0.0.0 ytsubdl.com
