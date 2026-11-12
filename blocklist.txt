@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1572 domains)
-! Last updated: 2026-11-11T10:29:46Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1571 domains)
+! Last updated: 2026-11-12T10:45:44Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -54,6 +54,7 @@
 ||afterdusk.app^
 ||aha-music.com^
 ||aidn.jp^
+||aiostreams.org^
 ||aja.gr.jp^
 ||ak.alizandro.smartaudiobookplayer^
 ||alist.thdisc.tk^
@@ -300,7 +301,6 @@
 ||cooljapanportal.com^
 ||coolmic.me^
 ||coreflix.tv^
-||corsflix.net^
 ||countdown.tv^
 ||covers.musichoarders.xyz^
 ||cracksurl.com^
@@ -460,7 +460,7 @@
 ||hayase.watch^
 ||hdclump.com^
 ||hdencode.org^
-||hdhub4u.bi^
+||hdhub4u.fr^
 ||hdmovieshub.fyi^
 ||henshingrid.blogspot.com^
 ||hexa.su^
@@ -656,7 +656,6 @@
 ||midloop.net^
 ||mikudb.moe^
 ||milkbox.fyi^
-||milkbox.zapto.org^
 ||mindmine.audiobook^
 ||mirrors.st^
 ||miru.js.org^
@@ -685,7 +684,6 @@
 ||movieboxonline.net^
 ||movielens.org^
 ||movienerds.site^
-||movienestbd.best^
 ||movienig.ht^
 ||movieo.me^
 ||movieparadise.org^
@@ -956,12 +954,12 @@
 ||server.elscione.com^
 ||sharebb.me^
 ||shimeken.com^
+||shmuplations.com^
 ||shokoanime.com^
 ||shonen.to^
 ||shosekiranking.blog.fc2.com^
 ||shotonwhat.com^
 ||showrss.info^
-||shuttletv.cr^
 ||shuttletv.me^
 ||shuttletv.pk^
 ||shuttletv.su^
@@ -1174,6 +1172,7 @@
 ||vaughn.live^
 ||vaultplayer.co.uk^
 ||vavoo.to^
+||vgdensetsu.net^
 ||vgm.hcs64.com^
 ||vgm.impulseinformatica.com.br^
 ||vgmdb.net^
@@ -1629,6 +1628,7 @@
 ! 0.0.0.0 afterdusk.app
 ! 0.0.0.0 aha-music.com
 ! 0.0.0.0 aidn.jp
+! 0.0.0.0 aiostreams.org
 ! 0.0.0.0 aja.gr.jp
 ! 0.0.0.0 ak.alizandro.smartaudiobookplayer
 ! 0.0.0.0 alist.thdisc.tk
@@ -1875,7 +1875,6 @@
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 coreflix.tv
-! 0.0.0.0 corsflix.net
 ! 0.0.0.0 countdown.tv
 ! 0.0.0.0 covers.musichoarders.xyz
 ! 0.0.0.0 cracksurl.com
@@ -2035,7 +2034,7 @@
 ! 0.0.0.0 hayase.watch
 ! 0.0.0.0 hdclump.com
 ! 0.0.0.0 hdencode.org
-! 0.0.0.0 hdhub4u.bi
+! 0.0.0.0 hdhub4u.fr
 ! 0.0.0.0 hdmovieshub.fyi
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hexa.su
@@ -2231,7 +2230,6 @@
 ! 0.0.0.0 midloop.net
 ! 0.0.0.0 mikudb.moe
 ! 0.0.0.0 milkbox.fyi
-! 0.0.0.0 milkbox.zapto.org
 ! 0.0.0.0 mindmine.audiobook
 ! 0.0.0.0 mirrors.st
 ! 0.0.0.0 miru.js.org
@@ -2260,7 +2258,6 @@
 ! 0.0.0.0 movieboxonline.net
 ! 0.0.0.0 movielens.org
 ! 0.0.0.0 movienerds.site
-! 0.0.0.0 movienestbd.best
 ! 0.0.0.0 movienig.ht
 ! 0.0.0.0 movieo.me
 ! 0.0.0.0 movieparadise.org
@@ -2531,12 +2528,12 @@
 ! 0.0.0.0 server.elscione.com
 ! 0.0.0.0 sharebb.me
 ! 0.0.0.0 shimeken.com
+! 0.0.0.0 shmuplations.com
 ! 0.0.0.0 shokoanime.com
 ! 0.0.0.0 shonen.to
 ! 0.0.0.0 shosekiranking.blog.fc2.com
 ! 0.0.0.0 shotonwhat.com
 ! 0.0.0.0 showrss.info
-! 0.0.0.0 shuttletv.cr
 ! 0.0.0.0 shuttletv.me
 ! 0.0.0.0 shuttletv.pk
 ! 0.0.0.0 shuttletv.su
@@ -2749,6 +2746,7 @@
 ! 0.0.0.0 vaughn.live
 ! 0.0.0.0 vaultplayer.co.uk
 ! 0.0.0.0 vavoo.to
+! 0.0.0.0 vgdensetsu.net
 ! 0.0.0.0 vgm.hcs64.com
 ! 0.0.0.0 vgm.impulseinformatica.com.br
 ! 0.0.0.0 vgmdb.net

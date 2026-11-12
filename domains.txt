@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1572 domains | updated 2026-11-11T10:29:46Z
+# 1571 domains | updated 2026-11-12T10:45:44Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -50,6 +50,7 @@ aficatalog.afi.com
 afterdusk.app
 aha-music.com
 aidn.jp
+aiostreams.org
 aja.gr.jp
 ak.alizandro.smartaudiobookplayer
 alist.thdisc.tk
@@ -296,7 +297,6 @@ consumit.online
 cooljapanportal.com
 coolmic.me
 coreflix.tv
-corsflix.net
 countdown.tv
 covers.musichoarders.xyz
 cracksurl.com
@@ -456,7 +456,7 @@ harmony.pulsewidth.org.uk
 hayase.watch
 hdclump.com
 hdencode.org
-hdhub4u.bi
+hdhub4u.fr
 hdmovieshub.fyi
 henshingrid.blogspot.com
 hexa.su
@@ -652,7 +652,6 @@ michaelsapps.dk
 midloop.net
 mikudb.moe
 milkbox.fyi
-milkbox.zapto.org
 mindmine.audiobook
 mirrors.st
 miru.js.org
@@ -681,7 +680,6 @@ moviebox.co
 movieboxonline.net
 movielens.org
 movienerds.site
-movienestbd.best
 movienig.ht
 movieo.me
 movieparadise.org
@@ -952,12 +950,12 @@ server.elsci.one
 server.elscione.com
 sharebb.me
 shimeken.com
+shmuplations.com
 shokoanime.com
 shonen.to
 shosekiranking.blog.fc2.com
 shotonwhat.com
 showrss.info
-shuttletv.cr
 shuttletv.me
 shuttletv.pk
 shuttletv.su
@@ -1170,6 +1168,7 @@ vanillo.tv
 vaughn.live
 vaultplayer.co.uk
 vavoo.to
+vgdensetsu.net
 vgm.hcs64.com
 vgm.impulseinformatica.com.br
 vgmdb.net
