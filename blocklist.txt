@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1571 domains)
-! Last updated: 2026-11-12T10:45:44Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1568 domains)
+! Last updated: 2026-11-13T10:41:47Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -161,7 +161,6 @@
 ||anizone.to^
 ||annas-archive.gl^
 ||anonops.com^
-||antra.hoshi.cfd^
 ||anv.to^
 ||anything.rip^
 ||app.asbplayer.dev^
@@ -337,7 +336,6 @@
 ||docs.wyzie.io^
 ||donghua4k.net^
 ||donghuastream.org^
-||doubledouble.top^
 ||doujindownloader.com^
 ||doujinstyle.com^
 ||download.duafile.com^
@@ -1334,7 +1332,6 @@
 ||www.downloadha.com^
 ||www.downloads-anymovies.co^
 ||www.downturk.net^
-||www.ebookrenta.com^
 ||www.edrlab.org^
 ||www.eiren.org^
 ||www.elsubtitle.com^
@@ -1735,7 +1732,6 @@
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 anonops.com
-! 0.0.0.0 antra.hoshi.cfd
 ! 0.0.0.0 anv.to
 ! 0.0.0.0 anything.rip
 ! 0.0.0.0 app.asbplayer.dev
@@ -1911,7 +1907,6 @@
 ! 0.0.0.0 docs.wyzie.io
 ! 0.0.0.0 donghua4k.net
 ! 0.0.0.0 donghuastream.org
-! 0.0.0.0 doubledouble.top
 ! 0.0.0.0 doujindownloader.com
 ! 0.0.0.0 doujinstyle.com
 ! 0.0.0.0 download.duafile.com
@@ -2908,7 +2903,6 @@
 ! 0.0.0.0 www.downloadha.com
 ! 0.0.0.0 www.downloads-anymovies.co
 ! 0.0.0.0 www.downturk.net
-! 0.0.0.0 www.ebookrenta.com
 ! 0.0.0.0 www.edrlab.org
 ! 0.0.0.0 www.eiren.org
 ! 0.0.0.0 www.elsubtitle.com

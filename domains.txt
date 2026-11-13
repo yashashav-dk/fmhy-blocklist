@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1571 domains | updated 2026-11-12T10:45:44Z
+# 1568 domains | updated 2026-11-13T10:41:47Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -157,7 +157,6 @@ anixx.fun
 anizone.to
 annas-archive.gl
 anonops.com
-antra.hoshi.cfd
 anv.to
 anything.rip
 app.asbplayer.dev
@@ -333,7 +332,6 @@ docs.squidify.org
 docs.wyzie.io
 donghua4k.net
 donghuastream.org
-doubledouble.top
 doujindownloader.com
 doujinstyle.com
 download.duafile.com
@@ -1330,7 +1328,6 @@ www.dongsub.net
 www.downloadha.com
 www.downloads-anymovies.co
 www.downturk.net
-www.ebookrenta.com
 www.edrlab.org
 www.eiren.org
 www.elsubtitle.com
