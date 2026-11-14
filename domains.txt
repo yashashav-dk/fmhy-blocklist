@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1568 domains | updated 2026-11-13T10:41:47Z
+# 1573 domains | updated 2026-11-14T09:55:26Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -77,6 +77,7 @@ anicine.sbs
 aniclover.cc
 anidap.lol
 anidl.org
+anidream.to
 anify.to
 aniguessr.com
 anihosts.xyz
@@ -185,6 +186,7 @@ atlantic.bz
 atlas.hls.lol
 atsu.moe
 audiovault.net
+aurasports.cfd
 aurasports.xyz
 av1core.cyou
 avac.moe
@@ -212,7 +214,7 @@ bingebang.club
 bingebang.st
 bingebox.ac
 bingeflix.tv
-bingr.one
+bingr.st
 binsearch.info
 bleh.yuzu.pet
 blog.decryption.net.au
@@ -251,9 +253,11 @@ cinelite.xyz
 cinelove.live
 cinema.army
 cinemacity.cc
+cinemaos.in
 cinemaos.live
 cinemaos.tech
 cinemata.org
+cinemoas.me
 cinemove.cc
 cineruv.website
 cinetaro.to
@@ -292,7 +296,6 @@ comix.to
 comix.ws
 commodore.software
 condensedaudiocatalog.com
-consumit.online
 cooljapanportal.com
 coolmic.me
 coreflix.tv
@@ -360,6 +363,7 @@ english.html
 episodehive.com
 erogemusicquiz.com
 esp32.nontonx.com
+ev01.ws
 everythingmoe.com
 exp.tv
 ext.to
@@ -534,6 +538,7 @@ kimoitv.com
 kindlemodding.org
 kissasian.com.gr
 kissasian.video
+kissbae.com
 kisskh.club
 kisskh.co
 kisskh.dk
@@ -648,7 +653,9 @@ metron.cloud
 mgdb.himitsukichi.com
 michaelsapps.dk
 midloop.net
+mikeyguinness.com
 mikudb.moe
+mikuinv.apicalshark.dedyn.io
 milkbox.fyi
 mindmine.audiobook
 mirrors.st
@@ -835,7 +842,7 @@ primewire.pw
 primewire.zip
 prodlist.php
 projectjust.xyz
-psarips.com
+psarips.is
 pstream.site
 psychodownloads.com
 pulsedmedia.com
@@ -845,7 +852,6 @@ quicksandscans.wordpress.com
 quiz.animesongs.org
 quiz.wyzie.io
 r-a-d.io
-rabbitmeow.online
 racinglap.net
 radio-anime24.pls
 radio.animenexus.net
@@ -868,7 +874,6 @@ real-debrid.com
 realfight.top
 realityripple.com
 reanime.cz
-reanime.to
 reanime.wtf
 redflix.club
 redflix.fans
@@ -929,6 +934,7 @@ scatterfm.markhansen.co.nz
 scenelist.org
 schedule.html
 scnlog.me
+scorezonetv.live
 screenscape.me
 scripts-onscreen.com
 scripts.com
@@ -956,7 +962,6 @@ shotonwhat.com
 showrss.info
 shuttletv.me
 shuttletv.pk
-shuttletv.su
 signonscreen.com
 silent-hall-of-fame.org
 silentaperture.gitlab.io
@@ -968,6 +973,7 @@ slow.pics
 smacke.net
 smashystream.xyz
 smoores.gitlab.io
+soapgo.to
 soccerfull.net
 soft.ac
 soft98.ir
@@ -1209,7 +1215,6 @@ watch.typetype.video
 watch.versusmedia.com
 watchanimez.me
 watched.cx
-watchly.mom
 watchorbit.me
 watchprowrestling.store
 watchreplay.net

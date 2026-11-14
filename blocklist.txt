@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1568 domains)
-! Last updated: 2026-11-13T10:41:47Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1573 domains)
+! Last updated: 2026-11-14T09:55:26Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -81,6 +81,7 @@
 ||aniclover.cc^
 ||anidap.lol^
 ||anidl.org^
+||anidream.to^
 ||anify.to^
 ||aniguessr.com^
 ||anihosts.xyz^
@@ -189,6 +190,7 @@
 ||atlas.hls.lol^
 ||atsu.moe^
 ||audiovault.net^
+||aurasports.cfd^
 ||aurasports.xyz^
 ||av1core.cyou^
 ||avac.moe^
@@ -216,7 +218,7 @@
 ||bingebang.st^
 ||bingebox.ac^
 ||bingeflix.tv^
-||bingr.one^
+||bingr.st^
 ||binsearch.info^
 ||bleh.yuzu.pet^
 ||blog.decryption.net.au^
@@ -255,9 +257,11 @@
 ||cinelove.live^
 ||cinema.army^
 ||cinemacity.cc^
+||cinemaos.in^
 ||cinemaos.live^
 ||cinemaos.tech^
 ||cinemata.org^
+||cinemoas.me^
 ||cinemove.cc^
 ||cineruv.website^
 ||cinetaro.to^
@@ -296,7 +300,6 @@
 ||comix.ws^
 ||commodore.software^
 ||condensedaudiocatalog.com^
-||consumit.online^
 ||cooljapanportal.com^
 ||coolmic.me^
 ||coreflix.tv^
@@ -364,6 +367,7 @@
 ||episodehive.com^
 ||erogemusicquiz.com^
 ||esp32.nontonx.com^
+||ev01.ws^
 ||everythingmoe.com^
 ||exp.tv^
 ||ext.to^
@@ -538,6 +542,7 @@
 ||kindlemodding.org^
 ||kissasian.com.gr^
 ||kissasian.video^
+||kissbae.com^
 ||kisskh.club^
 ||kisskh.co^
 ||kisskh.dk^
@@ -652,7 +657,9 @@
 ||mgdb.himitsukichi.com^
 ||michaelsapps.dk^
 ||midloop.net^
+||mikeyguinness.com^
 ||mikudb.moe^
+||mikuinv.apicalshark.dedyn.io^
 ||milkbox.fyi^
 ||mindmine.audiobook^
 ||mirrors.st^
@@ -839,7 +846,7 @@
 ||primewire.zip^
 ||prodlist.php^
 ||projectjust.xyz^
-||psarips.com^
+||psarips.is^
 ||pstream.site^
 ||psychodownloads.com^
 ||pulsedmedia.com^
@@ -849,7 +856,6 @@
 ||quiz.animesongs.org^
 ||quiz.wyzie.io^
 ||r-a-d.io^
-||rabbitmeow.online^
 ||racinglap.net^
 ||radio-anime24.pls^
 ||radio.animenexus.net^
@@ -872,7 +878,6 @@
 ||realfight.top^
 ||realityripple.com^
 ||reanime.cz^
-||reanime.to^
 ||reanime.wtf^
 ||redflix.club^
 ||redflix.fans^
@@ -933,6 +938,7 @@
 ||scenelist.org^
 ||schedule.html^
 ||scnlog.me^
+||scorezonetv.live^
 ||screenscape.me^
 ||scripts-onscreen.com^
 ||scripts.com^
@@ -960,7 +966,6 @@
 ||showrss.info^
 ||shuttletv.me^
 ||shuttletv.pk^
-||shuttletv.su^
 ||signonscreen.com^
 ||silent-hall-of-fame.org^
 ||silentaperture.gitlab.io^
@@ -972,6 +977,7 @@
 ||smacke.net^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
+||soapgo.to^
 ||soccerfull.net^
 ||soft.ac^
 ||soft98.ir^
@@ -1213,7 +1219,6 @@
 ||watch.versusmedia.com^
 ||watchanimez.me^
 ||watched.cx^
-||watchly.mom^
 ||watchorbit.me^
 ||watchprowrestling.store^
 ||watchreplay.net^
@@ -1652,6 +1657,7 @@
 ! 0.0.0.0 aniclover.cc
 ! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidl.org
+! 0.0.0.0 anidream.to
 ! 0.0.0.0 anify.to
 ! 0.0.0.0 aniguessr.com
 ! 0.0.0.0 anihosts.xyz
@@ -1760,6 +1766,7 @@
 ! 0.0.0.0 atlas.hls.lol
 ! 0.0.0.0 atsu.moe
 ! 0.0.0.0 audiovault.net
+! 0.0.0.0 aurasports.cfd
 ! 0.0.0.0 aurasports.xyz
 ! 0.0.0.0 av1core.cyou
 ! 0.0.0.0 avac.moe
@@ -1787,7 +1794,7 @@
 ! 0.0.0.0 bingebang.st
 ! 0.0.0.0 bingebox.ac
 ! 0.0.0.0 bingeflix.tv
-! 0.0.0.0 bingr.one
+! 0.0.0.0 bingr.st
 ! 0.0.0.0 binsearch.info
 ! 0.0.0.0 bleh.yuzu.pet
 ! 0.0.0.0 blog.decryption.net.au
@@ -1826,9 +1833,11 @@
 ! 0.0.0.0 cinelove.live
 ! 0.0.0.0 cinema.army
 ! 0.0.0.0 cinemacity.cc
+! 0.0.0.0 cinemaos.in
 ! 0.0.0.0 cinemaos.live
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
+! 0.0.0.0 cinemoas.me
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cineruv.website
 ! 0.0.0.0 cinetaro.to
@@ -1867,7 +1876,6 @@
 ! 0.0.0.0 comix.ws
 ! 0.0.0.0 commodore.software
 ! 0.0.0.0 condensedaudiocatalog.com
-! 0.0.0.0 consumit.online
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
 ! 0.0.0.0 coreflix.tv
@@ -1935,6 +1943,7 @@
 ! 0.0.0.0 episodehive.com
 ! 0.0.0.0 erogemusicquiz.com
 ! 0.0.0.0 esp32.nontonx.com
+! 0.0.0.0 ev01.ws
 ! 0.0.0.0 everythingmoe.com
 ! 0.0.0.0 exp.tv
 ! 0.0.0.0 ext.to
@@ -2109,6 +2118,7 @@
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kissasian.com.gr
 ! 0.0.0.0 kissasian.video
+! 0.0.0.0 kissbae.com
 ! 0.0.0.0 kisskh.club
 ! 0.0.0.0 kisskh.co
 ! 0.0.0.0 kisskh.dk
@@ -2223,7 +2233,9 @@
 ! 0.0.0.0 mgdb.himitsukichi.com
 ! 0.0.0.0 michaelsapps.dk
 ! 0.0.0.0 midloop.net
+! 0.0.0.0 mikeyguinness.com
 ! 0.0.0.0 mikudb.moe
+! 0.0.0.0 mikuinv.apicalshark.dedyn.io
 ! 0.0.0.0 milkbox.fyi
 ! 0.0.0.0 mindmine.audiobook
 ! 0.0.0.0 mirrors.st
@@ -2410,7 +2422,7 @@
 ! 0.0.0.0 primewire.zip
 ! 0.0.0.0 prodlist.php
 ! 0.0.0.0 projectjust.xyz
-! 0.0.0.0 psarips.com
+! 0.0.0.0 psarips.is
 ! 0.0.0.0 pstream.site
 ! 0.0.0.0 psychodownloads.com
 ! 0.0.0.0 pulsedmedia.com
@@ -2420,7 +2432,6 @@
 ! 0.0.0.0 quiz.animesongs.org
 ! 0.0.0.0 quiz.wyzie.io
 ! 0.0.0.0 r-a-d.io
-! 0.0.0.0 rabbitmeow.online
 ! 0.0.0.0 racinglap.net
 ! 0.0.0.0 radio-anime24.pls
 ! 0.0.0.0 radio.animenexus.net
@@ -2443,7 +2454,6 @@
 ! 0.0.0.0 realfight.top
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 reanime.cz
-! 0.0.0.0 reanime.to
 ! 0.0.0.0 reanime.wtf
 ! 0.0.0.0 redflix.club
 ! 0.0.0.0 redflix.fans
@@ -2504,6 +2514,7 @@
 ! 0.0.0.0 scenelist.org
 ! 0.0.0.0 schedule.html
 ! 0.0.0.0 scnlog.me
+! 0.0.0.0 scorezonetv.live
 ! 0.0.0.0 screenscape.me
 ! 0.0.0.0 scripts-onscreen.com
 ! 0.0.0.0 scripts.com
@@ -2531,7 +2542,6 @@
 ! 0.0.0.0 showrss.info
 ! 0.0.0.0 shuttletv.me
 ! 0.0.0.0 shuttletv.pk
-! 0.0.0.0 shuttletv.su
 ! 0.0.0.0 signonscreen.com
 ! 0.0.0.0 silent-hall-of-fame.org
 ! 0.0.0.0 silentaperture.gitlab.io
@@ -2543,6 +2553,7 @@
 ! 0.0.0.0 smacke.net
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
+! 0.0.0.0 soapgo.to
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
 ! 0.0.0.0 soft98.ir
@@ -2784,7 +2795,6 @@
 ! 0.0.0.0 watch.versusmedia.com
 ! 0.0.0.0 watchanimez.me
 ! 0.0.0.0 watched.cx
-! 0.0.0.0 watchly.mom
 ! 0.0.0.0 watchorbit.me
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
