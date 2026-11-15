@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1573 domains | updated 2026-11-14T09:55:26Z
+# 1574 domains | updated 2026-11-15T10:31:02Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -292,6 +292,7 @@ comicbookroundup.com
 comichubfree.com
 comics.codes
 comicskingdom.com
+comik.to
 comix.to
 comix.ws
 commodore.software

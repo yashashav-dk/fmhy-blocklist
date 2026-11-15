@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1573 domains)
-! Last updated: 2026-11-14T09:55:26Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1574 domains)
+! Last updated: 2026-11-15T10:31:02Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -296,6 +296,7 @@
 ||comichubfree.com^
 ||comics.codes^
 ||comicskingdom.com^
+||comik.to^
 ||comix.to^
 ||comix.ws^
 ||commodore.software^
@@ -1872,6 +1873,7 @@
 ! 0.0.0.0 comichubfree.com
 ! 0.0.0.0 comics.codes
 ! 0.0.0.0 comicskingdom.com
+! 0.0.0.0 comik.to
 ! 0.0.0.0 comix.to
 ! 0.0.0.0 comix.ws
 ! 0.0.0.0 commodore.software
