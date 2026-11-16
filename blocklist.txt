@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1574 domains)
-! Last updated: 2026-11-15T10:31:02Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1580 domains)
+! Last updated: 2026-11-16T10:47:12Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -21,7 +21,6 @@
 ||1shows-note.md^
 ||1shows.org^
 ||1vegamovies.baby^
-||24-7-channels.php^
 ||2dhive.com^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||35mm.online^
@@ -47,12 +46,14 @@
 ||addon-manager.viren070.me^
 ||addonsfortheweebs.midnightignite.me^
 ||adrama.app^
+||aegisub.org^
 ||aether.cx^
 ||aether.ist^
 ||aether.st^
 ||aficatalog.afi.com^
 ||afterdusk.app^
 ||aha-music.com^
+||ahdaf-kooora.net^
 ||aidn.jp^
 ||aiostreams.org^
 ||aja.gr.jp^
@@ -319,6 +320,7 @@
 ||daddylive.pk^
 ||dailycommercials.com^
 ||damitv.st^
+||danstore.kavangi.co.ke^
 ||ddlbase.com^
 ||deaffestonlinecinema.eventive.org^
 ||deafmovie.org^
@@ -541,6 +543,7 @@
 ||kids-in-mind.com^
 ||kimoitv.com^
 ||kindlemodding.org^
+||kinohd.app^
 ||kissasian.com.gr^
 ||kissasian.video^
 ||kissbae.com^
@@ -823,7 +826,6 @@
 ||pixeldrain.md^
 ||plappa.me^
 ||playlists.at^
-||playtorrio.xyz^
 ||plaza.one^
 ||plezy.app^
 ||plugin.audio.subsonic^
@@ -898,6 +900,7 @@
 ||retroanimechris.blogspot.com^
 ||retroblast.tv^
 ||retroflix.org^
+||retroshare.cc^
 ||retrostrange.com^
 ||retrosystemsrevival.blogspot.com^
 ||revoldiv.com^
@@ -1018,7 +1021,6 @@
 ||streamcorner.cloud^
 ||streamcorner.foo^
 ||streamcorner.fun^
-||streamcorner.st^
 ||streameast.ga^
 ||streameast.ph^
 ||streamex.hn^
@@ -1036,6 +1038,7 @@
 ||stremio.ar0.eu^
 ||strexoplayer.onrender.com^
 ||strims24.st^
+||strmcrnr.st^
 ||strmfree.link^
 ||strmfree.pk^
 ||strmfree.st^
@@ -1061,6 +1064,7 @@
 ||sv-archive.surge.sh^
 ||svstream.cc^
 ||sweetfox.app^
+||sweetfox.st^
 ||sync.coconono.org^
 ||syncler.net^
 ||synthv.me^
@@ -1081,6 +1085,7 @@
 ||tfpdl.to^
 ||thebarchive.com^
 ||thecriterioncloset.com^
+||thedaddy.li^
 ||thedigitaltheater.com^
 ||theindex.moe^
 ||theintrodb.org^
@@ -1205,6 +1210,7 @@
 ||vuflix.co^
 ||vyla.cc^
 ||vyla.qzz.io^
+||vysetv.cc^
 ||warezload.net^
 ||warezomen.com^
 ||warflix.cv^
@@ -1598,7 +1604,6 @@
 ! 0.0.0.0 1shows-note.md
 ! 0.0.0.0 1shows.org
 ! 0.0.0.0 1vegamovies.baby
-! 0.0.0.0 24-7-channels.php
 ! 0.0.0.0 2dhive.com
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 35mm.online
@@ -1624,12 +1629,14 @@
 ! 0.0.0.0 addon-manager.viren070.me
 ! 0.0.0.0 addonsfortheweebs.midnightignite.me
 ! 0.0.0.0 adrama.app
+! 0.0.0.0 aegisub.org
 ! 0.0.0.0 aether.cx
 ! 0.0.0.0 aether.ist
 ! 0.0.0.0 aether.st
 ! 0.0.0.0 aficatalog.afi.com
 ! 0.0.0.0 afterdusk.app
 ! 0.0.0.0 aha-music.com
+! 0.0.0.0 ahdaf-kooora.net
 ! 0.0.0.0 aidn.jp
 ! 0.0.0.0 aiostreams.org
 ! 0.0.0.0 aja.gr.jp
@@ -1896,6 +1903,7 @@
 ! 0.0.0.0 daddylive.pk
 ! 0.0.0.0 dailycommercials.com
 ! 0.0.0.0 damitv.st
+! 0.0.0.0 danstore.kavangi.co.ke
 ! 0.0.0.0 ddlbase.com
 ! 0.0.0.0 deaffestonlinecinema.eventive.org
 ! 0.0.0.0 deafmovie.org
@@ -2118,6 +2126,7 @@
 ! 0.0.0.0 kids-in-mind.com
 ! 0.0.0.0 kimoitv.com
 ! 0.0.0.0 kindlemodding.org
+! 0.0.0.0 kinohd.app
 ! 0.0.0.0 kissasian.com.gr
 ! 0.0.0.0 kissasian.video
 ! 0.0.0.0 kissbae.com
@@ -2400,7 +2409,6 @@
 ! 0.0.0.0 pixeldrain.md
 ! 0.0.0.0 plappa.me
 ! 0.0.0.0 playlists.at
-! 0.0.0.0 playtorrio.xyz
 ! 0.0.0.0 plaza.one
 ! 0.0.0.0 plezy.app
 ! 0.0.0.0 plugin.audio.subsonic
@@ -2475,6 +2483,7 @@
 ! 0.0.0.0 retroanimechris.blogspot.com
 ! 0.0.0.0 retroblast.tv
 ! 0.0.0.0 retroflix.org
+! 0.0.0.0 retroshare.cc
 ! 0.0.0.0 retrostrange.com
 ! 0.0.0.0 retrosystemsrevival.blogspot.com
 ! 0.0.0.0 revoldiv.com
@@ -2595,7 +2604,6 @@
 ! 0.0.0.0 streamcorner.cloud
 ! 0.0.0.0 streamcorner.foo
 ! 0.0.0.0 streamcorner.fun
-! 0.0.0.0 streamcorner.st
 ! 0.0.0.0 streameast.ga
 ! 0.0.0.0 streameast.ph
 ! 0.0.0.0 streamex.hn
@@ -2613,6 +2621,7 @@
 ! 0.0.0.0 stremio.ar0.eu
 ! 0.0.0.0 strexoplayer.onrender.com
 ! 0.0.0.0 strims24.st
+! 0.0.0.0 strmcrnr.st
 ! 0.0.0.0 strmfree.link
 ! 0.0.0.0 strmfree.pk
 ! 0.0.0.0 strmfree.st
@@ -2638,6 +2647,7 @@
 ! 0.0.0.0 sv-archive.surge.sh
 ! 0.0.0.0 svstream.cc
 ! 0.0.0.0 sweetfox.app
+! 0.0.0.0 sweetfox.st
 ! 0.0.0.0 sync.coconono.org
 ! 0.0.0.0 syncler.net
 ! 0.0.0.0 synthv.me
@@ -2658,6 +2668,7 @@
 ! 0.0.0.0 tfpdl.to
 ! 0.0.0.0 thebarchive.com
 ! 0.0.0.0 thecriterioncloset.com
+! 0.0.0.0 thedaddy.li
 ! 0.0.0.0 thedigitaltheater.com
 ! 0.0.0.0 theindex.moe
 ! 0.0.0.0 theintrodb.org
@@ -2782,6 +2793,7 @@
 ! 0.0.0.0 vuflix.co
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
+! 0.0.0.0 vysetv.cc
 ! 0.0.0.0 warezload.net
 ! 0.0.0.0 warezomen.com
 ! 0.0.0.0 warflix.cv

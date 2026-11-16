@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1574 domains | updated 2026-11-15T10:31:02Z
+# 1580 domains | updated 2026-11-16T10:47:12Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -17,7 +17,6 @@
 1shows-note.md
 1shows.org
 1vegamovies.baby
-24-7-channels.php
 2dhive.com
 2ecbbd610840-trakt.baby-beamup.club
 35mm.online
@@ -43,12 +42,14 @@ abibli.com
 addon-manager.viren070.me
 addonsfortheweebs.midnightignite.me
 adrama.app
+aegisub.org
 aether.cx
 aether.ist
 aether.st
 aficatalog.afi.com
 afterdusk.app
 aha-music.com
+ahdaf-kooora.net
 aidn.jp
 aiostreams.org
 aja.gr.jp
@@ -315,6 +316,7 @@ daddylive.mov
 daddylive.pk
 dailycommercials.com
 damitv.st
+danstore.kavangi.co.ke
 ddlbase.com
 deaffestonlinecinema.eventive.org
 deafmovie.org
@@ -537,6 +539,7 @@ kid3.kde.org
 kids-in-mind.com
 kimoitv.com
 kindlemodding.org
+kinohd.app
 kissasian.com.gr
 kissasian.video
 kissbae.com
@@ -819,7 +822,6 @@ pixeldrain-bypass.gamedrive.org
 pixeldrain.md
 plappa.me
 playlists.at
-playtorrio.xyz
 plaza.one
 plezy.app
 plugin.audio.subsonic
@@ -894,6 +896,7 @@ restatus.me
 retroanimechris.blogspot.com
 retroblast.tv
 retroflix.org
+retroshare.cc
 retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
@@ -1014,7 +1017,6 @@ stream.gensokyoradio.net
 streamcorner.cloud
 streamcorner.foo
 streamcorner.fun
-streamcorner.st
 streameast.ga
 streameast.ph
 streamex.hn
@@ -1032,6 +1034,7 @@ stremio-addons.net
 stremio.ar0.eu
 strexoplayer.onrender.com
 strims24.st
+strmcrnr.st
 strmfree.link
 strmfree.pk
 strmfree.st
@@ -1057,6 +1060,7 @@ suwatte.app
 sv-archive.surge.sh
 svstream.cc
 sweetfox.app
+sweetfox.st
 sync.coconono.org
 syncler.net
 synthv.me
@@ -1077,6 +1081,7 @@ tfpdl.se
 tfpdl.to
 thebarchive.com
 thecriterioncloset.com
+thedaddy.li
 thedigitaltheater.com
 theindex.moe
 theintrodb.org
@@ -1201,6 +1206,7 @@ vrx.piro.moe
 vuflix.co
 vyla.cc
 vyla.qzz.io
+vysetv.cc
 warezload.net
 warezomen.com
 warflix.cv
