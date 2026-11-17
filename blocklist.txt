@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
 ! Description: Auto-generated blocklist from FMHY + Wotaku (1580 domains)
-! Last updated: 2026-11-16T10:47:12Z
+! Last updated: 2026-11-17T11:34:57Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -89,7 +89,6 @@
 ||anihq.cc^
 ||anikage.cc^
 ||anikoto.site^
-||anikototv.to^
 ||anikura.club^
 ||anilight.live^
 ||anilinks.neocities.org^
@@ -156,7 +155,6 @@
 ||anitrendz.net^
 ||anivault.tv^
 ||aniwaves.ru^
-||anixo.online^
 ||anixtv.in^
 ||anixtv.us.cc^
 ||anixx.fun^
@@ -210,6 +208,7 @@
 ||bechdeltest.com^
 ||bendodson.com^
 ||bestsimilar.com^
+||beta.cinecat.eu^
 ||beta.cno.to^
 ||beta.way2movies.live^
 ||betterlyrics.org^
@@ -566,6 +565,7 @@
 ||kool.to^
 ||kool.ws^
 ||koryo.tv^
+||kotoplay.to^
 ||kototv.to^
 ||krdl.moe^
 ||kuroiru.co^
@@ -1672,7 +1672,6 @@
 ! 0.0.0.0 anihq.cc
 ! 0.0.0.0 anikage.cc
 ! 0.0.0.0 anikoto.site
-! 0.0.0.0 anikototv.to
 ! 0.0.0.0 anikura.club
 ! 0.0.0.0 anilight.live
 ! 0.0.0.0 anilinks.neocities.org
@@ -1739,7 +1738,6 @@
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anivault.tv
 ! 0.0.0.0 aniwaves.ru
-! 0.0.0.0 anixo.online
 ! 0.0.0.0 anixtv.in
 ! 0.0.0.0 anixtv.us.cc
 ! 0.0.0.0 anixx.fun
@@ -1793,6 +1791,7 @@
 ! 0.0.0.0 bechdeltest.com
 ! 0.0.0.0 bendodson.com
 ! 0.0.0.0 bestsimilar.com
+! 0.0.0.0 beta.cinecat.eu
 ! 0.0.0.0 beta.cno.to
 ! 0.0.0.0 beta.way2movies.live
 ! 0.0.0.0 betterlyrics.org
@@ -2149,6 +2148,7 @@
 ! 0.0.0.0 kool.to
 ! 0.0.0.0 kool.ws
 ! 0.0.0.0 koryo.tv
+! 0.0.0.0 kotoplay.to
 ! 0.0.0.0 kototv.to
 ! 0.0.0.0 krdl.moe
 ! 0.0.0.0 kuroiru.co

@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1580 domains | updated 2026-11-16T10:47:12Z
+# 1580 domains | updated 2026-11-17T11:34:57Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -85,7 +85,6 @@ anihosts.xyz
 anihq.cc
 anikage.cc
 anikoto.site
-anikototv.to
 anikura.club
 anilight.live
 anilinks.neocities.org
@@ -152,7 +151,6 @@ anitools.koopz.rocks
 anitrendz.net
 anivault.tv
 aniwaves.ru
-anixo.online
 anixtv.in
 anixtv.us.cc
 anixx.fun
@@ -206,6 +204,7 @@ batcave.biz
 bechdeltest.com
 bendodson.com
 bestsimilar.com
+beta.cinecat.eu
 beta.cno.to
 beta.way2movies.live
 betterlyrics.org
@@ -562,6 +561,7 @@ kontrast.top
 kool.to
 kool.ws
 koryo.tv
+kotoplay.to
 kototv.to
 krdl.moe
 kuroiru.co
