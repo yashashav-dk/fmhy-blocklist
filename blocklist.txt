@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1580 domains)
-! Last updated: 2026-11-17T11:34:57Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1586 domains)
+! Last updated: 2026-11-18T11:18:38Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -155,6 +155,7 @@
 ||anitrendz.net^
 ||anivault.tv^
 ||aniwaves.ru^
+||anixo.online^
 ||anixtv.in^
 ||anixtv.us.cc^
 ||anixx.fun^
@@ -173,6 +174,7 @@
 ||archived.moe^
 ||archiveofsins.com^
 ||arrowtv.net^
+||arrowtv.st^
 ||article.olduse.net^
 ||artwork.thekvt.eu.org^
 ||arvio.tv^
@@ -227,6 +229,7 @@
 ||booksonic.org^
 ||bookwalker.com^
 ||bookwalker.jp^
+||bowdtv.com^
 ||bstsrs.in^
 ||btorrent.xyz^
 ||bunko.sumikko.info^
@@ -300,6 +303,7 @@
 ||comix.to^
 ||comix.ws^
 ||commodore.software^
+||comvie.lol^
 ||condensedaudiocatalog.com^
 ||cooljapanportal.com^
 ||coolmic.me^
@@ -725,7 +729,6 @@
 ||nekobt.to^
 ||nekowatch.xyz^
 ||neoapo.com^
-||neonflix.st^
 ||nepu.app^
 ||nepu.io^
 ||nepu.is^
@@ -825,6 +828,7 @@
 ||pixeldrain-bypass.gamedrive.org^
 ||pixeldrain.md^
 ||plappa.me^
+||play4u.org^
 ||playlists.at^
 ||plaza.one^
 ||plezy.app^
@@ -1101,6 +1105,7 @@
 ||thewiki.moe^
 ||theyshootzombies.com^
 ||thugtv.online^
+||thugtv.st^
 ||thwiki.cc^
 ||tidal.odskyler.com^
 ||tiii.me^
@@ -1208,6 +1213,7 @@
 ||vole.wtf^
 ||vrx.piro.moe^
 ||vuflix.co^
+||vumeto.live^
 ||vyla.cc^
 ||vyla.qzz.io^
 ||vysetv.cc^
@@ -1738,6 +1744,7 @@
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anivault.tv
 ! 0.0.0.0 aniwaves.ru
+! 0.0.0.0 anixo.online
 ! 0.0.0.0 anixtv.in
 ! 0.0.0.0 anixtv.us.cc
 ! 0.0.0.0 anixx.fun
@@ -1756,6 +1763,7 @@
 ! 0.0.0.0 archived.moe
 ! 0.0.0.0 archiveofsins.com
 ! 0.0.0.0 arrowtv.net
+! 0.0.0.0 arrowtv.st
 ! 0.0.0.0 article.olduse.net
 ! 0.0.0.0 artwork.thekvt.eu.org
 ! 0.0.0.0 arvio.tv
@@ -1810,6 +1818,7 @@
 ! 0.0.0.0 booksonic.org
 ! 0.0.0.0 bookwalker.com
 ! 0.0.0.0 bookwalker.jp
+! 0.0.0.0 bowdtv.com
 ! 0.0.0.0 bstsrs.in
 ! 0.0.0.0 btorrent.xyz
 ! 0.0.0.0 bunko.sumikko.info
@@ -1883,6 +1892,7 @@
 ! 0.0.0.0 comix.to
 ! 0.0.0.0 comix.ws
 ! 0.0.0.0 commodore.software
+! 0.0.0.0 comvie.lol
 ! 0.0.0.0 condensedaudiocatalog.com
 ! 0.0.0.0 cooljapanportal.com
 ! 0.0.0.0 coolmic.me
@@ -2308,7 +2318,6 @@
 ! 0.0.0.0 nekobt.to
 ! 0.0.0.0 nekowatch.xyz
 ! 0.0.0.0 neoapo.com
-! 0.0.0.0 neonflix.st
 ! 0.0.0.0 nepu.app
 ! 0.0.0.0 nepu.io
 ! 0.0.0.0 nepu.is
@@ -2408,6 +2417,7 @@
 ! 0.0.0.0 pixeldrain-bypass.gamedrive.org
 ! 0.0.0.0 pixeldrain.md
 ! 0.0.0.0 plappa.me
+! 0.0.0.0 play4u.org
 ! 0.0.0.0 playlists.at
 ! 0.0.0.0 plaza.one
 ! 0.0.0.0 plezy.app
@@ -2684,6 +2694,7 @@
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
 ! 0.0.0.0 thugtv.online
+! 0.0.0.0 thugtv.st
 ! 0.0.0.0 thwiki.cc
 ! 0.0.0.0 tidal.odskyler.com
 ! 0.0.0.0 tiii.me
@@ -2791,6 +2802,7 @@
 ! 0.0.0.0 vole.wtf
 ! 0.0.0.0 vrx.piro.moe
 ! 0.0.0.0 vuflix.co
+! 0.0.0.0 vumeto.live
 ! 0.0.0.0 vyla.cc
 ! 0.0.0.0 vyla.qzz.io
 ! 0.0.0.0 vysetv.cc

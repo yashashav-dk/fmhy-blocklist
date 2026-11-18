@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1580 domains | updated 2026-11-17T11:34:57Z
+# 1586 domains | updated 2026-11-18T11:18:38Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -151,6 +151,7 @@ anitools.koopz.rocks
 anitrendz.net
 anivault.tv
 aniwaves.ru
+anixo.online
 anixtv.in
 anixtv.us.cc
 anixx.fun
@@ -169,6 +170,7 @@ archive.palanq.win
 archived.moe
 archiveofsins.com
 arrowtv.net
+arrowtv.st
 article.olduse.net
 artwork.thekvt.eu.org
 arvio.tv
@@ -223,6 +225,7 @@ bookplayer.app
 booksonic.org
 bookwalker.com
 bookwalker.jp
+bowdtv.com
 bstsrs.in
 btorrent.xyz
 bunko.sumikko.info
@@ -296,6 +299,7 @@ comik.to
 comix.to
 comix.ws
 commodore.software
+comvie.lol
 condensedaudiocatalog.com
 cooljapanportal.com
 coolmic.me
@@ -721,7 +725,6 @@ nbamonster.com
 nekobt.to
 nekowatch.xyz
 neoapo.com
-neonflix.st
 nepu.app
 nepu.io
 nepu.is
@@ -821,6 +824,7 @@ pitsport.st
 pixeldrain-bypass.gamedrive.org
 pixeldrain.md
 plappa.me
+play4u.org
 playlists.at
 plaza.one
 plezy.app
@@ -1097,6 +1101,7 @@ thetvapp.plus
 thewiki.moe
 theyshootzombies.com
 thugtv.online
+thugtv.st
 thwiki.cc
 tidal.odskyler.com
 tiii.me
@@ -1204,6 +1209,7 @@ vocaloid.radioca.st
 vole.wtf
 vrx.piro.moe
 vuflix.co
+vumeto.live
 vyla.cc
 vyla.qzz.io
 vysetv.cc
