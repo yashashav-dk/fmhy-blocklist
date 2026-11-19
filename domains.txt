@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1586 domains | updated 2026-11-18T11:18:38Z
+# 1589 domains | updated 2026-11-19T11:17:09Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -151,10 +151,9 @@ anitools.koopz.rocks
 anitrendz.net
 anivault.tv
 aniwaves.ru
+anixo.cfd
+anixo.live
 anixo.online
-anixtv.in
-anixtv.us.cc
-anixx.fun
 anizone.to
 annas-archive.gl
 anonops.com
@@ -466,6 +465,7 @@ hdclump.com
 hdencode.org
 hdhub4u.fr
 hdmovieshub.fyi
+hdtoday.com.tr
 henshingrid.blogspot.com
 hexa.su
 hi10anime.com
@@ -530,7 +530,6 @@ katzddl.net
 kawaiianime.cc
 kayoanime.com
 kazemakase.wjg.jp
-kazora.cc
 kcnawatch.us
 kdesa.app
 kdesa.stream
@@ -809,10 +808,12 @@ otcs.minuspoint.com
 overtakefans.com
 pahe-note.md
 pahe.ink
+pahenime.com
 palanq.win
 partitioned-cookies.md
 paste.to
 pawflix.foo.ng
+pflix.net
 phate.io
 phi-phenomenon.org
 phland.org
@@ -882,9 +883,9 @@ realfight.top
 realityripple.com
 reanime.cz
 reanime.wtf
-redflix.club
+redflix.ac
 redflix.fans
-redflix.one
+redflix.st
 redsquirrel87.com
 reedstreams.link
 reedstreams.st
@@ -981,7 +982,6 @@ slow.pics
 smacke.net
 smashystream.xyz
 smoores.gitlab.io
-soapgo.to
 soccerfull.net
 soft.ac
 soft98.ir
@@ -1119,6 +1119,7 @@ toflix.co
 tokusatsu-fc.jp
 tokyo-tosho.net
 tokyodross.blogspot.com
+tom-moroney.com
 tomeko.net
 tonkacine.watch
 toomics.com
@@ -1232,8 +1233,8 @@ watchorbit.me
 watchprowrestling.store
 watchreplay.net
 watchseries.bar
-watchseries.cool
 watchseries.domains
+watchseries.show
 watchsports.su
 watchttn.com
 watchtvs.live
@@ -1373,6 +1374,7 @@ www.funniermoments.net
 www.furinkan.com
 www.futbol-x.top
 www.futbol-x.xyz
+www.galaxymovies.app
 www.gamingalexandria.com
 www.gestdown.info
 www.getmusicbee.com
@@ -1490,6 +1492,7 @@ www.talpasearch.com
 www.tcj.com
 www.tehparadox.net
 www.the-classic-movies.com
+www.the-numbers.com
 www.theoasg.com
 www.thewutangcollection.com
 www.theyshootpictures.com

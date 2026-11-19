@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1586 domains)
-! Last updated: 2026-11-18T11:18:38Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1589 domains)
+! Last updated: 2026-11-19T11:17:09Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -155,10 +155,9 @@
 ||anitrendz.net^
 ||anivault.tv^
 ||aniwaves.ru^
+||anixo.cfd^
+||anixo.live^
 ||anixo.online^
-||anixtv.in^
-||anixtv.us.cc^
-||anixx.fun^
 ||anizone.to^
 ||annas-archive.gl^
 ||anonops.com^
@@ -470,6 +469,7 @@
 ||hdencode.org^
 ||hdhub4u.fr^
 ||hdmovieshub.fyi^
+||hdtoday.com.tr^
 ||henshingrid.blogspot.com^
 ||hexa.su^
 ||hi10anime.com^
@@ -534,7 +534,6 @@
 ||kawaiianime.cc^
 ||kayoanime.com^
 ||kazemakase.wjg.jp^
-||kazora.cc^
 ||kcnawatch.us^
 ||kdesa.app^
 ||kdesa.stream^
@@ -813,10 +812,12 @@
 ||overtakefans.com^
 ||pahe-note.md^
 ||pahe.ink^
+||pahenime.com^
 ||palanq.win^
 ||partitioned-cookies.md^
 ||paste.to^
 ||pawflix.foo.ng^
+||pflix.net^
 ||phate.io^
 ||phi-phenomenon.org^
 ||phland.org^
@@ -886,9 +887,9 @@
 ||realityripple.com^
 ||reanime.cz^
 ||reanime.wtf^
-||redflix.club^
+||redflix.ac^
 ||redflix.fans^
-||redflix.one^
+||redflix.st^
 ||redsquirrel87.com^
 ||reedstreams.link^
 ||reedstreams.st^
@@ -985,7 +986,6 @@
 ||smacke.net^
 ||smashystream.xyz^
 ||smoores.gitlab.io^
-||soapgo.to^
 ||soccerfull.net^
 ||soft.ac^
 ||soft98.ir^
@@ -1123,6 +1123,7 @@
 ||tokusatsu-fc.jp^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
+||tom-moroney.com^
 ||tomeko.net^
 ||tonkacine.watch^
 ||toomics.com^
@@ -1236,8 +1237,8 @@
 ||watchprowrestling.store^
 ||watchreplay.net^
 ||watchseries.bar^
-||watchseries.cool^
 ||watchseries.domains^
+||watchseries.show^
 ||watchsports.su^
 ||watchttn.com^
 ||watchtvs.live^
@@ -1377,6 +1378,7 @@
 ||www.furinkan.com^
 ||www.futbol-x.top^
 ||www.futbol-x.xyz^
+||www.galaxymovies.app^
 ||www.gamingalexandria.com^
 ||www.gestdown.info^
 ||www.getmusicbee.com^
@@ -1494,6 +1496,7 @@
 ||www.tcj.com^
 ||www.tehparadox.net^
 ||www.the-classic-movies.com^
+||www.the-numbers.com^
 ||www.theoasg.com^
 ||www.thewutangcollection.com^
 ||www.theyshootpictures.com^
@@ -1744,10 +1747,9 @@
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anivault.tv
 ! 0.0.0.0 aniwaves.ru
+! 0.0.0.0 anixo.cfd
+! 0.0.0.0 anixo.live
 ! 0.0.0.0 anixo.online
-! 0.0.0.0 anixtv.in
-! 0.0.0.0 anixtv.us.cc
-! 0.0.0.0 anixx.fun
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 anonops.com
@@ -2059,6 +2061,7 @@
 ! 0.0.0.0 hdencode.org
 ! 0.0.0.0 hdhub4u.fr
 ! 0.0.0.0 hdmovieshub.fyi
+! 0.0.0.0 hdtoday.com.tr
 ! 0.0.0.0 henshingrid.blogspot.com
 ! 0.0.0.0 hexa.su
 ! 0.0.0.0 hi10anime.com
@@ -2123,7 +2126,6 @@
 ! 0.0.0.0 kawaiianime.cc
 ! 0.0.0.0 kayoanime.com
 ! 0.0.0.0 kazemakase.wjg.jp
-! 0.0.0.0 kazora.cc
 ! 0.0.0.0 kcnawatch.us
 ! 0.0.0.0 kdesa.app
 ! 0.0.0.0 kdesa.stream
@@ -2402,10 +2404,12 @@
 ! 0.0.0.0 overtakefans.com
 ! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
+! 0.0.0.0 pahenime.com
 ! 0.0.0.0 palanq.win
 ! 0.0.0.0 partitioned-cookies.md
 ! 0.0.0.0 paste.to
 ! 0.0.0.0 pawflix.foo.ng
+! 0.0.0.0 pflix.net
 ! 0.0.0.0 phate.io
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
@@ -2475,9 +2479,9 @@
 ! 0.0.0.0 realityripple.com
 ! 0.0.0.0 reanime.cz
 ! 0.0.0.0 reanime.wtf
-! 0.0.0.0 redflix.club
+! 0.0.0.0 redflix.ac
 ! 0.0.0.0 redflix.fans
-! 0.0.0.0 redflix.one
+! 0.0.0.0 redflix.st
 ! 0.0.0.0 redsquirrel87.com
 ! 0.0.0.0 reedstreams.link
 ! 0.0.0.0 reedstreams.st
@@ -2574,7 +2578,6 @@
 ! 0.0.0.0 smacke.net
 ! 0.0.0.0 smashystream.xyz
 ! 0.0.0.0 smoores.gitlab.io
-! 0.0.0.0 soapgo.to
 ! 0.0.0.0 soccerfull.net
 ! 0.0.0.0 soft.ac
 ! 0.0.0.0 soft98.ir
@@ -2712,6 +2715,7 @@
 ! 0.0.0.0 tokusatsu-fc.jp
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
+! 0.0.0.0 tom-moroney.com
 ! 0.0.0.0 tomeko.net
 ! 0.0.0.0 tonkacine.watch
 ! 0.0.0.0 toomics.com
@@ -2825,8 +2829,8 @@
 ! 0.0.0.0 watchprowrestling.store
 ! 0.0.0.0 watchreplay.net
 ! 0.0.0.0 watchseries.bar
-! 0.0.0.0 watchseries.cool
 ! 0.0.0.0 watchseries.domains
+! 0.0.0.0 watchseries.show
 ! 0.0.0.0 watchsports.su
 ! 0.0.0.0 watchttn.com
 ! 0.0.0.0 watchtvs.live
@@ -2966,6 +2970,7 @@
 ! 0.0.0.0 www.furinkan.com
 ! 0.0.0.0 www.futbol-x.top
 ! 0.0.0.0 www.futbol-x.xyz
+! 0.0.0.0 www.galaxymovies.app
 ! 0.0.0.0 www.gamingalexandria.com
 ! 0.0.0.0 www.gestdown.info
 ! 0.0.0.0 www.getmusicbee.com
@@ -3083,6 +3088,7 @@
 ! 0.0.0.0 www.tcj.com
 ! 0.0.0.0 www.tehparadox.net
 ! 0.0.0.0 www.the-classic-movies.com
+! 0.0.0.0 www.the-numbers.com
 ! 0.0.0.0 www.theoasg.com
 ! 0.0.0.0 www.thewutangcollection.com
 ! 0.0.0.0 www.theyshootpictures.com
