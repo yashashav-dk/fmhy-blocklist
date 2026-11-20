@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1589 domains)
-! Last updated: 2026-11-19T11:17:09Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1591 domains)
+! Last updated: 2026-11-20T11:03:13Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -353,6 +353,7 @@
 ||dramafren.org^
 ||dramahood.mom^
 ||dramanice.boo^
+||driftly.live^
 ||dubolt.com^
 ||due.moe^
 ||dulo.mov^
@@ -453,6 +454,7 @@
 ||goplay.su^
 ||gotaku.to^
 ||gptsubtitler.com^
+||greyboxtv.duckdns.org^
 ||grids.fun^
 ||gsc.tab^
 ||gttradio.com^
@@ -682,7 +684,6 @@
 ||mobilism-ranks.md^
 ||modlist.in^
 ||moe.emi.aluminium^
-||moelist.net^
 ||moonflix.com^
 ||moonflix.website^
 ||moriyashrine.org^
@@ -909,7 +910,7 @@
 ||retrostrange.com^
 ||retrosystemsrevival.blogspot.com^
 ||revoldiv.com^
-||ridomovies.is^
+||ridomovie.to^
 ||rivestream.ru^
 ||rivestream.win^
 ||rivo.st^
@@ -1552,6 +1553,7 @@
 ||www.zimmerit.moe^
 ||www.zinmanga.net^
 ||www.zophar.net^
+||www4.fusionmovies.to^
 ||x27.html^
 ||xcomic.me^
 ||xdcc.eu^
@@ -1945,6 +1947,7 @@
 ! 0.0.0.0 dramafren.org
 ! 0.0.0.0 dramahood.mom
 ! 0.0.0.0 dramanice.boo
+! 0.0.0.0 driftly.live
 ! 0.0.0.0 dubolt.com
 ! 0.0.0.0 due.moe
 ! 0.0.0.0 dulo.mov
@@ -2045,6 +2048,7 @@
 ! 0.0.0.0 goplay.su
 ! 0.0.0.0 gotaku.to
 ! 0.0.0.0 gptsubtitler.com
+! 0.0.0.0 greyboxtv.duckdns.org
 ! 0.0.0.0 grids.fun
 ! 0.0.0.0 gsc.tab
 ! 0.0.0.0 gttradio.com
@@ -2274,7 +2278,6 @@
 ! 0.0.0.0 mobilism-ranks.md
 ! 0.0.0.0 modlist.in
 ! 0.0.0.0 moe.emi.aluminium
-! 0.0.0.0 moelist.net
 ! 0.0.0.0 moonflix.com
 ! 0.0.0.0 moonflix.website
 ! 0.0.0.0 moriyashrine.org
@@ -2501,7 +2504,7 @@
 ! 0.0.0.0 retrostrange.com
 ! 0.0.0.0 retrosystemsrevival.blogspot.com
 ! 0.0.0.0 revoldiv.com
-! 0.0.0.0 ridomovies.is
+! 0.0.0.0 ridomovie.to
 ! 0.0.0.0 rivestream.ru
 ! 0.0.0.0 rivestream.win
 ! 0.0.0.0 rivo.st
@@ -3144,6 +3147,7 @@
 ! 0.0.0.0 www.zimmerit.moe
 ! 0.0.0.0 www.zinmanga.net
 ! 0.0.0.0 www.zophar.net
+! 0.0.0.0 www4.fusionmovies.to
 ! 0.0.0.0 x27.html
 ! 0.0.0.0 xcomic.me
 ! 0.0.0.0 xdcc.eu

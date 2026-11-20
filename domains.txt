@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1589 domains | updated 2026-11-19T11:17:09Z
+# 1591 domains | updated 2026-11-20T11:03:13Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -349,6 +349,7 @@ dramaday.me
 dramafren.org
 dramahood.mom
 dramanice.boo
+driftly.live
 dubolt.com
 due.moe
 dulo.mov
@@ -449,6 +450,7 @@ goplay.ml
 goplay.su
 gotaku.to
 gptsubtitler.com
+greyboxtv.duckdns.org
 grids.fun
 gsc.tab
 gttradio.com
@@ -678,7 +680,6 @@ mlblive.net
 mobilism-ranks.md
 modlist.in
 moe.emi.aluminium
-moelist.net
 moonflix.com
 moonflix.website
 moriyashrine.org
@@ -905,7 +906,7 @@ retroshare.cc
 retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
-ridomovies.is
+ridomovie.to
 rivestream.ru
 rivestream.win
 rivo.st
@@ -1548,6 +1549,7 @@ www.zazamanga.com
 www.zimmerit.moe
 www.zinmanga.net
 www.zophar.net
+www4.fusionmovies.to
 x27.html
 xcomic.me
 xdcc.eu
