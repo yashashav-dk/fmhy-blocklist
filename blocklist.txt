@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1591 domains)
-! Last updated: 2026-11-20T11:03:13Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1590 domains)
+! Last updated: 2026-11-21T10:46:02Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -261,9 +261,9 @@
 ||cinemacity.cc^
 ||cinemaos.in^
 ||cinemaos.live^
+||cinemaos.me^
 ||cinemaos.tech^
 ||cinemata.org^
-||cinemoas.me^
 ||cinemove.cc^
 ||cineruv.website^
 ||cinetaro.to^
@@ -397,7 +397,6 @@
 ||filmo.to^
 ||filmpolski.pl^
 ||films.waploaded.com^
-||filmvault.xyz^
 ||filmzie.com^
 ||find-movie.info^
 ||flickmetrix.com^
@@ -581,6 +580,7 @@
 ||lama.watch^
 ||last.timer^
 ||lastfmstats.com^
+||lemovie.site^
 ||letsanime.blogspot.com^
 ||lfmx.app^
 ||libgen.li^
@@ -1161,7 +1161,6 @@
 ||tvexplorer.live^
 ||tvids.me^
 ||tvnow.st^
-||tvnow247.top^
 ||tvsboy.com^
 ||tvshows.ac^
 ||tvshows4mobile.org^
@@ -1206,7 +1205,7 @@
 ||vipleague.me^
 ||vipotv.com^
 ||virgil.samidy.com^
-||vivarium.su^
+||vivarium.st^
 ||vk.ru^
 ||vknext.net^
 ||vkvideo.ru^
@@ -1855,9 +1854,9 @@
 ! 0.0.0.0 cinemacity.cc
 ! 0.0.0.0 cinemaos.in
 ! 0.0.0.0 cinemaos.live
+! 0.0.0.0 cinemaos.me
 ! 0.0.0.0 cinemaos.tech
 ! 0.0.0.0 cinemata.org
-! 0.0.0.0 cinemoas.me
 ! 0.0.0.0 cinemove.cc
 ! 0.0.0.0 cineruv.website
 ! 0.0.0.0 cinetaro.to
@@ -1991,7 +1990,6 @@
 ! 0.0.0.0 filmo.to
 ! 0.0.0.0 filmpolski.pl
 ! 0.0.0.0 films.waploaded.com
-! 0.0.0.0 filmvault.xyz
 ! 0.0.0.0 filmzie.com
 ! 0.0.0.0 find-movie.info
 ! 0.0.0.0 flickmetrix.com
@@ -2175,6 +2173,7 @@
 ! 0.0.0.0 lama.watch
 ! 0.0.0.0 last.timer
 ! 0.0.0.0 lastfmstats.com
+! 0.0.0.0 lemovie.site
 ! 0.0.0.0 letsanime.blogspot.com
 ! 0.0.0.0 lfmx.app
 ! 0.0.0.0 libgen.li
@@ -2755,7 +2754,6 @@
 ! 0.0.0.0 tvexplorer.live
 ! 0.0.0.0 tvids.me
 ! 0.0.0.0 tvnow.st
-! 0.0.0.0 tvnow247.top
 ! 0.0.0.0 tvsboy.com
 ! 0.0.0.0 tvshows.ac
 ! 0.0.0.0 tvshows4mobile.org
@@ -2800,7 +2798,7 @@
 ! 0.0.0.0 vipleague.me
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
-! 0.0.0.0 vivarium.su
+! 0.0.0.0 vivarium.st
 ! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
 ! 0.0.0.0 vkvideo.ru

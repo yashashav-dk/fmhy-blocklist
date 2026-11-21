@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1591 domains | updated 2026-11-20T11:03:13Z
+# 1590 domains | updated 2026-11-21T10:46:02Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -257,9 +257,9 @@ cinema.army
 cinemacity.cc
 cinemaos.in
 cinemaos.live
+cinemaos.me
 cinemaos.tech
 cinemata.org
-cinemoas.me
 cinemove.cc
 cineruv.website
 cinetaro.to
@@ -393,7 +393,6 @@ filmo.platfo.es
 filmo.to
 filmpolski.pl
 films.waploaded.com
-filmvault.xyz
 filmzie.com
 find-movie.info
 flickmetrix.com
@@ -577,6 +576,7 @@ kyren.moe
 lama.watch
 last.timer
 lastfmstats.com
+lemovie.site
 letsanime.blogspot.com
 lfmx.app
 libgen.li
@@ -1157,7 +1157,6 @@ tvcharts.co
 tvexplorer.live
 tvids.me
 tvnow.st
-tvnow247.top
 tvsboy.com
 tvshows.ac
 tvshows4mobile.org
@@ -1202,7 +1201,7 @@ viewtopic.php
 vipleague.me
 vipotv.com
 virgil.samidy.com
-vivarium.su
+vivarium.st
 vk.ru
 vknext.net
 vkvideo.ru
