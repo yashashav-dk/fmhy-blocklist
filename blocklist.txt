@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1590 domains)
-! Last updated: 2026-11-21T10:46:02Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1595 domains)
+! Last updated: 2026-11-22T10:53:09Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -157,7 +157,6 @@
 ||aniwaves.ru^
 ||anixo.cfd^
 ||anixo.live^
-||anixo.online^
 ||anizone.to^
 ||annas-archive.gl^
 ||anonops.com^
@@ -399,6 +398,7 @@
 ||films.waploaded.com^
 ||filmzie.com^
 ||find-movie.info^
+||fli.cx^
 ||flickmetrix.com^
 ||flickystream.mov^
 ||fliker.freebuff.app^
@@ -451,6 +451,8 @@
 ||go.aftvnews.com^
 ||goplay.ml^
 ||goplay.su^
+||gotaku.ch^
+||gotaku.li^
 ||gotaku.to^
 ||gptsubtitler.com^
 ||greyboxtv.duckdns.org^
@@ -483,6 +485,8 @@
 ||home.html^
 ||home.php^
 ||hoofoot.net^
+||httpsld.way2movies.vip^
+||httpsway2movies.vip^
 ||huh.xdmovies.wtf^
 ||huhu.to^
 ||hydrahd.com^
@@ -491,6 +495,7 @@
 ||i.wotaku.wiki^
 ||iamscum.wordpress.com^
 ||igmdb.com^
+||igotaku.to^
 ||iklone.org^
 ||in.krosbits.musicolet^
 ||inazuma.rl404.com^
@@ -681,6 +686,7 @@
 ||mkvbase.site^
 ||mkvdrama.net^
 ||mlblive.net^
+||mmareplayall.com^
 ||mobilism-ranks.md^
 ||modlist.in^
 ||moe.emi.aluminium^
@@ -1005,7 +1011,7 @@
 ||spelunkr.tv^
 ||spin.moe^
 ||sportarr.net^
-||sportontv.click^
+||sportontv.stream^
 ||sportsbite.org^
 ||sportsurge.st^
 ||sportsurges.st^
@@ -1105,7 +1111,6 @@
 ||thetvapp.plus^
 ||thewiki.moe^
 ||theyshootzombies.com^
-||thugtv.online^
 ||thugtv.st^
 ||thwiki.cc^
 ||tidal.odskyler.com^
@@ -1750,7 +1755,6 @@
 ! 0.0.0.0 aniwaves.ru
 ! 0.0.0.0 anixo.cfd
 ! 0.0.0.0 anixo.live
-! 0.0.0.0 anixo.online
 ! 0.0.0.0 anizone.to
 ! 0.0.0.0 annas-archive.gl
 ! 0.0.0.0 anonops.com
@@ -1992,6 +1996,7 @@
 ! 0.0.0.0 films.waploaded.com
 ! 0.0.0.0 filmzie.com
 ! 0.0.0.0 find-movie.info
+! 0.0.0.0 fli.cx
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
 ! 0.0.0.0 fliker.freebuff.app
@@ -2044,6 +2049,8 @@
 ! 0.0.0.0 go.aftvnews.com
 ! 0.0.0.0 goplay.ml
 ! 0.0.0.0 goplay.su
+! 0.0.0.0 gotaku.ch
+! 0.0.0.0 gotaku.li
 ! 0.0.0.0 gotaku.to
 ! 0.0.0.0 gptsubtitler.com
 ! 0.0.0.0 greyboxtv.duckdns.org
@@ -2076,6 +2083,8 @@
 ! 0.0.0.0 home.html
 ! 0.0.0.0 home.php
 ! 0.0.0.0 hoofoot.net
+! 0.0.0.0 httpsld.way2movies.vip
+! 0.0.0.0 httpsway2movies.vip
 ! 0.0.0.0 huh.xdmovies.wtf
 ! 0.0.0.0 huhu.to
 ! 0.0.0.0 hydrahd.com
@@ -2084,6 +2093,7 @@
 ! 0.0.0.0 i.wotaku.wiki
 ! 0.0.0.0 iamscum.wordpress.com
 ! 0.0.0.0 igmdb.com
+! 0.0.0.0 igotaku.to
 ! 0.0.0.0 iklone.org
 ! 0.0.0.0 in.krosbits.musicolet
 ! 0.0.0.0 inazuma.rl404.com
@@ -2274,6 +2284,7 @@
 ! 0.0.0.0 mkvbase.site
 ! 0.0.0.0 mkvdrama.net
 ! 0.0.0.0 mlblive.net
+! 0.0.0.0 mmareplayall.com
 ! 0.0.0.0 mobilism-ranks.md
 ! 0.0.0.0 modlist.in
 ! 0.0.0.0 moe.emi.aluminium
@@ -2598,7 +2609,7 @@
 ! 0.0.0.0 spelunkr.tv
 ! 0.0.0.0 spin.moe
 ! 0.0.0.0 sportarr.net
-! 0.0.0.0 sportontv.click
+! 0.0.0.0 sportontv.stream
 ! 0.0.0.0 sportsbite.org
 ! 0.0.0.0 sportsurge.st
 ! 0.0.0.0 sportsurges.st
@@ -2698,7 +2709,6 @@
 ! 0.0.0.0 thetvapp.plus
 ! 0.0.0.0 thewiki.moe
 ! 0.0.0.0 theyshootzombies.com
-! 0.0.0.0 thugtv.online
 ! 0.0.0.0 thugtv.st
 ! 0.0.0.0 thwiki.cc
 ! 0.0.0.0 tidal.odskyler.com

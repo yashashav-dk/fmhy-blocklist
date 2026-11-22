@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1590 domains | updated 2026-11-21T10:46:02Z
+# 1595 domains | updated 2026-11-22T10:53:09Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -153,7 +153,6 @@ anivault.tv
 aniwaves.ru
 anixo.cfd
 anixo.live
-anixo.online
 anizone.to
 annas-archive.gl
 anonops.com
@@ -395,6 +394,7 @@ filmpolski.pl
 films.waploaded.com
 filmzie.com
 find-movie.info
+fli.cx
 flickmetrix.com
 flickystream.mov
 fliker.freebuff.app
@@ -447,6 +447,8 @@ global.toptoon.com
 go.aftvnews.com
 goplay.ml
 goplay.su
+gotaku.ch
+gotaku.li
 gotaku.to
 gptsubtitler.com
 greyboxtv.duckdns.org
@@ -479,6 +481,8 @@ hollymoviehd.cc
 home.html
 home.php
 hoofoot.net
+httpsld.way2movies.vip
+httpsway2movies.vip
 huh.xdmovies.wtf
 huhu.to
 hydrahd.com
@@ -487,6 +491,7 @@ hydrahd.info
 i.wotaku.wiki
 iamscum.wordpress.com
 igmdb.com
+igotaku.to
 iklone.org
 in.krosbits.musicolet
 inazuma.rl404.com
@@ -677,6 +682,7 @@ mkissa.to
 mkvbase.site
 mkvdrama.net
 mlblive.net
+mmareplayall.com
 mobilism-ranks.md
 modlist.in
 moe.emi.aluminium
@@ -1001,7 +1007,7 @@ spacedom.live
 spelunkr.tv
 spin.moe
 sportarr.net
-sportontv.click
+sportontv.stream
 sportsbite.org
 sportsurge.st
 sportsurges.st
@@ -1101,7 +1107,6 @@ thesilentlibrary.com
 thetvapp.plus
 thewiki.moe
 theyshootzombies.com
-thugtv.online
 thugtv.st
 thwiki.cc
 tidal.odskyler.com
