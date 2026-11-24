@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1593 domains | updated 2026-11-23T11:58:36Z
+# 1590 domains | updated 2026-11-24T13:24:34Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -547,7 +547,6 @@ kimoitv.com
 kindlemodding.org
 kinohd.app
 kissasian.com.gr
-kissasian.video
 kissbae.com
 kisskh.club
 kisskh.co
@@ -824,6 +823,7 @@ phate.io
 phi-phenomenon.org
 phland.org
 phonofilm.cc
+pieprime.cc
 pikahd.co
 piratexplay.cc
 piratexplay.com
@@ -1012,7 +1012,6 @@ sportsurge.st
 sportsurges.st
 srstop.link
 ssrmovies.blue
-sstreamsports99.is
 staff.iklone.org
 staging.ranobe.app
 static.sneedex.moe
@@ -1077,7 +1076,6 @@ synthv.me
 tachiyomiaz.apk
 tagger.site
 taiga.moe
-tap4sport.ci
 tap4sport.link
 tap4sport.pw
 tap4sport.st
@@ -1323,7 +1321,6 @@ www.behindthemanga.com
 www.best-moviez.ws
 www.bingeclock.com
 www.bintv.cc
-www.bintv.link
 www.brokensilenze.net
 www.bumpworthy.com
 www.byutv.org

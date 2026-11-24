@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1593 domains)
-! Last updated: 2026-11-23T11:58:36Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1590 domains)
+! Last updated: 2026-11-24T13:24:34Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -551,7 +551,6 @@
 ||kindlemodding.org^
 ||kinohd.app^
 ||kissasian.com.gr^
-||kissasian.video^
 ||kissbae.com^
 ||kisskh.club^
 ||kisskh.co^
@@ -828,6 +827,7 @@
 ||phi-phenomenon.org^
 ||phland.org^
 ||phonofilm.cc^
+||pieprime.cc^
 ||pikahd.co^
 ||piratexplay.cc^
 ||piratexplay.com^
@@ -1016,7 +1016,6 @@
 ||sportsurges.st^
 ||srstop.link^
 ||ssrmovies.blue^
-||sstreamsports99.is^
 ||staff.iklone.org^
 ||staging.ranobe.app^
 ||static.sneedex.moe^
@@ -1081,7 +1080,6 @@
 ||tachiyomiaz.apk^
 ||tagger.site^
 ||taiga.moe^
-||tap4sport.ci^
 ||tap4sport.link^
 ||tap4sport.pw^
 ||tap4sport.st^
@@ -1327,7 +1325,6 @@
 ||www.best-moviez.ws^
 ||www.bingeclock.com^
 ||www.bintv.cc^
-||www.bintv.link^
 ||www.brokensilenze.net^
 ||www.bumpworthy.com^
 ||www.byutv.org^
@@ -2147,7 +2144,6 @@
 ! 0.0.0.0 kindlemodding.org
 ! 0.0.0.0 kinohd.app
 ! 0.0.0.0 kissasian.com.gr
-! 0.0.0.0 kissasian.video
 ! 0.0.0.0 kissbae.com
 ! 0.0.0.0 kisskh.club
 ! 0.0.0.0 kisskh.co
@@ -2424,6 +2420,7 @@
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
 ! 0.0.0.0 phonofilm.cc
+! 0.0.0.0 pieprime.cc
 ! 0.0.0.0 pikahd.co
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
@@ -2612,7 +2609,6 @@
 ! 0.0.0.0 sportsurges.st
 ! 0.0.0.0 srstop.link
 ! 0.0.0.0 ssrmovies.blue
-! 0.0.0.0 sstreamsports99.is
 ! 0.0.0.0 staff.iklone.org
 ! 0.0.0.0 staging.ranobe.app
 ! 0.0.0.0 static.sneedex.moe
@@ -2677,7 +2673,6 @@
 ! 0.0.0.0 tachiyomiaz.apk
 ! 0.0.0.0 tagger.site
 ! 0.0.0.0 taiga.moe
-! 0.0.0.0 tap4sport.ci
 ! 0.0.0.0 tap4sport.link
 ! 0.0.0.0 tap4sport.pw
 ! 0.0.0.0 tap4sport.st
@@ -2923,7 +2918,6 @@
 ! 0.0.0.0 www.best-moviez.ws
 ! 0.0.0.0 www.bingeclock.com
 ! 0.0.0.0 www.bintv.cc
-! 0.0.0.0 www.bintv.link
 ! 0.0.0.0 www.brokensilenze.net
 ! 0.0.0.0 www.bumpworthy.com
 ! 0.0.0.0 www.byutv.org
