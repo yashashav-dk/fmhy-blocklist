@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1590 domains)
-! Last updated: 2026-11-25T12:18:34Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1589 domains)
+! Last updated: 2026-11-26T12:01:25Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -103,6 +103,7 @@
 ||anime.nexus^
 ||anime.plus^
 ||anime.uniquestream.net^
+||anime.way2movies.vip^
 ||anime4i.com^
 ||anime7.download^
 ||animeawards.moe^
@@ -144,8 +145,8 @@
 ||aninado.com^
 ||aninzb.moe^
 ||aniplaylist.com^
+||anisnatch.cz^
 ||anisnatch.site^
-||anisnatch.top^
 ||anison.fm^
 ||anisongdb.com^
 ||anistream.one^
@@ -153,7 +154,7 @@
 ||anitools.koopz.rocks^
 ||anitrendz.net^
 ||anivault.tv^
-||aniwaves.ru^
+||aniwaves.tv^
 ||anixo.cfd^
 ||anixo.live^
 ||anizone.to^
@@ -200,7 +201,7 @@
 ||bakabt.me^
 ||baked.live^
 ||banime.top^
-||basementx.lol^
+||basementx.rest^
 ||basic.pp.ua^
 ||basketball-video.com^
 ||basketballreplays.net^
@@ -215,7 +216,7 @@
 ||bgmlist.com^
 ||bilibili.tv^
 ||bingebang.club^
-||bingebang.st^
+||bingebang.sx^
 ||bingebox.ac^
 ||bingeflix.tv^
 ||bingr.st^
@@ -247,6 +248,7 @@
 ||chikianimation.com^
 ||chikianimation.online^
 ||chillflix.lol^
+||cinebros.net^
 ||cinebytv-note.md^
 ||cinebytv.com^
 ||cinecat.eu^
@@ -363,7 +365,6 @@
 ||eddvault.notion.site^
 ||einthusan.tv^
 ||election.run^
-||emmau680.driveraudiencej2zeu49.sbs^
 ||en.anison.fm^
 ||en.gundam-official.com^
 ||en.kinorium.com^
@@ -381,13 +382,13 @@
 ||eztvx.to^
 ||f-droid.org^
 ||f1live.dpdns.org^
-||falconstreams.app^
+||falconstreams.st^
 ||fameboxd.com^
 ||famelack.com^
 ||fancons.com^
 ||fanedit.org^
 ||fantasticsoda.com^
-||fbstream.is^
+||fbstream.st^
 ||fcast.org^
 ||filmdilemma.com^
 ||filmfans.org^
@@ -401,11 +402,9 @@
 ||fli.cx^
 ||flickmetrix.com^
 ||flickystream.mov^
-||fliker.freebuff.app^
-||flive.dpdns.org^
+||flive.cc.cd^
 ||flixer.cx^
 ||flixer.gd^
-||flixer.su^
 ||flixfusion.cyou^
 ||flixhop.com^
 ||flixhouse.com^
@@ -414,6 +413,7 @@
 ||flixvo.pro^
 ||flyflix.cc^
 ||flystream.net^
+||flystream.pk^
 ||fmfau.com^
 ||fmstream.org^
 ||footballia.eu^
@@ -532,6 +532,7 @@
 ||kaa.lt^
 ||kagane.moe^
 ||kagane.org^
+||kaizoku.site^
 ||kaptain.stream^
 ||kara.moe^
 ||katzddl.net^
@@ -555,10 +556,8 @@
 ||kisskh.club^
 ||kisskh.co^
 ||kisskh.dk^
-||kisskh.fr^
 ||kisskh.id^
 ||kisskh.is^
-||kisskh.or.at^
 ||kisskh.ovh^
 ||kissneo.co^
 ||kitsunekko.net^
@@ -651,7 +650,7 @@
 ||martinbarker.me^
 ||marvelguides.com^
 ||marvelreading.com^
-||matchora.to^
+||matchora.st^
 ||max-rls.com^
 ||mdblist.com^
 ||me.timschneeberger.jdsp^
@@ -789,7 +788,7 @@
 ||old.way2movies.vip^
 ||oldcomicsworld.blogspot.com^
 ||oldgamemags.tumblr.com^
-||olympicweb.me^
+||olympiclive.me^
 ||omega.gg^
 ||ondemand.st^
 ||ondemand.to^
@@ -801,7 +800,6 @@
 ||onhockey.tv^
 ||onionplay.ae^
 ||onisaga.com^
-||onoflix.live^
 ||open-slum.org^
 ||openscrobbler.com^
 ||opensourcealternative.to^
@@ -827,7 +825,6 @@
 ||phi-phenomenon.org^
 ||phland.org^
 ||phonofilm.cc^
-||pieprime.cc^
 ||pikahd.co^
 ||piratexplay.cc^
 ||piratexplay.com^
@@ -1124,10 +1121,12 @@
 ||tmkk.undo.jp^
 ||toflix.co^
 ||tokusatsu-fc.jp^
+||tokusatsunetwork.com^
 ||tokyo-tosho.net^
 ||tokyodross.blogspot.com^
 ||tom-moroney.com^
 ||tomeko.net^
+||tonitrus.online^
 ||tonkacine.watch^
 ||toomics.com^
 ||toonamisquad.com^
@@ -1204,9 +1203,10 @@
 ||vidflix.live^
 ||vidplay.to^
 ||viewtopic.php^
-||vipleague.me^
+||vipleague.li^
 ||vipotv.com^
 ||virgil.samidy.com^
+||vivarium.cx^
 ||vivarium.st^
 ||vk.ru^
 ||vknext.net^
@@ -1559,7 +1559,6 @@
 ||xdmovies.com^
 ||xoxocomic.com^
 ||xtreme-wrestling-downloads.com^
-||xyzstreams.st^
 ||yaoi.me^
 ||yattatachi.com^
 ||yenime.net^
@@ -1696,6 +1695,7 @@
 ! 0.0.0.0 anime.nexus
 ! 0.0.0.0 anime.plus
 ! 0.0.0.0 anime.uniquestream.net
+! 0.0.0.0 anime.way2movies.vip
 ! 0.0.0.0 anime4i.com
 ! 0.0.0.0 anime7.download
 ! 0.0.0.0 animeawards.moe
@@ -1737,8 +1737,8 @@
 ! 0.0.0.0 aninado.com
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 aniplaylist.com
+! 0.0.0.0 anisnatch.cz
 ! 0.0.0.0 anisnatch.site
-! 0.0.0.0 anisnatch.top
 ! 0.0.0.0 anison.fm
 ! 0.0.0.0 anisongdb.com
 ! 0.0.0.0 anistream.one
@@ -1746,7 +1746,7 @@
 ! 0.0.0.0 anitools.koopz.rocks
 ! 0.0.0.0 anitrendz.net
 ! 0.0.0.0 anivault.tv
-! 0.0.0.0 aniwaves.ru
+! 0.0.0.0 aniwaves.tv
 ! 0.0.0.0 anixo.cfd
 ! 0.0.0.0 anixo.live
 ! 0.0.0.0 anizone.to
@@ -1793,7 +1793,7 @@
 ! 0.0.0.0 bakabt.me
 ! 0.0.0.0 baked.live
 ! 0.0.0.0 banime.top
-! 0.0.0.0 basementx.lol
+! 0.0.0.0 basementx.rest
 ! 0.0.0.0 basic.pp.ua
 ! 0.0.0.0 basketball-video.com
 ! 0.0.0.0 basketballreplays.net
@@ -1808,7 +1808,7 @@
 ! 0.0.0.0 bgmlist.com
 ! 0.0.0.0 bilibili.tv
 ! 0.0.0.0 bingebang.club
-! 0.0.0.0 bingebang.st
+! 0.0.0.0 bingebang.sx
 ! 0.0.0.0 bingebox.ac
 ! 0.0.0.0 bingeflix.tv
 ! 0.0.0.0 bingr.st
@@ -1840,6 +1840,7 @@
 ! 0.0.0.0 chikianimation.com
 ! 0.0.0.0 chikianimation.online
 ! 0.0.0.0 chillflix.lol
+! 0.0.0.0 cinebros.net
 ! 0.0.0.0 cinebytv-note.md
 ! 0.0.0.0 cinebytv.com
 ! 0.0.0.0 cinecat.eu
@@ -1956,7 +1957,6 @@
 ! 0.0.0.0 eddvault.notion.site
 ! 0.0.0.0 einthusan.tv
 ! 0.0.0.0 election.run
-! 0.0.0.0 emmau680.driveraudiencej2zeu49.sbs
 ! 0.0.0.0 en.anison.fm
 ! 0.0.0.0 en.gundam-official.com
 ! 0.0.0.0 en.kinorium.com
@@ -1974,13 +1974,13 @@
 ! 0.0.0.0 eztvx.to
 ! 0.0.0.0 f-droid.org
 ! 0.0.0.0 f1live.dpdns.org
-! 0.0.0.0 falconstreams.app
+! 0.0.0.0 falconstreams.st
 ! 0.0.0.0 fameboxd.com
 ! 0.0.0.0 famelack.com
 ! 0.0.0.0 fancons.com
 ! 0.0.0.0 fanedit.org
 ! 0.0.0.0 fantasticsoda.com
-! 0.0.0.0 fbstream.is
+! 0.0.0.0 fbstream.st
 ! 0.0.0.0 fcast.org
 ! 0.0.0.0 filmdilemma.com
 ! 0.0.0.0 filmfans.org
@@ -1994,11 +1994,9 @@
 ! 0.0.0.0 fli.cx
 ! 0.0.0.0 flickmetrix.com
 ! 0.0.0.0 flickystream.mov
-! 0.0.0.0 fliker.freebuff.app
-! 0.0.0.0 flive.dpdns.org
+! 0.0.0.0 flive.cc.cd
 ! 0.0.0.0 flixer.cx
 ! 0.0.0.0 flixer.gd
-! 0.0.0.0 flixer.su
 ! 0.0.0.0 flixfusion.cyou
 ! 0.0.0.0 flixhop.com
 ! 0.0.0.0 flixhouse.com
@@ -2007,6 +2005,7 @@
 ! 0.0.0.0 flixvo.pro
 ! 0.0.0.0 flyflix.cc
 ! 0.0.0.0 flystream.net
+! 0.0.0.0 flystream.pk
 ! 0.0.0.0 fmfau.com
 ! 0.0.0.0 fmstream.org
 ! 0.0.0.0 footballia.eu
@@ -2125,6 +2124,7 @@
 ! 0.0.0.0 kaa.lt
 ! 0.0.0.0 kagane.moe
 ! 0.0.0.0 kagane.org
+! 0.0.0.0 kaizoku.site
 ! 0.0.0.0 kaptain.stream
 ! 0.0.0.0 kara.moe
 ! 0.0.0.0 katzddl.net
@@ -2148,10 +2148,8 @@
 ! 0.0.0.0 kisskh.club
 ! 0.0.0.0 kisskh.co
 ! 0.0.0.0 kisskh.dk
-! 0.0.0.0 kisskh.fr
 ! 0.0.0.0 kisskh.id
 ! 0.0.0.0 kisskh.is
-! 0.0.0.0 kisskh.or.at
 ! 0.0.0.0 kisskh.ovh
 ! 0.0.0.0 kissneo.co
 ! 0.0.0.0 kitsunekko.net
@@ -2244,7 +2242,7 @@
 ! 0.0.0.0 martinbarker.me
 ! 0.0.0.0 marvelguides.com
 ! 0.0.0.0 marvelreading.com
-! 0.0.0.0 matchora.to
+! 0.0.0.0 matchora.st
 ! 0.0.0.0 max-rls.com
 ! 0.0.0.0 mdblist.com
 ! 0.0.0.0 me.timschneeberger.jdsp
@@ -2382,7 +2380,7 @@
 ! 0.0.0.0 old.way2movies.vip
 ! 0.0.0.0 oldcomicsworld.blogspot.com
 ! 0.0.0.0 oldgamemags.tumblr.com
-! 0.0.0.0 olympicweb.me
+! 0.0.0.0 olympiclive.me
 ! 0.0.0.0 omega.gg
 ! 0.0.0.0 ondemand.st
 ! 0.0.0.0 ondemand.to
@@ -2394,7 +2392,6 @@
 ! 0.0.0.0 onhockey.tv
 ! 0.0.0.0 onionplay.ae
 ! 0.0.0.0 onisaga.com
-! 0.0.0.0 onoflix.live
 ! 0.0.0.0 open-slum.org
 ! 0.0.0.0 openscrobbler.com
 ! 0.0.0.0 opensourcealternative.to
@@ -2420,7 +2417,6 @@
 ! 0.0.0.0 phi-phenomenon.org
 ! 0.0.0.0 phland.org
 ! 0.0.0.0 phonofilm.cc
-! 0.0.0.0 pieprime.cc
 ! 0.0.0.0 pikahd.co
 ! 0.0.0.0 piratexplay.cc
 ! 0.0.0.0 piratexplay.com
@@ -2717,10 +2713,12 @@
 ! 0.0.0.0 tmkk.undo.jp
 ! 0.0.0.0 toflix.co
 ! 0.0.0.0 tokusatsu-fc.jp
+! 0.0.0.0 tokusatsunetwork.com
 ! 0.0.0.0 tokyo-tosho.net
 ! 0.0.0.0 tokyodross.blogspot.com
 ! 0.0.0.0 tom-moroney.com
 ! 0.0.0.0 tomeko.net
+! 0.0.0.0 tonitrus.online
 ! 0.0.0.0 tonkacine.watch
 ! 0.0.0.0 toomics.com
 ! 0.0.0.0 toonamisquad.com
@@ -2797,9 +2795,10 @@
 ! 0.0.0.0 vidflix.live
 ! 0.0.0.0 vidplay.to
 ! 0.0.0.0 viewtopic.php
-! 0.0.0.0 vipleague.me
+! 0.0.0.0 vipleague.li
 ! 0.0.0.0 vipotv.com
 ! 0.0.0.0 virgil.samidy.com
+! 0.0.0.0 vivarium.cx
 ! 0.0.0.0 vivarium.st
 ! 0.0.0.0 vk.ru
 ! 0.0.0.0 vknext.net
@@ -3152,7 +3151,6 @@
 ! 0.0.0.0 xdmovies.com
 ! 0.0.0.0 xoxocomic.com
 ! 0.0.0.0 xtreme-wrestling-downloads.com
-! 0.0.0.0 xyzstreams.st
 ! 0.0.0.0 yaoi.me
 ! 0.0.0.0 yattatachi.com
 ! 0.0.0.0 yenime.net
