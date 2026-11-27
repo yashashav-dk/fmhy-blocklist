@@ -1,10 +1,11 @@
 # FMHY Binge Blocker — plain domain list
-# 1589 domains | updated 2026-11-26T12:01:25Z
+# 1588 domains | updated 2026-11-27T11:53:03Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
 0xdb.org
 1024teradl.com
+111flix.net
 123animehub.cc
 123moviesfree.club
 123wrestling.com
@@ -15,8 +16,8 @@
 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 1max.top
 1shows-note.md
-1shows.org
 1vegamovies.baby
+1waves.gd
 2dhive.com
 2ecbbd610840-trakt.baby-beamup.club
 35mm.online
@@ -26,7 +27,6 @@
 4search.neocities.org
 4stats.io
 56bca7d190fc-syncribullet.baby-beamup.club
-67movies.st
 720pier.ru
 735ee7b.html
 7a625ac658ec-animeo.baby-beamup.club
@@ -66,6 +66,7 @@ amvenfer.fr
 amvnews.ru
 ani.nz
 ani.pm
+ani.vg
 anianimals.moe
 anibase.net
 aniblogtracker.app
@@ -74,7 +75,7 @@ anica.jp
 anichan.to
 anichart.net
 anicheck.moe
-anicine.sbs
+anicine.live
 aniclover.cc
 anidap.lol
 anidl.org
@@ -141,6 +142,8 @@ animusic.moe
 aninado.com
 aninzb.moe
 aniplaylist.com
+anipm.pk
+anipm.tv
 anisnatch.cz
 anisnatch.site
 anison.fm
@@ -197,7 +200,7 @@ baechusquad.download
 bakabt.me
 baked.live
 banime.top
-basementx.rest
+basement.rest
 basic.pp.ua
 basketball-video.com
 basketballreplays.net
@@ -335,7 +338,6 @@ diostream.cc
 directory.html
 dlhd.st
 dmtalkies.com
-docs.aiostreams.viren070.me
 docs.cal.syoboi.jp
 docs.squidify.org
 docs.wyzie.io
@@ -377,7 +379,6 @@ extranet.torrentbay.st
 extto.com
 eztvx.to
 f-droid.org
-f1live.dpdns.org
 falconstreams.st
 fameboxd.com
 famelack.com
@@ -407,7 +408,7 @@ flixhouse.com
 flixtrz.com
 flixvo.fun
 flixvo.pro
-flyflix.cc
+flyflix.app
 flystream.net
 flystream.pk
 fmfau.com
@@ -418,11 +419,11 @@ fooyin.org
 forum.mobilism.org
 foundfootagecritic.com
 fprime.at
-framextv.xyz
+framextv.cc
 free-movies.to
 freekz.to
 freepopular.htm
-freestreams-live1h.pk
+freestreams-live1j.pk
 freesub.live
 freetvgarden.com
 freetvz.com
@@ -506,7 +507,6 @@ iptv-player.me
 iptv-web.app
 iptv.community
 iptv.surf
-iptv.watchott.org
 iptvplayer.stream
 iqdb.org
 iteraplay.com
@@ -663,6 +663,7 @@ metron.cloud
 mgdb.himitsukichi.com
 michaelsapps.dk
 midloop.net
+mightyavengers.net
 mikeyguinness.com
 mikudb.moe
 mikuinv.apicalshark.dedyn.io
@@ -718,7 +719,6 @@ my9games.com
 myasiantv.com.bz
 mydublist.com
 myrunningman.com
-mysoccerpulse.com
 namu.wiki
 narjomusic.com
 naruldonghua.com
@@ -809,7 +809,6 @@ osvault.weebly.com
 otakucalendar.com
 otcs.minuspoint.com
 overtakefans.com
-pahe-note.md
 pahe.ink
 pahenime.com
 palanq.win
@@ -910,8 +909,9 @@ retrostrange.com
 retrosystemsrevival.blogspot.com
 revoldiv.com
 ridomovie.to
-rivestream.ru
-rivestream.win
+rivestream.cz
+rivestream.pro
+rivestream.st
 rivo.st
 rlsbb.cc
 rlsbb.in
@@ -1031,7 +1031,7 @@ streamex.ws
 streamfree.top
 streamic.st
 streaming.cineverse.com
-streamingunity.fun
+streamingunity.day
 streamsports99.is
 streamsports99.website
 streamtim.com
@@ -1167,7 +1167,7 @@ typetype.video
 ubu.com
 ultra.cc
 ultrasonic.gitlab.io
-ume.to
+uncannyxmen.net
 unogs.com
 unpackerr.zip
 up-next.dontwanttos.top
@@ -1191,7 +1191,6 @@ vgm.impulseinformatica.com.br
 vgmdb.net
 vgmrips.net
 vgmusic.com
-vidbox.vc
 vidbox.website
 vidbox.wtf
 videa.hu
@@ -1357,7 +1356,7 @@ www.entertainme.fun
 www.eshita.jp
 www.eyedex.org
 www.fawanews.sc
-www.fctv33go.hair
+www.fctv33go.beauty
 www.fender.com
 www.fileeagle.com
 www.filepuma.com

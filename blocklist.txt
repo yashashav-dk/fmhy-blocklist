@@ -1,6 +1,6 @@
 ! Title: FMHY Binge Blocker
-! Description: Auto-generated blocklist from FMHY + Wotaku (1589 domains)
-! Last updated: 2026-11-26T12:01:25Z
+! Description: Auto-generated blocklist from FMHY + Wotaku (1588 domains)
+! Last updated: 2026-11-27T11:53:03Z
 ! Homepage: https://github.com/yashashav-dk/fmhy-blocklist
 ! License: MIT
 !
@@ -9,6 +9,7 @@
 ||0115765.com^
 ||0xdb.org^
 ||1024teradl.com^
+||111flix.net^
 ||123animehub.cc^
 ||123moviesfree.club^
 ||123wrestling.com^
@@ -19,8 +20,8 @@
 ||1fe84bc728af-stremio-anime-catalogs.baby-beamup.club^
 ||1max.top^
 ||1shows-note.md^
-||1shows.org^
 ||1vegamovies.baby^
+||1waves.gd^
 ||2dhive.com^
 ||2ecbbd610840-trakt.baby-beamup.club^
 ||35mm.online^
@@ -30,7 +31,6 @@
 ||4search.neocities.org^
 ||4stats.io^
 ||56bca7d190fc-syncribullet.baby-beamup.club^
-||67movies.st^
 ||720pier.ru^
 ||735ee7b.html^
 ||7a625ac658ec-animeo.baby-beamup.club^
@@ -70,6 +70,7 @@
 ||amvnews.ru^
 ||ani.nz^
 ||ani.pm^
+||ani.vg^
 ||anianimals.moe^
 ||anibase.net^
 ||aniblogtracker.app^
@@ -78,7 +79,7 @@
 ||anichan.to^
 ||anichart.net^
 ||anicheck.moe^
-||anicine.sbs^
+||anicine.live^
 ||aniclover.cc^
 ||anidap.lol^
 ||anidl.org^
@@ -145,6 +146,8 @@
 ||aninado.com^
 ||aninzb.moe^
 ||aniplaylist.com^
+||anipm.pk^
+||anipm.tv^
 ||anisnatch.cz^
 ||anisnatch.site^
 ||anison.fm^
@@ -201,7 +204,7 @@
 ||bakabt.me^
 ||baked.live^
 ||banime.top^
-||basementx.rest^
+||basement.rest^
 ||basic.pp.ua^
 ||basketball-video.com^
 ||basketballreplays.net^
@@ -339,7 +342,6 @@
 ||directory.html^
 ||dlhd.st^
 ||dmtalkies.com^
-||docs.aiostreams.viren070.me^
 ||docs.cal.syoboi.jp^
 ||docs.squidify.org^
 ||docs.wyzie.io^
@@ -381,7 +383,6 @@
 ||extto.com^
 ||eztvx.to^
 ||f-droid.org^
-||f1live.dpdns.org^
 ||falconstreams.st^
 ||fameboxd.com^
 ||famelack.com^
@@ -411,7 +412,7 @@
 ||flixtrz.com^
 ||flixvo.fun^
 ||flixvo.pro^
-||flyflix.cc^
+||flyflix.app^
 ||flystream.net^
 ||flystream.pk^
 ||fmfau.com^
@@ -422,11 +423,11 @@
 ||forum.mobilism.org^
 ||foundfootagecritic.com^
 ||fprime.at^
-||framextv.xyz^
+||framextv.cc^
 ||free-movies.to^
 ||freekz.to^
 ||freepopular.htm^
-||freestreams-live1h.pk^
+||freestreams-live1j.pk^
 ||freesub.live^
 ||freetvgarden.com^
 ||freetvz.com^
@@ -510,7 +511,6 @@
 ||iptv-web.app^
 ||iptv.community^
 ||iptv.surf^
-||iptv.watchott.org^
 ||iptvplayer.stream^
 ||iqdb.org^
 ||iteraplay.com^
@@ -667,6 +667,7 @@
 ||mgdb.himitsukichi.com^
 ||michaelsapps.dk^
 ||midloop.net^
+||mightyavengers.net^
 ||mikeyguinness.com^
 ||mikudb.moe^
 ||mikuinv.apicalshark.dedyn.io^
@@ -722,7 +723,6 @@
 ||myasiantv.com.bz^
 ||mydublist.com^
 ||myrunningman.com^
-||mysoccerpulse.com^
 ||namu.wiki^
 ||narjomusic.com^
 ||naruldonghua.com^
@@ -813,7 +813,6 @@
 ||otakucalendar.com^
 ||otcs.minuspoint.com^
 ||overtakefans.com^
-||pahe-note.md^
 ||pahe.ink^
 ||pahenime.com^
 ||palanq.win^
@@ -914,8 +913,9 @@
 ||retrosystemsrevival.blogspot.com^
 ||revoldiv.com^
 ||ridomovie.to^
-||rivestream.ru^
-||rivestream.win^
+||rivestream.cz^
+||rivestream.pro^
+||rivestream.st^
 ||rivo.st^
 ||rlsbb.cc^
 ||rlsbb.in^
@@ -1035,7 +1035,7 @@
 ||streamfree.top^
 ||streamic.st^
 ||streaming.cineverse.com^
-||streamingunity.fun^
+||streamingunity.day^
 ||streamsports99.is^
 ||streamsports99.website^
 ||streamtim.com^
@@ -1171,7 +1171,7 @@
 ||ubu.com^
 ||ultra.cc^
 ||ultrasonic.gitlab.io^
-||ume.to^
+||uncannyxmen.net^
 ||unogs.com^
 ||unpackerr.zip^
 ||up-next.dontwanttos.top^
@@ -1195,7 +1195,6 @@
 ||vgmdb.net^
 ||vgmrips.net^
 ||vgmusic.com^
-||vidbox.vc^
 ||vidbox.website^
 ||vidbox.wtf^
 ||videa.hu^
@@ -1361,7 +1360,7 @@
 ||www.eshita.jp^
 ||www.eyedex.org^
 ||www.fawanews.sc^
-||www.fctv33go.hair^
+||www.fctv33go.beauty^
 ||www.fender.com^
 ||www.fileeagle.com^
 ||www.filepuma.com^
@@ -1601,6 +1600,7 @@
 ! 0.0.0.0 0115765.com
 ! 0.0.0.0 0xdb.org
 ! 0.0.0.0 1024teradl.com
+! 0.0.0.0 111flix.net
 ! 0.0.0.0 123animehub.cc
 ! 0.0.0.0 123moviesfree.club
 ! 0.0.0.0 123wrestling.com
@@ -1611,8 +1611,8 @@
 ! 0.0.0.0 1fe84bc728af-stremio-anime-catalogs.baby-beamup.club
 ! 0.0.0.0 1max.top
 ! 0.0.0.0 1shows-note.md
-! 0.0.0.0 1shows.org
 ! 0.0.0.0 1vegamovies.baby
+! 0.0.0.0 1waves.gd
 ! 0.0.0.0 2dhive.com
 ! 0.0.0.0 2ecbbd610840-trakt.baby-beamup.club
 ! 0.0.0.0 35mm.online
@@ -1622,7 +1622,6 @@
 ! 0.0.0.0 4search.neocities.org
 ! 0.0.0.0 4stats.io
 ! 0.0.0.0 56bca7d190fc-syncribullet.baby-beamup.club
-! 0.0.0.0 67movies.st
 ! 0.0.0.0 720pier.ru
 ! 0.0.0.0 735ee7b.html
 ! 0.0.0.0 7a625ac658ec-animeo.baby-beamup.club
@@ -1662,6 +1661,7 @@
 ! 0.0.0.0 amvnews.ru
 ! 0.0.0.0 ani.nz
 ! 0.0.0.0 ani.pm
+! 0.0.0.0 ani.vg
 ! 0.0.0.0 anianimals.moe
 ! 0.0.0.0 anibase.net
 ! 0.0.0.0 aniblogtracker.app
@@ -1670,7 +1670,7 @@
 ! 0.0.0.0 anichan.to
 ! 0.0.0.0 anichart.net
 ! 0.0.0.0 anicheck.moe
-! 0.0.0.0 anicine.sbs
+! 0.0.0.0 anicine.live
 ! 0.0.0.0 aniclover.cc
 ! 0.0.0.0 anidap.lol
 ! 0.0.0.0 anidl.org
@@ -1737,6 +1737,8 @@
 ! 0.0.0.0 aninado.com
 ! 0.0.0.0 aninzb.moe
 ! 0.0.0.0 aniplaylist.com
+! 0.0.0.0 anipm.pk
+! 0.0.0.0 anipm.tv
 ! 0.0.0.0 anisnatch.cz
 ! 0.0.0.0 anisnatch.site
 ! 0.0.0.0 anison.fm
@@ -1793,7 +1795,7 @@
 ! 0.0.0.0 bakabt.me
 ! 0.0.0.0 baked.live
 ! 0.0.0.0 banime.top
-! 0.0.0.0 basementx.rest
+! 0.0.0.0 basement.rest
 ! 0.0.0.0 basic.pp.ua
 ! 0.0.0.0 basketball-video.com
 ! 0.0.0.0 basketballreplays.net
@@ -1931,7 +1933,6 @@
 ! 0.0.0.0 directory.html
 ! 0.0.0.0 dlhd.st
 ! 0.0.0.0 dmtalkies.com
-! 0.0.0.0 docs.aiostreams.viren070.me
 ! 0.0.0.0 docs.cal.syoboi.jp
 ! 0.0.0.0 docs.squidify.org
 ! 0.0.0.0 docs.wyzie.io
@@ -1973,7 +1974,6 @@
 ! 0.0.0.0 extto.com
 ! 0.0.0.0 eztvx.to
 ! 0.0.0.0 f-droid.org
-! 0.0.0.0 f1live.dpdns.org
 ! 0.0.0.0 falconstreams.st
 ! 0.0.0.0 fameboxd.com
 ! 0.0.0.0 famelack.com
@@ -2003,7 +2003,7 @@
 ! 0.0.0.0 flixtrz.com
 ! 0.0.0.0 flixvo.fun
 ! 0.0.0.0 flixvo.pro
-! 0.0.0.0 flyflix.cc
+! 0.0.0.0 flyflix.app
 ! 0.0.0.0 flystream.net
 ! 0.0.0.0 flystream.pk
 ! 0.0.0.0 fmfau.com
@@ -2014,11 +2014,11 @@
 ! 0.0.0.0 forum.mobilism.org
 ! 0.0.0.0 foundfootagecritic.com
 ! 0.0.0.0 fprime.at
-! 0.0.0.0 framextv.xyz
+! 0.0.0.0 framextv.cc
 ! 0.0.0.0 free-movies.to
 ! 0.0.0.0 freekz.to
 ! 0.0.0.0 freepopular.htm
-! 0.0.0.0 freestreams-live1h.pk
+! 0.0.0.0 freestreams-live1j.pk
 ! 0.0.0.0 freesub.live
 ! 0.0.0.0 freetvgarden.com
 ! 0.0.0.0 freetvz.com
@@ -2102,7 +2102,6 @@
 ! 0.0.0.0 iptv-web.app
 ! 0.0.0.0 iptv.community
 ! 0.0.0.0 iptv.surf
-! 0.0.0.0 iptv.watchott.org
 ! 0.0.0.0 iptvplayer.stream
 ! 0.0.0.0 iqdb.org
 ! 0.0.0.0 iteraplay.com
@@ -2259,6 +2258,7 @@
 ! 0.0.0.0 mgdb.himitsukichi.com
 ! 0.0.0.0 michaelsapps.dk
 ! 0.0.0.0 midloop.net
+! 0.0.0.0 mightyavengers.net
 ! 0.0.0.0 mikeyguinness.com
 ! 0.0.0.0 mikudb.moe
 ! 0.0.0.0 mikuinv.apicalshark.dedyn.io
@@ -2314,7 +2314,6 @@
 ! 0.0.0.0 myasiantv.com.bz
 ! 0.0.0.0 mydublist.com
 ! 0.0.0.0 myrunningman.com
-! 0.0.0.0 mysoccerpulse.com
 ! 0.0.0.0 namu.wiki
 ! 0.0.0.0 narjomusic.com
 ! 0.0.0.0 naruldonghua.com
@@ -2405,7 +2404,6 @@
 ! 0.0.0.0 otakucalendar.com
 ! 0.0.0.0 otcs.minuspoint.com
 ! 0.0.0.0 overtakefans.com
-! 0.0.0.0 pahe-note.md
 ! 0.0.0.0 pahe.ink
 ! 0.0.0.0 pahenime.com
 ! 0.0.0.0 palanq.win
@@ -2506,8 +2504,9 @@
 ! 0.0.0.0 retrosystemsrevival.blogspot.com
 ! 0.0.0.0 revoldiv.com
 ! 0.0.0.0 ridomovie.to
-! 0.0.0.0 rivestream.ru
-! 0.0.0.0 rivestream.win
+! 0.0.0.0 rivestream.cz
+! 0.0.0.0 rivestream.pro
+! 0.0.0.0 rivestream.st
 ! 0.0.0.0 rivo.st
 ! 0.0.0.0 rlsbb.cc
 ! 0.0.0.0 rlsbb.in
@@ -2627,7 +2626,7 @@
 ! 0.0.0.0 streamfree.top
 ! 0.0.0.0 streamic.st
 ! 0.0.0.0 streaming.cineverse.com
-! 0.0.0.0 streamingunity.fun
+! 0.0.0.0 streamingunity.day
 ! 0.0.0.0 streamsports99.is
 ! 0.0.0.0 streamsports99.website
 ! 0.0.0.0 streamtim.com
@@ -2763,7 +2762,7 @@
 ! 0.0.0.0 ubu.com
 ! 0.0.0.0 ultra.cc
 ! 0.0.0.0 ultrasonic.gitlab.io
-! 0.0.0.0 ume.to
+! 0.0.0.0 uncannyxmen.net
 ! 0.0.0.0 unogs.com
 ! 0.0.0.0 unpackerr.zip
 ! 0.0.0.0 up-next.dontwanttos.top
@@ -2787,7 +2786,6 @@
 ! 0.0.0.0 vgmdb.net
 ! 0.0.0.0 vgmrips.net
 ! 0.0.0.0 vgmusic.com
-! 0.0.0.0 vidbox.vc
 ! 0.0.0.0 vidbox.website
 ! 0.0.0.0 vidbox.wtf
 ! 0.0.0.0 videa.hu
@@ -2953,7 +2951,7 @@
 ! 0.0.0.0 www.eshita.jp
 ! 0.0.0.0 www.eyedex.org
 ! 0.0.0.0 www.fawanews.sc
-! 0.0.0.0 www.fctv33go.hair
+! 0.0.0.0 www.fctv33go.beauty
 ! 0.0.0.0 www.fender.com
 ! 0.0.0.0 www.fileeagle.com
 ! 0.0.0.0 www.filepuma.com
