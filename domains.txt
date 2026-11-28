@@ -1,5 +1,5 @@
 # FMHY Binge Blocker — plain domain list
-# 1588 domains | updated 2026-11-27T11:53:03Z
+# 1588 domains | updated 2026-11-28T11:28:15Z
 # https://github.com/yashashav-dk/fmhy-blocklist
 #
 0115765.com
@@ -81,6 +81,7 @@ anidap.lol
 anidl.org
 anidream.to
 anify.to
+anigato.lol
 aniguessr.com
 anihosts.xyz
 anihq.cc
@@ -238,6 +239,7 @@ calendar.html
 candlestream.xyz
 canibinge.com
 cartooncartoons.thatsoretro.com
+catflix.mov
 cc.edatribe.com
 cd.textfiles
 channelsurfer.tv
@@ -254,7 +256,6 @@ cinecat.eu
 cinefork.net
 cinefy.cc
 cinehd.vc
-cinejoy.pk
 cinelite.xyz
 cinelove.live
 cinema.army
@@ -264,7 +265,6 @@ cinemaos.live
 cinemaos.me
 cinemaos.tech
 cinemata.org
-cinemove.cc
 cineruv.website
 cineshine.org
 cinetaro.to
@@ -272,7 +272,6 @@ cinetimes.org
 cinetrii.com
 cinevid.link
 cinevid.sbs
-cinex.lol
 circle.ms
 cli.club
 clients.md
@@ -336,7 +335,6 @@ digitalfilmarchive.net
 digitalworldarchive.wordpress.com
 diostream.cc
 directory.html
-dlhd.st
 dmtalkies.com
 docs.cal.syoboi.jp
 docs.squidify.org
@@ -351,6 +349,7 @@ dramacountdown.com
 dramaday.me
 dramafren.org
 dramahood.mom
+dramahq.tv
 dramanice.boo
 driftly.live
 dubolt.com
@@ -524,7 +523,6 @@ jukebox.today
 justanime.to
 justindex.cc
 justsubtitles.com
-k-drama.in
 kaa.lt
 kagane.moe
 kagane.org
@@ -832,6 +830,7 @@ playlists.at
 plaza.one
 plezy.app
 plugin.audio.subsonic
+plyx.cc
 pop.dnslc.net
 popcornflix.com
 popcornmovies.st
@@ -1447,6 +1446,7 @@ www.primeshows.org
 www.primewire.mov
 www.publicdomaintorrents.info
 www.quodb.com
+www.racz.to
 www.radioanime24.pl
 www.rapidseedbox.com
 www.raredoramas.com
